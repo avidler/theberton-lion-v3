@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Weldome to the Theberton Lion
+    title: Welcome to the Theberton Lion
     section_id: hero
     content: Come and have a drink :D
     image: images/hero.png

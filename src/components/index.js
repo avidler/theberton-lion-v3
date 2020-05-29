@@ -13,6 +13,7 @@ import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
+import QuoteCarousel from './QuoteCarousel';
 
 export {
     ActionLink,
@@ -29,7 +30,8 @@ export {
     SectionPricing,
     SectionReviews,
     SubscribeForm,
-    Layout
+    Layout,
+    QuoteCarousel
 };
 
 export default {
@@ -47,5 +49,6 @@ export default {
     SectionPricing,
     SectionReviews,
     SubscribeForm,
-    Layout
+    Layout,
+    QuoteCarousel
 };

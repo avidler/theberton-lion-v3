@@ -208,10 +208,10 @@ collections:
                     required: false
                     default: true
                     hint: Should the link open a new tab
-  - name: quote_carousel
+  - name: section_carousel
     label: Quotes Configuration
     files:
-      - name: quote_carousel
+      - name: carousel
         label: Quote Configuration
         file: src/data/quotes.yml
         fields:

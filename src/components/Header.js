@@ -4,6 +4,25 @@ import _ from 'lodash';
 import {Link, safePrefix, classNames} from '../utils';
 
 export default class Header extends React.Component {
+  componentDidMount() {
+   
+    window.addEventListener("scroll", this.resizeHeaderOnScroll);
+  }
+  resizeHeaderOnScroll() {
+    
+    const distanceY = window.pageYOffset || document.documentElement.scrollTop,
+      shrinkOn = 200,
+      headerEl = document.getElementById("site-logo-img");
+    console.log("distanceY", distanceY)
+    console.log("headerEl", headerEl)
+    if (distanceY > shrinkOn) {
+      headerEl.classList.remove("larger");
+      headerEl.classList.add("smaller");
+    } else if (distanceY < (shrinkOn -50)){
+      headerEl.classList.remove("smaller");
+      headerEl.classList.add("larger");
+    }
+  }
     render() {
         return (
             <header id="masthead" className="site-header outer">
@@ -13,7 +32,7 @@ export default class Header extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') && 
                     <p className="site-logo">
                       <Link to={safePrefix('/')}>
-                        <img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt="Logo" />
+                        <img className="larger" id="site-logo-img" src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt="Logo" />
                       </Link>
                     </p>
                     }

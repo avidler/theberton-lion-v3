@@ -17,6 +17,7 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
+                    
                 </Helmet>
                 <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
                   <Header {...this.props} />
@@ -25,6 +26,7 @@ export default class Body extends React.Component {
                   </main>
                   <Footer {...this.props} />
                 </div>
+                
             </React.Fragment>
         );
     }

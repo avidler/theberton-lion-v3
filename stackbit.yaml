@@ -152,10 +152,10 @@ models:
         description: A list of links displayed in the footer
         items:
           type: action
- - name: section_carousel
+ - name: quote_carousel
     label: Quotes Configuration
     files:
-      - name: carousel
+      - name: quote_carousel
         label: Quote Configuration
         file: src/data/quotes.yml
         fields:

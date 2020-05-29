@@ -1,6 +1,6 @@
 {
   "title": "Theberton Lion",
-  "palette": "blue",
+  "palette": null,
   "header": {
     "title": "Azimuth",
     "logo_img": "/images/lion-logo-footer.png",
@@ -25,7 +25,7 @@
       {
         "label": "Events",
         "url": "/signup",
-        "primary": true
+        "primary": false
       },
       {
         "new_window": false,

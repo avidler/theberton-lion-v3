@@ -152,34 +152,6 @@ models:
         description: A list of links displayed in the footer
         items:
           type: action
- - name: quote_carousel
-    label: Quotes Configuration
-    files:
-      - name: quote_carousel
-        label: Quote Configuration
-        file: src/data/quotes.yml
-        fields:
-          - widget: list
-            name: items
-            label: Individual Quotes
-            required: false
-            hint: A list of impactful quotes to be displayed in a sliding carousel
-            fields:
-              - widget: string
-                name: text
-                label: Quote Text
-                required: true
-                hint: Text of the quote
-              - widget: string
-                name: author
-                label: Author Name
-                required: true
-                hint: Author of the quote
-              - widget: image
-                name: image
-                label: Background Image
-                required: true
-                hint: background image  landing:
     type: page
     label: Landing Page
     layout: landing
@@ -207,7 +179,7 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
-            - section_carousel
+            - quote_carousel
   blog:
     type: page
     label: Blog
@@ -548,6 +520,36 @@ models:
           - gray
           - white
         default: gray
+  quote_carousel:
+    type: object
+    label: Quotes Configuration
+    files:
+      - name: quote_carousel
+        label: Quote Configuration
+        file: src/data/quotes.yml
+        fields:
+          - widget: list
+            name: items
+            label: Individual Quotes
+            required: false
+            hint: A list of impactful quotes to be displayed in a sliding carousel
+            fields:
+              - widget: string
+                name: text
+                label: Quote Text
+                required: true
+                hint: Text of the quote
+              - widget: string
+                name: author
+                label: Author Name
+                required: true
+                hint: Author of the quote
+              - widget: image
+                name: image
+                label: Background Image
+                required: true
+                hint: background image  landing:
+ 
   action:
     type: object
     label: Action

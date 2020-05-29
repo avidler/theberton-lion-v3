@@ -207,6 +207,7 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
+            - quote_carousel
   blog:
     type: page
     label: Blog

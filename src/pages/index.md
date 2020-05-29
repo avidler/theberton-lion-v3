@@ -4,7 +4,7 @@ sections:
   - type: quote_carousel
     background_style: style1
     component: QuoteCarousel
-    section_id: quote_carousel
+    section_id: quotes
   - type: section_hero
     title: Welcome to the Theberton Lion
     section_id: hero

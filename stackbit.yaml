@@ -37,6 +37,26 @@ pageData:
       - '[1]'
       - '[1].fields.palette'
 models:
+  - name: quotes
+    label: Quotes Configuration
+    file: src/data/quotes.yml
+    fields:
+      - widget: list
+        name: items
+        label: Individual Quotes
+        required: false
+        hint: A list of impactful quotes to be displayed in a sliding carousel
+        fields:
+          - widget: string
+            name: text
+            label: Quote Text
+            required: true
+            hint: Text of the quote
+          - widget: string
+            name: author
+            label: Author Name
+            required: true
+            hint: Author of the quote
   config:
     type: config
     label: Site Configuration
@@ -152,26 +172,7 @@ models:
         description: A list of links displayed in the footer
         items:
           type: action
-    - name: quotes
-    label: Quotes Configuration
-    file: src/data/quotes.yml
-    fields:
-      - widget: list
-        name: items
-        label: Individual Quotes
-        required: false
-        hint: A list of impactful quotes to be displayed in a sliding carousel
-        fields:
-          - widget: string
-            name: text
-            label: Quote Text
-            required: true
-            hint: Text of the quote
-          - widget: string
-            name: author
-            label: Author Name
-            required: true
-            hint: Author of the quote
+
   landing:
     type: page
     label: Landing Page

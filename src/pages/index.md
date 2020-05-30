@@ -1,8 +1,7 @@
 ---
 title: Home
 sections:
-  - type: quote_carousel
-    background_style: style1
+  - background_style: style1
     component: QuoteCarousel
     section_id: quote_carousel
   - type: section_hero

@@ -201,6 +201,7 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
+            - section_services
   blog:
     type: page
     label: Blog

@@ -7,6 +7,7 @@ import ActionLink from './ActionLink';
 export default class SectionServices extends React.Component {
     render() {
         let section = _.get(this.props, 'section');
+        console.log("section: ",section)
         return (
             <section id={_.get(section, 'section_id')} className="block hero-block bg-accent outer">
               <div className="inner">

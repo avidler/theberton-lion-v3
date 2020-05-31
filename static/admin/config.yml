@@ -511,15 +511,18 @@ collections:
             widget: list
             label: Services Section
             fields:
-              - label: Servce Name
-                name: service_name
-                widget: string
-              - label: Service Page Link
-                name: service_page_link
-                widget: string
-              - label: Service Image
-                name: service_image
-                widget: image 
+              - label: Service Section
+                name: service_section
+                widget: list
+                - label: Servce Name
+                  name: service_name
+                  widget: string
+                - label: Service Page Link
+                  name: service_page_link
+                  widget: string
+                - label: Service Image
+                  name: service_image
+                  widget: image 
 
           - name: section_hero
             widget: object

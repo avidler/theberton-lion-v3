@@ -9,5 +9,8 @@ sections:
     service_name: Drinks
     service_page_link: /drinks
     service_image: /images/drinks-360x270.jpg
+  - type: section_hero
+    title: Hello
+    content: Welcome to the pub
 template: landing
 ---

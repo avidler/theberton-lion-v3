@@ -507,6 +507,20 @@ collections:
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: section_features
+          - name: section_services
+            widget: list
+            label: Services Section
+            fields:
+              - label: Servce Name
+                name: service_name
+                widget: string
+              - label: Service Page Link
+                name: service_page_link
+                widget: string
+              - label: Service Image
+                name: service_image
+                widget: image 
+
           - name: section_hero
             widget: object
             label: Hero Section

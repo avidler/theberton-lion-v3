@@ -2,7 +2,7 @@
   "title": "Theberton Lion",
   "palette": null,
   "header": {
-    "title": "Azimuth",
+    "title": "Theberton Lion",
     "logo_img": "/images/lion-logo-footer.png",
     "has_nav": true,
     "nav_links": [
@@ -12,19 +12,19 @@
       },
       {
         "label": "Drinks",
-        "url": "/features"
+        "url": "/drinks"
       },
       {
         "label": "Food",
-        "url": "/pricing"
+        "url": "/food"
       },
       {
         "label": "Accommodation",
-        "url": "/style-guide"
+        "url": "/accommodation"
       },
       {
         "label": "Events",
-        "url": "/signup",
+        "url": "/events",
         "primary": false
       },
       {

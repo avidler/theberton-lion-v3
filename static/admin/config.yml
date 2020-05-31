@@ -4,7 +4,7 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - name: quotes
+  - name: quote-carousel
     label: Quotes Configuration
     files:
       - name: quotes

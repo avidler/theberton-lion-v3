@@ -31,10 +31,13 @@ export default class QuoteCarousel extends React.Component {
                             <div className="quote">
 
                                 <img src={`${quote.image}`} alt="image"/>
-                                <div className="quoteText">
-                            
-                                <h3>{`"${quote.text}"`}</h3>
-                                <h5>{`- ${quote.author}`}</h5>
+                                <div >
+                                <span id={`quote-text-${quote_idx}`} className="quote-text">
+                                    <span className='quote-style'>{`${quote.text}`}</span>
+                                </span>
+                                <span className="row-main-text">
+                                    <span className="row-main-style">{`${quote.author}`}</span>
+                                </span>
                                 </div>
                             </div>
                         </div>

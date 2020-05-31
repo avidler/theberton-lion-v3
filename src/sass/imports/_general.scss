@@ -19,7 +19,6 @@ body {
 }
 
 a {
-  border-bottom: 1px solid currentColor;
   color: _palette(primary);
   text-decoration: none;
   -webkit-transition: border-color .15s ease-in-out, color .15s ease-in-out;
@@ -421,13 +420,104 @@ img {
   position: relative;
   text-align: center;
 }
-
-.quoteText {
-  position:absolute;
-  left:0;
-  top:0;
-  right:0;
-  bottom:0;
-  text-align:center
+.quote-style {
+  margin: auto; padding: 7px 0px; border: 1px solid rgb(255, 255, 255); border-image: none; text-align: center; color: rgb(255, 255, 255); text-transform: uppercase; font-size: 3vw; display: block; background-color: rgb(204, 91, 68);
 }
+ 
+.row-main-style {
+  margin: auto; padding: 7px 0px; border: 1px solid rgb(255, 255, 255); border-image: none; text-align: center; color: rgb(255, 255, 255); text-transform: uppercase; font-size: 4vw; display: block; background-color: rgb(204, 91, 68);
+
+}
+
+.quote-text {
+  margin: auto;
+	padding: 10px 9px;
+	left: 0px;
+	top: 16%;
+	width: 42%;
+	text-align: center;
+	right: 0px;
+	color: rgb(255, 255, 255);
+	text-transform: uppercase;
+	font-size: 44px;
+	display: block;
+	position: absolute;
+  background-color: rgba(204, 91, 68, 0.53);
+
+}
+
+.row-main-text {
+  margin: auto; 
+  padding: 10px 9px; 
+  left: 0px; top: 33%; 
+  width: 64%; 
+  text-align: center; 
+  right: 0px; 
+  color: rgb(255, 255, 255); 
+  text-transform: uppercase; 
+  font-size: 62px; 
+  display: block; 
+  position: absolute; 
+  background-color: rgba(204, 91, 68, 0.53);
+}
+
+
+.slick-active {
+
+   .quote-text {
+  animation: fadein 1s;
+  -moz-animation: fadein 1s; /* Firefox */
+  -webkit-animation: fadein 1s; /* Safari and Chrome */
+  -o-animation: fadein 1s; /* Opera */
+
+}
+
+.row-main-text {
+
+    animation: fadein 1.5s;
+    -moz-animation: fadein 1.5s; /* Firefox */
+    -webkit-animation: fadein 1.5s; /* Safari and Chrome */
+    -o-animation: fadein 1.5s; /* Opera */
+}
+
+}
+
+
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  50% {
+      opacity:0;
+  }
+  100% {
+      opacity:1;
+  }
+}
+@-moz-keyframes fadein { /* Firefox */
+  50% {
+      opacity:0;
+  }
+  100% {
+      opacity:1;
+  }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+  50% {
+      opacity:0;
+  }
+  100% {
+      opacity:1;
+  }
+}
+@-o-keyframes fadein { /* Opera */
+  50% {
+      opacity:0;
+  }
+  100% {
+      opacity: 1;
+  }
+}
+
 

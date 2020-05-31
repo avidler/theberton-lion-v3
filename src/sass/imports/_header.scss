@@ -2,6 +2,11 @@
  * Site Header
  * ----------------------------------------------------------------------------
  */
+
+[aria-current] {
+border: 1px solid rgb(255, 255, 255);
+}
+
 .site-header {
   background: rgb(44, 39, 34);
   color: _palette(secondary);
@@ -70,22 +75,28 @@
     display: inline-block;
     font-size: 16px;
     line-height: 1.5;
-    margin: 0 0 0 30px;
+    margin: 0 0 0 10px;
 
     &.current-menu-item {
       color: _palette(meta);
+      border-color: rgb(255, 255, 255);
+      color: rgb(255, 255, 255);
     }
   }
 
   a:not(.button) {
-    border: 0;
-    color: inherit;
-    display: inline-block;
+    padding: 10px;
+    border-radius: 3px;
+    border-image: none;
+    color: rgb(229, 228, 228);
+    text-transform: uppercase;
+    font-size: 22px;
     text-decoration: none;
 
     &:hover,
     &:focus {
-      color: _palette(meta);
+      border-color: rgb(255, 255, 255);
+      color: rgb(255, 255, 255);
     }
   }
 
@@ -169,7 +180,7 @@
       margin: 0;
 
       &:not(.menu-button) {
-        border-bottom: 1px solid _palette(border);
+        border-bottom: 0px solid _palette(border);
       }
 
       &:not(.menu-button):first-child {

@@ -75,5 +75,9 @@ sections:
     title: Latest Posts
     section_id: recent-posts
     background: gray
+  - type: section_services
+    service_name: Drinks
+    service_page_link: /drinks
+    service_image: /images/drinks-360x270.jpg
 template: landing
 ---

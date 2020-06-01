@@ -6,9 +6,7 @@ sections:
     component: QuoteCarousel
     section_id: quotes
   - type: section_services
-    service_name: Drinks
-    service_page_link: /drinks
-    service_image: /images/drinks-360x270.jpg
+    section_id: service_section
     service_section:
       - service_name: Drinks
         service_page_link: drinks

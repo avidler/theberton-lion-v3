@@ -20,7 +20,7 @@ const settings = {
 export default class QuoteCarousel extends React.Component {
     render() {
     const quotes = _.get(this.props, 'pageContext.site.data.quotes.items')
-    console.log(this.props)
+    //console.log(this.props)
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div id="quote-carousel">

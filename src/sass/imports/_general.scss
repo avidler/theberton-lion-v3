@@ -416,6 +416,10 @@ img {
   display: table;
 }
 
+#quotes {
+  background-color: rgb(238, 238, 238);
+}
+
 .quote {
   position: relative;
   text-align: center;
@@ -521,3 +525,100 @@ img {
 }
 
 
+#service_section {
+  padding: 20px 0px 57px;
+  background-color: rgb(238, 238, 238);
+
+  .service_inner {
+    width: 98%;
+    margin: 0 auto;
+
+
+    .service_list {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+
+      .service_item {
+        width: 28%;
+
+        .overlay {
+          transition:0.2s linear; 
+          width: 100%; 
+          height: 100%; 
+          position: absolute; 
+          background-color: rgba(0, 0, 0, 0.45); 
+          -o-transition: all 0.2s linear; 
+          -moz-transition: all 0.2s linear; 
+          -webkit-transition: all 0.2s linear; 
+          -khtml-transition: all 0.2s linear;
+
+        }
+
+        
+
+       
+        .service_details {
+          width: 100%;
+          position: relative;
+
+          .service_image {
+            width: 100%;
+          }
+          h3{
+            margin: auto; 
+            left: 0px; 
+            top: 42%; 
+            text-align: center; 
+            right: 0px; 
+            color: rgb(255, 255, 255); 
+            text-transform: uppercase; 
+            font-size: 54px; 
+            display: block; 
+            position: absolute; 
+            text-shadow: 0px 0px 10px rgba(22,22,22,1);
+              .service_name {
+                padding: 0px 14px; 
+                border: 1px solid rgb(255, 255, 255); 
+                transition:0.2s linear; 
+                border-image: none; 
+                -o-transition: all 0.2s linear; 
+                -moz-transition: all 0.2s linear; 
+                -webkit-transition: all 0.2s linear; 
+                -khtml-transition: all 0.2s linear;
+              }
+
+           
+
+              
+            }
+          
+        }
+
+        
+      }
+      .service_item:hover
+      {
+         .overlay {
+        opacity: 0;
+      }
+        .service_details h3 .service_name{
+        border-color: transparent; 
+        padding: 110px 100px;
+      }
+    }
+    .service_item:last-child:hover
+    {
+      .service_details h3 .service_name {
+        border-color: transparent; 
+        padding: 110px 18px;
+      }
+    }
+    }
+  }
+}
+
+
+
+ 

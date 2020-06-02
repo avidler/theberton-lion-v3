@@ -543,7 +543,7 @@ collections:
           - label: Events List
             name: section_events
             widget: list
-            field:
+            fields:
               - label: Event
                 name: event
                 widget: object

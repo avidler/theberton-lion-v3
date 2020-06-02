@@ -548,20 +548,20 @@ collections:
                 name: event
                 widget: object
                 hint: a new event
-                  fields:
-                    - label: Event Title
-                      name: event_title
-                      widget: string
-                    - label: Event Date
-                      name: event_date
-                      widget: datetime
-                      dateFormat: DD.MM.YYYY # e.g. 24.12.2021
-                      timeFormat: HH:mm # e.g. 21:07
-                      format: LLL
-                      pickerUtc: true
-                    - label: Event Image
-                      name: event_image
-                      widget: image
+                fields:
+                  - label: Event Title
+                    name: event_title
+                    widget: string
+                  - label: Event Date
+                    name: event_date
+                    widget: datetime
+                    dateFormat: DD.MM.YYYY # e.g. 24.12.2021
+                    timeFormat: HH:mm # e.g. 21:07
+                    format: LLL
+                    pickerUtc: true
+                  - label: Event Image
+                    name: event_image
+                    widget: image
           - name: section_hero
             widget: object
             label: Hero Section

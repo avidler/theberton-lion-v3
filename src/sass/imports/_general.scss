@@ -4,7 +4,7 @@
  */
 html {
   font-family: _font(primary);
-  font-size: 112.5%;
+  font-size: 16px;
   height: 100%;
   min-height: 100%;
 }
@@ -328,6 +328,11 @@ a.button.large {
   width: 30px;
 }
 
+.container {
+  width: 95%;
+  margin: 0px auto;
+}
+
 /* Contact form */
 .contact-form {
   .form-row {
@@ -524,6 +529,7 @@ img {
   }
 }
 
+/*** Service Section ***/
 
 #service_section {
   padding: 20px 0px 57px;
@@ -606,6 +612,12 @@ img {
         .service_details h3 .service_name{
         border-color: transparent; 
         padding: 110px 100px;
+        transition:0.2s linear; 
+        border-image: none; 
+        -o-transition: all 0.2s linear; 
+        -moz-transition: all 0.2s linear; 
+        -webkit-transition: all 0.2s linear; 
+        -khtml-transition: all 0.2s linear;
       }
     }
     .service_item:last-child:hover
@@ -613,12 +625,66 @@ img {
       .service_details h3 .service_name {
         border-color: transparent; 
         padding: 110px 18px;
+        transition:0.2s linear; 
+        border-image: none; 
+        -o-transition: all 0.2s linear; 
+        -moz-transition: all 0.2s linear; 
+        -webkit-transition: all 0.2s linear; 
+        -khtml-transition: all 0.2s linear;
       }
     }
     }
   }
 }
 
+/* Welcome Section */
 
+#welcome {
+
+  padding: 20px;
+
+  h2.page-title {
+    margin: 25px auto; width: 100%; text-align: center; color: rgb(204, 91, 68); text-transform: uppercase; line-height: 38px; font-size: 45px; font-weight: 600; display: block; position: relative;
+  }
+  .page-title::before {
+    left: 0px; 
+    top: 50%; 
+    width: calc(37% - 130px); 
+    height: 1px; 
+    display: block; 
+    position: absolute; 
+    content: ""; 
+    transform: translateY(-50%); 
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%); 
+    -moz-transform: translateY(-50%);
+    background: linear-gradient(to left, rgb(204, 91, 68) 0%, rgba(41, 137, 216, 0) 90%, rgba(255, 255, 255, 0) 100%);
+  
+  }
+
+  .page-title::after {
+    left: 0px; 
+    top: 50%; 
+    width: calc(37% - 130px); 
+    height: 1px; 
+    display: block; 
+    position: absolute; 
+    content: ""; 
+    transform: translateY(-50%); 
+    -webkit-transform: translateY(-50%); 
+    -o-transform: translateY(-50%); 
+    -moz-transform: translateY(-50%);
+    background: linear-gradient(to right, rgb(204, 91, 68) 0%, rgba(41, 137, 216, 0) 90%, rgba(255, 255, 255, 0) 100%);
+    left: auto; 
+    right: 0px;
+  }
+
+  p {
+    font-size: 1.25rem;
+    line-height: 1.4em;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+  }
+}
 
  

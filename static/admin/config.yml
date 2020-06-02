@@ -524,7 +524,22 @@ collections:
                   - label: Service Image
                     name: service_image
                     widget: image 
-
+          - name: section_welcome
+            widget: object
+            label: Welcome Section
+            fields:
+              - label: Welcome Title
+                name: title
+                widget: string
+                hint: The title of the section
+              - label: Content Paragraph 1
+                name: content1
+                widget: string
+                hint: The first paragraph
+              - label: Content Paragraph 2
+                name: content2
+                widget: string
+                hint: The second paragraph
           - name: section_hero
             widget: object
             label: Hero Section

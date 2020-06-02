@@ -1,9 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {safePrefix, markdownify} from '../utils';
-import ActionLink from './ActionLink';
-
 export default class SectionServices extends React.Component {
     render() {
         let section = _.get(this.props, 'section');

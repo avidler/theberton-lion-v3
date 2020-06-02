@@ -13,8 +13,7 @@ export default class Header extends React.Component {
     const distanceY = window.pageYOffset || document.documentElement.scrollTop,
       shrinkOn = 100,
       headerEl = document.getElementById("site-logo-img");
-    console.log("distanceY", distanceY)
-    console.log("headerEl", headerEl)
+
     if (distanceY > shrinkOn) {
       headerEl.classList.remove("larger");
       headerEl.classList.add("smaller");

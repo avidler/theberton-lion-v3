@@ -16,6 +16,7 @@ import Layout from './Layout';
 import QuoteCarousel from './QuoteCarousel';
 import SectionServices from './SectionServices';
 import SectionWelcome from './SectionWelcome';
+import SectionEvents from './SectionEvents';
 
 export {
     ActionLink,
@@ -35,7 +36,8 @@ export {
     Layout,
     QuoteCarousel,
     SectionServices,
-    SectionWelcome
+    SectionWelcome,
+    SectionEvents
 };
 
 export default {
@@ -56,5 +58,6 @@ export default {
     Layout,
     QuoteCarousel,
     SectionServices,
-    SectionWelcome
+    SectionWelcome,
+    SectionEvents
 };

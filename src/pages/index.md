@@ -44,8 +44,6 @@ sections:
         event_title: Rock and Roll Bingo
       - event_date: June 12, 2020 7:40 PM
         event_title: Beer Tasting
-  - type: section_hero
-    title: Hello
-    content: Welcome to the pub
+
 template: landing
 ---

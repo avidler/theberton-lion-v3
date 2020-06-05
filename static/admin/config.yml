@@ -563,6 +563,16 @@ collections:
                     name: event_image
                     widget: image
                     required: false
+          - name: newsletter_signup
+            label: Newsletter Signup
+            widget: object
+            fields:
+              - widget: string
+                name: newsletter_signup_title
+                label: Newsletter Signup Title
+              - widget: text
+                name: newsletter_blurb
+                label: Newsletter Signup Blurb          
           - name: section_hero
             widget: object
             label: Hero Section

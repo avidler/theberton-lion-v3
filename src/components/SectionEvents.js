@@ -19,6 +19,9 @@ export default class SectionEvents extends React.Component {
                     {_.map(upcoming_events.slice(0,4), (curr_event, curr_event_idx) => (
                        
                         <div className="event_item" key={curr_event_idx}>
+                            <span className="overlay"></span>
+                            <img src={`${curr_event.event_image}`} className="service_image" alt="image"/>
+                           
                             <h3><span>{curr_event.event_title}</span></h3>
                             <p className="event_date">Date: {moment(curr_event.event_date).format("Do MMMM YYYY")}</p>
                             <p className="event_time">Time: {moment(curr_event.event_date).format("LT")}</p>

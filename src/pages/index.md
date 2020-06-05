@@ -34,16 +34,17 @@ sections:
   - type: section_events
     section_id: event_section
     event:
-      - event_date: June 5, 2020 8:24 PM
-        event_title: Fish and Chip Friday
       - event_date: June 6, 2020 8:39 PM
         event_title: Vinyl Night
-      - event_date: June 7, 2020 8:40 PM
-        event_title: Sunday Roast
+        event_image: /images/vinyl-night-300x300.jpg
       - event_date: June 9, 2020 7:40 PM
         event_title: Rock and Roll Bingo
+        event_image: /images/rock-and-roll-bingo-300x300.jpg
       - event_date: June 12, 2020 7:40 PM
-        event_title: Beer Tasting
-
+        event_title: Mauldon Brewery Beer Tasting
+        event_image: /images/beer-club-logo1-300x300.jpg
+      - event_date: June 20, 2020 9:30 PM
+        event_title: BARRICADE – LIVE@ THE LION
+        event_image: /images/barricade-300x300.jpg
 template: landing
 ---

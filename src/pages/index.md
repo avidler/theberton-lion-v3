@@ -46,5 +46,9 @@ sections:
       - event_date: June 20, 2020 9:30 PM
         event_title: BARRICADE – LIVE@ THE LION
         event_image: /images/barricade-300x300.jpg
+  - type: section_newsletter_signup
+    section_id: newsletter_signup_section
+    newsletter_signup_title: newsletter
+    newsletter_blurb: Subscribe to our newsletter and recieve special offers and discounts
 template: landing
 ---

@@ -252,11 +252,7 @@ a.button {
   border-radius: 3px;
   border: 2px solid _palette(accent);
   box-sizing: border-box;
-  color: #fff;
   display: inline-block;
-  font-size: 16px;
-  height: 2.75em;
-  line-height: 1.5;
   padding: 0.5em 30px;
   -webkit-transition: opacity .15s ease-in-out;
   transition: opacity .15s ease-in-out;
@@ -747,5 +743,79 @@ img {
     }
 
 
+  }
+}
+
+#newsletter_signup_section {
+  position: relative;
+  padding: 30px 0px;
+  background-color: rgb(204, 91, 68);
+  overflow: auto;
+  
+
+  .container {
+    display: flex;
+    align-items: center;
+
+    h4 {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    padding-right: 20px;
+    font-size: 31px;
+    font-weight: 700;
+    float: left;
+    }
+
+    .subtext {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    float: left;
+    }
+
+    #msg {
+    margin: 0px !important;
+    top: 7px;
+    text-align: right;
+    right: 150px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    position: absolute;
+    }
+
+    form.subform{
+      margin-left:auto;
+
+      input[type='text'] {
+        padding: 11px 6px;
+        border-radius: 5px;
+        border: currentColor;
+        border-image: none;
+        width: 250px;
+        color: rgb(255, 255, 255);
+        font-size: 16px;
+        background-color: rgb(163, 73, 54);
+        margin-right: 2px;
+    }
+
+    input[type='submit'] {
+      padding: 11px;
+      -webkit-appearance: push-button;
+      user-select: none;
+      white-space: pre;
+      align-items: flex-start;
+      text-align: center;
+      cursor: default;
+      color: -internal-light-dark-color(buttontext, rgb(170, 170, 170));
+      background-color: -internal-light-dark-color(rgb(239, 239, 239), rgb(74, 74, 74));
+      box-sizing: border-box;
+      border-width: 2px;
+      border-style: solid;
+      border-color: -internal-light-dark-color(rgb(118, 118, 118), rgb(195, 195, 195));
+      border-image: initial;
+      box-shadow: none;
+  }
+    }
   }
 }

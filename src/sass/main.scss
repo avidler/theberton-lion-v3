@@ -13,7 +13,7 @@ $palette: (
   meta:                lighten(#4c5267, 20%),
   border:              lighten(#4c5267, 58%),
   bg:                #f7f9fb,
-  accent:            #0072ff,
+  accent:            -internal-light-dark-color(rgb(239, 239, 239), rgb(74, 74, 74)),
   accent-alt:        #00c6ff,
   accent-purple:     #b5267b,
   accent-purple-alt: #632695,

@@ -563,7 +563,7 @@ collections:
                     name: event_image
                     widget: image
                     required: false
-          - name: newsletter_signup
+          - name: section_newsletter_signup
             label: Newsletter Signup
             widget: object
             fields:

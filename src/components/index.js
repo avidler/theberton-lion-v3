@@ -17,6 +17,7 @@ import QuoteCarousel from './QuoteCarousel';
 import SectionServices from './SectionServices';
 import SectionWelcome from './SectionWelcome';
 import SectionEvents from './SectionEvents';
+import SectionNewsletterSignup from './SectionNewsletterSignup';
 
 export {
     ActionLink,
@@ -37,7 +38,8 @@ export {
     QuoteCarousel,
     SectionServices,
     SectionWelcome,
-    SectionEvents
+    SectionEvents,
+    SectionNewsletterSignup
 };
 
 export default {
@@ -59,5 +61,6 @@ export default {
     QuoteCarousel,
     SectionServices,
     SectionWelcome,
-    SectionEvents
+    SectionEvents,
+    SectionNewsletterSignup
 };

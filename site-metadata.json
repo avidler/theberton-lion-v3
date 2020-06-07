@@ -34,6 +34,16 @@
       }
     ]
   },
+  "opening hours": {
+    "Monday": [
+      {
+        "afternoon_open": "12:00pm",
+        "afternoon_close": "3:00pm",
+        "evening_open": "5:00pm",
+        "evening_close": "11:00pm"
+      }
+    ]
+  },
   "footer": {
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
@@ -42,7 +52,7 @@
     "social_links": [
       {
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/thebertonlion",
         "new_window": true
       },
       {

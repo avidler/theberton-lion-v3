@@ -101,7 +101,27 @@ collections:
                     required: false
                     default: true
                     hint: Should the link open a new tab
-          - widget: object
+            - widget: object
+              name: opening_hours
+              label: Opening Hours
+              required: false
+              fields:
+                - widget: object 
+                  name: monday
+                  label: Monday
+                    - widget: string
+                      name: afternoon_open
+                      label: Afternoon Open 
+                    - widget: string
+                      name: afternoon_close
+                      label: Afternoon Close                    
+                    - widget: string
+                      name: evening_open
+                      label: Evening Open                    
+                    - widget: string
+                      name: evening_close
+                      label: Evening Close
+            - widget: object
             name: footer
             label: Footer Configuration
             required: false

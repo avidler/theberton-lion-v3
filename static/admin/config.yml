@@ -111,17 +111,113 @@ collections:
                 label: Monday
                 fields:
                   - widget: string
-                    name: afternoon_open
-                    label: Afternoon Open 
+                    name: monday_afternoon_open
+                    label: Monday Afternoon Open 
                   - widget: string
-                    name: afternoon_close
-                    label: Afternoon Close                    
+                    name: monday_afternoon_close
+                    label: Monday Afternoon Close                    
                   - widget: string
-                    name: evening_open
-                    label: Evening Open                    
+                    name: monday_evening_open
+                    label: Monday Evening Open                    
                   - widget: string
-                    name: evening_close
-                    label: Evening Close
+                    name: monday_evening_close
+                    label: Monday Evening Close
+              - widget: object 
+                name: tuesday
+                label: Tuesday
+                fields:
+                  - widget: string
+                    name: tuesday_afternoon_open
+                    label: Tuesday Afternoon Open 
+                  - widget: string
+                    name: tuesday_afternoon_close
+                    label: Tueday Afternoon Close                    
+                  - widget: string
+                    name: tuesday_evening_open
+                    label: Tuesday Evening Open                    
+                  - widget: string
+                    name: tuesday_evening_close
+                    label: Tuesday Evening Close
+              - widget: object 
+                name: wednesday
+                label: Wednesday
+                fields:
+                  - widget: string
+                    name: wednesday_afternoon_open
+                    label: Wednesday Afternoon Open 
+                  - widget: string
+                    name: wednesday_afternoon_close
+                    label: Wednesday Afternoon Close                    
+                  - widget: string
+                    name: wednesday_evening_open
+                    label: Wednesday Evening Open                    
+                  - widget: string
+                    name: wednesday_evening_close
+                    label: Wednesday Evening Close
+              - widget: object 
+                name: thursday
+                label: Thursday
+                fields:
+                  - widget: string
+                    name: thursday_afternoon_open
+                    label: Thursday Afternoon Open 
+                  - widget: string
+                    name: thursday_afternoon_close
+                    label: Thursday Afternoon Close                    
+                  - widget: string
+                    name: thursday_evening_open
+                    label: Thursday Evening Open                    
+                  - widget: string
+                    name: thursday_evening_close
+                    label: Thursday Evening Close
+              - widget: object 
+                name: friday
+                label: Friday
+                fields:
+                  - widget: string
+                    name: friday_afternoon_open
+                    label: Friday Afternoon Open 
+                  - widget: string
+                    name: friday_afternoon_close
+                    label: Friday Afternoon Close                    
+                  - widget: string
+                    name: friday_evening_open
+                    label: Friday Evening Open                    
+                  - widget: string
+                    name: friday_evening_close
+                    label: Friday Evening Close
+              - widget: object 
+                name: saturday
+                label: Saturday
+                fields:
+                  - widget: string
+                    name: saturday_afternoon_open
+                    label: Saturday Afternoon Open 
+                  - widget: string
+                    name: saturday_afternoon_close
+                    label: Saturday Afternoon Close                    
+                  - widget: string
+                    name: saturday_evening_open
+                    label: Saturday Evening Open                    
+                  - widget: string
+                    name: saturday_evening_close
+                    label: Saturday Evening Close
+              - widget: object 
+                name: sunday
+                label: Sunday
+                fields:
+                  - widget: string
+                    name: sunday_afternoon_open
+                    label: Sunday Afternoon Open 
+                  - widget: string
+                    name: sunday_afternoon_close
+                    label: Sunday Afternoon Close                    
+                  - widget: string
+                    name: sunday_evening_open
+                    label: Sunday Evening Open                    
+                  - widget: string
+                    name: sunday_evening_close
+                    label: Sunday Evening Close
           - widget: object
             name: footer
             label: Footer Configuration

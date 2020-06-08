@@ -5,7 +5,7 @@ const moment = require('moment')
 
 export default class SectionEvents extends React.Component {
     render() {
-    let section = _.get(this.props, 'section');
+    let section = _.get(this.props, 'pageContext.site.data.events.items');
     console.log("section: ",section)
     const upcoming_events = section.event.filter(a => new Date(a.event_date) - new Date() > 0);
     console.log("upcoming events", upcoming_events)

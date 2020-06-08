@@ -4,35 +4,6 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - label: Quotes Configuration
-    name: quote_carousel
-    widget: object
-    files:
-      - label: Quote Configuration
-        name: quotes
-        file: src/data/quotes.yml
-        fields:
-          - label: Individual Quotes
-            widget: list
-            name: items
-            required: false
-            hint: A list of impactful quotes to be displayed in a sliding carousel
-            fields:
-              - label: Quote Text
-                widget: string
-                name: text
-                required: true
-                hint: Text of the quote
-              - label: Author Name
-                widget: string
-                name: author                
-                required: true
-                hint: Author of the quote
-              - label: Background Image
-                widget: image
-                name: image                
-                required: true
-                hint: background image
   - label: Site Configuration
     name: config
     files:
@@ -625,6 +596,35 @@ collections:
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: section_features
+          - label: Quotes Configuration
+            name: quote_carousel
+            widget: object
+            files:
+              - label: Quote Configuration
+                name: quotes
+                file: src/data/quotes.yml
+                fields:
+                  - label: Individual Quotes
+                    widget: list
+                    name: items
+                    required: false
+                    hint: A list of impactful quotes to be displayed in a sliding carousel
+                    fields:
+                      - label: Quote Text
+                        widget: string
+                        name: text
+                        required: true
+                        hint: Text of the quote
+                      - label: Author Name
+                        widget: string
+                        name: author                
+                        required: true
+                        hint: Author of the quote
+                      - label: Background Image
+                        widget: image
+                        name: image                
+                        required: true
+                        hint: background image
           - name: section_services
             widget: list
             label: Services Section

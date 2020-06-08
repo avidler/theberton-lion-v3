@@ -14,6 +14,7 @@ import SectionReviews from './SectionReviews';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
 import QuoteCarousel from './QuoteCarousel';
+import SectionQuotes from './SectionQuotes';
 import SectionServices from './SectionServices';
 import SectionWelcome from './SectionWelcome';
 import SectionEvents from './SectionEvents';
@@ -36,6 +37,7 @@ export {
     SubscribeForm,
     Layout,
     QuoteCarousel,
+    SectionQuotes,
     SectionServices,
     SectionWelcome,
     SectionEvents,
@@ -59,6 +61,7 @@ export default {
     SubscribeForm,
     Layout,
     QuoteCarousel,
+    SectionQuotes,
     SectionServices,
     SectionWelcome,
     SectionEvents,

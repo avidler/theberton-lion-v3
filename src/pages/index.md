@@ -2,10 +2,8 @@
 title: Home
 sections:
   - type: section_quotes
-    background_style: style1
-    component: QuoteCarousel
-    section_id: quotes
-    quote_section:
+    section_id: quote_section
+    quote:
       - text: Look at our lovely beer garden!
         author: Bookings / Reservations - 01728 830185
         image: /images/1-1600x725.jpg

@@ -5,7 +5,7 @@ media_folder: static/images
 public_folder: /images
 collections:
   - label: Quotes Configuration
-    name: quote-carousel
+    name: quote_carousel
     widget: object
     files:
       - label: Quote Configuration

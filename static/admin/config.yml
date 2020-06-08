@@ -597,7 +597,7 @@ collections:
                   reference
                 default: section_features
           - label: Quote Configuration
-            name: quotes
+            name: section_quotes
             file: src/data/quotes.yml
             fields:
               - label: Individual Quotes

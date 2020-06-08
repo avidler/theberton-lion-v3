@@ -37,26 +37,6 @@ pageData:
       - '[1]'
       - '[1].fields.palette'
 models:
-  - name: quotes
-    label: Quotes Configuration
-    file: src/data/quotes.yml
-    fields:
-      - widget: list
-        name: items
-        label: Individual Quotes
-        required: false
-        hint: A list of impactful quotes to be displayed in a sliding carousel
-        fields:
-          - widget: string
-            name: text
-            label: Quote Text
-            required: true
-            hint: Text of the quote
-          - widget: string
-            name: author
-            label: Author Name
-            required: true
-            hint: Author of the quote
   config:
     type: config
     label: Site Configuration
@@ -202,6 +182,7 @@ models:
             - section_reviews
             - section_contact
             - section_services
+            - section_quotes
   blog:
     type: page
     label: Blog

@@ -596,13 +596,13 @@ collections:
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: section_features
-          - label: Quote Configuration
-            name: section_quotes
-            file: src/data/quotes.yml
+          - name: section_quotes
+            widget: list
+            label: Quotes Section
             fields:
               - label: Individual Quotes
                 widget: list
-                name: items
+                name: quote_section
                 required: false
                 hint: A list of impactful quotes to be displayed in a sliding carousel
                 fields:

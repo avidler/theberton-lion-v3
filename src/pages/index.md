@@ -45,7 +45,7 @@ sections:
   - type: section_events
     section_id: event_section
     event:
-      - event_date: June 6, 2020 8:39 PM
+      - event_date: June 17, 2020 7:39 PM
         event_title: Vinyl Night
         event_image: /images/vinyl-night-300x300.jpg
       - event_date: June 9, 2020 7:40 PM

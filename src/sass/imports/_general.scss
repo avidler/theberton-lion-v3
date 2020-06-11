@@ -73,7 +73,10 @@ h6 {
 }
 
 p {
-  margin: 0 0 1.66667em;
+  margin: 0px;
+  padding: 0px;
+  border: 0px currentColor;
+  border-image: none;
 }
 
 address {

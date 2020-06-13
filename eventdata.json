@@ -19,6 +19,10 @@
       "event_date": "June 20, 2020 9:30 PM",
       "event_title": "BARRICADE – LIVE@ THE LION",
       "event_image": "/images/barricade-300x300.jpg"
+    },
+    {
+      "event_date": "July 2, 2020 4:26 PM",
+      "event_title": "TestEvent2"
     }
   ],
   "event_date": "June 18, 2020 3:57 PM",

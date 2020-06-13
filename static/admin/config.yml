@@ -6,7 +6,7 @@ public_folder: /images
 collections:
   - label: Events Configuration
     name: events
-    widget: list
+    widget: object
     files:
       - name: events
         label: Events Configuration

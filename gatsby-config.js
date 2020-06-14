@@ -1,6 +1,7 @@
 module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
+    eventdata: require('./eventdata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,

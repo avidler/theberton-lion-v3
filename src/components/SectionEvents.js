@@ -5,10 +5,13 @@ const moment = require('moment')
 
 export default class SectionEvents extends React.Component {
     render() {
+    let newEventsList = _.get(this.props, 'pageContext.site.siteMetadata')
+    console.log("newEventsList: ", newEventsList)
     let section = _.get(this.props, 'section');
     console.log("section: ",section)
+                        
     const upcoming_events = section.event.filter(a => new Date(a.event_date) - new Date() > 0);
-    console.log("upcoming events", upcoming_events)
+
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="events_inner">

@@ -681,6 +681,7 @@ collections:
                 hint: The second paragraph
           - label: Events List
             name: section_events
+            file: src/data/quotes.yml
             widget: list
             fields:
               - label: Event

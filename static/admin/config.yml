@@ -10,7 +10,7 @@ collections:
     files:
       - name: events
         label: Events Configuration
-        file: eventdata.json
+        file: src/data/events.yml
         fields:
           - label: Events
             name: events

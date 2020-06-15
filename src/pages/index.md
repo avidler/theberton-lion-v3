@@ -45,6 +45,10 @@ sections:
   - type: section_events
     section_id: event_section
     component: SectionEvents
+    event:
+      - event_date: June 26, 2020 11:06 PM
+        event_title: TestEvent1
+        event_image: /images/beer-club-logo1-300x300.jpg
   - type: section_newsletter_signup
     section_id: newsletter_signup_section
     newsletter_signup_title: newsletter

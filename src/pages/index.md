@@ -51,7 +51,7 @@ sections:
       - event_date: June 25, 2020 6:40 PM
         event_title: Rock and Roll Bingo
         event_image: /images/rock-and-roll-bingo-300x300.jpg
-      - event_date: June 12, 2020 7:40 PM
+      - event_date: June 19, 2020 6:40 PM
         event_title: Mauldon Brewery Beer Tasting
         event_image: /images/beer-club-logo1-300x300.jpg
       - event_date: June 20, 2020 9:30 PM

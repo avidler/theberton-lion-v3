@@ -6,10 +6,10 @@ public_folder: /images
 collections:
   - label: Events Configuration
     name: events
+    file: src/data/events.yml
     files:
       - name: events
         label: Events Configuration
-        file: src/data/events.yml
         fields:
           - label: Events
             name: events

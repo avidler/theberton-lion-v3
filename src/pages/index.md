@@ -44,19 +44,7 @@ sections:
       his team look forward to serving you soon.
   - type: section_events
     section_id: event_section
-    event:
-      - event_date: June 17, 2020 7:39 PM
-        event_title: Vinyl Night
-        event_image: /images/vinyl-night-300x300.jpg
-      - event_date: June 25, 2020 6:40 PM
-        event_title: Rock and Roll Bingo
-        event_image: /images/rock-and-roll-bingo-300x300.jpg
-      - event_date: June 19, 2020 6:40 PM
-        event_title: Mauldon Brewery Beer Tasting
-        event_image: /images/beer-club-logo1-300x300.jpg
-      - event_date: June 20, 2020 9:30 PM
-        event_title: BARRICADE – LIVE@ THE LION
-        event_image: /images/barricade-300x300.jpg
+    component: SectionEvents
   - type: section_newsletter_signup
     section_id: newsletter_signup_section
     newsletter_signup_title: newsletter

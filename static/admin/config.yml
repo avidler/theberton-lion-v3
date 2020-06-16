@@ -11,13 +11,13 @@ collections:
         label: Events Configuration
         file: src/data/events.yml
         fields:
+          - label: Event Title
+            name: event_title
+            widget: string
           - label: Events
             name: events
             widget: list
             fields:
-              - label: Event Title
-                name: event_title
-                widget: string
               - label: Event Date
                 name: event_date
                 widget: datetime

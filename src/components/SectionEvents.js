@@ -13,7 +13,7 @@ export default class SectionEvents extends React.Component {
     const upcoming_events = section.event.filter(a => new Date(a.event_date) - new Date() > 0);
 
     return (
-        <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
+        <section id={_.get(this.props, 'newEventsList.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="events_inner">
                 <div className="events_list">
 

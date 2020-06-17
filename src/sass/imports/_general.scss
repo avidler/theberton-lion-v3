@@ -636,6 +636,21 @@ img {
   }
 }
 
+@media only screen and (max-width: 500px) {
+.service_list {
+  flex-direction: column;
+}
+
+#service_section .service_inner .service_list .service_item .service_details h3{
+  top: 0px;
+}
+
+.service_name {
+  font-size: 16px;
+}
+
+}
+
 /* Welcome Section */
 
 #welcome {
@@ -686,7 +701,12 @@ img {
   }
 }
 
- 
+@media only screen and (max-width: 500px) {
+#welcome {
+  width: 94%;
+  padding: 0;
+}
+}
 /* Events Section */
 
 #event_section {

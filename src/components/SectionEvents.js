@@ -11,7 +11,8 @@ export default class SectionEvents extends React.Component {
     console.log("section: ",section)
                         
     const upcomingEvents = newEventsList.event.filter(a => new Date(a.event_date) - new Date() > 0);
-    const sortedEvents = upcomingEvents.sort((a, b) => b.event_date - a.event_date)
+    const sortedEvents = upcomingEvents.sort((a, b) => new Date(a.event_date) - new Date(b.event_date))
+    console.log("sortedEvents", sortedEvents)
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="events_inner">

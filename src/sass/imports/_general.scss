@@ -637,19 +637,20 @@ img {
 }
 
 @media only screen and (max-width: 500px) {
-.service_list {
-  flex-direction: column;
-  align-items: center;
-}
+  #service_section {
+      .service_inner {
+        .service_list {
+        flex-direction: column;
+        align-items: center;
+            .service_item {
+            width: 78%;
+            padding-bottom: 5px;
+         }
+      }
+    }
+  }
 
-.service_item {
-  width: 78%;
-  padding-bottom: 5px;
-}
 
-#service_section .service_inner .service_list .service_item .service_details h3 {
-  font-size: 1rem;
-}
 
 
 }
@@ -770,6 +771,49 @@ img {
 
 
   }
+}
+
+@media only screen and (max-width: 500px) {
+  #event_section {
+
+  
+    .events_inner {
+ 
+  
+      .events_list {
+        
+        flex-direction: column;
+  
+        .event_item {
+ 
+          flex: 1; 
+          img {
+            height: 0px;
+            width: 0%;
+          }
+  
+          h3 {
+   
+          
+            span {
+   
+            }
+          }
+  
+          .event_date {
+  
+          }
+  
+          .event_time {
+ 
+          }
+        }
+      }
+  
+  
+    }
+  }
+  
 }
 
 #newsletter_signup_section {

@@ -186,3 +186,15 @@
     flex: 0 0 100%;
   }
 }
+
+
+@media only screen and (max-width: 500px) {
+  .site-footer {
+    .container {
+      flex-direction: column;
+    }
+  }
+  .footer_section {
+    margin-top: 3px;
+  }
+}

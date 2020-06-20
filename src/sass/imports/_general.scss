@@ -775,38 +775,26 @@ img {
 
 @media only screen and (max-width: 500px) {
   #event_section {
-
-  
-    .events_inner {
- 
-  
-      .events_list {
-        
-        flex-direction: column;
+     .events_inner {
+       .events_list {
+         flex-direction: column;
   
         .event_item {
- 
-          flex: 1; 
+          margin: 0px;
+          flex: 1;
+          padding: 0px; 
           img {
             height: 0px;
             width: 0%;
           }
   
           h3 {
-   
+            margin: 0;
           
-            span {
-   
-            }
+            
           }
   
-          .event_date {
   
-          }
-  
-          .event_time {
- 
-          }
         }
       }
   
@@ -886,6 +874,14 @@ img {
       border-image: initial;
       box-shadow: none;
   }
+    }
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #newsletter_signup_section {
+   .container {
+       flex-direction: column;
     }
   }
 }

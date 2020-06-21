@@ -190,11 +190,12 @@
 
 @media only screen and (max-width: 500px) {
   .site-footer {
+    padding-top: 0px;
     .container {
       flex-direction: column;
     }
   }
   .footer_section {
-    margin-top: 3px;
+    margin-top: 20px;
   }
 }

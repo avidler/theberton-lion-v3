@@ -490,7 +490,12 @@ img {
 
 }
 
-
+@media screen and (max-width:690px)
+{
+  span.fadein2.rowMainText {
+    padding: 0px 0px 20px; top: 0%; width: 100%;
+  }
+}
 
 @keyframes fadein {
   0% {

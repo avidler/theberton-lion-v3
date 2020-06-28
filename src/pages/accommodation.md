@@ -1,0 +1,4 @@
+---
+title: Accommodation
+template: landing
+---

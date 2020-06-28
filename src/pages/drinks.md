@@ -1,0 +1,4 @@
+---
+title: Drinks
+template: page
+---

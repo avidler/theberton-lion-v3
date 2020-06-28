@@ -11,21 +11,8 @@
         "url": "/"
       },
       {
-        "label": "Drinks",
-        "url": "/drinks"
-      },
-      {
-        "label": "Food",
-        "url": "/food"
-      },
-      {
         "label": "Accommodation",
         "url": "/accommodation"
-      },
-      {
-        "label": "Events",
-        "url": "/events",
-        "primary": false
       },
       {
         "new_window": false,

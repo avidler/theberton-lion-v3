@@ -1,0 +1,4 @@
+---
+title: Events
+template: landing
+---

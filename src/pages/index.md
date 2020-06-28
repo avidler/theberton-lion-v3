@@ -4,7 +4,7 @@ sections:
   - type: section_quotes
     section_id: quote_section
     quote:
-      - text: Reopening - Saturday 4th July All Day!
+      - text: Test Message
         author: Book a Table - 01728 830185
         image: /images/1-1600x725.jpg
       - text: Reopening - Saturday 4th July All Day!

@@ -1,4 +1,4 @@
 ---
-title: Accommodation
+title: Events
 template: landing
 ---

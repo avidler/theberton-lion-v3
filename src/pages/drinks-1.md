@@ -1,4 +1,0 @@
----
-title: Drinks
-template: landing
----

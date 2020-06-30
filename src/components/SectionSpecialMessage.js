@@ -26,6 +26,7 @@ export default class SectionSpecialMessage extends React.Component {
 
  
             </table>
+            <p>Due to restrictions at present, many of our regular events including live music, Rock and Roll Bingo and Open Mic Night are on hold but we are working on plans to reinstate <strong>Beer Club</strong> and <strong>Book Club</strong> and will be launching a monthly <strong>Big Saturday Quiz Night</strong> in the coming weeks. We will shortly be announcing our themed food nights for the next few months and our <strong>5th Annual Beer Festival</strong> will happen, just a little later in October!</p>
             <p>{`${section.content}`}</p>
   
             </div>

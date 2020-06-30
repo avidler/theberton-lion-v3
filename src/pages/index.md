@@ -5,12 +5,6 @@ sections:
     title: We’re Reopening!
     content: |-
       
-
-
-
-      ```
-      \###INN Dependence Day – Saturday 4th July
-      ```
   - type: section_quotes
     section_id: quote_section
     quote:

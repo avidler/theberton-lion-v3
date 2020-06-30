@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: section_special_message
     title: We’re Reopening!
-    content: "\r
+    content: "\r     <!--StartFragment-->
 
-      \      ###INN Dependence Day – Saturday 4th July\r
+      ###INN Dependence Day – Saturday 4th July\r
 
       \r
 

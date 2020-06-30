@@ -18,6 +18,11 @@
         "new_window": false,
         "label": "Contact/Directions",
         "url": "/contact-directions"
+      },
+      {
+        "new_window": true,
+        "label": "Keeping You Safe",
+        "url": "/covid-19-risk-assessment"
       }
     ]
   },

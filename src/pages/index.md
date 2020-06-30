@@ -3,74 +3,13 @@ title: Home
 sections:
   - type: section_special_message
     title: We’re Reopening!
-    content: >-
-      \###INN Dependence Day – Saturday 4th July
-
+    content: |-
+      
 
 
 
       ```
-        After over a quarter of a year of enforced closure we are delighted to be reopening for both drinks and food on Saturday 4th July. We will be open ALL DAY to celebrate. We have been busying ourselves getting ready and having assessed the risks, feel we are able to open safely for our customers and staff. Our full Risk Assessment will shortly be available at www.thebertonlion.co.uk.
-
-
-        We are **strongly advising table bookings** for indoors and outdoors whether you are eating or just coming in for a drink. This will help us no end. Whilst we will be open for walk-ins, bookings will take priority and you may be asked to wait until we are able to allocate a space.
-
-
-        Our capacity inside has been reduced to ensure 1m+ distancing is observed and whilst we have extended our garden area, due to the Government restrictions on the number of households socialising as detailed in our risk assessment as well as a curfew of 9.30pm in the extended section, we anticipate that at times we will reach table capacity and be unable to accommodate unexpected arrivals.
-
-
-        As part of our review we are changing our trading hours. We are closing an hour earlier Tuesday – Thursday and closing all day on Mondays but have taken the step to extend Saturdays to ALL DAY for drinks and food as an experiment. These times are subject to change;
-
-
-        ![Temporary Opening Times](/images/tempopeningtimes.jpg "Temporary Opening Times")
-
-
-        Due to restrictions at present, many of our regular events including live music, Rock and Roll Bingo and Open Mic Night are on hold but we are working on plans to reinstate **Beer Club** and **Book Club** and will be launching a monthly **Big Saturday Quiz Night** in the coming weeks. We will shortly be announcing our themed food nights for the next few months and our **5th Annual Beer Festival** will happen, just a little later in October! 
-
-
-        From Saturday our **New Menu** will be available to eat in but rest assured we will now permanently offer our popular **Takeaway Menu**. As currently, takeaway orders need 
-
-        to be booked in advance with collection slots allocated. We will then deliver to you in the car park. 
-
-
-        **Five real ales** will be available on July 4th as well as Calvors Helles Lager, Briarbank Black Horse Stout, our extensive range of unique wines, boutique spirits and an extensive soft drink selection. 
-
-
-        **When arriving at The Theberton Lion you will notice some changes.** 
-
-
-        As recommended by the Government, a **one-way system** will be in operation with customers **entering by the front door** and **leaving by the back** and then **departing via the garden gate**. If re-entering, this is via the front door. 
-
-
-        **All drinkers inside will need to be based at tables and table service will operate for these customers.** There will sadly be no bar stools and no drinking at the bar at present. 
-
-
-        **Bar service is available to those drinking outside only** but customers must enter via the front door. **Vaping is no longer permitted indoors.** 
-
-
-        It goes without saying but please do not visit if you have any COVID symptoms, such as a new continuous cough, fever or a loss of taste/smell. Similarly we ask that you wash your hands and use the sanitisers provided regularly to keep yourselves safe. **Children must be seated at tables whether inside or out.** Dogs are still welcome but must be kept on leads at all times. 
-
-
-        Upon booking/arrival we will ask you to confirm how many households make up your party and will be following the latest Government advice regarding groups and social distancing. 
-
-
-        We still accept cash but prefer contactless payment where possible. Change will be given from a ‘clean float’. 
-
-
-        Signage will be displayed throughout the premises to reinforce this and other guidance. Please follow this advice and just ask if anything is unclear. 
-
-
-        Whilst the Government’s stance on Covid 19 is being relaxed, there are still guidelines and legislation to keep us all safe. We have spent a considerable amount of time assessing and mitigating risks. The last thing anyone wants is a second wave of this horrid virus. With this in mind if customers are not willing to abide by our policies we will refuse service. We don’t think this will be a problem but we do have a duty of care to protect our customers and staff. 
-
-
-        Finally we want to say a massive thank you for your support during this challenging time, you have been amazing. It’s so fantastic to be back. We will get through this together so come and laugh, socialise responsibly, eat, drink and be merry safely. 
-
-
-        We’ll see you very soon, 
-
-
-        Tom, Helen and the Whole Lion Team
-
+      \###INN Dependence Day – Saturday 4th July
       ```
   - type: section_quotes
     section_id: quote_section

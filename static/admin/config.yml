@@ -663,6 +663,18 @@ collections:
                   - label: Service Image
                     name: service_image
                     widget: image 
+          
+          - name: section_special_message
+            widget: object
+            label: Special Message Section
+            fields:
+              - label: Special Title
+                name: title
+                widget: string
+                hint: The title of the section
+              - label: Content
+                name: content
+                widget: markdown
           - name: section_welcome
             widget: object
             label: Welcome Section

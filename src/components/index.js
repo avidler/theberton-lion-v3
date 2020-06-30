@@ -17,6 +17,7 @@ import QuoteCarousel from './QuoteCarousel';
 import SectionQuotes from './SectionQuotes';
 import SectionServices from './SectionServices';
 import SectionWelcome from './SectionWelcome';
+import SectionSpecialMessage from './SectionSpecialMessage';
 import SectionEvents from './SectionEvents';
 import SectionNewsletterSignup from './SectionNewsletterSignup';
 
@@ -41,7 +42,8 @@ export {
     SectionServices,
     SectionWelcome,
     SectionEvents,
-    SectionNewsletterSignup
+    SectionNewsletterSignup,
+    SectionSpecialMessage
 };
 
 export default {
@@ -65,5 +67,6 @@ export default {
     SectionServices,
     SectionWelcome,
     SectionEvents,
-    SectionNewsletterSignup
+    SectionNewsletterSignup,
+    SectionSpecialMessage
 };

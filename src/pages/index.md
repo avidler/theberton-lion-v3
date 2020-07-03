@@ -1,20 +1,24 @@
 ---
 title: Home
 sections:
+  - type: section_special_message
+    title: We’re Reopening!
+    content: |-
+      
   - type: section_quotes
     section_id: quote_section
     quote:
-      - text: Look at our lovely beer garden!
-        author: Bookings / Reservations - 01728 830185
+      - text: Reopening - Saturday 4th July All Day!
+        author: Book a Table - 01728 830185
         image: /images/1-1600x725.jpg
-      - text: Food & Accommodation @ The Lion
-        author: Bookings / Reservations - 01728 830185
+      - text: Reopening - Saturday 4th July All Day!
+        author: Book a Table - 01728 830185
         image: /images/2-1600x725.jpg
-      - text: Food & Accommodation @ The Lion
-        author: Bookings / Reservations - 01728 830185
+      - text: Reopening - Saturday 4th July All Day!
+        author: Book a Table - 01728 830185
         image: /images/3-1600x725.jpg
-      - text: Food & Accommodation @ The Lion
-        author: Bookings / Reservations - 01728 830185
+      - text: Reopening - Saturday 4th July All Day!
+        author: Book a Table - 01728 830185
         image: /images/4-1600x725.jpg
   - type: section_services
     section_id: service_section

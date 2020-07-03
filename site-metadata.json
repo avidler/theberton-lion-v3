@@ -11,79 +11,64 @@
         "url": "/"
       },
       {
-        "label": "Drinks",
-        "url": "/drinks"
-      },
-      {
-        "label": "Food",
-        "url": "/food"
-      },
-      {
         "label": "Accommodation",
         "url": "/accommodation"
       },
       {
-        "label": "Events",
-        "url": "/events",
-        "primary": false
-      },
-      {
         "new_window": false,
         "label": "Contact/Directions",
-        "url": "/contact"
+        "url": "/contact-directions"
+      },
+      {
+        "new_window": true,
+        "label": "Keeping You Safe",
+        "url": "/covid-19-risk-assessment"
       }
     ]
   },
   "opening_hours": {
-    "monday": 
-      {
-        "monday_afternoon_open": "12:00pm",
-        "monday_afternoon_close": "3:00pm",
-        "monday_evening_open": "6:00pm",
-        "monday_evening_close": "11:00pm"
-      },
-      "tuesday": 
-      {
-        "tuesday_afternoon_open": "12:00pm",
-        "tuesday_afternoon_close": "3:00pm",
-        "tuesday_evening_open": "6:00pm",
-        "tuesday_evening_close": "11:00pm"
-      },  
-      "wednesday": 
-      {
-        "wednesday_afternoon_open": "12:00pm",
-        "wednesday_afternoon_close": "3:00pm",
-        "wednesday_evening_open": "6:00pm",
-        "wednesday_evening_close": "11:00pm"
-      }, 
-      "thursday": 
-      {
-        "thursday_afternoon_open": "12:00pm",
-        "thursday_afternoon_close": "3:00pm",
-        "thursday_evening_open": "6:00pm",
-        "thursday_evening_close": "11:00pm"
-      },
-      "friday": 
-      {
-        "friday_afternoon_open": "12:00pm",
-        "friday_afternoon_close": "3:00pm",
-        "friday_evening_open": "5:00pm",
-        "friday_evening_close": "11:00pm"
-      },
-      "saturday": 
-      {
-        "saturday_afternoon_open": "12:00pm",
-        "saturday_afternoon_close": "3:00pm",
-        "saturday_evening_open": "6:00pm",
-        "saturday_evening_close": "11:00pm"
-      },
-      "sunday": 
-      {
-        "sunday_afternoon_open": "12:00pm",
-        "sunday_afternoon_close": "3:00pm",
-        "sunday_evening_open": "7:00pm",
-        "sunday_evening_close": "11:00pm"
-      }
+    "monday": {
+      "monday_afternoon_open": "12:00pm",
+      "monday_afternoon_close": "3:00pm",
+      "monday_evening_open": "6:00pm",
+      "monday_evening_close": "11:00pm"
+    },
+    "tuesday": {
+      "tuesday_afternoon_open": "12:00pm",
+      "tuesday_afternoon_close": "3:00pm",
+      "tuesday_evening_open": "6:00pm",
+      "tuesday_evening_close": "11:00pm"
+    },
+    "wednesday": {
+      "wednesday_afternoon_open": "12:00pm",
+      "wednesday_afternoon_close": "3:00pm",
+      "wednesday_evening_open": "6:00pm",
+      "wednesday_evening_close": "11:00pm"
+    },
+    "thursday": {
+      "thursday_afternoon_open": "12:00pm",
+      "thursday_afternoon_close": "3:00pm",
+      "thursday_evening_open": "6:00pm",
+      "thursday_evening_close": "11:00pm"
+    },
+    "friday": {
+      "friday_afternoon_open": "12:00pm",
+      "friday_afternoon_close": "3:00pm",
+      "friday_evening_open": "5:00pm",
+      "friday_evening_close": "11:00pm"
+    },
+    "saturday": {
+      "saturday_afternoon_open": "12:00pm",
+      "saturday_afternoon_close": "3:00pm",
+      "saturday_evening_open": "6:00pm",
+      "saturday_evening_close": "11:00pm"
+    },
+    "sunday": {
+      "sunday_afternoon_open": "12:00pm",
+      "sunday_afternoon_close": "3:00pm",
+      "sunday_evening_open": "7:00pm",
+      "sunday_evening_close": "11:00pm"
+    }
   },
   "footer": {
     "subscribe_title": "Subscribe",

@@ -35,11 +35,11 @@ collections:
               - label: On Now
                 name: beer_on_now
                 widget: boolean
-                default: false 
+                required: false
               - label: Coming Soon
                 name: beer_coming_soon
                 widget: boolean
-                default: false 
+                required: false 
               - label: Last Seen
                 name: beer_last_seen
                 widget: hidden 

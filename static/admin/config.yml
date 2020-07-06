@@ -28,6 +28,9 @@ collections:
               - label: Beer Image
                 name: beer_image
                 widget: image
+              - label: Beer Price
+                name: beer_price
+                widget: float
               - label: On Now
                 name: beer_on_now
                 widget: boolean

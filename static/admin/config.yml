@@ -30,7 +30,8 @@ collections:
                 widget: image
               - label: Beer Price
                 name: beer_price
-                widget: float
+                widget: number
+                valueType: float
               - label: On Now
                 name: beer_on_now
                 widget: boolean

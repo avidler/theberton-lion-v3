@@ -64,6 +64,9 @@ collections:
                 name: event_image
                 widget: image
                 required: false
+              - label: Event Notes
+                name: event_notes
+                widget: string
   - label: Site Configuration
     name: config
     files:

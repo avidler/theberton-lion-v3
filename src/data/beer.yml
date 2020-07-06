@@ -2,6 +2,7 @@ beers:
   - beer_name: Hophead
     beer_brewery: Darkstar
     beer_abv: 3.8
+<<<<<<< HEAD
     beer_image: /images/hophead.png
     beer_price: 3.5
     beer_on_now: true
@@ -34,3 +35,30 @@ beers:
     beer_price: 3.5
     beer_coming_soon: false
     beer_on_now: true
+=======
+    beer_image: /images/drinks-360x270.jpg
+    beer_price: 3.8
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_name: Pale
+    beer_brewery: Barn Door
+    beer_abv: 4.3
+    beer_image: /images/drinks-360x270.jpg
+    beer_price: 3.9
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_name: Stout
+    beer_brewery: Barn Door
+    beer_abv: 4.2
+    beer_image: /images/drinks-360x270.jpg
+    beer_price: 4
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_name: Mild
+    beer_brewery: Super Brew
+    beer_abv: 2.8
+    beer_image: /images/drinks-360x270.jpg
+    beer_price: 3.2
+    beer_on_now: false
+    beer_coming_soon: true
+>>>>>>> 2eef99b... beers config

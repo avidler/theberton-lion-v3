@@ -12,7 +12,7 @@ collections:
         file: src/data/beer.yml
         fields:
           - widget: list
-            name: beer
+            name: beers
             label: Beer
             fields:
               - label: Beer Name
@@ -28,14 +28,18 @@ collections:
               - label: Beer Image
                 name: beer_image
                 widget: image
+              - label: Beer Price
+                name: beer_price
+                widget: number
+                valueType: float
               - label: On Now
                 name: beer_on_now
                 widget: boolean
-                default: false 
+                required: false
               - label: Coming Soon
                 name: beer_coming_soon
                 widget: boolean
-                default: false 
+                required: false 
               - label: Last Seen
                 name: beer_last_seen
                 widget: hidden 
@@ -67,6 +71,7 @@ collections:
               - label: Event Notes
                 name: event_notes
                 widget: string
+                required: false
   - label: Site Configuration
     name: config
     files:

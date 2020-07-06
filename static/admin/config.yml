@@ -13,7 +13,8 @@ collections:
         fields:
           - widget: list
             name: beers
-            label: Beer
+            label: Beers
+            summary: {{fields.beer_brewery}} - {{fields.beer_name}}
             fields:
               - label: Beer Name
                 name: beer_name

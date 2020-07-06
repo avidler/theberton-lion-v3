@@ -1,4 +1,4 @@
 beer:
   - beer_name: Bitter
-  - beer_brewery: Barn Door
-  - beer_abv: 4.2
+    beer_brewery: Barn Door
+    beer_abv: 4.2

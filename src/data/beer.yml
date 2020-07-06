@@ -1,4 +1,4 @@
-beer:
+beers:
   - beer_name: Bitter
     beer_brewery: Barn Door
     beer_abv: 3.8

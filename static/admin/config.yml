@@ -14,7 +14,7 @@ collections:
           - widget: list
             name: beers
             label: Beers
-            summary: '{{fields.beer_brewery}}'
+            summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
               - label: Beer Name
                 name: beer_name

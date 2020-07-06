@@ -4,6 +4,40 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
+  - label: Beer List
+    name: beers
+    files:
+      - name: beers
+        label: Beer List
+        file: src/data/beer.yml
+        fields:
+          - widget: list
+            name: beer
+            label: Beer
+            fields:
+              - label: Beer Name
+                name: beer_name
+                widget: string
+              - label: Brewery
+                name: beer_brewery
+                widget: string
+              - label: ABV
+                name: beer_abv
+                widget: number
+                valueType: float
+              - label: On Now
+                name: beer_on_now
+                widget: boolean
+                default: false 
+              - label: Coming Soon
+                name: beer_coming_soon
+                widget: boolean
+                default: false 
+              - label: Last Seen
+                name: beer_last_seen
+                widget: hidden 
+
+
   - label: Events Configuration
     name: events
     files:

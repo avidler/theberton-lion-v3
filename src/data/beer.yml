@@ -20,3 +20,9 @@ beer:
     beer_price: 4
     beer_on_now: false
     beer_coming_soon: true
+  - beer_name: Mild
+    beer_brewery: Super Brew
+    beer_abv: 2.8
+    beer_price: 3.2
+    beer_coming_soon: true
+    beer_image: /images/drinks-360x270.jpg

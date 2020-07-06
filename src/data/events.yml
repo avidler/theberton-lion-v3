@@ -1,7 +1,8 @@
 event:
-  - event_date: June 4, 2020 9:41 PM
+  - event_date: July 9, 2020 9:00 PM
     event_title: Vinyl Night
     event_image: /images/vinyl-night-300x300.jpg
+    event_notes: Good Event
   - event_date: June 3, 2020 10:00 AM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-300x300.jpg

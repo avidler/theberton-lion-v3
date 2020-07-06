@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_special_message
-    title: We’re Reopening!
+    title: We have Reopened!
     content: |-
       
   - type: section_quotes

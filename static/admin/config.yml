@@ -741,11 +741,6 @@ collections:
             widget: list
             summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
-              - label: Beer
-                name: beer
-                widget: list
-                hint: a new beer
-                fields:
               - label: Beer Name
                 name: beer_name
                 widget: string

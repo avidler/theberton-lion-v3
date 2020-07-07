@@ -1,6 +1,9 @@
 ---
 title: Drinks
 sections: 
+  - type: beers
+    section_id: full_beer_list
+    component: FullBeerList
   - type: section_events
     section_id: event_section
     component: SectionEvents

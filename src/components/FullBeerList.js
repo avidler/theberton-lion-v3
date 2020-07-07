@@ -25,7 +25,7 @@ export default class FullBeerList extends React.Component {
                         <div className="event_item" key={curr_beer_idx}>
                             <span className="overlay"></span>
                            
-                            <h3><span>{curr_event.beer_name}</span></h3>
+                            <h3><span>{curr_beer.beer_name}</span></h3>
                         </div>
                     )}
                 </div>

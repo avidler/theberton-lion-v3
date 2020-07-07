@@ -1,8 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 
-const moment = require('moment')
-
 export default class FullBeerList extends React.Component {
     render() {
     let newBeerList = _.get(this.props, 'pageContext.site.data.beer')

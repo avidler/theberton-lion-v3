@@ -27,7 +27,7 @@ export default class FullBeerList extends React.Component {
                            
                             <h3><span>{curr_event.beer_name}</span></h3>
                         </div>
-                    ))}
+                    )}
                 </div>
             </div>
         </section>

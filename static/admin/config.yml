@@ -4,16 +4,16 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - label: Drinks Configuration
-    name: drinks
+  - label: Beer List
+    name: beers
     files:
-      - name: Beer
+      - name: beers
         label: Beer List
         file: src/data/beer.yml
         fields:
           - widget: list
             name: beers
-            label: Individual Beers
+            label: Beers
             summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
               - label: Beer Name
@@ -736,12 +736,13 @@ collections:
                 widget: text
                 hint: The second paragraph
           - label: Beer List
-            name: beer_list_full
-            file: src/data/beer.yml
+            name: beers_list_full
+            file: src/data/beers.yml
             widget: list
+            summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
               - label: Beer
-                name: beers
+                name: beer
                 widget: list
                 hint: a new beer
                 fields:
@@ -773,7 +774,6 @@ collections:
               - label: Last Seen
                 name: beer_last_seen
                 widget: hidden 
- 
           - label: Events List
             name: section_events
             file: src/data/events.yml

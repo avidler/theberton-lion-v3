@@ -4,16 +4,16 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - label: Beer List
-    name: beers
+  - label: Drinks Configuration
+    name: drinks
     files:
-      - name: beers
+      - name: Beer
         label: Beer List
         file: src/data/beer.yml
         fields:
           - widget: list
             name: beers
-            label: Beers
+            label: Individual Beers
             summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
               - label: Beer Name
@@ -736,44 +736,44 @@ collections:
                 widget: text
                 hint: The second paragraph
           - label: Beer List
-            name: beers_list_full
-            file: src/data/beers.yml
+            name: beer_list_full
+            file: src/data/beer.yml
             widget: list
-            summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
               - label: Beer
-                name: beer
+                name: beers
                 widget: list
                 hint: a new beer
                 fields:
-                - label: Beer Name
-                  name: beer_name
-                  widget: string
-                - label: Brewery
-                  name: beer_brewery
-                  widget: string
-                - label: ABV
-                  name: beer_abv
-                  widget: number
-                  valueType: float
-                - label: Beer Image
-                  name: beer_image
-                  widget: image
-                - label: Beer Price
-                  name: beer_price
-                  widget: number
-                  valueType: float
-                - label: On Now
-                  name: beer_on_now
-                  widget: boolean
-                  required: false
-                - label: Coming Soon
-                  name: beer_coming_soon
-                  widget: boolean
-                  required: false 
-                - label: Last Seen
-                  name: beer_last_seen
-                  widget: hidden 
+              - label: Beer Name
+                name: beer_name
+                widget: string
+              - label: Brewery
+                name: beer_brewery
+                widget: string
+              - label: ABV
+                name: beer_abv
+                widget: number
+                valueType: float
+              - label: Beer Image
+                name: beer_image
+                widget: image
+              - label: Beer Price
+                name: beer_price
+                widget: number
+                valueType: float
+              - label: On Now
+                name: beer_on_now
+                widget: boolean
+                required: false
+              - label: Coming Soon
+                name: beer_coming_soon
+                widget: boolean
+                required: false 
+              - label: Last Seen
+                name: beer_last_seen
+                widget: hidden 
+ 
           - label: Events List
             name: section_events
             file: src/data/events.yml

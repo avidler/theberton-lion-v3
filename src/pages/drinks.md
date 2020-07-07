@@ -1,10 +1,5 @@
 ---
 title: Drinks
-sections: 
-
-  - type: section_events
-    section_id: event_section
-    component: SectionEvents
-template: page
+template: drinkslist
 ---
 New drinks list coming soon...

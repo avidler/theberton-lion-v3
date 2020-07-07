@@ -4,8 +4,8 @@ beers:
     beer_abv: 3.8
     beer_image: /images/drinks-360x270.jpg
     beer_price: 3.8
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Pale
     beer_brewery: Barn Door
     beer_abv: 4.3
@@ -18,8 +18,8 @@ beers:
     beer_abv: 4.2
     beer_image: /images/drinks-360x270.jpg
     beer_price: 4
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Mild
     beer_brewery: Super Brew
     beer_abv: 2.8

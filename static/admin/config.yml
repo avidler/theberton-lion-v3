@@ -741,34 +741,39 @@ collections:
             widget: list
             summary: '{{fields.beer_brewery}} - {{fields.beer_name}}'
             fields:
-              - label: Beer Name
-                name: beer_name
-                widget: string
-              - label: Brewery
-                name: beer_brewery
-                widget: string
-              - label: ABV
-                name: beer_abv
-                widget: number
-                valueType: float
-              - label: Beer Image
-                name: beer_image
-                widget: image
-              - label: Beer Price
-                name: beer_price
-                widget: number
-                valueType: float
-              - label: On Now
-                name: beer_on_now
-                widget: boolean
-                required: false
-              - label: Coming Soon
-                name: beer_coming_soon
-                widget: boolean
-                required: false 
-              - label: Last Seen
-                name: beer_last_seen
-                widget: hidden 
+              - label: Beer
+                name: beer
+                widget: list
+                hint: a new beer
+                fields:
+                - label: Beer Name
+                  name: beer_name
+                  widget: string
+                - label: Brewery
+                  name: beer_brewery
+                  widget: string
+                - label: ABV
+                  name: beer_abv
+                  widget: number
+                  valueType: float
+                - label: Beer Image
+                  name: beer_image
+                  widget: image
+                - label: Beer Price
+                  name: beer_price
+                  widget: number
+                  valueType: float
+                - label: On Now
+                  name: beer_on_now
+                  widget: boolean
+                  required: false
+                - label: Coming Soon
+                  name: beer_coming_soon
+                  widget: boolean
+                  required: false 
+                - label: Last Seen
+                  name: beer_last_seen
+                  widget: hidden 
           - label: Events List
             name: section_events
             file: src/data/events.yml

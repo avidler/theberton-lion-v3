@@ -14,32 +14,36 @@ export default class DrinksList extends React.Component {
         console.log("beerComingSoon",beerComingSoon)
         return (
             <Layout {...this.props}>
-            <div className="beer_on_now">
-            Beer On Now
-            {_.map(beerOnNow, (beer, beer_idx) => (
-                
-                <div className="beer_idx">
-                    {beer.beer_name} by {beer.beer_brewery}
-                    {beer.beer_abv}%
-                    £{beer.beer_price}
-                    On Now:{beer.beer_on_now}
-                    Coming Soon:{beer.beer_coming_soon}
+            <div className="container">
+                <h3>Beer On Now</h3>
+                <div className="beer_on_now">
+                {_.map(beerOnNow, (beer, beer_idx) => (
+                    <div className="beer_on_now_item" key={beer_idx}>
+                        <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
+                        <span className="beer_info">
+                            {beer.beer_name} by {beer.beer_brewery}<br />
+                            {beer.beer_abv}%
+                            £{beer.beer_price.toFixed(2)}
+                        </span>
+                    
+                    </div>
+                ))}
                 </div>
-            ))}
-            </div>
-            <div className="beer_coming_soon">
-            Beer Coming Soon
-            {_.map(beerComingSoon, (beer, beer_idx) => (
+                <h3>Beer Coming Soon</h3>
+                <div className="beer_coming_soon">
                 
-                <div className="beer_idx">
-                    {beer.beer_name} by {beer.beer_brewery}
-                    {beer.beer_abv}%
-                    £{beer.beer_price}
-                    On Now:{beer.beer_on_now}
-                    Coming Soon:{beer.beer_coming_soon}
-                    {console.log("beer",beer)}
+                {_.map(beerComingSoon, (beer, beer_idx) => (
+                    
+                    <div className="beer_coming_soon_item" key={beer_idx}>
+                        <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
+                        <span className="beer_info">
+                        {beer.beer_name} by {beer.beer_brewery}<br />
+                        {beer.beer_abv}%
+                        £{beer.beer_price.toFixed(2)}
+                        </span>
+                    </div>
+                ))}
                 </div>
-            ))}
             </div>
             </Layout>
         );

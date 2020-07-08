@@ -912,3 +912,41 @@ img {
     }
   }
 }
+
+.beer_on_now,
+.beer_coming_soon {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.beer_on_now_item,
+.beer_coming_soon_item {
+  width: 200px;
+  height: 380px;
+  background-image: url("../../../images/dummy-handpump.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+
+.beer_pump_clip {
+  margin: auto;
+  margin-left: auto;
+  display: block;
+  width: 80%;
+}
+
+.beer_info {
+  width: 100%;
+  color: #fff;
+  align-self: flex-end;
+  text-align: center;
+  margin-bottom: 0;
+}
+

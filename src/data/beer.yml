@@ -11,6 +11,7 @@ beers:
     beer_abv: 4.8
     beer_image: /images/affinity.png
     beer_price: 3.9
+<<<<<<< HEAD
     beer_on_now: false
     beer_coming_soon: true
   - beer_name: Imperial Black Horse Stout
@@ -25,5 +26,14 @@ beers:
     beer_abv: 4.0
     beer_image: /images/hpa.png
     beer_price: 3.9
+=======
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_name: Stout
+    beer_brewery: Barn Door
+    beer_abv: 4.2
+    beer_image: /images/drinks-360x270.jpg
+    beer_price: 4
+>>>>>>> b1c0bdd04a2716cedb2e0fe243daa752edc8abfc
     beer_on_now: true
     beer_coming_soon: false

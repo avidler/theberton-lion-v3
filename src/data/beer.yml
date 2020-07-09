@@ -45,3 +45,9 @@ beers:
     beer_abv: 4.8
     beer_price: 3.2
     beer_coming_soon: true
+  - beer_image: ../blank.png
+    beer_name: Porter
+    beer_brewery: Barn Door
+    beer_abv: 5.5
+    beer_price: 3.3
+    beer_coming_soon: true

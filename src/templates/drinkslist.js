@@ -19,6 +19,7 @@ export default class DrinksList extends React.Component {
                 <div className="beer_on_now">
                 {_.map(beerOnNow, (beer, beer_idx) => (
                     <div className="beer_on_now_item" key={beer_idx}>
+                        {console.log(beer.beer_image)}
                         <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
                         <span className="beer_info">
                             {beer.beer_name} by {beer.beer_brewery}<br />

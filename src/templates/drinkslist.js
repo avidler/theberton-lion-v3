@@ -19,9 +19,19 @@ export default class DrinksList extends React.Component {
                 <div className="beer_on_now">
                 {_.map(beerOnNow, (beer, beer_idx) => (
                     <div className="beer_on_now_item" key={beer_idx}>
-                        {console.log(beer.beer_image)}
-                        {beer.beer_image === '../images/blank.png' ? console.log("blank image found"): console.log("Blank image not found")}
-                        <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
+   
+                      
+                        <span className="beer_pump_clip">
+                            <img src={beer.beer_image} alt="beer pump clip"/>
+                                {beer.beer_image === '../images/blank.png' ? 
+                                    <span className="blank_pump_clip">
+                                    {beer.beer_brewery}<br />
+                                    {beer.beer_name}<br />
+                                    <span class="blank_pump_clip_abv">{beer.beer_abv}%</span>
+                                    </span>
+                                :console.log("Blank image not found")}                        
+                        </span>
+
                         <span className="beer_info">
                             {beer.beer_name} by {beer.beer_brewery}<br />
                             {beer.beer_abv}%
@@ -37,10 +47,19 @@ export default class DrinksList extends React.Component {
                 {_.map(beerComingSoon, (beer, beer_idx) => (
                     
                     <div className="beer_coming_soon_item" key={beer_idx}>
-                        {console.log(beer.beer_image)}
-                    {beer.beer_image === '../images/blank.png' ? console.log("blank image found"): console.log("Blank image not found")}
+                   
                     
-                        <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
+                        <span className="beer_pump_clip">
+                            <img src={beer.beer_image} alt="beer pump clip"/>
+                                {beer.beer_image === '../images/blank.png' ? 
+                                    <span className="blank_pump_clip">
+                                    {beer.beer_brewery}<br />
+                                    {beer.beer_name}<br />
+                                    <span class="blank_pump_clip_abv">{beer.beer_abv}%</span>
+                                    </span>
+                                :console.log("Blank image not found")}                        
+                        </span>
+
                         <span className="beer_info">
                         {beer.beer_name} by {beer.beer_brewery}<br />
                         {beer.beer_abv}%

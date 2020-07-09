@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
 /**
  * General
  * ----------------------------------------------------------------------------
@@ -935,7 +937,8 @@ img {
   flex-direction: column;
 }
 
-.beer_pump_clip {
+.beer_pump_clip{
+  position: relative;
   margin: auto;
   margin-left: auto;
   display: block;
@@ -951,3 +954,17 @@ img {
   margin-bottom: 0;
 }
 
+.blank_pump_clip {
+  position: absolute;
+  width: 100%;
+  top: 5%;
+  left: 0;
+  text-align: center;
+  color: #fff;
+  font-family: 'Kalam', cursive;
+  font-size: 1.4rem;
+}
+
+.blank_pump_clip_abv {
+  font-size: 1rem;
+}

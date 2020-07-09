@@ -29,7 +29,7 @@ collections:
               - label: Beer Image
                 name: beer_image
                 widget: image
-                default: ../images/blank.png
+                default: blank.png
               - label: Beer Price
                 name: beer_price
                 widget: number

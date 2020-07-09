@@ -27,7 +27,7 @@ beers:
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: static/images/blank.png
+  - beer_image: /images/blank.png
     beer_name: Bitter
     beer_brewery: Barn Door
     beer_abv: 3.8

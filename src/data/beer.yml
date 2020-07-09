@@ -51,3 +51,9 @@ beers:
     beer_abv: 5.5
     beer_price: 3.3
     beer_coming_soon: true
+  - beer_image: ../static/images/blank.png
+    beer_name: Flapping About
+    beer_brewery: Barn Door
+    beer_abv: 8.8
+    beer_price: 4.5
+    beer_coming_soon: true

@@ -20,6 +20,7 @@ export default class DrinksList extends React.Component {
                 {_.map(beerOnNow, (beer, beer_idx) => (
                     <div className="beer_on_now_item" key={beer_idx}>
                         {console.log(beer.beer_image)}
+                        {beer.beer_image === '/images/blank.png' ? console.log("blank image found"): console.log("Blank image not found")}
                         <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
                         <span className="beer_info">
                             {beer.beer_name} by {beer.beer_brewery}<br />
@@ -36,6 +37,9 @@ export default class DrinksList extends React.Component {
                 {_.map(beerComingSoon, (beer, beer_idx) => (
                     
                     <div className="beer_coming_soon_item" key={beer_idx}>
+                        {console.log(beer.beer_image)}
+                    {beer.beer_image === '/images/blank.png' ? console.log("blank image found"): console.log("Blank image not found")}
+                    
                         <span className="beer_pump_clip"><img src={beer.beer_image} /></span>
                         <span className="beer_info">
                         {beer.beer_name} by {beer.beer_brewery}<br />

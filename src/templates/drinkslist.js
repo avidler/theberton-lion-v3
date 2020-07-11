@@ -34,8 +34,8 @@ export default class DrinksList extends React.Component {
 
                         <span className="beer_info">
                             {beer.beer_name} by {beer.beer_brewery}<br />
-                            {beer.beer_abv}%
-                            £{beer.beer_price.toFixed(2)}
+                            <span className="beer_info_abv">{beer.beer_abv}%</span>
+                            <span className="beer_info_price">£{beer.beer_price.toFixed(2)}</span>
                         </span>
                     
                     </div>
@@ -62,8 +62,8 @@ export default class DrinksList extends React.Component {
 
                         <span className="beer_info">
                         {beer.beer_name} by {beer.beer_brewery}<br />
-                        {beer.beer_abv}%
-                        £{beer.beer_price.toFixed(2)}
+                        <span className="beer_info_abv">{beer.beer_abv}%</span>
+                        <span className="beer_info_price">£{beer.beer_price.toFixed(2)}</span>
                         </span>
                     </div>
                 ))}

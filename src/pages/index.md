@@ -45,7 +45,7 @@ sections:
       traditional, freshly made meals, The Theberton Lion also boasts
       comfortable visitor accommodation allowing it to serve locals and visitors
       to the Suffolk Heritage Coast alike. Proprietor & Landlord Tom Lagden and
-      his team look forward to serving you soon.
+      his team look forward to serving you soon. Testing development branch.
   - type: section_events
     section_id: event_section
     component: SectionEvents

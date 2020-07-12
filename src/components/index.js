@@ -20,6 +20,7 @@ import SectionWelcome from './SectionWelcome';
 import SectionSpecialMessage from './SectionSpecialMessage';
 import SectionEvents from './SectionEvents';
 import SectionNewsletterSignup from './SectionNewsletterSignup';
+import FullBeerList from './FullBeerList';
 
 export {
     ActionLink,
@@ -43,7 +44,8 @@ export {
     SectionWelcome,
     SectionEvents,
     SectionNewsletterSignup,
-    SectionSpecialMessage
+    SectionSpecialMessage,
+    FullBeerList
 };
 
 export default {
@@ -68,5 +70,6 @@ export default {
     SectionWelcome,
     SectionEvents,
     SectionNewsletterSignup,
-    SectionSpecialMessage
+    SectionSpecialMessage,
+    FullBeerList
 };

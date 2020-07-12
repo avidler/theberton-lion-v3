@@ -1,5 +1,5 @@
 ---
 title: Drinks
-template: page
+template: drinkslist
 ---
 New drinks list coming soon...

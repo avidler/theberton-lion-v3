@@ -2,4 +2,4 @@
 title: Drinks
 template: drinkslist
 ---
-New drinks list coming soon...
+New drinks list coming soon..

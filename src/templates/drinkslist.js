@@ -15,7 +15,7 @@ export default class DrinksList extends React.Component {
         return (
             <Layout {...this.props}>
             <div className="container">
-                <h3>Beer On Now</h3>
+                <h3>Real Ale On Now</h3>
                 <div className="beer_on_now">
                 {_.map(beerOnNow, (beer, beer_idx) => (
                     <div className="beer_on_now_item" key={beer_idx}>
@@ -41,7 +41,7 @@ export default class DrinksList extends React.Component {
                     </div>
                 ))}
                 </div>
-                <h3>Beer Coming Soon</h3>
+                <h3>Real Ale Coming Soon</h3>
                 <div className="beer_coming_soon">
                 
                 {_.map(beerComingSoon, (beer, beer_idx) => (
@@ -68,6 +68,8 @@ export default class DrinksList extends React.Component {
                     </div>
                 ))}
                 </div>
+                
+
             </div>
             </Layout>
         );

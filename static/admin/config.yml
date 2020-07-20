@@ -4,8 +4,8 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - label: Beer List
-    name: beers
+  - label: Drinks List
+    name: drinks
     files:
       - name: beers
         label: Beer List

@@ -3,33 +3,34 @@ beers:
     beer_brewery: Darkstar
     beer_abv: 3.8
     beer_image: /images/hophead.png
-    beer_price: 3.8
+    beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Affinity
-    beer_brewery: Lacons
-    beer_abv: 4.8
-    beer_image: /images/affinity.png
-    beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
-  - beer_name: Imperial Black Horse Stout
-    beer_brewery: Briarbank
-    beer_abv: 8.6
-    beer_image: /images/blackhorse.jpg
-    beer_price: 4.2
+  - beer_name: Summer Lightning
+    beer_brewery: Hop Back
+    beer_abv: 5
+    beer_image: /images/summerlightning.png
+    beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Hereford Pale Ale
-    beer_brewery: Wye Valley
-    beer_abv: 4
-    beer_image: /images/hpa.png
+  - beer_name: Atomic Splitter
+    beer_brewery: City Of Cambridge
+    beer_abv: 4.5
+    beer_image: /images/atom-splitter.png
+    beer_price: 3.5
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_name: Gospel Oak
+    beer_brewery: Star Wing
+    beer_abv: 3.8
+    beer_image: /images/gospel-oak.jpeg
     beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
-  - beer_image: ../images/blank.png
-    beer_name: Invisible Ale
-    beer_brewery: Lammas
-    beer_abv: 3.5
-    beer_price: 2.5
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
+    beer_brewery: Green Jack
+    beer_abv: 4.6
+    beer_price: 3.5
+    beer_coming_soon: false
+    beer_on_now: true

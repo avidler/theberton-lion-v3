@@ -5,6 +5,7 @@ const moment = require('moment')
 
 export default class SectionEvents extends React.Component {
     render() {
+    //console.log("pageContext.site",pageContext.site)
     let newEventsList = _.get(this.props, 'pageContext.site.data.events')
     console.log("newEventsList: ", newEventsList)
     let section = _.get(this.props, 'section');

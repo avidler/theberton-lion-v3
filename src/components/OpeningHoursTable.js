@@ -9,7 +9,7 @@ export default class OpeningHoursTable extends React.Component {
            
             <>
                 <h5>Our Opening Hours</h5>
-                  <div class="openingHours">
+                  <div className="openingHours">
                     <p>Monday 
                         <span>
                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.monday.monday_afternoon_open')} –&nbsp; 

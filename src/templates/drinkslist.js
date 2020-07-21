@@ -6,7 +6,9 @@ import components, {Layout} from '../components/index';
 export default class DrinksList extends React.Component {
      
     render() {
+        
         const beerList = _.get(this.props, 'pageContext.site.data.beer.beers')
+        console.log("Beer props", this.props)
         console.log("beerList", beerList)
         const beerOnNow = beerList.filter(a => a.beer_on_now)
         const beerComingSoon = beerList.filter(a => a.beer_coming_soon)

@@ -14,12 +14,12 @@ export default class SectionLiveAleList extends React.Component {
             <div className="container" id="live_ale_list">
             <h2 className="page-title">{`${section.title}`}</h2>
             <h3>Real Ale On Now</h3>
-                <div className="beer_on_now">
+                <div className="beer_on_now live_beer_on_now">
                 {_.map(beerOnNow, (beer, beer_idx) => (
-                    <div className="beer_on_now_item" key={beer_idx}>
+                    <div className="beer_on_now_item live_beer_on_now_item" key={beer_idx}>
    
                       
-                        <span className="beer_pump_clip">
+                        <span className="beer_pump_clip live_beer_pump_clip">
                             <img src={beer.beer_image} alt="beer pump clip"/>
                                 {beer.beer_image === '../images/blank.png' ? 
                                     <span className="blank_pump_clip">
@@ -30,21 +30,23 @@ export default class SectionLiveAleList extends React.Component {
                                 :console.log("Blank image not found")}                        
                         </span>
 
-                        <span className="beer_info">
-                            {beer.beer_name} by {beer.beer_brewery}<br />
-                            <span className="beer_info_abv">{beer.beer_abv}%</span>
-                            <span className="beer_info_price">£{beer.beer_price.toFixed(2)}</span>
+                        <span className="beer_info live_beer_info">
+                            <span className="beer_info_name">{beer.beer_name} by {beer.beer_brewery}</span>
+                            <span className="beer_info_extras live_beer_info_extras">
+                                <span className="beer_info_abv live_beer_info_abv">{beer.beer_abv}%</span>
+                                <span className="beer_info_price live_beer_info_price">£{beer.beer_price.toFixed(2)}</span>
+                            </span>
                         </span>
                     
                     </div>
                 ))}
                 </div>
-                <h3>Real Ale Coming Soon</h3>
-                <div className="beer_coming_soon">
                 
+                <div className="beer_coming_soon">
+                <h3>Real Ale Coming Soon</h3>
                 {_.map(beerComingSoon, (beer, beer_idx) => (
                     
-                    <div className="beer_coming_soon_item" key={beer_idx}>
+                    <div className="beer_coming_soon_item live_beer_coming_soon_item" key={beer_idx}>
                    
                     
                         <span className="beer_pump_clip">
@@ -62,6 +64,7 @@ export default class SectionLiveAleList extends React.Component {
                         {beer.beer_name} by {beer.beer_brewery}<br />
                         <span className="beer_info_abv">{beer.beer_abv}%</span>
                         <span className="beer_info_price">£{beer.beer_price.toFixed(2)}</span>
+
                         </span>
                     </div>
                 ))}

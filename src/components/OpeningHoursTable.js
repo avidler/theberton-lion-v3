@@ -12,11 +12,7 @@ export default class OpeningHoursTable extends React.Component {
                   <div className="openingHours">
                     <p>Monday 
                         <span>
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.monday.monday_afternoon_open')} –&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.monday.monday_afternoon_close')} |&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.monday.monday_evening_open')} –&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.monday.monday_evening_close')}
-                        </span>
+                        CLOSED </span>
                     </p>
                     <p>Tuesday 
                         <span>
@@ -53,17 +49,13 @@ export default class OpeningHoursTable extends React.Component {
                     <p>Saturday 
                         <span>
                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_afternoon_open')} –&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_afternoon_close')} |&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_evening_open')} –&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_evening_close')}
+                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_afternoon_close')} 
                         </span>
                     </p>
                     <p>Sunday 
                         <span>
                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.sunday.sunday_afternoon_open')} –&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.sunday.sunday_afternoon_close')} |&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.sunday.sunday_evening_open')} –&nbsp; 
-                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.sunday.sunday_evening_close')}
+                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.sunday.sunday_afternoon_close')}
                         </span>
                     </p>                                                                                        
                     

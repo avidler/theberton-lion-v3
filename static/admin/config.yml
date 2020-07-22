@@ -720,6 +720,9 @@ collections:
               - label: Content
                 name: body
                 widget: markdown
+          - name: section_live_ale_list
+            widget: object
+            label: Live Ale List Section
           - name: section_welcome
             widget: object
             label: Welcome Section

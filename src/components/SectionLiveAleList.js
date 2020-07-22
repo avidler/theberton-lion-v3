@@ -1,20 +1,19 @@
 import React from 'react';
 import _ from 'lodash';
 
-import components, {Layout} from '../components/index';
 
-export default class DrinksList extends React.Component {
-     
+export default class SectionLiveAleList extends React.Component {
+    
     render() {
-        
+        let section = _.get(this.props, 'section');
         const beerList = _.get(this.props, 'pageContext.site.data.beer.beers')
         const beerOnNow = beerList.filter(a => a.beer_on_now)
         const beerComingSoon = beerList.filter(a => a.beer_coming_soon)
-
-        return (
-            <Layout {...this.props}>
-            <div className="container">
-                <h3>Real Ale On Now</h3>
+    return (
+        <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
+            <div className="container" id="live_ale_list">
+            <h2 className="page-title">{`${section.title}`}</h2>
+            <h3>Real Ale On Now</h3>
                 <div className="beer_on_now">
                 {_.map(beerOnNow, (beer, beer_idx) => (
                     <div className="beer_on_now_item" key={beer_idx}>
@@ -67,10 +66,8 @@ export default class DrinksList extends React.Component {
                     </div>
                 ))}
                 </div>
-                
-
             </div>
-            </Layout>
-        );
-    }
+        </section>
+    )
+}
 }

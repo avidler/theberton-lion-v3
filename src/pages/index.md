@@ -1,13 +1,6 @@
 ---
 title: Home
 sections:
-  - type: section_live_ale_list
-    title: Live Ale List
-    
-  - type: section_special_message
-    title: We have Reopened!
-    content: |-
-      
   - type: section_quotes
     section_id: quote_section
     quote:
@@ -23,6 +16,12 @@ sections:
       - text: Reopening - Saturday 4th July All Day!
         author: Book a Table - 01728 830185
         image: /images/4-1600x725.jpg
+  - type: section_live_ale_list
+    title: Live Ale List
+  - type: section_special_message
+    title: We have Reopened!
+    content: ""
+    body: content
   - type: section_services
     section_id: service_section
     service_section:

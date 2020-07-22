@@ -723,6 +723,10 @@ collections:
           - name: section_live_ale_list
             widget: object
             label: Live Ale List Section
+            fields:
+              - label: Live Ale List Title
+                name: title
+                widget: string
           - name: section_welcome
             widget: object
             label: Welcome Section

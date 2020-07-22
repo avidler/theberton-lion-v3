@@ -21,6 +21,7 @@ import SectionSpecialMessage from './SectionSpecialMessage';
 import SectionEvents from './SectionEvents';
 import SectionNewsletterSignup from './SectionNewsletterSignup';
 import FullBeerList from './FullBeerList';
+import SectionLiveAleList from './SectionLiveAleList';
 
 export {
     ActionLink,
@@ -45,7 +46,8 @@ export {
     SectionEvents,
     SectionNewsletterSignup,
     SectionSpecialMessage,
-    FullBeerList
+    FullBeerList,
+    SectionLiveAleList
 };
 
 export default {
@@ -71,5 +73,6 @@ export default {
     SectionEvents,
     SectionNewsletterSignup,
     SectionSpecialMessage,
-    FullBeerList
+    FullBeerList,
+    SectionLiveAleList
 };

@@ -11,6 +11,11 @@
         "url": "/"
       },
       {
+        "new_window": true,
+        "label": "Drinks",
+        "url": "/drinks"
+      },
+      {
         "label": "Accommodation",
         "url": "/accommodation"
       },

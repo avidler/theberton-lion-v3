@@ -5,6 +5,7 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
+      <script src="https://use.fontawesome.com/342f0daea8.js"></script>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>

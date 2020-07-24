@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import ActionLink from './ActionLink';
 
 import {Link, safePrefix, classNames} from '../utils';
 
@@ -41,6 +42,8 @@ export default class Header extends React.Component {
                     <p className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></p>
                     }
                   </div>
+                    <div class="nav-and-social">
+
                   {(_.get(this.props, 'pageContext.site.siteMetadata.header.nav_links') && _.get(this.props, 'pageContext.site.siteMetadata.header.has_nav')) && <React.Fragment>
                   <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
                     <div className="site-nav-inside">
@@ -60,7 +63,18 @@ export default class Header extends React.Component {
                   <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-menu"
                       aria-hidden="true" /></button>
                   </React.Fragment>}
+                  {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && 
+                        <div className="social-nav">
+                          <ul className="social-links">
+                           <li><a href="https://www.facebook.com/thebertonlion" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                           <li><a href="https://twitter.com/thebertonlion?lang=en" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                          
+                          </ul>
+                        </div>
+                        }
+                        </div>
                 </div>
+             
               </div>
             </header>
         );

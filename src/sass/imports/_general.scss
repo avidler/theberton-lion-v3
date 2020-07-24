@@ -684,6 +684,10 @@ img {
  }
 }
 
+h2.page-title {
+  margin-top: 0.5rem !important;
+}
+
 /* Welcome Section */
 
 #welcome, #special_message {
@@ -691,7 +695,7 @@ img {
   padding: 20px;
 
   h2.page-title {
-    margin: 25px auto; width: 100%; text-align: center; color: rgb(204, 91, 68); text-transform: uppercase; line-height: 38px; font-size: 45px; font-weight: 600; display: block; position: relative;
+    margin: 25px auto; margin-top: 0.5rem !important; width: 100%; text-align: center; color: rgb(204, 91, 68); text-transform: uppercase; line-height: 38px; font-size: 45px; font-weight: 600; display: block; position: relative;
   }
   .page-title::before {
     left: 0px; 

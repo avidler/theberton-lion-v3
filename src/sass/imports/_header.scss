@@ -73,8 +73,8 @@ border: 1px solid rgb(255, 255, 255);
 
   .menu-item {
     display: inline-block;
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 1rem;
+    line-height: 2;
     margin: 0 0 0 10px;
 
     &.current-menu-item {
@@ -199,6 +199,7 @@ border: 1px solid rgb(255, 255, 255);
     a:not(.button) {
       display: block;
       padding: 0.83333rem 0;
+      color: #2c2722;
     }
 
     .button {
@@ -261,4 +262,55 @@ border: 1px solid rgb(255, 255, 255);
   .site-navigation {
     width: 100%;
   }
+}
+
+.nav-and-social {
+  width: 100%;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+
+}
+
+@media only screen and (max-width: 360px) {
+  .nav-and-social {
+    flex-direction: column;
+   }
+}
+
+
+.social-nav {
+  display: inline-block;
+  margin-left: auto;
+  height: 0%;
+  flex: none !important;
+  margin-top: 1rem;
+}
+
+
+
+.social-nav ul li {
+  float: left;
+  padding-left: 0.75em;
+
+}
+
+.social-nav ul li a {
+
+  color: #e5e4e4;
+}
+
+.fa {
+  font-size: 1.5rem;
+}
+
+.icon-menu,
+.icon-menu::before,
+.icon-menu::after {
+  background-color: #e5e4e4;
+}
+
+@media only screen and (max-width: 800px) {
+  .social-nav{ padding-right: 0 !important;}
 }

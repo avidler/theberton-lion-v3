@@ -130,6 +130,88 @@ collections:
                 name: dessert_vegetarian
                 widget: boolean
                 required: false
+      - name: lunch
+        label: Lunch Menu
+        file: src/data/lunch.yml  
+        fields:
+          - label: Rolls
+            name: lunch_rolls
+            widget: object
+            fields:
+              - label: Rolls Description
+                name: rolls_description
+                widget: text
+              - label: Rolls Varieties
+                name: rolls_varieties
+                widget: list
+                fields:
+                  - label: Roll Filling
+                    name: roll_filling
+                    widget: string   
+                  - label: Roll Price
+                    name: roll_price
+                    widget: number
+                    valuetype: float
+          - label: Other Lunches
+            name: other_lunches
+            widget: list
+            fields:
+              - label: Other Lunch Name
+                name: other_lunch_name
+                widget: string
+              - label: Other Lunch Description
+                name: other_lunch_description
+                widget: text
+              - label: Other Lunch Price
+                name: other_lunch_price
+                widget: number
+                valuetype: float
+          - label: Jacket Potatoes
+            name: jacket_potatoes
+            widget: object
+            fields: 
+              - label: Jacket Potato Title
+                name: jacket_potato_title
+                widget: string
+              - label: Jacket Potato Description
+                name: jacket_potato_description
+                widget: text
+              - label: Jacket Potato Varieties
+                name: jacket-ptoato_varieties
+                widget: list
+                fields:
+                  - label: Jacket Potato Variety Name
+                    name: jacket_potato_variety_name
+                    widget: string
+                  - label: Jacket Potato Variety Price
+                    name: jacket_potato_variety_price
+                    widget: number
+                    valuetype: float
+      - name: snacks
+        label: Snacks
+        file: src/data/snacks.yml
+        fields:
+          - label: Snacks Intro
+            name: snacks_intro
+            widget: text
+          - label: Snacks List
+            name: snack_list
+            widget: list
+            fields:
+              - label: Snack Brand Logo
+                name: snack_brand_logo
+                widget: image
+              - label: Snack Brand List
+                name: snack_brand_list
+                widget: list
+                fields:
+                  - label: Snack Brand Variety Name
+                    name: snack_brand_variety_name  
+                    widget: string
+                  - label: Snack Brand Variety Price
+                    name: snack_brand_variety_price 
+                    widget: number
+                    valuetype: float           
   - label: Drinks List
     name: drinks
     files:

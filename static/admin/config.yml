@@ -8,7 +8,7 @@ collections:
     name: food
     files:    
       - name: specials
-        label: specials
+        label: Specials
         file: src/data/specials.yml
         fields:
           - label: Specials Active
@@ -16,9 +16,8 @@ collections:
             widget: boolean
           - label: Specials List
             name: specials_list
-            fields: 
-              - widget: list
-                name: specials
+            widget: list
+              - name: specials
                 label: Specials
                 fields:
                   - label: Special Name

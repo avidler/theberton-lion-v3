@@ -1,0 +1,4 @@
+starters:
+  - starter_name: Starter 1
+    starter_description: A Yummy Starter
+    starter_price: "4.99"

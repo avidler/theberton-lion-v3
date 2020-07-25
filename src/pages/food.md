@@ -1,7 +1,7 @@
 ---
 title: Food
 image: ""
-template: page
+template: food
 ---
 New Menu Coming Soon...
 

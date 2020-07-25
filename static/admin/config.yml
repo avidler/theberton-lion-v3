@@ -4,6 +4,43 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
+  - label: Food Menus
+    name: food
+    files:
+      - name: starters
+        label: Starter List
+        file: src/data/starters.yml
+        fields:
+          - widget: list
+            name: starters
+            label: Starters
+            fields:
+              - label: Starter Name
+                name: starter_name
+                widget: string
+              - label: Starter Description
+                name: starter_description
+                widget: string
+              - label: Starter Price
+                name: starter_price
+                widget: string
+      - name: mains
+        label: Main Course List
+        file: src/data/mains.yml
+        fields:
+          - widget: list
+            name: mains
+            label: Mains
+            fields:
+              - label: Main Course Name
+                name: main_course_name
+                widget: string
+              - label: Main Course Description
+                name: main_course_description
+                widget: string
+              - label: Main Course Price
+                name: main_course_price
+                widget: string              
   - label: Drinks List
     name: drinks
     files:

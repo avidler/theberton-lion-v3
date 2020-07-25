@@ -26,11 +26,10 @@ export default class FoodMenu extends React.Component {
                         <span className="litebite_info">
                             {litebite.litebite_name}<br />
                             <span className="litebite_info_desc">{litebite.litebite_description}</span>
-<<<<<<< HEAD
                             <span className="litebite_info_price">£{litebite.litebite_price.toFixed(2)}</span>
-=======
-                            <span className="litebite_info_price">£{starter.litebite_price.toFixed(2)}</span>
->>>>>>> 08188ef... added more menu categories
+
+                            <span className="litebite_info_price">£{litebite.litebite_price.toFixed(2)}</span>
+
                         </span>
                     
                         </div>

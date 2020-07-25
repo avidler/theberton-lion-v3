@@ -7,16 +7,15 @@ collections:
   - label: Food Menus
     name: food
     files:    
-      - widget: object
-        name: specials
+      - name: specials
         label: specials
+        file: src/data/specials.yml
         fields:
           - label: Specials Active
             name: specials_active
             widget: boolean
           - label: Specials List
             name: specials_list
-            file: src/data/specials.yml
             fields: 
               - widget: list
                 name: specials

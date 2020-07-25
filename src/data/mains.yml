@@ -1,0 +1,4 @@
+mains:
+  - main_course_name: Main 1
+    main_course_description: A yummy main course
+    main_course_price: 12.50

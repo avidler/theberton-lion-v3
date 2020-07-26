@@ -1,0 +1,9 @@
+snacks_intro: "At The Theberton Lion we pride ourselves on offering a range of
+  bar snacks to suit all tastes. "
+snack_list:
+  - snack_brand_logo: /images/fairfields-farm-crisps-border-1000x700.jpg
+    snack_brand_list:
+      - snack_brand_variety_name: Fairfield Farm Lightly Sea Salted
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: "Fairfield Farm Farmhouse Cheese & Chives Crisps "
+        snack_brand_variety_price: 1

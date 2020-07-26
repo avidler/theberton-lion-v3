@@ -178,7 +178,7 @@ collections:
                 name: jacket_potato_description
                 widget: text
               - label: Jacket Potato Varieties
-                name: jacket-ptoato_varieties
+                name: jacket_potato_varieties
                 widget: list
                 fields:
                   - label: Jacket Potato Variety Name

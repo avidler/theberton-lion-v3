@@ -1,0 +1,34 @@
+lunch_rolls:
+  rolls_description: Choose from a Fresh Rustic Roll or Ciabatta with any of the
+    following follings. Served with chunky chips and a salad garnish
+  rolls_varieties:
+    - roll_filling: Suffolk Ham & Mustard
+      roll_price: 6.95
+    - roll_filling: Tuna Mayonnaise & Capers
+      roll_price: 6.95
+    - roll_filling: Brie & Crispy Bacon
+      roll_price: 6.95
+    - roll_filling: Cheddar & Chutney
+      roll_price: 6.95
+    - roll_filling: Prawn & Marie Rose Sauce
+      roll_price: 6.95
+    - roll_filling: Hot Sausage & Red Onion
+      roll_price: 7.95
+other_lunches:
+  - other_lunch_name: Suffolk Cheese Ploughman's
+    other_lunch_description: A trio of local cheeses served alongside a hearty
+      salad, apple, pickled onion, chutney and rustic bread.
+    other_lunch_price: 8.95
+jacket_potatoes:
+  jacket_potato_title: Filled Jacket Potatoes
+  jacket_potato_description: Enjoy a generously filled potato baked and served
+    with butter and a crispy side salad.
+  jacket-ptoato_varieties:
+    - jacket_potato_variety_name: Beef Chilli
+      jacket_potato_variety_price: 6.95
+    - jacket_potato_variety_name: Tuna Mayonnaise
+      jacket_potato_variety_price: 5.95
+    - jacket_potato_variety_name: Brie & Crispy Bacon
+      jacket_potato_variety_price: 5.95
+    - jacket_potato_variety_name: Cheddar & Beans
+      jacket_potato_variety_price: 5.95

@@ -213,6 +213,37 @@ collections:
                     name: snack_brand_variety_price 
                     widget: number
                     valuetype: float           
+      - name: menu_taster_evening
+        label: Menu Taster Evening
+        file: src/data/taster.yml
+        fields:
+          - label: Taster Evening Active
+            name: taster_evening_active
+            widget: boolean
+          - label: Taster Evening Date
+            name: taster_evening_date
+            widget: string
+          - label: Taster Evening Appetisers
+            name: taster_evening_appetisers
+            widget: list
+            fields:
+              - label: Taster Evening Appetiser Name
+                name: taster_evening_appetiser_name
+                widget: string
+          - label: Taster Evening Mains
+            name: taster_evening_mains
+            widget: list
+            fields:
+              - label: Taster Evening Main Name
+                name: taster_evening_main_name
+                widget: string
+          - label: Taster Evening Desserts
+            name: taster_evening_desserts
+            widget: list
+            fields:
+              - label: Taster Evening Dessert Name
+                name: taster_evening_dessert_name
+                widget: string
   - label: Drinks List
     name: drinks
     files:

@@ -199,11 +199,14 @@ collections:
             name: snack_list
             widget: list
             fields:
+              - label: Snack Brand Name
+                name: snack_brand_name
+                widget: string
               - label: Snack Brand Logo
                 name: snack_brand_logo
                 widget: image
-              - label: Snack Brand List
-                name: snack_brand_list
+              - label: Snack Brand Variety
+                name: snack_brand_Variety
                 widget: list
                 fields:
                   - label: Snack Brand Variety Name

@@ -7,3 +7,5 @@ snack_list:
         snack_brand_variety_price: 1
       - snack_brand_variety_name: "Fairfield Farm Farmhouse Cheese & Chives Crisps "
         snack_brand_variety_price: 1
+      - snack_brand_variety_name: Fairfield Farm Farmhouse Sea Salt & Aspalls Cider Vinegar
+        snack_brand_variety_price: 1

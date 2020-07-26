@@ -27,7 +27,7 @@ collections:
               - label: Special Price
                 name: special_price
                 widget: number
-                valuetype: float                       
+                valueType: float                       
       - name: lite_bites_list
         label: Lite Bites List
         file: src/data/litebites.yml
@@ -45,7 +45,7 @@ collections:
               - label: Lite Bite Price
                 name: lite_bite_price
                 widget: number
-                valuetype: float
+                valueType: float
               - label: Vegan
                 name: lite_bite_vegan
                 widget: boolean
@@ -68,7 +68,7 @@ collections:
               - label: Side Dish Price
                 name: side_dish_price
                 widget: number
-                valuetype: float
+                valueType: float
       - name: sunday_lunch
         label: Sunday Lunch
         file: src/data/sunday.yml
@@ -93,7 +93,7 @@ collections:
               - label: Main Course Price
                 name: main_course_price
                 widget: number
-                valuetype: float 
+                valueType: float 
               - label: Vegan
                 name: main_course_vegan
                 widget: boolean
@@ -119,7 +119,7 @@ collections:
               - label: Dessert Price
                 name: dessert_price
                 widget: number
-                valuetype: float 
+                valueType: float 
               - label: Vegan
                 name: dessert_vegan
                 widget: boolean
@@ -149,7 +149,7 @@ collections:
                   - label: Roll Price
                     name: roll_price
                     widget: number
-                    valuetype: float
+                    valueType: float
           - label: Other Lunches
             name: other_lunches
             widget: list
@@ -163,7 +163,7 @@ collections:
               - label: Other Lunch Price
                 name: other_lunch_price
                 widget: number
-                valuetype: float
+                valueType: float
           - label: Jacket Potatoes
             name: jacket_potatoes
             widget: object
@@ -184,7 +184,7 @@ collections:
                   - label: Jacket Potato Variety Price
                     name: jacket_potato_variety_price
                     widget: number
-                    valuetype: float
+                    valueType: float
       - name: snacks
         label: Snacks
         file: src/data/snacks.yml
@@ -209,7 +209,7 @@ collections:
                   - label: Snack Brand Variety Price
                     name: snack_brand_variety_price 
                     widget: number
-                    valuetype: float           
+                    valueType: float           
       - name: menu_taster_evening
         label: Menu Taster Evening
         file: src/data/taster.yml

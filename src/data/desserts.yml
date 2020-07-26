@@ -1,0 +1,23 @@
+desserts:
+  - dessert_name: Sour Cherry and Pistachio Meringue Pavlova
+    dessert_price: 5.95
+    dessert_wheat_free: true
+    dessert_vegetarian: true
+  - dessert_name: Tres Leches Cake with Caramelised Banana
+    dessert_description: Served with Honeycomb Ice Cream
+    dessert_price: 5.95
+    dessert_vegetarian: true
+  - dessert_name: Chef’s Chocolate Brownie
+    dessert_description: "with White Chocolate Sauce and Vanilla Ice Cream "
+    dessert_price: 5.95
+    dessert_wheat_free: true
+    dessert_vegetarian: true
+  - dessert_name: "House-Made Bread & Butter Pudding "
+    dessert_description: served with Unlimited Piping Hot Custard
+    dessert_price: 5.95
+    dessert_vegetarian: true
+  - dessert_name: Trio of Ice Cream
+    dessert_description: Please ask for flavours that we have available
+    dessert_price: 4.5
+    dessert_wheat_free: true
+    dessert_vegetarian: true

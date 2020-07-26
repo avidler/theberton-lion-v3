@@ -152,11 +152,7 @@ collections:
                   - label: Roll Price
                     name: roll_price
                     widget: number
-<<<<<<< HEAD
                     valueType: float
-=======
-                    valuetype: float
->>>>>>> 88d2b00... added more menu categories
           - label: Other Lunches
             name: other_lunches
             widget: list

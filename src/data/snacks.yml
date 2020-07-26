@@ -9,3 +9,41 @@ snack_list:
         snack_brand_variety_price: 1
       - snack_brand_variety_name: Fairfield Farm Farmhouse Sea Salt & Aspalls Cider Vinegar
         snack_brand_variety_price: 1
+    snack_brand_name: Fairfield Farm Crisps
+    snack_brand_Variety:
+      - snack_brand_variety_name: Lightly Sea Salted
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: Farmhouse Cheese & Chives
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: Farmhouse Sea Salt & Aspalls Cider Vinegar
+        snack_brand_variety_price: 1
+  - snack_brand_name: Salty Dog
+    snack_brand_Variety:
+      - snack_brand_variety_name: Jumbo Peanuts
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: Dry Roasted Peanuts
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: Cashew Nuts
+        snack_brand_variety_price: 1
+  - snack_brand_name: Gruntled
+    snack_brand_Variety:
+      - snack_brand_variety_name: Pork Scratchings
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: Pickled Egg
+        snack_brand_variety_price: 0.65
+  - snack_brand_name: Twiglets
+    snack_brand_Variety:
+      - snack_brand_variety_name: Bag
+        snack_brand_variety_price: 1
+  - snack_brand_name: Mini Cheddars
+    snack_brand_Variety:
+      - snack_brand_variety_name: Bag
+        snack_brand_variety_price: 0.85
+  - snack_brand_name: Chocolate
+    snack_brand_Variety:
+      - snack_brand_variety_name: Crunchie / Twirl / Galaxy / KitKat / Mars
+        snack_brand_variety_price: 0.85
+      - snack_brand_variety_name: Flapjacks (various)
+        snack_brand_variety_price: 1
+      - snack_brand_variety_name: Tic Tacs
+        snack_brand_variety_price: 0.8

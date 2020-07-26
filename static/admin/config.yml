@@ -42,6 +42,7 @@ collections:
               - label: Lite Bite Description
                 name: lite_bite_description
                 widget: text
+                required: false
               - label: Lite Bite Price
                 name: lite_bite_price
                 widget: number

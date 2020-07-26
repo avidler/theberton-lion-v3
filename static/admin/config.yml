@@ -91,6 +91,7 @@ collections:
               - label: Main Course Description
                 name: main_course_description
                 widget: text
+                required: false
               - label: Main Course Price
                 name: main_course_price
                 widget: number
@@ -117,6 +118,7 @@ collections:
               - label: Dessert Description
                 name: dessert_description
                 widget: text
+                required: false
               - label: Dessert Price
                 name: dessert_price
                 widget: number

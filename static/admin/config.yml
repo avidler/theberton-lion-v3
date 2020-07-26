@@ -18,19 +18,16 @@ collections:
             name: specials_list
             widget: list
             fields:
-              - name: specials
-                label: Specials
-                fields:
-                  - label: Special Name
-                    name: special_name
-                    widget: string
-                  - label: Special Description
-                    name: special_description
-                    widget: text
-                  - label: Special Price
-                    name: special_price
-                    widget: number
-                    valuetype: float                       
+              - label: Special Name
+                name: special_name
+                widget: string
+              - label: Special Description
+                name: special_description
+                widget: text
+              - label: Special Price
+                name: special_price
+                widget: number
+                valuetype: float                       
       - name: lite_bites_list
         label: Lite Bites List
         file: src/data/litebites.yml

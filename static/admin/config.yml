@@ -46,8 +46,8 @@ collections:
                 name: lite_bite_price
                 widget: number
                 valueType: float
-              - label: Vegan
-                name: lite_bite_vegan
+              - label: Lite Bite Wheat Free
+                name: lite_bite_wheat_free
                 widget: boolean
                 required: false
               - label: Vegetarian
@@ -94,8 +94,8 @@ collections:
                 name: main_course_price
                 widget: number
                 valueType: float 
-              - label: Vegan
-                name: main_course_vegan
+              - label: Wheat Free
+                name: main_course_wheat_free
                 widget: boolean
                 required: false
               - label: Vegetarian
@@ -120,8 +120,8 @@ collections:
                 name: dessert_price
                 widget: number
                 valueType: float 
-              - label: Vegan
-                name: dessert_vegan
+              - label: Wheat Free
+                name: dessert_wheat_free
                 widget: boolean
                 required: false
               - label: Vegetarian

@@ -6,24 +6,80 @@ public_folder: /images
 collections:
   - label: Food Menus
     name: food
-    files:
-      - name: starters
-        label: Starter List
-        file: src/data/starters.yml
+    files:    
+      - widget: object
+        name: specials
+        label: specials
+        fields:
+          - label: Specials Active
+            name: specials_active
+            widget: boolean
+          - label: Specials List
+            name: specials_list
+            file: src/data/specials.yml
+            fields: 
+              - widget: list
+                name: specials
+                label: Specials
+                fields:
+                  - label: Special Name
+                    name: special_name
+                    widget: string
+                  - label: Special Description
+                    name: special_description
+                    widget: text
+                  - label: Special Price
+                    name: special_price
+                    widget: number
+                    valuetype: float                       
+      - name: lite_bites_list
+        label: Lite Bites List
+        file: src/data/litebites.yml
         fields:
           - widget: list
-            name: starters
-            label: Starters
+            name: lite_bites
+            label: Lite Bites
             fields:
-              - label: Starter Name
-                name: starter_name
+              - label: Lite Bite Name
+                name: lite_bite_name
                 widget: string
-              - label: Starter Description
-                name: starter_description
+              - label: Lite Bite Description
+                name: lite_bite_description
+                widget: text
+              - label: Lite Bite Price
+                name: lite_bite_price
+                widget: number
+                valuetype: float
+              - label: Vegan
+                name: lite_bite_vegan
+                widget: boolean
+                required: false
+              - label: Vegetarian
+                name: lite_bite_vegetarian
+                widget: boolean
+                required: false  
+      - name: side_dishes_list
+        label: Side Dishes List
+        file: src/data/sides.yml
+        fields:
+          - widget: list
+            name: side_dishes
+            label: Side Dishes
+            fields:
+              - label: Side Dish Name
+                name: side_dish_name
                 widget: string
-              - label: Starter Price
-                name: starter_price
-                widget: string
+              - label: Side Dish Price
+                name: side_dish_price
+                widget: number
+                valuetype: float
+      - name: sunday_lunch
+        label: Sunday Lunch
+        file: src/data/sunday.yml
+        fields:
+          - widget: text
+            name: sunday_lunch_description
+            label: Sunday Lunch Description
       - name: mains
         label: Main Course List
         file: src/data/mains.yml
@@ -37,10 +93,45 @@ collections:
                 widget: string
               - label: Main Course Description
                 name: main_course_description
-                widget: string
+                widget: text
               - label: Main Course Price
                 name: main_course_price
-                widget: string              
+                widget: number
+                valuetype: float 
+              - label: Vegan
+                name: main_course_vegan
+                widget: boolean
+                required: false
+              - label: Vegetarian
+                name: main_course_vegetarian
+                widget: boolean
+                required: false
+      - name: desserts
+        label: Dessert List
+        file: src/data/desserts.yml
+        fields:
+          - widget: list
+            name: desserts
+            label: Desserts
+            fields:
+              - label: Dessert Name
+                name: dessert_name
+                widget: string
+              - label: Dessert Description
+                name: dessert_description
+                widget: text
+              - label: Dessert Price
+                name: dessert_price
+                widget: number
+                valuetype: float 
+              - label: Vegan
+                name: dessert_vegan
+                widget: boolean
+                required: false
+              - label: Vegetarian
+                name: dessert_vegetarian
+                widget: boolean
+                required: false
   - label: Drinks List
     name: drinks
     files:

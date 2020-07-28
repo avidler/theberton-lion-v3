@@ -33,7 +33,7 @@ sections:
   - type: section_live_ale_list
     title: Live Ale List
   - type: section_special_message
-    title: We have Reopened!
+    title: Keeping You Safe
     content: ""
     body: content
   - type: section_services

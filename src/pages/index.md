@@ -16,12 +16,6 @@ sections:
       - text: Reopening - Saturday 4th July All Day!
         author: Book a Table - 01728 830185
         image: /images/4-1600x725.jpg
-  - type: section_live_ale_list
-    title: Live Ale List
-  - type: section_special_message
-    title: We have Reopened!
-    content: ""
-    body: content
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion
@@ -36,6 +30,12 @@ sections:
       comfortable visitor accommodation allowing it to serve locals and visitors
       to the Suffolk Heritage Coast alike. Proprietor & Landlord Tom Lagden and
       his team look forward to serving you soon.
+  - type: section_live_ale_list
+    title: Live Ale List
+  - type: section_special_message
+    title: We have Reopened!
+    content: ""
+    body: content
   - type: section_services
     section_id: service_section
     service_section:

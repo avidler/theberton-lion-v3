@@ -11,7 +11,7 @@ beers:
     beer_abv: 5
     beer_image: /images/summerlightning.png
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Grain
     beer_brewery: Oak

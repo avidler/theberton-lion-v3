@@ -33,7 +33,7 @@ beers:
     beer_abv: 3.8
     beer_price: 3.5
     beer_coming_soon: true
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/briarbank-cobnut.jpg
     beer_name: Cobnut
     beer_brewery: Briarbank

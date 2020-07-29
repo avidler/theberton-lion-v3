@@ -7,8 +7,9 @@ mains:
     main_course_description: "Served on a bed of noodles and prawns with a Thai curry sauce "
     main_course_price: 14.95
   - main_course_name: 8oz Prime Ribeye Steak
-    main_course_description: |-
+    main_course_description:
       Served with grilled field mushrooms, beef tomato, side salad & fries.
+
       With your choice of parsley butter or Chef’s mustard sauce.
     main_course_price: 20.95
   - main_course_name: "Tagliatelle with Sun Dried Tomatoes & Basil Pesto "
@@ -16,7 +17,7 @@ mains:
     main_course_price: 11.95
     main_course_vegetarian: true
   - main_course_name: "The Lion’s Legendary Steak & Ale Pie "
-    main_course_description: >
+    main_course_description: |
       A hearty house-made pie served with your choice of chips or mash with
       seasonal vegetables & gravy 
     main_course_price: 14.95

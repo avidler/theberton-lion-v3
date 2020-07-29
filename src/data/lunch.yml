@@ -1,6 +1,6 @@
 lunch_rolls:
   rolls_description: Choose from a Fresh Rustic Roll or Ciabatta with any of the
-    following follings. Served with chunky chips and a salad garnish
+    following fillings. Served with chunky chips and a salad garnish
   rolls_varieties:
     - roll_filling: Suffolk Ham & Mustard
       roll_price: 6.95
@@ -23,7 +23,7 @@ jacket_potatoes:
   jacket_potato_title: Filled Jacket Potatoes
   jacket_potato_description: Enjoy a generously filled potato baked and served
     with butter and a crispy side salad.
-  jacket-ptoato_varieties:
+  jacket_potato_varieties:
     - jacket_potato_variety_name: Beef Chilli
       jacket_potato_variety_price: 6.95
     - jacket_potato_variety_name: Tuna Mayonnaise

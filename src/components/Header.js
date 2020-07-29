@@ -66,8 +66,8 @@ export default class Header extends React.Component {
                   {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && 
                         <div className="social-nav">
                           <ul className="social-links">
-                           <li><a href="https://www.facebook.com/thebertonlion" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                           <li><a href="https://twitter.com/thebertonlion?lang=en" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                           <li><a href="https://www.facebook.com/thebertonlion" target="_blank"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
+                           <li><a href="https://twitter.com/thebertonlion?lang=en" target="_blank"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
                           
                           </ul>
                         </div>

@@ -41,16 +41,16 @@ export default class SectionLiveAleList extends React.Component {
                     </div>
                 ))}
                 </div>
-                
-                <div className="beer_coming_soon">
                 <h3>Real Ale Coming Soon</h3>
+                <div className="beer_coming_soon live_beer_on_now">
+                
                 {_.map(beerComingSoon, (beer, beer_idx) => (
                     
                     <div className="beer_coming_soon_item live_beer_coming_soon_item" key={beer_idx}>
                    
                     
-                        <span className="beer_pump_clip">
-                            <img src={beer.beer_image} alt="beer pump clip"/>
+                        <span className="beer_pump_clip live_beer_pump_clip">
+                            <img src={beer.beer_image} alt="beer pump clip live_beer_pump_clip"/>
                                 {beer.beer_image === '../images/blank.png' ? 
                                     <span className="blank_pump_clip">
                                     {beer.beer_brewery}<br />
@@ -60,11 +60,12 @@ export default class SectionLiveAleList extends React.Component {
                                 :console.log("Blank image not found")}                        
                         </span>
 
-                        <span className="beer_info">
+                        <span className="beer_info live_beer_info">
                         {beer.beer_name} by {beer.beer_brewery}<br />
-                        <span className="beer_info_abv">{beer.beer_abv}%</span>
-                        <span className="beer_info_price">£{beer.beer_price.toFixed(2)}</span>
-
+                        <span className="beer_info_extras live_beer_info_extras">
+                        <span className="beer_info_abv live_beer_info_abv">{beer.beer_abv}%</span>
+                        <span className="beer_info_price live_beer_info_price">£{beer.beer_price.toFixed(2)}</span>
+                        </span>
                         </span>
                     </div>
                 ))}

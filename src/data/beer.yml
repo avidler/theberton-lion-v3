@@ -13,13 +13,13 @@ beers:
     beer_price: 3.5
     beer_on_now: false
     beer_coming_soon: false
-  - beer_name: Grain
-    beer_brewery: Oak
+  - beer_name: Oak
+    beer_brewery: Grain
     beer_abv: 3.8
     beer_image: /images/oak.png
     beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
     beer_abv: 3.8

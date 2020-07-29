@@ -16,6 +16,11 @@
         "url": "/drinks"
       },
       {
+        "new_window": true,
+        "label": "Food",
+        "url": "/food"
+      },
+      {
         "label": "Accommodation",
         "url": "/accommodation"
       },

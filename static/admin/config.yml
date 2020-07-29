@@ -27,7 +27,11 @@ collections:
               - label: Special Price
                 name: special_price
                 widget: number
-                valueType: float                       
+                valueType: float   
+              - label: Special Image
+                name: special_image
+                widget: image
+                required: false                    
       - name: lite_bites_list
         label: Lite Bites List
         file: src/data/litebites.yml
@@ -54,7 +58,11 @@ collections:
               - label: Vegetarian
                 name: lite_bite_vegetarian
                 widget: boolean
-                required: false  
+                required: false 
+              - label: Lite Bite Image
+                name: lite_bite_image
+                widget: image
+                required: false 
       - name: side_dishes_list
         label: Side Dishes List
         file: src/data/sides.yml
@@ -70,6 +78,10 @@ collections:
                 name: side_dish_price
                 widget: number
                 valueType: float
+              - label: Side Dish Image
+                name: side_dish_image
+                widget: image
+                required: false
       - name: sunday_lunch
         label: Sunday Lunch
         file: src/data/sunday.yml
@@ -77,6 +89,10 @@ collections:
           - widget: text
             name: sunday_lunch_description
             label: Sunday Lunch Description
+          - label: Sunday Lunch Image
+            name: sunday_lunch_image
+            widget: image
+            required: false
       - name: mains
         label: Main Course List
         file: src/data/mains.yml
@@ -103,6 +119,10 @@ collections:
               - label: Vegetarian
                 name: main_course_vegetarian
                 widget: boolean
+                required: false
+              - label: Main Course Image
+                name: main_course_image
+                widget: image
                 required: false
       - name: desserts
         label: Dessert List
@@ -131,6 +151,10 @@ collections:
                 name: dessert_vegetarian
                 widget: boolean
                 required: false
+              - label: Dessert Image
+                name: dessert_image
+                widget: image
+                required: false
       - name: lunch
         label: Lunch Menu
         file: src/data/lunch.yml  
@@ -153,6 +177,10 @@ collections:
                     name: roll_price
                     widget: number
                     valueType: float
+              - label: Rolls Image
+                name: rolls_image
+                widget: image
+                required: false
           - label: Other Lunches
             name: other_lunches
             widget: list
@@ -167,6 +195,10 @@ collections:
                 name: other_lunch_price
                 widget: number
                 valueType: float
+              - label: Other Lunch Image
+                name: other_lunch_image
+                widget: image
+                required: false
           - label: Jacket Potatoes
             name: jacket_potatoes
             widget: object
@@ -188,6 +220,10 @@ collections:
                     name: jacket_potato_variety_price
                     widget: number
                     valueType: float
+              - label: Jacket Potato Image
+                name: jacket_potato_image
+                widget: image
+                required: false
       - name: snacks
         label: Snacks
         file: src/data/snacks.yml
@@ -202,6 +238,7 @@ collections:
               - label: Snack Brand Name
                 name: snack_brand_name
                 widget: string
+                required: false
               - label: Snack Brand Logo
                 name: snack_brand_logo
                 widget: image

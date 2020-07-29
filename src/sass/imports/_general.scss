@@ -1062,3 +1062,180 @@ h2.page-title {
 
 
 }
+
+.food {
+  margin-bottom: 1.5rem;
+}
+
+.menuNav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+ 
+    float: left;
+  }
+}
+
+
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  border-radius: 3px;
+  border-image: none;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/* Style the active class, and buttons on mouse-over */
+.active {
+  border: 1px solid #2c2f3b;
+}
+
+.btn:hover {
+  color: #1a1613;
+}
+
+.food_header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin: 1.5rem 0;
+}
+
+@media screen and (max-width:500px)
+{
+  .food_header {
+    flex-direction: column;
+  }
+}
+
+
+.food_header_title {
+  padding-right: 1.5rem;
+}
+
+.menuNav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.food_category {
+  display: inline-flex;
+  flex-direction: column;
+  
+}
+
+.food_item {
+  padding-bottom: 0.5rem;
+}
+
+.food_info {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.food_info_name_and_desc {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  flex: 1 1 auto;
+}
+
+@media screen and (max-width:800px)
+{
+  .food_info_name_and_desc {
+    flex-direction: column;
+  }
+}
+
+.food_info_name {
+  font-size: 1.4rem;
+  padding-right: 0.5rem;
+}
+
+.food_info_desc {
+  font-size: 1.1rem;
+  font-style: italic;
+  padding-right: 1rem;
+}
+
+.food_info_price {
+  font-size: 1.2rem;
+  
+}
+
+.rolls_description,
+.snacks_intro {
+  font-size: 1.4rem;
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+
+.potato_title {
+  font-size: 1.4rem;
+}
+
+.potato_description {
+  font-size: 1.3rem;
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+
+.rolls,
+.potatoes {
+  margin-top: 1em;
+}
+
+.roll_name,
+.roll_price,
+.potato_name,
+.potato_price {
+  font-size: 1.2rem;
+}
+
+.sunday_info_desc {
+  font-size: 1.4rem;
+  font-style: normal;
+}
+
+.snacks {
+  width: 100%;
+}
+
+.snack_items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.snack_info {
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.5em;
+  min-width: 250px;
+}
+
+.snack_brand_variety_name {
+  padding-right: 0.5em;
+}
+
+.snack_item_variety {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.snack_item {
+  margin-right: 1em;
+}

@@ -1,6 +1,6 @@
 lunch_rolls:
   rolls_description: Choose from a Fresh Rustic Roll or Ciabatta with any of the
-    following follings. Served with chunky chips and a salad garnish
+    following fillings. Served with chunky chips and a salad garnish
   rolls_varieties:
     - roll_filling: Suffolk Ham & Mustard
       roll_price: 6.95

@@ -41,6 +41,24 @@
   }
 }
 
+@media only screen and (max-width: 1020px) {
+  .site-footer .container .footer_opening_hours {
+    flex: 2;
+  }
+}
+
+@media only screen and (max-width: 710px) {
+  .site-footer .container .footer_opening_hours {
+    flex: 3;
+  }
+}
+
+@media only screen and (max-width: 645px) {
+  .site-footer .container .footer_opening_hours {
+    flex: 4;
+  }
+}
+
 .footer_section {
   margin-right: 3%;
 }
@@ -188,7 +206,7 @@
 }
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 630px) {
   .site-footer {
     padding-top: 0px;
     .container {
@@ -198,4 +216,10 @@
   .footer_section {
     margin-top: 20px;
   }
+}
+
+@media only screen and (max-width: 250px) {
+.site-footer .container .footer_opening_hours p {
+  font-size: 0.8rem;
+}
 }

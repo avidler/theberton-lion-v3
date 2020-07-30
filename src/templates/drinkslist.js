@@ -1,13 +1,10 @@
 import React from 'react';
 import _ from 'lodash';
 
-import components, {Layout} from '../components/index';
+import {Layout} from '../components/index';
 
 export default class DrinksList extends React.Component {
-    constructor(props) {
-        super(props);
-        
-      }
+    
       componentDidMount() {
         window.scrollTo(0, 0)
       }
@@ -34,7 +31,7 @@ export default class DrinksList extends React.Component {
                                     {beer.beer_name}<br />
                                     <span class="blank_pump_clip_abv">{beer.beer_abv}%</span>
                                     </span>
-                                :console.log("Blank image not found")}                        
+                                :null}                        
                         </span>
 
                         <span className="beer_info">
@@ -62,7 +59,7 @@ export default class DrinksList extends React.Component {
                                     {beer.beer_name}<br />
                                     <span class="blank_pump_clip_abv">{beer.beer_abv}%</span>
                                     </span>
-                                :console.log("Blank image not found")}                        
+                                :null}                        
                         </span>
 
                         <span className="beer_info">

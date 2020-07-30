@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import _ from 'lodash';
 
-import components, {Layout} from '../components/index';
+import {Layout} from '../components/index';
 
 
 
 function FoodMenu (props) {
     const [menuChoice, setMenuChoice] = useState("specials") 
     
-        const allData = _.get(props, 'pageContext.site.data')
+        //const allData = _.get(props, 'pageContext.site.data')
         const specialsList = _.get(props, 'pageContext.site.data.specials.specials_list')
         const litebiteList = _.get(props, 'pageContext.site.data.litebites.lite_bites')
         const sidesList = _.get(props, 'pageContext.site.data.sides.side_dishes')
@@ -222,14 +222,16 @@ for (var i = 0; i < btns.length; i++) {
                 <span className="food_header_title"><h1>Food</h1></span>
                 <span className="food_header_nav">
                 <nav id="menuNav" class="menuNav">
-                    <ul><li className="btn active" onClick={() => setMenuChoice("specials")}>Specials</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("mains")}>Mains</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("litebites")}>Lite Bites</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("sides")}>Sides</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("sunday")}>Sunday Lunch</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("desserts")}>Desserts</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("lunch")}>Lunch</li></ul>
-                    <ul><li className="btn" onClick={() => setMenuChoice("snacks")}>Bar Snacks</li></ul>
+                    <ul>
+                        <li> <button className="btn active" onClick={() => setMenuChoice("specials")}>Specials </button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("mains")}>Mains</button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("litebites")}>Lite Bites</button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("sides")}>Sides</button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("sunday")}>Sunday Lunch</button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("desserts")}>Desserts</button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("lunch")}>Lunch</button></li>
+                        <li> <button className="btn" onClick={() => setMenuChoice("snacks")}>Bar Snacks</button></li>
+                    </ul>
                 </nav>
                 </span>
                 </div>

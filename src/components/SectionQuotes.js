@@ -30,7 +30,7 @@ export default class SectionQuotes extends React.Component {
                     <div id={`quote-${quote_idx}`} className="panel">
                         <div className="quote">
 
-                            <img src={`${quote.image}`} alt="image"/>
+                            <img src={`${quote.image}`} alt="background"/>
                             <div >
                             <span id={`quote-text-${quote_idx}`} className="quote-text">
                                 <span className='quote-style'>{`${quote.text}`}</span>

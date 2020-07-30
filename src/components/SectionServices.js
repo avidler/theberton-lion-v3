@@ -15,7 +15,7 @@ export default class SectionServices extends React.Component {
                        
                         <div id={`service-${service_idx}`} className="service_details panel">
                             <span className="overlay"></span>
-                            <img src={`${service.service_image}`} className="service_image" alt="image"/>
+                            <img src={`${service.service_image}`} className="service_image" alt={`${service.service_name}`}/>
                             <h3><span className="service_name">{`${service.service_name}`}</span></h3>
                         </div>
                         </a>

@@ -2,8 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import OpeningHoursTable from './OpeningHoursTable'
 
-import {Link, safePrefix, htmlToReact} from '../utils';
-import ActionLink from './ActionLink';
+import { safePrefix } from '../utils';
 
 export default class Footer extends React.Component {
     render() {

@@ -21,6 +21,7 @@ function FoodMenu (props) {
         //console.log("allData", allData)
         
         useEffect(() => {
+            window.scrollTo(0, 0)
             var header = document.getElementById("menuNav");
     var btns = header.getElementsByClassName("btn");
 for (var i = 0; i < btns.length; i++) {

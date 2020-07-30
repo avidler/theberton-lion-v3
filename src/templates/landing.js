@@ -4,6 +4,13 @@ import _ from 'lodash';
 import components, {Layout} from '../components/index';
 
 export default class Landing extends React.Component {
+    constructor(props) {
+        super(props);
+        
+      }
+      componentDidMount() {
+        window.scrollTo(0, 0)
+      }
     render() {
         return (
             <Layout {...this.props}>

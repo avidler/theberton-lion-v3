@@ -5,6 +5,13 @@ import {Layout} from '../components/index';
 import {safePrefix, htmlToReact} from '../utils';
 
 export default class Page extends React.Component {
+  constructor(props) {
+    super(props);
+    
+  }
+  componentDidMount() {
+    window.scrollTo(0, 0)
+  }
     render() {
         return (
             <Layout {...this.props}>

@@ -4,7 +4,13 @@ import _ from 'lodash';
 import components, {Layout} from '../components/index';
 
 export default class DrinksList extends React.Component {
-     
+    constructor(props) {
+        super(props);
+        
+      }
+      componentDidMount() {
+        window.scrollTo(0, 0)
+      }
     render() {
         
         const beerList = _.get(this.props, 'pageContext.site.data.beer.beers')

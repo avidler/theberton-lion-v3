@@ -3,8 +3,8 @@ desserts:
     dessert_price: 5.95
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Tres Leches Cake with Caramelised Banana
-    dessert_description: Served with Honeycomb Ice Cream
+  - dessert_name: Tres Leches Cake
+    dessert_description: with Caramelised Banana & Honeycomb Ice Cream
     dessert_price: 5.95
     dessert_vegetarian: true
   - dessert_name: Chef’s Chocolate Brownie
@@ -16,8 +16,8 @@ desserts:
     dessert_description: served with Unlimited Piping Hot Custard
     dessert_price: 5.95
     dessert_vegetarian: true
-  - dessert_name: Trio of Ice Cream
-    dessert_description: Please ask for flavours that we have available
-    dessert_price: 4.5
+  - dessert_name: Landlord's Cheeseboard
+    dessert_description: Cheeses from the region with Crackers & Chutney
+    dessert_price: 7.95
     dessert_wheat_free: true
     dessert_vegetarian: true

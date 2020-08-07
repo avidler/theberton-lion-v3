@@ -15,7 +15,7 @@ export default class Footer extends React.Component {
                   <p>Theberton, Leiston, Suffolk, IP16 4RU</p>
                   <strong className="footer_heading">Phone / Email: </strong>
                   <p>01728 830185</p>
-                  <a title="Email Theberton Lion" href="mailto:bookings@thebertonlion.co.uk">bookings@thebertonlion.co.uk</a>
+                  <a title="Email Theberton Lion" href="mailto:tom@thebertonlion.co.uk">tom@thebertonlion.co.uk</a>
 			            <strong className="footer_heading">Directions: </strong>
                   <a title="Get Directions to the Theberton Lion Pub" href="http://www.thebertonlion.co.uk/#">Click here for directions</a>	
                 </div>

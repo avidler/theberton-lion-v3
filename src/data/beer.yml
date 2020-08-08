@@ -4,7 +4,7 @@ beers:
     beer_abv: 4.2
     beer_image: /images/grain-best-bitter.png
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Summer Lightning
     beer_brewery: Hop Back
@@ -32,20 +32,22 @@ beers:
     beer_brewery: Nene Valley Brewery
     beer_abv: 3.8
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/briarbank-cobnut.jpg
     beer_name: Cobnut
     beer_brewery: Briarbank
     beer_price: 3.5
     beer_abv: 4.2
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/australian-pale.png
     beer_name: Australian Pale
     beer_brewery: Nene Valley Brewery
     beer_abv: 4.4
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/briarbank-perpendicular.png
     beer_name: Perpendicular
     beer_brewery: Briarbank
@@ -63,10 +65,11 @@ beers:
     beer_brewery: Nene Valley Brewery
     beer_abv: 4.1
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/volt.jpg
     beer_name: Volt IPA
     beer_brewery: Woodfordes
     beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false

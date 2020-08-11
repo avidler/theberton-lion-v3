@@ -1,11 +1,11 @@
 beers:
-  - beer_name: Best Bitter
-    beer_brewery: Grain
-    beer_abv: 4.2
-    beer_image: /images/grain-best-bitter.png
+  - beer_name: Golden Jackal
+    beer_brewery: Wolf Brewery
+    beer_abv: 3.7
+    beer_image: /images/golden-jackal.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: Summer Lightning
     beer_brewery: Hop Back
     beer_abv: 5

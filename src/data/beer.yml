@@ -53,7 +53,8 @@ beers:
     beer_brewery: Briarbank
     beer_abv: 4.4
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/woodfordes-reedlighter1.jpg
     beer_name: Reedlifter
     beer_brewery: Woodfordes

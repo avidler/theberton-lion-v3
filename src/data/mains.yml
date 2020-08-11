@@ -37,3 +37,4 @@ mains:
     main_course_description: Pork meatballs served with red cabbage & caramelized potatoes
     main_course_price: 12.95
     main_course_wheat_free: true
+    main_course_image: /images/img_7289.jpg

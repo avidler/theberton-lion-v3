@@ -438,7 +438,7 @@ collections:
           - name: real_cider_title
             label: Real Cider Title
             widget: string
-            name: real_cider_list
+          - name: real_cider_list
             label: Real Cider List
             summary: '{{fields.real_cider_brewery}} - {{fields.real_cider_name}}'
             fields:
@@ -469,7 +469,7 @@ collections:
           - name: craft_ciders_title
             label: Craft Cider Title
             widget: string
-            name: craft_cider_list
+          - name: craft_cider_list
             label: Craft Cider List
             summary: '{{fields.craft_cider_brewery}} - {{fields.craft_cider_name}}'
             fields:

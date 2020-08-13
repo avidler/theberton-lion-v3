@@ -1,0 +1,24 @@
+low_alc_beer_title: No Alcohol & Low Alcohol
+low_alc_beer_list:
+  - low_alc_beer_brewery: Braxzz
+    low_alc_beer_name: Rebel IPA
+    low_alc_beer_location: Ansterdam, Holland
+    low_alc_beer_abv: 0.2
+    low_alc_beer_description: Light in colour with a solid bitter note, yet malty
+      with mineral notes and a light sense of flowers on the nose.
+    low_alc_beer_price: 2.7
+    low_alc_beer_bottlesize: 330
+  - low_alc_beer_brewery: Braxzz
+    low_alc_beer_name: Porter
+    low_alc_beer_location: Amsterdam, Holland
+    low_alc_beer_abv: 0
+    low_alc_beer_description: Strong espresso and chocolate flavours with hints of figs and dates.
+    low_alc_beer_price: 2.7
+    low_alc_beer_bottlesize: 330
+  - low_alc_beer_brewery: Becks
+    low_alc_beer_name: Blue
+    low_alc_beer_location: N/A
+    low_alc_beer_abv: 0
+    low_alc_beer_description: A light, crisp and refreshing lager.
+    low_alc_beer_price: 2.3
+    low_alc_beer_bottlesize: 330

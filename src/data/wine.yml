@@ -87,4 +87,82 @@ wine_categories:
           - wine_price: 17
             wine_size: 75cl bottle
   - wine_category: White
+    wine_category_list:
+      - wine_vineyard: Il Badalisc
+        wine_name: Pinot Grigo
+        wine_location: Castel Boglione, Italy
+        wine_description: A fresh, dry white with wonderful stonefruit and citrus
+          aromas. Crisp and delicate with a balance of honey & citrus to finish.
+        wine_prices:
+          - wine_price: 3.7
+            wine_size: 125ml
+          - wine_price: 4.6
+            wine_size: 175ml
+          - wine_price: 5.8
+            wine_size: 250ml
+          - wine_price: 16.9
+            wine_size: 75cl bottle
+      - wine_vineyard: Robert & Reeves
+        wine_name: Chardonnay
+        wine_location: South Eastern Australia
+        wine_description: Generous and vibrant with ripe, tropical fruit flavours with a
+          burst of peach and melon on the palate.
+        wine_prices:
+          - wine_price: 3.6
+            wine_size: 125ml
+          - wine_price: 4.5
+            wine_size: 175ml
+          - wine_price: 5.6
+            wine_size: 250ml
+          - wine_price: 15.5
+            wine_size: 75cl bottle
+      - wine_vineyard: Honu
+        wine_name: Sauvignon Blanc
+        wine_location: Marlborough, New Zealand
+        wine_description: Fresh, crisp and zesty with aromas of citrus and passionfruit
+          combined with intense flavours of lime and gooseberry.
+        wine_prices:
+          - wine_price: 3.9
+            wine_size: 125ml
+          - wine_price: 4.9
+            wine_size: 175ml
+          - wine_price: 6.4
+            wine_size: 250ml
+          - wine_price: 18
+            wine_size: 75cl bottle
+      - wine_vineyard: Chamin des Pins Marsanne
+        wine_name: Viognier
+        wine_location: Languedoc, France
+        wine_description: A combination of two grape varieties, this exciting blend
+          offers a background of haunting hedgerow blossom, with hints of
+          jasmine supported by refreshing flavours of apricot & peach.
+        wine_prices:
+          - wine_price: 20
+            wine_size: 75cl bottle
+      - wine_vineyard: L'Ormarine
+        wine_name: Picpoul de Pinet
+        wine_location: Languedoc, France
+        wine_description: Yellow with bright highlights, generous notes of citrus. Well
+          balanced & lively on the palate with delicate lemony notes.
+        wine_prices:
+          - wine_price: 20
+            wine_size: 75cl bottle
   - wine_category: Sparkling
+    wine_category_list:
+      - wine_vineyard: Robert & Reeves
+        wine_name: Prosecco
+        wine_location: Veneto, Italy
+        wine_description: Delicate lemon fruit notes with white stone fruit. Refreshing,
+          lively with fine bubbles.
+        wine_prices:
+          - wine_price: 5.5
+            wine_size: 20cl bottle
+          - wine_price: 19.5
+            wine_size: 75cl bottle
+      - wine_vineyard: Moet & Chandon
+        wine_name: Imperial Brut
+        wine_description: Crisp and clean, this classic Champagne shows citrus aromas
+          and hints of biscuity flavours.
+        wine_prices:
+          - wine_price: 62
+            wine_size: 75cl bottle

@@ -342,29 +342,29 @@ collections:
             label: Craft Beers
             summary: '{{fields.craft_beer_brewery}} - {{fields.craft_beer_name}}'
             fields: 
-              - label: craft_beer_brewery
-                name: Craft Beer Brewery
+              - name: craft_beer_brewery
+                label: Craft Beer Brewery
                 widget: string
                 required: false
-              - label: craft_beer_name
-                name: Craft Beer Name
+              - name: craft_beer_name
+                label: Craft Beer Name
                 widget: string
-              - label: craft_beer_brewery_location
-                name: Craft Beer Brewery Location
+              - name: craft_beer_brewery_location
+                label: Craft Beer Brewery Location
                 widget: string
-              - label: craft_beer_abv
-                name: Craft Beer ABV
+              - name: craft_beer_abv
+                label: Craft Beer ABV
                 widget: number
                 valueType: float
-              - label: craft_beer_description
-                name: Craft Beer Description
+              - name: craft_beer_description
+                label: Craft Beer Description
                 widget: text
-              - label: craft_beer_half_price
-                name: Craft Beer Half Price
+              - name: craft_beer_half_price
+                label: Craft Beer Half Price
                 widget: number
                 valueType: float
-              - label: craft_beer_pint_price
-                name: Craft Beer Pint Price
+              - name: craft_beer_pint_price
+                label: Craft Beer Pint Price
                 widget: number
                 valueType: float
       - name: bottled_beers

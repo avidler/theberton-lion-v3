@@ -1,0 +1,97 @@
+draught_soft_drinks:
+  - draught_soft_drink_name: Pepsi
+    draught_soft_drink_prices:
+      - draught_soft_drink_unit: 1/2
+        draught_soft_drink_price: 2
+      - draught_soft_drink_unit: Pint
+        draught_soft_drink_price: 3.3
+      - draught_soft_drink_unit: Dash
+        draught_soft_drink_price: 1
+  - draught_soft_drink_name: Diet Pepsi
+    draught_soft_drink_prices:
+      - draught_soft_drink_unit: 1/2
+        draught_soft_drink_price: 1.7
+      - draught_soft_drink_unit: Pint
+        draught_soft_drink_price: 2.9
+      - draught_soft_drink_unit: Dash
+        draught_soft_drink_price: 8
+  - draught_soft_drink_name: R Whites Lemonade
+    draught_soft_drink_prices:
+      - draught_soft_drink_unit: 1/2
+        draught_soft_drink_price: 1.7
+      - draught_soft_drink_unit: Pint
+        draught_soft_drink_price: 2.9
+      - draught_soft_drink_unit: Dash
+        draught_soft_drink_price: 0.8
+bottles_cans_soft_drinks:
+  - bottle_can_soft_drink_brand: J20
+    bottle_can_soft_drink_variety: |-
+      Apple & Mango
+      Orange & Passion Fruit
+      Apple & Raspberry
+    bottle_can_soft_drink_price: 2.2
+  - bottle_can_soft_drink_brand: Appletiser
+    bottle_can_soft_drink_price: 2
+  - bottle_can_soft_drink_brand: Orangina
+    bottle_can_soft_drink_variety: ""
+    bottle_can_soft_drink_price: 1.5
+  - bottle_can_soft_drink_brand: Vimto
+    bottle_can_soft_drink_variety: ""
+    bottle_can_soft_drink_price: 2
+  - bottle_can_soft_drink_brand: Franklins
+    bottle_can_soft_drink_variety: |-
+      Strawberry & Raspberry with Cracked Black Pepper
+      Apple & Rhubarb
+    bottle_can_soft_drink_price: 2
+  - bottle_can_soft_drink_brand: Fentiman's
+    bottle_can_soft_drink_variety: |-
+      Ginger Beer
+      Wild Elderflower
+    bottle_can_soft_drink_price: 1.8
+  - bottle_can_soft_drink_brand: Wenlock Spring Water
+    bottle_can_soft_drink_variety: |-
+      Still
+      Sparkling
+    bottle_can_soft_drink_price: 1.6
+  - bottle_can_soft_drink_brand: Coca Cola / Diet Coke
+    bottle_can_soft_drink_price: 1.8
+  - bottle_can_soft_drink_brand: Red Bull
+    bottle_can_soft_drink_price: 1.2
+mixers_soft_drinks:
+  - mixers_soft_drink_brand: Fever Tree
+    mixers_soft_drink_price: 1.8
+    mixers_soft_drink_measure: 200ml
+    mixers_soft_drink_varieties:
+      - mixers_soft)drink_variety_name: Tonic Water
+      - mixers_soft)drink_variety_name: Light Tonic Water
+  - mixers_soft_drink_brand: Fever Tree
+    mixers_soft_drink_price: 1.9
+    mixers_soft_drink_measure: 200ml
+    mixers_soft_drink_varieties:
+      - mixers_soft)drink_variety_name: Aromatic
+      - mixers_soft)drink_variety_name: Lemon
+      - mixers_soft)drink_variety_name: Elderflower
+      - mixers_soft)drink_variety_name: Mediterranean
+  - mixers_soft_drink_brand: Britvic
+    mixers_soft_drink_price: 1.5
+    mixers_soft_drink_measure: 200ml
+    mixers_soft_drink_varieties:
+      - mixers_soft)drink_variety_name: Orange Juice
+      - mixers_soft)drink_variety_name: Pineapple Juice
+      - mixers_soft)drink_variety_name: Grapefruit
+      - mixers_soft)drink_variety_name: Tomato
+      - mixers_soft)drink_variety_name: Cranberry Juice
+      - mixers_soft)drink_variety_name: Ginger Ale
+      - mixers_soft)drink_variety_name: Bitter Lemon
+cordials_soft_drinks:
+  - cordials_soft_drinks_brand_name: Norfolk Cordials
+    cordials_soft_drinks_price: 1.1
+    cordials_soft_drinks_varieties:
+      - cordials_soft_drink_variety_name: Elderflower & Cucumber
+      - cordials_soft_drink_variety_name: Rhubarb, Orange & Ginger
+  - cordials_soft_drinks_brand_name: Britvic
+    cordials_soft_drinks_price: 0.5
+    cordials_soft_drinks_varieties:
+      - cordials_soft_drink_variety_name: Lime
+      - cordials_soft_drink_variety_name: Orange
+      - cordials_soft_drink_variety_name: Blackcurrant

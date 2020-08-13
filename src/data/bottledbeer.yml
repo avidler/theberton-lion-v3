@@ -1,0 +1,13 @@
+bottled_beer_title: Bottled Beers
+bottled_beer_description: We stock an ever-changing range of bottled ales and
+  lagers. Please ask for the current range.
+bottled_beer_list:
+  - bottled_beer_name: Newcastle Brown Ale
+    bottled_beer_abv: 4.7
+    bottled_beer_price: 3.75
+  - bottled_beer_name: San Miguel
+    bottled_beer_abv: 5
+    bottled_beer_price: 3
+  - bottled_beer_name: Crabbie's Ginger Beer
+    bottled_beer_abv: 4
+    bottled_beer_price: 3.2

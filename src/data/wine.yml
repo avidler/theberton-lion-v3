@@ -1,20 +1,20 @@
-Wine Categories:
-  - Wine Category: Red
-    Wine Category List:
-      - Vineyard: Roberts & Reeves
-        Wine Name: Merlot
-        Location: Central Valley, Chile
-        Description: Intense flavours of cherry and plum with sumptuous aromas of coffee
+wine_categories:
+  - wine_category: Red
+    wine_category_list:
+      - wine_vineyard: Roberts & Reeves
+        wine_name: Merlot
+        wine_location: Central Valley, Chile
+        wine_description: Intense flavours of cherry and plum with sumptuous aromas of coffee
           and chocolate.
-        Prices:
-          - Price: 3.6
-            Size: 125ml
-          - Price: 4.5
-            Size: 175ml
-          - Price: 5.6
-            Size: 250ml
-          - Price: 15.5
-            Size: 75cl bottle
-  - Wine Category: Rosé
-  - Wine Category: White
-  - Wine Category: Sparkling
+        wine_prices:
+          - wine_size: 125ml
+            wine_price: 3.6
+          - wine_size: 175ml
+            wine_price: 4.5
+          - wine_size: 250ml
+            wine_price: 5.6
+          - wine_size: 75cl bottle
+            wine_price: 15.5
+  - wine_category: Rosé
+  - wine_category: White
+  - wine_category: Sparkling

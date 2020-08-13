@@ -534,66 +534,66 @@ collections:
         label: Wine List
         file: src/data/wine.yml
         fields:
-          - name: Wine Categories
-            label: wine_categories
+          - name: wine_categories
+            label: Wine Categories
             widget: list
             fields:
-              - name: Wine Category
-                label: wine_category
+              - name: wine_category
+                label: Wine Category
                 widget: string
-              - name: Wine Category List
-                label: wine_category_list
+              - name: wine_category_list
+                label: Wine Category List
                 widget: list
                 summary: '{{fields.wine_vineyard}} - {{fields.wine_name}}'
                 fields:
-                  - name: Vineyard
-                    label: wine_vineyard
+                  - name: wine_vineyard
+                    label: Vineyard
                     widget: string
-                  - name: Wine Name
-                    label: wine_name
+                  - name: wine_name
+                    label: Wine Name
                     widget: string
-                  - name: Location
-                    label: wine_location
+                  - name: wine_location
+                    label: Location
                     widget: string
                     required: false
-                  - name: Description
-                    label: wine_description
+                  - name: wine_description
+                    label: Description
                     widget: text
-                  - name: Prices
-                    label: wine_prices
+                  - name: wine_prices
+                    label: Prices
                     widget: list
                     fields:
-                      - name: Price
-                        label: wine_price
+                      - name: wine_price
+                        label: Price
                         widget: number
                         valueType: float
-                      - name: Size
-                        label: wine_size
+                      - name: wine_size
+                        label: Size
                         widget: string
       - name: spirits_list
         label: Spirits List
         file: src/data/spirits.yml
         fields:
-          - name: Spirit Categories
-            label: spirit_categories
+          - name: spirit_categories
+            label: Spirit Categories
             widget: list
             fields:
-              - name: Spirit Category
-                label: spirit_category
+              - name: spirit_category
+                label: Spirit Category
                 widget: string
-              - name: Spirit Category List
-                label: spirit_category_list
+              - name: spirit_category_list
+                label: Spirit Category List
                 widget: list
                 fields:
-                  - name: Spirit Name
-                    label: spirit_ name
+                  - name: spirit_name
+                    label: Spirit Name
                     widget: string
-                  - name: Spirit Description
-                    label: spirit_description
+                  - name: spirit_description
+                    label: Spirit Description
                     widget: text
                     required: false
-                  - name: Spirit Price
-                    label: spirit_price
+                  - name: spirit_price
+                    label: Spirit Price
                     widget: number
                     valueType: float
       - name: soft_drinks

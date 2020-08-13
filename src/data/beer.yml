@@ -1,11 +1,11 @@
 beers:
-  - beer_name: Best Bitter
-    beer_brewery: Grain
-    beer_abv: 4.2
-    beer_image: /images/grain-best-bitter.png
+  - beer_name: Golden Jackal
+    beer_brewery: Wolf Brewery
+    beer_abv: 3.7
+    beer_image: /images/golden-jackal.jpg
     beer_price: 3.5
-    beer_on_now: true
-    beer_coming_soon: false
+    beer_on_now: false
+    beer_coming_soon: true
   - beer_name: Summer Lightning
     beer_brewery: Hop Back
     beer_abv: 5
@@ -18,7 +18,7 @@ beers:
     beer_abv: 3.8
     beer_image: /images/oak.png
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
@@ -32,41 +32,45 @@ beers:
     beer_brewery: Nene Valley Brewery
     beer_abv: 3.8
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/briarbank-cobnut.jpg
     beer_name: Cobnut
     beer_brewery: Briarbank
     beer_price: 3.5
     beer_abv: 4.2
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/australian-pale.png
     beer_name: Australian Pale
     beer_brewery: Nene Valley Brewery
     beer_abv: 4.4
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: false
   - beer_image: /images/briarbank-perpendicular.png
     beer_name: Perpendicular
     beer_brewery: Briarbank
     beer_abv: 4.4
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/woodfordes-reedlighter1.jpg
     beer_name: Reedlifter
     beer_brewery: Woodfordes
     beer_abv: 4.2
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/nene-valley-bitter.png
     beer_name: Bitter
     beer_brewery: Nene Valley Brewery
     beer_abv: 4.1
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/volt.jpg
     beer_name: Volt IPA
     beer_brewery: Woodfordes
     beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false

@@ -1,13 +1,10 @@
 specials_active: true
 specials_list:
-  - special_name: Mediterranean Vegetable Lasagne
-    special_description: "Served with garlic ciabatta and a hearty salad. "
-    special_price: 12.95
-  - special_name: Chicken Burger & Fries
+  - special_name: Beer Battered Cod Fillet and Chips
+    special_description: Served with your choice of garden or mushy peas.
+    special_price: 11.95
+  - special_name: Cajun Chicken Burger & Fries
     special_description: |-
-      Served with onion rings, dill pickle, sweetcorn burger relish and a salad
+      Served with onion rings, mango chutney and a salad
       garnish.
     special_price: 11.95
-  - special_name: Parmesan Crusted New York Pork Chops
-    special_description: Served with onion gravy, vegetables and roasted new potatoes.
-    special_price: 12.95

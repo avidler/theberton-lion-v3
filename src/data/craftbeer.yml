@@ -1,33 +1,33 @@
 craft_beer_title: Craft Beers & Lagers
 craft_beers:
-  - Craft Beer Brewery: Calvors
-    Craft Beer Name: 3.8 Lager
-    Craft Beer Brewery Location: Coddenham Green, Suffolk
-    Craft Beer ABV: 3.8
-    Craft Beer Description: A beautiful pale English lager with a clean, crisp refreshing taste.
-    Craft Beer Half Price: 1.75
-    Craft Beer Pint Price: 3.5
-  - Craft Beer Brewery: Norfolk Brewhouse
-    Craft Beer Name: DewHopper Lager
-    Craft Beer Brewery Location: Hindringham, Norfolk
-    Craft Beer ABV: 4
-    Craft Beer Description: Brewed with chalk filtered water from the brewery's own
+  - craft_beer_brewery: Calvors
+    craft_beer_name: 3.8 Lager
+    craft_beer_brewery_location: Coddenham Green, Suffolk
+    craft_beer_abv: 3.8
+    craft_beer_description: A beautiful pale English lager with a clean, crisp refreshing taste.
+    craft_beer_half_price: 1.75
+    craft_beer_pint_price: 3.5
+  - craft_beer_brewery: Norfolk Brewhouse
+    craft_beer_name: DewHopper Lager
+    craft_beer_brewery_location: Hindringham, Norfolk
+    craft_beer_abv: 4
+    craft_beer_description: Brewed with chalk filtered water from the brewery's own
       well, a light golden lager with a crisp hoppy finish.
-    Craft Beer Half Price: 1.95
-    Craft Beer Pint Price: 3.9
-  - Craft Beer Brewery: Boudicca Brewing Co.
-    Craft Beer Name: Spiral Stout
-    Craft Beer Brewery Location: West Barsham, Norfolk
-    Craft Beer ABV: 4.6
-    Craft Beer Description: With an aroma of dark autumnal berries, this full bodied
+    craft_beer_half_price: 1.95
+    craft_beer_pint_price: 3.9
+  - craft_beer_brewery: Boudicca Brewing Co.
+    craft_beer_name: Spiral Stout
+    craft_beer_brewery_location: West Barsham, Norfolk
+    craft_beer_abv: 4.6
+    craft_beer_description: With an aroma of dark autumnal berries, this full bodied
       stout has undertones of coffee and dark chocolate. It has a gentle
       lingering dry roast finish with a hint of smoke.
-    Craft Beer Half Price: 1.95
-    Craft Beer Pint Price: 3.9
-  - Craft Beer Name: Pilsner Urquell
-    Craft Beer Brewery Location: Pilsen, Czech Republic
-    Craft Beer ABV: 4.4
-    Craft Beer Description: A rich combination of 21 different taste notes blend to
+    craft_beer_half_price: 1.95
+    craft_beer_pint_price: 3.9
+  - craft_beer_name: Pilsner Urquell
+    craft_beer_brewery_location: Pilsen, Czech Republic
+    craft_beer_abv: 4.4
+    craft_beer_description: A rich combination of 21 different taste notes blend to
       make this premium pilsner.
-    Craft Beer Half Price: 2.15
-    Craft Beer Pint Price: 4.3
+    craft_beer_half_price: 2.15
+    craft_beer_pint_price: 4.3

@@ -326,6 +326,363 @@ collections:
               - label: Last Seen
                 name: beer_last_seen
                 widget: hidden 
+      - name: craft_beer_list
+        label: Craft Beer List
+        file: src/data/craftbeer.yml
+        fields: 
+          - widget: string
+            name: craft_beer_title
+            label: Craft Beer Title
+          - widget: text
+            name: craft_beer_description
+            label: Craft Beer Description
+            required: false
+          - widget: list
+            name: craft_beers
+            label: Craft Beers
+            summary: '{{fields.craft_beer_brewery}} - {{fields.craft_beer_name}}'
+            fields: 
+              - label: craft_beer_brewery
+                name: Craft Beer Brewery
+                widget: string
+                required: false
+              - label: craft_beer_name
+                name: Craft Beer Name
+                widget: string
+              - label: craft_beer_brewery_location
+                name: Craft Beer Brewery Location
+                widget: string
+              - label: craft_beer_abv
+                name: Craft Beer ABV
+                widget: number
+                valueType: float
+              - label: craft_beer_description
+                name: Craft Beer Description
+                widget: text
+              - label: craft_beer_half_price
+                name: Craft Beer Half Price
+                widget: number
+                valueType: float
+              - label: craft_beer_pint_price
+                name: Craft Beer Pint Price
+                widget: number
+                valueType: float
+      - name: bottled_beers
+        label: Bottled Beers
+        file: src/data/bottledbeer.yml
+        fields: 
+          - widget: string
+            name: bottled_beer_title
+            label: Bottled Beer Title
+          - widget: text
+            name: bottled_beer_description
+            label: Bottled Beer Description
+          - widget: list
+            name: bottled_beer_list
+            label: Bottled Beer List
+            fields:
+              - label: Bottled Beer Name
+                name: bottled_beer_name
+                widget: string
+              - label: Bottled Beer ABV
+                name: bottled_beer_abv
+                widget: number
+                valueType: float
+              - label: Bottled Beer Price
+                name: bottled_beer_price
+                widget: number
+                valueType: float
+      - name: low_alcohol_beer_list
+        label: Low Alcohol Beer List
+        file: src/data/lowalcbeer.yml
+        fields: 
+          - widget: string
+            name: low_alc_beer_title
+            label: Low Alcohol Beer Title
+          - widget: text
+            name: low_alc_beer_description
+            label: Low Alcohol Beer Description
+            required: false
+          - widget: list
+            name: low_alc_beer_list
+            label: Low Alcohol Beer List
+            fields:
+              - widget: string
+                name: low_alc_beer_brewery
+                label: Low Alcohol Beer Brewery
+              - widget: string
+                name: low_alc_beer_name
+                label: Low Alcohol Beer Name
+              - widget: string
+                name: low_alc_beer_location
+                label: Low Alcohol Beer Location
+              - widget: number
+                valueType: float
+                name: low_alc_beer_abv
+                label: Low Alcohol Beer ABV
+              - widget: text
+                name: low_alc_beer_description
+                label: Lox Alcohol Beer Description
+              - widget: number
+                valueType: float
+                name: low_alc_beer_price
+                label: Low Alcohol Beer Price
+              - widget: number
+                valueType: integer
+                name: low_alc_beer_bottlesize
+                label: Low Alcohol Beer Bottle Size
+      - name: cider_list
+        label: Cider List
+        file: src/data/cider.yml
+        fields:
+          - name: real_ciders
+            label: Real Ciders
+            widget: list
+            fields:
+              - widget: string
+                name: real_cider_title
+                label: Real Cider Title
+              - widget: list
+                name: real_cider_list
+                label: Real Cider List
+                summary: '{{fields.real_cider_brewery}} - {{fields.real_cider_name}}'
+                fields:
+                  - name: real_cider_brewery
+                    label: Real Cider Brewery
+                    widget: string
+                  - name: real_cider_name
+                    label: Real Cider Name
+                    widget: string
+                  - name: real_cider_location
+                    label: Real Cider Location
+                    widget: string
+                  - name: real_cider_abv
+                    label: Real Cider ABV
+                    widget: number
+                    valueType: float
+                  - name: real_cider_description
+                    label: Real Cider Description
+                    widget: text
+                  - name: real_cider_pint_price
+                    label: Real Cider Pint Price
+                    widget: number
+                    valueType: float
+                  - name: real_cider_half_price
+                    label: Real Cider Half Price
+                    widget: number
+                    valueType: float
+          - name: craft_ciders
+            label: Craft Ciders
+            widget: list
+            fields:
+              - widget: string
+                name: craft_cider_title
+                label: Craft Cider Title
+              - widget: list
+                name: craft_cider_list
+                label: Craft Cider List
+                summary: '{{fields.craft_cider_brewery}} - {{fields.craft_cider_name}}'
+                fields:
+                  - name: craft_cider_brewery
+                    label: Craft Cider Brewery
+                    widget: string
+                  - name: craft_cider_name
+                    label: Craft Cider Name
+                    widget: string
+                  - name: craft_cider_location
+                    label: Craft Cider Location
+                    widget: string
+                  - name: craft_cider_abv
+                    label: Craft Cider ABV
+                    widget: number
+                    valueType: float
+                  - name: craft_cider_description
+                    label: Craft Cider Description
+                    widget: text
+                  - name: craft_cider_pint_price
+                    label: Craft Cider Pint Price
+                    widget: number
+                    valueType: float
+                  - name: craft_cider_half_price
+                    label: Craft Cider Half Price
+                    widget: number
+                    valueType: float
+          - name: bottled_ciders
+            label: Bottled Ciders
+            widget: list
+            fields:
+              - widget: string
+                name: bottled_cider_title
+                label: Bottled Cider Title
+              - widget: list
+                name: bottled_cider_list
+                label: Bottled Cider List
+                fields:
+                  - name: bottled_cider_brewery
+                    label: Bottled Cider Brewery
+                    widget: string
+                  - name: bottled_cider_varieties
+                    label: Bottled Cider Varieties
+                    widget: list
+                    fields:
+                      - name: bottled_cider_variety_name
+                        label: Bottled Cider Variety Name
+                        widget: string
+                  - name: bottled_cider_location
+                    label: Bottled Cider Location
+                    widget: string
+                  - name: bottled_cider_abv
+                    label: Bottled Cider ABV
+                    widget: number
+                    valueType: float
+                  - name: bottled_cider_description
+                    label: Bottled Cider Description
+                    widget: text
+                  - name: bottled_cider_price
+                    label: Bottled Cider Pint Price
+                    widget: number
+                    valueType: float
+      - name: wine_list
+        label: Wine List
+        file: src/data/wine.yml
+        fields:
+          - name: Wine Categories
+            label: wine_categories
+            widget: list
+            fields:
+              - name: Wine Category
+                label: wine_category
+                widget: string
+              - name: Wine Category List
+                label: wine_category_list
+                widget: list
+                summary: '{{fields.wine_vineyard}} - {{fields.wine_name}}'
+                  - name: Vineyard
+                    label: wine_vineyard
+                    widget: string
+                  - name: Wine Name
+                    label: wine_name
+                    widget: string
+                  - name: Location
+                    label: wine_location
+                    widget: string
+                    required: false
+                  - name: Description
+                    label: wine_description
+                    widget: text
+                  - name: Prices
+                    label: wine_prices
+                    widget: list
+                    fields:
+                      - name: Price
+                        label: wine_price
+                        widget: number
+                        valueType: float
+                      - name: Size
+                        label: wine_size
+                        widget: string
+      - name: spirits_list
+        label: Spirits List
+        file: src/data/spirits.yml
+        fields:
+          - name: Spirit Categories
+            label: spirit_categories
+            widget: list
+            fields:
+              - name: Spirit Category
+                label: spirit_category
+                widget: string
+              - name: Spirit Category List
+                label: spirit_category_list
+                widget: list
+                fields:
+                  - name: Spirit Name
+                    label: spirit_ name
+                    widget: string
+                  - name: Spirit Description
+                    label: spirit_description
+                    widget: text
+                    required: false
+                  - name: Spirit Price
+                    label: spirit_price
+                    widget: number
+                    valueType: float
+      - name: soft_drinks
+        label: Soft Drinks List
+        file: src/data/softs.yml
+        fields:
+          - name: draught_soft_drinks
+            label: Draught Soft Drinks
+            widget: list
+            fields:
+              - name: draught_soft_drink_name
+                label: Draught Soft Drink Name
+                widget: string
+              - name: draught_soft_drink_prices
+                label: Draught Soft Drink Prices
+                widget: list
+                fields:
+                  - name: draught_soft_drink_unit
+                    label: Draught Soft Drink Unit
+                    widget: string
+                  - name: draught_soft_drink_price
+                    label: Draught Soft Drink Price
+                    widget: number
+                    valueType: float
+          - name: bottles_cans_soft_drinks
+            label: Bottles and Cans Soft Drinks
+            widget: list
+            fields: 
+              - name: bottle_can_soft_drink_brand
+                label: Bottle and Can Soft Drink Brand
+                widget: string
+              - name: bottle_can_soft_drink_variety
+                label: Bottle and Can Soft Drink Variety
+                widget: text
+                required: false
+              - name: bottle_can_soft_drink_price
+                label: Bottle and Can Soft Drink Price
+                widget: number
+                valueType: float
+          - name: mixers_soft_drinks
+            label: Mixers Soft Drinks
+            widget: list
+            fields:
+              - name: mixers_soft_drink_brand
+                label: Mixers Shoft Drink Brand
+                widget: string
+              - name: mixers_soft_drink_price
+                label: Mixers Soft Drink Price
+                widget: number
+                valueType: float
+              - name: mixers_soft_drink_measure
+                label: Mixers Soft Drink Measure
+                widget: string
+              - name: mixers_soft_drink_varieties
+                label: Mixers Soft Drinks Varieties
+                widget: list
+                fields:
+                  - name: mixers_soft)drink_variety_name
+                    label: Mixers Soft Drink Variety Name
+                    widget: string
+          - name: cordials_soft_drinks
+            label: Coridals Soft Drinks
+            widget: list
+            fields:
+              - name: cordials_soft_drinks_brand_name
+                label: Cordials Soft Drinks Brand Name
+                widget: string
+              - name: cordials_soft_drinks_price
+                label: Cordials Soft Drinks Price
+                widget: number
+                valueType: float
+              - name: cordials_soft_drinks_varieties
+                label: Cordials Soft Drinks Varieties
+                widget: list
+                fields:
+                  - name: cordials_soft_drink_variety_name
+                    label: Cordials Soft Drink Variety Name
+                    widget: string
   - label: Events Configuration
     name: events
     files:

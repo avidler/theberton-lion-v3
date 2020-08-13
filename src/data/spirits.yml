@@ -1,0 +1,124 @@
+spirit_categories:
+  - spirit_category: Gin
+    spirit_category_list:
+      - spirit_name: Plymouth Gin
+        spirit_price: 2.4
+      - spirit_name: Sipsmith London Dry Gin
+        spirit_price: 2.6
+      - spirit_name: Hendricks Gin
+        spirit_price: 2.6
+      - spirit_name: Brockmans Gin
+        spirit_price: 2.8
+      - spirit_name: Bombay Sapphire
+        spirit_description: ""
+        spirit_price: 2.4
+      - spirit_name: Tanqueray Gin
+        spirit_price: 2.7
+      - spirit_name: Caorunn Gin
+        spirit_price: 2.6
+      - spirit_name: Warner Edwards Rhubarb Gin
+        spirit_price: 2.7
+      - spirit_name: Guest Gins
+        spirit_description: (Price varies - please ask)
+        spirit_price: 0
+  - spirit_category: Whisky, Bourbon & Single Malts
+    spirit_category_list:
+      - spirit_name: Famous Grouse Whisky
+        spirit_price: 2
+      - spirit_name: Grants Whisky
+        spirit_price: 2.35
+      - spirit_name: Jameson's Whiskey
+        spirit_price: 2.2
+      - spirit_name: Paddy Whiskey
+        spirit_price: 2.35
+      - spirit_name: Jack Daniels Bourbon
+        spirit_price: 2.5
+      - spirit_name: Dalwhinnie 15 Yr Old Highland Malt.
+        spirit_description: Wholemeal, honey, sweet malty core.
+        spirit_price: 3
+      - spirit_name: Glen Moray 16 Yr Old Highland Malt
+        spirit_description: Toffee, liquorice and blackcurrants.
+        spirit_price: 3.1
+      - spirit_name: Glenkinchie 12 Yr Old Lowland Malt.
+        spirit_description: Balanced, with cinnamon and ginger.
+        spirit_price: 3.1
+      - spirit_name: Talisker 10 Yr Old Island Malt
+        spirit_description: Smoky on the nose & peppery on the palate.
+        spirit_price: 3.2
+      - spirit_name: Laphroig 10 Yr Old Islay Malt
+        spirit_description: Sea air aroma, satsumas & vanilla spice.
+        spirit_price: 3.1
+      - spirit_name: Guest Single Malts
+        spirit_description: (Price varies - please ask)
+        spirit_price: 0
+  - spirit_category: Rum
+    spirit_category_list:
+      - spirit_name: Kraken Black Spiced Dark Rum
+        spirit_price: 2.4
+      - spirit_name: Captain Morgan's Golden Rum
+        spirit_price: 2.2
+      - spirit_name: Captain Morgan's Dark Rum
+        spirit_description: ""
+        spirit_price: 2.2
+      - spirit_name: Bacardi
+        spirit_price: 2.2
+  - spirit_category: Vodkas
+    spirit_category_list:
+      - spirit_name: Finlandia Vodka
+        spirit_price: 2.2
+      - spirit_name: Zubrowka Bison Grass Vodka
+        spirit_price: 2.6
+      - spirit_name: Chase English Vodka
+        spirit_price: 3.2
+  - spirit_category: Brandy
+    spirit_category_list:
+      - spirit_name: Courvoisier Cognac VS
+        spirit_price: 2.5
+      - spirit_name: Baron De Sigognac 10 Yr Old
+        spirit_price: 3.2
+      - spirit_name: Giggler Apple Brandy
+        spirit_price: 2.8
+      - spirit_name: Cherry Brandy
+        spirit_price: 2.4
+  - spirit_category: Liquers & Aperitifs
+    spirit_category_list:
+      - spirit_name: Martini Dry (50ml)
+        spirit_price: 2.2
+      - spirit_name: Cinzano Bianco (50ml)
+        spirit_price: 2.1
+      - spirit_name: Archers (50ml)
+        spirit_price: 2.7
+      - spirit_name: Baileys (50ml)
+        spirit_price: 2.4
+      - spirit_name: Pimms (50ml)
+        spirit_price: 2.7
+      - spirit_name: Cointreau
+        spirit_price: 2.3
+      - spirit_name: Disaronno
+        spirit_price: 2.4
+      - spirit_name: Malibu
+        spirit_price: 2.3
+      - spirit_name: Southern Comfort
+        spirit_price: 2.3
+      - spirit_name: Tia Maria
+        spirit_description: ""
+        spirit_price: 2.3
+      - spirit_name: Ouzo (50ml)
+        spirit_description: ""
+        spirit_price: 2.7
+      - spirit_name: Pernod
+        spirit_price: 2.2
+      - spirit_name: Unicum
+        spirit_price: 2.8
+      - spirit_name: Benedictine
+        spirit_price: 2.8
+      - spirit_name: Chambord (50ml)
+        spirit_price: 2.9
+      - spirit_name: Harvey's Medium Dry Sherry (50ml)
+        spirit_price: 2.4
+      - spirit_name: Harvey's Solera Sherry
+        spirit_price: 2.4
+      - spirit_name: Cockburn's Port (50ml)
+        spirit_price: 2.4
+      - spirit_name: Stones Ginger Wine (50ml)
+        spirit_price: 2

@@ -378,8 +378,8 @@ collections:
             name: bottled_beer_description
             label: Bottled Beer Description
           - widget: list
-            name: bottled_beer_list
-            label: Bottled Beer List
+            name: bottled_beer
+            label: Bottled Beer
             fields:
               - label: Bottled Beer Name
                 name: bottled_beer_name
@@ -404,8 +404,8 @@ collections:
             label: Low Alcohol Beer Description
             required: false
           - widget: list
-            name: low_alc_beer_list
-            label: Low Alcohol Beer List
+            name: low_alc_beer
+            label: Low Alcohol Beer
             fields:
               - widget: string
                 name: low_alc_beer_brewery
@@ -435,113 +435,99 @@ collections:
         label: Cider List
         file: src/data/cider.yml
         fields:
-          - name: real_ciders
-            label: Real Ciders
+          - name: real_cider_title
+            label: Real Cider Title
+            widget: string
+            name: real_cider_list
+            label: Real Cider List
+            summary: '{{fields.real_cider_brewery}} - {{fields.real_cider_name}}'
+            fields:
+              - name: real_cider_brewery
+                label: Real Cider Brewery
+                widget: string
+              - name: real_cider_name
+                label: Real Cider Name
+                widget: string
+              - name: real_cider_location
+                label: Real Cider Location
+                widget: string
+              - name: real_cider_abv
+                label: Real Cider ABV
+                widget: number
+                valueType: float
+              - name: real_cider_description
+                label: Real Cider Description
+                widget: text
+              - name: real_cider_pint_price
+                label: Real Cider Pint Price
+                widget: number
+                valueType: float
+              - name: real_cider_half_price
+                label: Real Cider Half Price
+                widget: number
+                valueType: float
+          - name: craft_ciders_title
+            label: Craft Cider Title
+            widget: string
+            name: craft_cider_list
+            label: Craft Cider List
+            summary: '{{fields.craft_cider_brewery}} - {{fields.craft_cider_name}}'
+            fields:
+              - name: craft_cider_brewery
+                label: Craft Cider Brewery
+                widget: string
+              - name: craft_cider_name
+                label: Craft Cider Name
+                widget: string
+              - name: craft_cider_location
+                label: Craft Cider Location
+                widget: string
+              - name: craft_cider_abv
+                label: Craft Cider ABV
+                widget: number
+                valueType: float
+              - name: craft_cider_description
+                label: Craft Cider Description
+                widget: text
+              - name: craft_cider_pint_price
+                label: Craft Cider Pint Price
+                widget: number
+                valueType: float
+              - name: craft_cider_half_price
+                label: Craft Cider Half Price
+                widget: number
+                valueType: float
+          - name: bottled_ciders_title
+            label: Bottled Ciders Title
+            widget: string
+          - name: bottled_cider_list
+            label: Bottled Cider List
             widget: list
             fields:
-              - widget: string
-                name: real_cider_title
-                label: Real Cider Title
-              - widget: list
-                name: real_cider_list
-                label: Real Cider List
-                summary: '{{fields.real_cider_brewery}} - {{fields.real_cider_name}}'
+              - name: bottled_cider_brewery
+                label: Bottled Cider Brewery
+                widget: string
+              - name: bottled_cider_varieties
+                label: Bottled Cider Varieties
+                widget: list
                 fields:
-                  - name: real_cider_brewery
-                    label: Real Cider Brewery
+                  - name: bottled_cider_variety_name
+                    label: Bottled Cider Variety Name
                     widget: string
-                  - name: real_cider_name
-                    label: Real Cider Name
-                    widget: string
-                  - name: real_cider_location
-                    label: Real Cider Location
-                    widget: string
-                  - name: real_cider_abv
-                    label: Real Cider ABV
-                    widget: number
-                    valueType: float
-                  - name: real_cider_description
-                    label: Real Cider Description
-                    widget: text
-                  - name: real_cider_pint_price
-                    label: Real Cider Pint Price
-                    widget: number
-                    valueType: float
-                  - name: real_cider_half_price
-                    label: Real Cider Half Price
-                    widget: number
-                    valueType: float
-          - name: craft_ciders
-            label: Craft Ciders
-            widget: list
-            fields:
-              - widget: string
-                name: craft_cider_title
-                label: Craft Cider Title
-              - widget: list
-                name: craft_cider_list
-                label: Craft Cider List
-                summary: '{{fields.craft_cider_brewery}} - {{fields.craft_cider_name}}'
-                fields:
-                  - name: craft_cider_brewery
-                    label: Craft Cider Brewery
-                    widget: string
-                  - name: craft_cider_name
-                    label: Craft Cider Name
-                    widget: string
-                  - name: craft_cider_location
-                    label: Craft Cider Location
-                    widget: string
-                  - name: craft_cider_abv
-                    label: Craft Cider ABV
-                    widget: number
-                    valueType: float
-                  - name: craft_cider_description
-                    label: Craft Cider Description
-                    widget: text
-                  - name: craft_cider_pint_price
-                    label: Craft Cider Pint Price
-                    widget: number
-                    valueType: float
-                  - name: craft_cider_half_price
-                    label: Craft Cider Half Price
-                    widget: number
-                    valueType: float
-          - name: bottled_ciders
-            label: Bottled Ciders
-            widget: list
-            fields:
-              - widget: string
-                name: bottled_cider_title
-                label: Bottled Cider Title
-              - widget: list
-                name: bottled_cider_list
-                label: Bottled Cider List
-                fields:
-                  - name: bottled_cider_brewery
-                    label: Bottled Cider Brewery
-                    widget: string
-                  - name: bottled_cider_varieties
-                    label: Bottled Cider Varieties
-                    widget: list
-                    fields:
-                      - name: bottled_cider_variety_name
-                        label: Bottled Cider Variety Name
-                        widget: string
-                  - name: bottled_cider_location
-                    label: Bottled Cider Location
-                    widget: string
-                  - name: bottled_cider_abv
-                    label: Bottled Cider ABV
-                    widget: number
-                    valueType: float
-                  - name: bottled_cider_description
-                    label: Bottled Cider Description
-                    widget: text
-                  - name: bottled_cider_price
-                    label: Bottled Cider Pint Price
-                    widget: number
-                    valueType: float
+              - name: bottled_cider_location
+                label: Bottled Cider Location
+                widget: string
+              - name: bottled_cider_abv
+                label: Bottled Cider ABV
+                widget: number
+                valueType: float
+              - name: bottled_cider_description
+                label: Bottled Cider Description
+                widget: text
+              - name: bottled_cider_price
+                label: Bottled Cider Pint Price
+                widget: number
+                valueType: float
       - name: wine_list
         label: Wine List
         file: src/data/wine.yml

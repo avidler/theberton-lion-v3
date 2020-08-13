@@ -557,6 +557,7 @@ collections:
                 label: wine_category_list
                 widget: list
                 summary: '{{fields.wine_vineyard}} - {{fields.wine_name}}'
+                fields:
                   - name: Vineyard
                     label: wine_vineyard
                     widget: string

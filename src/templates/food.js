@@ -222,16 +222,16 @@ for (var i = 0; i < btns.length; i++) {
                 <span className="food_header_title"><h1>Food</h1></span>
                 <span className="food_header_nav">
                 <nav id="menuNav" class="menuNav">
-                    <ul>
-                        <li> <button className="btn active" onClick={() => setMenuChoice("specials")}>Specials </button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("mains")}>Mains</button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("litebites")}>Lite Bites</button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("sides")}>Sides</button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("sunday")}>Sunday Lunch</button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("desserts")}>Desserts</button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("lunch")}>Lunch</button></li>
-                        <li> <button className="btn" onClick={() => setMenuChoice("snacks")}>Bar Snacks</button></li>
-                    </ul>
+                    
+                        <button className="btn active" onClick={() => setMenuChoice("specials")}>Specials </button>
+                        <button className="btn" onClick={() => setMenuChoice("mains")}>Mains</button>
+                        <button className="btn" onClick={() => setMenuChoice("litebites")}>Lite Bites</button>
+                        <button className="btn" onClick={() => setMenuChoice("sides")}>Sides</button>
+                        <button className="btn" onClick={() => setMenuChoice("sunday")}>Sunday Lunch</button>
+                        <button className="btn" onClick={() => setMenuChoice("desserts")}>Desserts</button>
+                        <button className="btn" onClick={() => setMenuChoice("lunch")}>Lunch</button>
+                        <button className="btn" onClick={() => setMenuChoice("snacks")}>Bar Snacks</button>
+                    
                 </nav>
                 </span>
                 </div>

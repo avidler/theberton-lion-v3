@@ -416,6 +416,7 @@ collections:
               - widget: string
                 name: low_alc_beer_location
                 label: Low Alcohol Beer Location
+                required: false
               - widget: number
                 valueType: float
                 name: low_alc_beer_abv
@@ -519,6 +520,7 @@ collections:
               - name: bottled_cider_location
                 label: Bottled Cider Location
                 widget: string
+                required: false
               - name: bottled_cider_abv
                 label: Bottled Cider ABV
                 widget: number
@@ -651,11 +653,11 @@ collections:
                 label: Mixers Soft Drinks Varieties
                 widget: list
                 fields:
-                  - name: mixers_soft)drink_variety_name
+                  - name: mixers_soft_drink_variety_name
                     label: Mixers Soft Drink Variety Name
                     widget: string
           - name: cordials_soft_drinks
-            label: Coridals Soft Drinks
+            label: Cordials Soft Drinks
             widget: list
             fields:
               - name: cordials_soft_drinks_brand_name

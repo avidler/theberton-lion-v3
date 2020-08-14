@@ -1063,7 +1063,8 @@ h2.page-title {
 
 }
 
-.food {
+.food,
+.drink {
   margin-bottom: 1.5rem;
 }
 
@@ -1103,7 +1104,8 @@ h2.page-title {
   color: #1a1613;
 }
 
-.food_header {
+.food_header,
+.drink_header{
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -1112,13 +1114,19 @@ h2.page-title {
 
 @media screen and (max-width:500px)
 {
-  .food_header {
+  .food_header,
+  .drink_header {
     flex-direction: column;
+  }
+
+  .spirit_category {
+    width: 100%;
   }
 }
 
 
-.food_header_title {
+.food_header_title,
+.drink_header_title {
   padding-right: 1.5rem;
 }
 
@@ -1128,17 +1136,20 @@ h2.page-title {
   flex-wrap: wrap;
 }
 
-.food_category {
+.food_category,
+.drink_category {
   display: inline-flex;
   flex-direction: column;
   
 }
 
-.food_item {
+.food_item,
+.drink_item {
   padding-bottom: 0.5rem;
 }
 
-.food_info {
+.food_info,
+.drink_info {
   display: inline-flex;
   flex-direction: row;
   align-items: baseline;
@@ -1146,32 +1157,55 @@ h2.page-title {
   width: 100%;
 }
 
-.food_info_name_and_desc {
+.wine_info {
+  flex-direction: column;
+}
+
+
+
+.food_info_name_and_desc,
+.drink_info_name_and_desc {
   display: flex;
   flex-direction: row;
   align-items: baseline;
   flex: 1 1 auto;
 }
 
+.craftbeer_info_name_and_desc {
+  flex-direction: column;
+}
+
 @media screen and (max-width:800px)
 {
-  .food_info_name_and_desc {
+  .food_info_name_and_desc,
+  .drink_info_name_and_desc{
     flex-direction: column;
   }
 }
 
-.food_info_name {
+
+.food_info_name,
+.drink_info_name {
   font-size: 1.4rem;
   padding-right: 0.5rem;
 }
 
-.food_info_desc {
+.food_info_desc,
+.drink_info_desc {
   font-size: 1.1rem;
   font-style: italic;
   padding-right: 1rem;
 }
 
-.food_info_price {
+.craftbeer_info_desc,
+.lowalcbeer_info_desc,
+.cider_info_desc,
+.wine_info_desc {
+  font-style: normal;
+}
+
+.food_info_price,
+.drink_info_price {
   font-size: 1.2rem;
   
 }
@@ -1227,7 +1261,8 @@ h2.page-title {
   min-width: 250px;
 }
 
-.snack_brand_variety_name {
+.snack_brand_variety_name,
+.wine_info_price {
   padding-right: 0.5em;
 }
 
@@ -1239,4 +1274,56 @@ h2.page-title {
 
 .snack_item {
   margin-right: 1em;
+}
+
+.craft_beer_prices,
+.cider_prices,
+.soft_prices {
+  display: flex;
+  flex-direction: column;
+}
+.craftbeer_info_price,
+.cider_info_price,
+.soft_info_price {
+  min-width: 85px;
+  padding-right: 5px;
+}
+
+.drink_info_desc_item {
+  padding-right: 5px;
+}
+
+div.cider_item:last-of-type,
+.wine_category {
+  margin-bottom: 1em;
+}
+
+.wine_title,
+.spirit_title,
+.softs_title {
+  font-size: 1.55rem;
+  font-weight: bold;
+}
+
+.spirits_list,
+.softs_list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.spirits_title {
+  width: 100%;
+}
+
+.spirit_category,
+.softs_category {
+  margin-right: 2em;
+}
+
+@media screen and (max-width:500px) {
+  .spirit_category,
+  .spirit_item {
+    width: 100%;
+  }
 }

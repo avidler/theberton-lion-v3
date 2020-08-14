@@ -46,7 +46,6 @@ bottled_cider:
     bottled_cider_varieties:
       - bottled_cider_variety_name: Kiwi and Lime
       - bottled_cider_variety_name: Passionfruit & Apple
-    bottled_cider_location: N/A
     bottled_cider_abv: 4
     bottled_cider_description: Fabulous award wining fruit cider from Nelson New Zealand
     bottled_cider_price: 3.6
@@ -54,14 +53,12 @@ bottled_cider:
     bottled_cider_varieties:
       - bottled_cider_variety_name: Organic Cider
       - bottled_cider_variety_name: Organic Perry
-    bottled_cider_location: N/A
     bottled_cider_abv: 5
     bottled_cider_description: A medium dry cider and dry perry from Tadcaster, Yorkshire.
     bottled_cider_price: 3.6
   - bottled_cider_brewery: Braxzz
     bottled_cider_varieties:
       - bottled_cider_variety_name: Oaked Alcohol Free Cider
-    bottled_cider_location: N/A
     bottled_cider_abv: 0
     bottled_cider_description: Combined with hops this delightfully dry cider has an oakwood finish.
     bottled_cider_price: 2.7

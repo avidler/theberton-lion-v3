@@ -1,11 +1,11 @@
 beers:
-  - beer_name: Golden Jackal
-    beer_brewery: Wolf Brewery
-    beer_abv: 3.7
-    beer_image: /images/golden-jackal.jpg
+  - beer_name: Golden Gate
+    beer_brewery: Nethergate
+    beer_abv: 4.5
+    beer_image: /images/golden-gate.jpg
     beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Summer Lightning
     beer_brewery: Hop Back
     beer_abv: 5
@@ -41,17 +41,17 @@ beers:
     beer_abv: 4.2
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/australian-pale.png
-    beer_name: Australian Pale
-    beer_brewery: Nene Valley Brewery
-    beer_abv: 4.4
+  - beer_image: /images/pognophobia.jpg
+    beer_name: Pognophobia
+    beer_brewery: Colchester
+    beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/briarbank-perpendicular.png
-    beer_name: Perpendicular
-    beer_brewery: Briarbank
-    beer_abv: 4.4
+  - beer_image: /images/silver-adder.jpg
+    beer_name: Silver Adder
+    beer_brewery: Mauldons
+    beer_abv: 4.2
     beer_price: 3.5
     beer_coming_soon: false
     beer_on_now: true
@@ -60,17 +60,17 @@ beers:
     beer_brewery: Woodfordes
     beer_abv: 4.2
     beer_price: 3.5
-    beer_coming_soon: false
-  - beer_image: /images/nene-valley-bitter.png
-    beer_name: Bitter
-    beer_brewery: Nene Valley Brewery
-    beer_abv: 4.1
+    beer_coming_soon: true
+  - beer_image: /images/pale-ale.png
+    beer_name: Pale Ale
+    beer_brewery: Mauldons
+    beer_abv: 3.6
     beer_price: 3.5
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/volt.jpg
-    beer_name: Volt IPA
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/bure-gold.jpg
+    beer_name: Bure Gold
     beer_brewery: Woodfordes
     beer_abv: 4.5
-    beer_price: 3.5
-    beer_coming_soon: false
+    beer_price: 4.3
+    beer_coming_soon: true

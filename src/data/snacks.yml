@@ -19,7 +19,7 @@ snack_list:
         snack_brand_variety_price: 1
   - snack_brand_name: Salty Dog
     snack_brand_Variety:
-      - snack_brand_variety_name: Jumbo Peanuts
+      - snack_brand_variety_name: Salted Peanuts
         snack_brand_variety_price: 1
       - snack_brand_variety_name: Dry Roasted Peanuts
         snack_brand_variety_price: 1

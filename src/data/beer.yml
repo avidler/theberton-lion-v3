@@ -4,7 +4,7 @@ beers:
     beer_abv: 4.5
     beer_image: /images/golden-gate.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Summer Lightning
     beer_brewery: Hop Back

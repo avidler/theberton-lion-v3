@@ -13,12 +13,12 @@ beers:
     beer_price: 3.5
     beer_on_now: false
     beer_coming_soon: false
-  - beer_name: Oak
-    beer_brewery: Grain
-    beer_abv: 3.8
-    beer_image: /images/oak.png
+  - beer_name: Midsummer Gold
+    beer_brewery: Mauldons
+    beer_abv: 4
+    beer_image: /images/midsummer-gold.jpg
     beer_price: 3.5
-    beer_on_now: false
+    beer_on_now: true
     beer_coming_soon: false
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
@@ -54,7 +54,7 @@ beers:
     beer_abv: 4.2
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/woodfordes-reedlighter1.jpg
     beer_name: Reedlifter
     beer_brewery: Woodfordes
@@ -66,11 +66,11 @@ beers:
     beer_brewery: Mauldons
     beer_abv: 3.6
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/bure-gold.jpg
     beer_name: Bure Gold
     beer_brewery: Woodfordes
     beer_abv: 4.5
-    beer_price: 4.3
+    beer_price: 3.5
     beer_coming_soon: true

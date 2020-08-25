@@ -18,7 +18,7 @@ beers:
     beer_abv: 4
     beer_image: /images/midsummer-gold.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
@@ -40,14 +40,14 @@ beers:
     beer_price: 3.5
     beer_abv: 4.2
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/pognophobia.jpg
     beer_name: Pognophobia
     beer_brewery: Colchester
     beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/silver-adder.jpg
     beer_name: Silver Adder
     beer_brewery: Mauldons
@@ -73,4 +73,5 @@ beers:
     beer_brewery: Woodfordes
     beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true

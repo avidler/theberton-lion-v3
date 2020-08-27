@@ -1,11 +1,11 @@
 beers:
-  - beer_name: Golden Gate
-    beer_brewery: Nethergate
-    beer_abv: 4.5
-    beer_image: /images/golden-gate.jpg
+  - beer_name: Gold Rush
+    beer_brewery: Cabin Brewery
+    beer_abv: 4
+    beer_image: /images/cabin-gold-rush.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: Summer Lightning
     beer_brewery: Hop Back
     beer_abv: 5
@@ -13,13 +13,13 @@ beers:
     beer_price: 3.5
     beer_on_now: false
     beer_coming_soon: false
-  - beer_name: Midsummer Gold
-    beer_brewery: Mauldons
-    beer_abv: 4
-    beer_image: /images/midsummer-gold.jpg
+  - beer_name: Autumn Leaf
+    beer_brewery: Cabin Brewery
+    beer_abv: 3.8
+    beer_image: /images/cabin-autumn-leaf.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
     beer_abv: 3.8
@@ -60,7 +60,8 @@ beers:
     beer_brewery: Woodfordes
     beer_abv: 4.2
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/pale-ale.png
     beer_name: Pale Ale
     beer_brewery: Mauldons

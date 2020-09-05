@@ -1,7 +1,7 @@
 beers:
   - beer_name: Hop Mountain
     beer_brewery: Lacons
-    beer_abv: 4
+    beer_abv: 4.4
     beer_image: /images/hop-mountain.jpg
     beer_price: 3.5
     beer_on_now: true

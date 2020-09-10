@@ -1,18 +1,18 @@
 beers:
-  - beer_name: Hop Mountain
-    beer_brewery: Lacons
-    beer_abv: 4.4
-    beer_image: /images/hop-mountain.jpg
+  - beer_name: Manhattan Project
+    beer_brewery: Nene Valley
+    beer_abv: 4
+    beer_image: /images/manhattan-project.jpeg
     beer_price: 3.5
-    beer_on_now: true
-    beer_coming_soon: false
+    beer_on_now: false
+    beer_coming_soon: true
   - beer_name: Venture
     beer_brewery: Nethergate
     beer_abv: 3.7
     beer_image: /images/venture.jpg
     beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Spitfire
     beer_brewery: Shepherd Neame
     beer_abv: 4.2
@@ -76,3 +76,21 @@ beers:
     beer_price: 3.5
     beer_coming_soon: true
     beer_on_now: false
+  - beer_image: /images/woodcock-s-relish.png
+    beer_name: Woodcock's Relish
+    beer_brewery: Nene Valley
+    beer_abv: 4.3
+    beer_coming_soon: true
+    beer_price: 3.5
+  - beer_image: /images/growling-dog.jpg
+    beer_name: Growling Dog
+    beer_brewery: Nethergate
+    beer_price: 3.5
+    beer_coming_soon: true
+    beer_abv: 4.5
+  - beer_image: /images/melford-mild.jpeg
+    beer_name: Melford Mild
+    beer_brewery: Nethergate
+    beer_abv: 3.7
+    beer_price: 3.5
+    beer_coming_soon: true

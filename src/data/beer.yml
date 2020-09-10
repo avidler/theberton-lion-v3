@@ -45,7 +45,7 @@ beers:
     beer_name: Jumper
     beer_brewery: Moon Gazer
     beer_abv: 4.5
-    beer_price: 3.9
+    beer_price: 3.5
     beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/80-shilling.jpg

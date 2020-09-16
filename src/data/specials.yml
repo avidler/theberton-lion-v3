@@ -8,3 +8,6 @@ specials_list:
       Served with onion rings, mango chutney and a salad
       garnish.
     special_price: 11.95
+  - special_name: Theberton Sausages and Horseradish Mash
+    special_description: Served with seasonal vegetables and gravy.
+    special_price: 11.95

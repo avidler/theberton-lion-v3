@@ -4,21 +4,21 @@ beers:
     beer_abv: 4
     beer_image: /images/manhattan-project.jpeg
     beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Venture
     beer_brewery: Nethergate
     beer_abv: 3.7
     beer_image: /images/venture.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Spitfire
     beer_brewery: Shepherd Neame
     beer_abv: 4.2
     beer_image: /images/spitfire.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
@@ -32,7 +32,7 @@ beers:
     beer_brewery: Cabin Brewery
     beer_abv: 4
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/nibbler.jpg
     beer_name: Nibbler
@@ -80,17 +80,19 @@ beers:
     beer_name: Woodcock's Relish
     beer_brewery: Nene Valley
     beer_abv: 4.3
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_price: 3.5
   - beer_image: /images/growling-dog.jpg
     beer_name: Growling Dog
     beer_brewery: Nethergate
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_abv: 4.5
+    beer_on_now: true
   - beer_image: /images/melford-mild.jpeg
     beer_name: Melford Mild
     beer_brewery: Nethergate
     beer_abv: 3.7
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true

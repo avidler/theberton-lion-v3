@@ -41,10 +41,10 @@ sections:
     service_section:
       - service_name: Drinks
         service_page_link: drinks
-        service_image: /images/drinks-360x270.jpg
+        service_image: /images/glass.jpg
       - service_name: Food
         service_page_link: food
-        service_image: /images/img_5130-360x270.jpg
+        service_image: /images/pork-belly.jpg
       - service_name: Accommodation
         service_page_link: accommodation
         service_image: /images/double-1.jpg

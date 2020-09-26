@@ -47,21 +47,21 @@ beers:
     beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: true
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/80-shilling.jpg
     beer_name: 80 Shilling
     beer_brewery: Elmtree Beers
     beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/snetterton-scary-tree.jpg
     beer_name: Snetterton Scary Tree
     beer_brewery: Elmtree Beers
     beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/burston-s-cuckoo.jpeg
     beer_name: Burston's Cuckoo
     beer_brewery: Elmtree Beers
@@ -95,4 +95,4 @@ beers:
     beer_abv: 3.7
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false

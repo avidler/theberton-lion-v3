@@ -47,7 +47,7 @@ sections:
         service_image: /images/img_5130-360x270.jpg
       - service_name: Accommodation
         service_page_link: accommodation
-        service_image: /images/accommodation-360x270.jpg
+        service_image: /images/double-1.jpg
   - type: section_events
     section_id: event_section
     component: SectionEvents

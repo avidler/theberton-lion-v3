@@ -65,11 +65,11 @@
       "friday_afternoon_open": "12:00pm",
       "friday_afternoon_close": "3:00pm",
       "friday_evening_open": "5:00pm",
-      "friday_evening_close": "11:00pm"
+      "friday_evening_close": "10:00pm"
     },
     "saturday": {
       "saturday_afternoon_open": "12:00pm",
-      "saturday_afternoon_close": "11:00pm",
+      "saturday_afternoon_close": "10:00pm",
       "saturday_evening_open": "OPEN",
       "saturday_evening_close": "ALL DAY"
     },

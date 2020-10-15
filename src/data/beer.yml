@@ -4,8 +4,8 @@ beers:
     beer_abv: 3.8
     beer_image: /images/cabin-autumn-leaf.jpg
     beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Venture
     beer_brewery: Nethergate
     beer_abv: 3.7
@@ -32,21 +32,21 @@ beers:
     beer_brewery: Cabin Brewery
     beer_abv: 4
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/nibbler.jpg
     beer_name: Nibbler
     beer_brewery: Moon Gazer
     beer_price: 3.5
     beer_abv: 4
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/jumper.jpg
-    beer_name: Jumper
-    beer_brewery: Moon Gazer
-    beer_abv: 4.5
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/wolf-ale.jpg
+    beer_name: Wolf Ale
+    beer_brewery: Wolf
+    beer_abv: 3.8
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/80-shilling.jpg
     beer_name: 80 Shilling
@@ -54,7 +54,7 @@ beers:
     beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/snetterton-scary-tree.jpg
     beer_name: Snetterton Scary Tree
     beer_brewery: Elmtree Beers
@@ -67,7 +67,7 @@ beers:
     beer_brewery: Elmtree Beers
     beer_abv: 3.6
     beer_price: 3.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/humpty-dumpty-red-mill.jpeg
     beer_name: Red Mill
@@ -75,7 +75,7 @@ beers:
     beer_abv: 4.3
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/woodcock-s-relish.png
     beer_name: Woodcock's Relish
     beer_brewery: Nene Valley
@@ -89,10 +89,10 @@ beers:
     beer_coming_soon: false
     beer_abv: 4.5
     beer_on_now: false
-  - beer_image: /images/melford-mild.jpeg
-    beer_name: Melford Mild
-    beer_brewery: Nethergate
-    beer_abv: 3.7
+  - beer_image: /images/jester.jpg
+    beer_name: Jester
+    beer_brewery: Colchester
+    beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true

@@ -2,4 +2,4 @@
 title: Covid-19 Risk Assessment
 template: page
 ---
-<iframe src="../images/pp-covid-19-risk-assessment-june-2020-v1.4.pdf" width="1200" height="700">
+<iframe src="../images/PP Covid-19 Risk Assessment October 2020 v1.6" width="1200" height="700">

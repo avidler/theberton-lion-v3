@@ -5,20 +5,20 @@ beers:
     beer_image: /images/sirius-dog-star.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_name: Five Rifles
     beer_brewery: Nethergate
     beer_abv: 4.5
     beer_image: /images/five-rifles.jpeg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: AKA Pale
     beer_brewery: Colchester
     beer_abv: 3.7
     beer_image: /images/aka-pale.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Gospel Oak
     beer_brewery: Star Wing
@@ -33,13 +33,13 @@ beers:
     beer_abv: 4.2
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/encore.jpg
     beer_name: Encore
     beer_brewery: Lacons
     beer_price: 3.5
     beer_abv: 3.8
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/wolf-ale.jpg
     beer_name: Wolf Ale

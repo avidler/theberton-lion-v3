@@ -20,10 +20,10 @@ beers:
     beer_price: 3.5
     beer_on_now: false
     beer_coming_soon: false
-  - beer_name: Gospel Oak
-    beer_brewery: Star Wing
+  - beer_name: Autumn Leaf
+    beer_brewery: Cabin Brewery
     beer_abv: 3.8
-    beer_image: /images/gospel-oak.jpeg
+    beer_image: /images/cabin-autumn-leaf.jpg
     beer_price: 3.2
     beer_on_now: true
     beer_coming_soon: false

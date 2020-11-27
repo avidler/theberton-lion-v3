@@ -1,6 +1,10 @@
 ---
 title: Home
 sections:
+  - type: section_special_message
+    title: December Update
+    content: ""
+    body: content
   - type: section_quotes
     section_id: quote_section
     quote:
@@ -32,10 +36,6 @@ sections:
       his team look forward to serving you soon.
   - type: section_live_ale_list
     title: Live Ale List
-  - type: section_special_message
-    title: Keeping You Safe
-    content: ""
-    body: content
   - type: section_services
     section_id: service_section
     service_section:

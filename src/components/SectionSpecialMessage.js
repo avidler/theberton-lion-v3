@@ -15,8 +15,8 @@ export default class SectionSpecialMessage extends React.Component {
             <p>As Helen and I are due to get married, (finally!), on Friday 4th December, we will be reopening on the evening of Saturday 5th December as detailed in the new opening hours below. We are needless to say planning a wonderful full celebration next year.</p>
             <p>As we enter December we are launching a menu of Winter Warmers, (again below), that will be available in its entirety for both eat in and take out. Booking is actively encouraged and pre-ordering for takeaways is essential. We'll see you back at The Lion very soon.  As I've said before, we will get through this,  together. Take care.</p>
             <div style={{'display' : 'flex'}}>
-                <div style={{'width': '45%', 'padding': '5px', 'float': 'left'}}><img src="./images/dec20openhours.jpg" /></div>
-                <div style={{'width': '45%'}}><img src="./images/winterwarmers.jpg"></img></div>
+                <div style={{'width': '45%', 'padding': '5px', 'float': 'left'}}><img src="../images/dec20openhours.jpg" /></div>
+                <div style={{'width': '45%'}}><img src="../images/winterwarmers.jpg"></img></div>
             </div>
             <p>{`${section.content}`}</p>
   

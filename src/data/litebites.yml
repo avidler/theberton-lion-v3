@@ -1,15 +1,1 @@
-lite_bites:
-  - lite_bite_name: Cranberry, Brie & Red Onion Tartlet
-    lite_bite_description: Served with a salad garnish
-    lite_bite_price: 5.95
-    lite_bite_vegetarian: true
-  - lite_bite_name: "Crab Balls on Wilted Spinach "
-    lite_bite_description: Served with a remoulade sauce
-    lite_bite_price: 5.95
-    lite_bite_wheat_free: true
-  - lite_bite_name: Chef’s Soup Of The Day
-    lite_bite_description: "Ask for today’s selection "
-    lite_bite_price: 5.95
-  - lite_bite_name: Potted Shrimps
-    lite_bite_price: 5.95
-    lite_bite_description: Infused with garlic & herbs. Served with melba toast and salad garnish.
+lite_bites: []

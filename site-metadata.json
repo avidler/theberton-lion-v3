@@ -33,6 +33,11 @@
         "new_window": true,
         "label": "Keeping You Safe",
         "url": "/covid-19-risk-assessment"
+      },
+      {
+        "new_window": true,
+        "label": "Order Food Online",
+        "url": "/order-food-online"
       }
     ]
   },

@@ -70,7 +70,7 @@ for (var i = 0; i < btns.length; i++) {
                     ))}
                 </div>  
                 )
-            }
+            } 
 
             else if (menuChoice === "litebites") {
                 return(
@@ -220,6 +220,7 @@ for (var i = 0; i < btns.length; i++) {
             <div className="container">
                 <div className="food_header">
                 <span className="food_header_title"><h1>Food</h1></span>
+            
                 <span className="food_header_nav">
                 <nav id="menuNav" class="menuNav">
                     

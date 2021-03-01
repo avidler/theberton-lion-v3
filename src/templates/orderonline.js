@@ -32,7 +32,7 @@ export default class Page extends React.Component {
                   <span className="glf-button" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9" mark> See MENU & Order</span>
 
 <span className="glf-button reservation" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9" data-glf-reservation="true" > Table Reservation</span>
-<script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
+<script src="/js/ewm2.js" defer async ></script>
 
                   </div>
                 </article>

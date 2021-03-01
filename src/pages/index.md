@@ -8,16 +8,16 @@ sections:
   - type: section_quotes
     section_id: quote_section
     quote:
-      - text: Quality  -  Authenticity  -  Independence  -  Choice
+      - text: Quality  -  Authenticity  -  Independence
         author: Order Takeaway & Delivery Online
         image: /images/1-1600x725.jpg
-      - text: Quality  -  Authenticity  -  Independence  -  Choice
+      - text: Quality  -  Authenticity  -  Independence
         author: Book a Table Online
         image: /images/2-1600x725.jpg
-      - text: Quality  -  Authenticity  -  Independence  -  Choice
+      - text: Quality  -  Authenticity  -  Independence
         author: Book Accommodation Online
         image: /images/3-1600x725.jpg
-      - text: Quality  -  Authenticity  -  Independence  -  Choice
+      - text: Quality  -  Authenticity  -  Independence
         author: Call Us On 01728 830185
         image: /images/4-1600x725.jpg
   - type: section_welcome

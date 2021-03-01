@@ -50,39 +50,39 @@
     },
     "tuesday": {
       "tuesday_afternoon_open": "12:00pm",
-      "tuesday_afternoon_close": "3:00pm",
-      "tuesday_evening_open": "6:00pm",
-      "tuesday_evening_close": "10:00pm"
+      "tuesday_afternoon_close": "2:00pm",
+      "tuesday_evening_open": "CLOSED",
+      "tuesday_evening_close": "CLOSED"
     },
     "wednesday": {
       "wednesday_afternoon_open": "12:00pm",
-      "wednesday_afternoon_close": "3:00pm",
-      "wednesday_evening_open": "6:00pm",
-      "wednesday_evening_close": "10:00pm"
+      "wednesday_afternoon_close": "2:00pm",
+      "wednesday_evening_open": "CLOSED",
+      "wednesday_evening_close": "CLOSED"
     },
     "thursday": {
       "thursday_afternoon_open": "12:00pm",
-      "thursday_afternoon_close": "3:00pm",
-      "thursday_evening_open": "6:00pm",
-      "thursday_evening_close": "10:00pm"
+      "thursday_afternoon_close": "2:00pm",
+      "thursday_evening_open": "CLOSED",
+      "thursday_evening_close": "CLOSED"
     },
     "friday": {
       "friday_afternoon_open": "12:00pm",
       "friday_afternoon_close": "3:00pm",
       "friday_evening_open": "5:00pm",
-      "friday_evening_close": "10:00pm"
+      "friday_evening_close": "9:00pm"
     },
     "saturday": {
       "saturday_afternoon_open": "12:00pm",
-      "saturday_afternoon_close": "10:00pm",
-      "saturday_evening_open": "OPEN",
-      "saturday_evening_close": "ALL DAY"
+      "saturday_afternoon_close": "9:00pm",
+      "saturday_evening_open": "OPEN ALL",
+      "saturday_evening_close": "DAY"
     },
     "sunday": {
       "sunday_afternoon_open": "12:00pm",
       "sunday_afternoon_close": "6:00pm",
       "sunday_evening_open": "CLOSED",
-      "sunday_evening_close": "SUNDAY NIGHT"
+      "sunday_evening_close": "CLOSED"
     }
   },
   "footer": {

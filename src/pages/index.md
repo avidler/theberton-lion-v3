@@ -8,17 +8,17 @@ sections:
   - type: section_quotes
     section_id: quote_section
     quote:
-      - text: We Are Back & We're Covid Secure
-        author: Book a Table - 01728 830185
+      - text: Quality  -  Authenticity  -  Independence  -  Choice
+        author: Order Takeaway & Delivery Online
         image: /images/1-1600x725.jpg
-      - text: We Are Back & We're Covid Secure
-        author: Book a Table - 01728 830185
+      - text: Quality  -  Authenticity  -  Independence  -  Choice
+        author: Book a Table Online
         image: /images/2-1600x725.jpg
-      - text: We Are Back & We're Covid Secure
-        author: Book a Table - 01728 830185
+      - text: Quality  -  Authenticity  -  Independence  -  Choice
+        author: Book Accommodation Online
         image: /images/3-1600x725.jpg
-      - text: We Are Back & We're Covid Secure
-        author: Book a Table - 01728 830185
+      - text: Quality  -  Authenticity  -  Independence  -  Choice
+        author: Call Us On 01728 830185
         image: /images/4-1600x725.jpg
   - type: section_welcome
     section_id: welcome_section

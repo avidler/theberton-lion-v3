@@ -6,13 +6,20 @@ export default class SectionSpecialMessage extends React.Component {
     
     render() {
         let section = _.get(this.props, 'section');
+        const dates = ["Tue - Thu 12.00pm - 2.00pm  - Drinks Only",<br />,
+            "Friday 12.00pm - 3.00pm & 5.00pm - 9.00pm :: Food 12.00pm - 3.00pm & 5.00pm - 9.00pm",<br />,
+            "Saturday 12.00pm - 9.00pm :: Food 12.00pm - 9.00pm",<br />,
+            "Sunday 12.00pm - 6.00pm :: Food 12.00pm - 5.00pm"]
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="container" id="special_message">
             <h2 className="page-title">{`${section.title}`}</h2>
            
-<p>Following much soul searching, speaking to others, looking at latest figures for the region and judging the general mood, we have decided to close The Theberton Lion for eat in service from TOMORROW NIGHT at 10pm for the time being. We will still be offering takeaway beer daily, (including 12pm-1pm on Christmas Day!), and takeaway food will be available from Monday 28th - Thu 31 December. We want everyone to stay safe and look forward to welcoming you back in the pub as soon as we can. Have a lovely, if different, but most importantly safe Christmas.
-</p>
+            <p>We are very excited at the prospect of being able to welcome you back to The Lion again and are planning to open our outside spaces on Monday April 12 provided nothing changes between now and then.
+            </p><p>
+With the restrictions limiting us to garden tables we will be operating different hours to normal as detailed below. With the unpredictability of the weather these are subject to change at short notice;
+</p><p>
+</p><p>{dates}</p>
             <p>{`${section.content}`}</p>
   
             </div>

@@ -51,14 +51,14 @@
     "tuesday": {
       "tuesday_afternoon_open": "12:00pm",
       "tuesday_afternoon_close": "2:00pm",
-      "tuesday_evening_open": "CLOSED",
-      "tuesday_evening_close": "CLOSED"
+      "tuesday_evening_open": "  ",
+      "tuesday_evening_close": " "
     },
     "wednesday": {
       "wednesday_afternoon_open": "12:00pm",
       "wednesday_afternoon_close": "2:00pm",
-      "wednesday_evening_open": "CLOSED",
-      "wednesday_evening_close": "CLOSED"
+      "wednesday_evening_open": " ",
+      "wednesday_evening_close": " "
     },
     "thursday": {
       "thursday_afternoon_open": "12:00pm",

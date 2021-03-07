@@ -6,10 +6,7 @@ import {Layout} from '../components/index';
 
 
 function FoodMenu (props) {
-    const script = document.createElement("script");
-    script.src = "https://www.fbgcdn.com/embedder/js/ewm2.js";
-    script.async = true;
-    document.body.appendChild(script);
+    
 
 
     const [menuChoice, setMenuChoice] = useState("specials") 
@@ -27,6 +24,10 @@ function FoodMenu (props) {
         //console.log("allData", allData)
         
         useEffect(() => {
+            const script = document.createElement("script");
+    script.src = "https://www.fbgcdn.com/embedder/js/ewm2.js";
+    script.async = true;
+    document.body.appendChild(script);
             window.scrollTo(0, 0)
             var header = document.getElementById("menuNav");
     var btns = header.getElementsByClassName("btn");

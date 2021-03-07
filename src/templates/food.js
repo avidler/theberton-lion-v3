@@ -221,8 +221,11 @@ for (var i = 0; i < btns.length; i++) {
                 <div className="food_header">
                 <span className="food_header_title"><h1>Food</h1></span>
                 <span className="food_header_nav">
-                <nav id="menuNav" class="menuNav">
-                    
+                <nav id="menuNav" className="menuNav">
+               
+<span className="glf-button" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9" > See MENU & Order</span>
+<span className="glf-button reservation" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9" data-glf-reservation="true" > Table Reservation</span>
+
                         <button className="btn active" onClick={() => setMenuChoice("specials")}>Specials </button>
                         <button className="btn" onClick={() => setMenuChoice("mains")}>Mains</button>
                         <button className="btn" onClick={() => setMenuChoice("litebites")}>Lite Bites</button>

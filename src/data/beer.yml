@@ -6,13 +6,13 @@ beers:
     beer_price: 3.2
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Five Rifles
-    beer_brewery: Nethergate
-    beer_abv: 4.5
-    beer_image: /images/five-rifles.jpeg
-    beer_price: 3.5
+  - beer_name: Sweeney Todd
+    beer_brewery: Colchester Brewery
+    beer_abv: 4.2
+    beer_image: /images/colchester-sweeney-todd.jpg
+    beer_price: 3.2
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: AKA Pale
     beer_brewery: Colchester
     beer_abv: 3.7

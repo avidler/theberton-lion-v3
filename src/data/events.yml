@@ -15,3 +15,10 @@ event:
     event_image: /images/vinyl-night-alt.jpg
     event_notes: Sarrif spins the disks of your choosing for an old school evening
       where you pick the tunes.  Bring your records and your dancing shoes.
+  - event_date: June 3, 2021 9:00 PM
+    event_title: Beer Club (The Return!) - Tindall's Ales Tap Takeover
+    event_image: /images/tindalls.jpg
+    event_notes: Tindall's Brewery takes over the taps with five of their beers on
+      offer and brewer Michael on hand to offer some words of wisdom. Be the
+      first to try them and help shape The Lion's future beer list, enjoying
+      five thirds for £5 along the way.

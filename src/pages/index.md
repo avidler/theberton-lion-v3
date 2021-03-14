@@ -55,6 +55,10 @@ sections:
   - type: section_events
     section_id: event_section
     component: SectionEvents
+    event:
+      - event_date: April 12, 2021 1:00 PM
+        event_title: Grand Reopening!
+        event_image: /images/get-excited-we-re-reopening-soon.png
   - type: section_newsletter_signup
     section_id: newsletter_signup_section
     newsletter_signup_title: newsletter

@@ -11,15 +11,19 @@ sections:
       - text: Quality  -  Authenticity  -  Independence
         author: Order Takeaway & Delivery Online
         image: /images/1-1600x725.jpg
+        url: /food
       - text: Quality  -  Authenticity  -  Independence
         author: Book a Table Online
         image: /images/2-1600x725.jpg
+        url: /food
       - text: Quality  -  Authenticity  -  Independence
         author: Book Accommodation Online
         image: /images/3-1600x725.jpg
+        url: /accommodation
       - text: Quality  -  Authenticity  -  Independence
         author: Call Us On 01728 830185
         image: /images/4-1600x725.jpg
+        url: /index
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion

@@ -21,16 +21,19 @@ export default class SectionQuotes extends React.Component {
     render() {
     let section = _.get(this.props, 'section');
     console.log("quotes section: ",section)
+    console.log(section.quote[0])
     return (
         <section id={_.get(section, 'section_id')} className={'wrapper alt ' + _.get(section, 'section_id')}>
         <div id="quote-carousel">
             <Slider {...settings}>
                 {_.map (section.quote, (quote, quote_idx) => (
-                   
+                   <a href={`${quote.url}`} className={`${quote.url}`}>
                     <div id={`quote-${quote_idx}`} className="panel">
+                        
+                        
                         <div className="quote">
-
-                            <img src={`${quote.image}`} alt="background"/>
+                        
+                            <img src={`${quote.image}`} className={`${quote.url}`} alt="background"/>
                             <div >
                             <span id={`quote-text-${quote_idx}`} className="quote-text">
                                 <span className='quote-style'>{`${quote.text}`}</span>
@@ -39,8 +42,11 @@ export default class SectionQuotes extends React.Component {
                                 <span className="row-main-style">{`${quote.author}`}</span>
                             </span>
                             </div>
+                        
                         </div>
+                        
                     </div>
+                    </a>  
                 ))}
             </Slider>
         </div>

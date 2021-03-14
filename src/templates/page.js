@@ -7,6 +7,10 @@ import {safePrefix, htmlToReact} from '../utils';
 export default class Page extends React.Component {
  
   componentDidMount() {
+    const script = document.createElement("script");
+        script.src = "https://widget.freetobook.com/widget.js";
+        script.async = true;
+        document.body.appendChild(script);
     window.scrollTo(0, 0)
   }
     render() {

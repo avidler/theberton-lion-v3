@@ -1,19 +1,16 @@
 import React from 'react';
 import _ from 'lodash';
-import loadjs from 'loadjs';
+
 
 
 import {Link, safePrefix, classNames} from '../utils';
 
 export default class Header extends React.Component {
 
-  componentWillMount(){
-    loadjs("https://static.freetobook.com/widgets/js/c8bef18467.js");
   
-  }
 
   componentDidMount() {
-    loadjs("https://static.freetobook.com/widgets/js/c8bef18467.js");
+    
     window.addEventListener("scroll", this.resizeHeaderOnScroll);
   }
   resizeHeaderOnScroll() {

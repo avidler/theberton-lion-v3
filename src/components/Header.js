@@ -1,12 +1,19 @@
 import React from 'react';
 import _ from 'lodash';
+import loadjs from 'loadjs';
 
 
 import {Link, safePrefix, classNames} from '../utils';
 
 export default class Header extends React.Component {
+
+  componentWillMount(){
+    loadjs("https://static.freetobook.com/widgets/js/c8bef18467.js");
+  
+  }
+
   componentDidMount() {
-   
+    loadjs("https://static.freetobook.com/widgets/js/c8bef18467.js");
     window.addEventListener("scroll", this.resizeHeaderOnScroll);
   }
   resizeHeaderOnScroll() {
@@ -25,8 +32,10 @@ export default class Header extends React.Component {
   }
     render() {
         return (
+          
             <header id="masthead" className="site-header outer">
               <div className="inner">
+              
                 <div className="site-header-inside">
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') && 
@@ -73,10 +82,13 @@ export default class Header extends React.Component {
                         </div>
                         }
                         </div>
+                       
                 </div>
+              
              
               </div>
             </header>
+            
         );
     }
 }

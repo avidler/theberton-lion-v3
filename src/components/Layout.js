@@ -21,7 +21,6 @@ export default class Body extends React.Component {
                 </Helmet>
                 <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
                 <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-                <script type='text/javascript' src='https://static.freetobook.com/widgets/js/c8bef18467.js'></script>
                   <Header {...this.props} />
                   <main id="content" className="site-content">
                     {this.props.children}

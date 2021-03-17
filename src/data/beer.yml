@@ -1,18 +1,18 @@
 beers:
-  - beer_name: No Man's Land - Delivered to your door
-    beer_brewery: Colchester Brewery
-    beer_abv: 4.2
-    beer_image: /images/colchester-no-man-s-land.jpg
+  - beer_name: Little Sharpie - Delivered to your door
+    beer_brewery: Humpty Dumpty
+    beer_abv: 3.8
+    beer_image: /images/little-sharpie.jpg
     beer_price: 3.2
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Sweeney Todd
+  - beer_name: Sweeney Todd - Delivered to your door
     beer_brewery: Colchester Brewery
     beer_abv: 4.2
     beer_image: /images/colchester-sweeney-todd.jpg
     beer_price: 3.2
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: AKA Pale
     beer_brewery: Colchester
     beer_abv: 3.7
@@ -25,7 +25,7 @@ beers:
     beer_abv: 3.9
     beer_image: /images/colchester-ambassador.jpg
     beer_price: 3.2
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter (Avail Fri 12 Feb)

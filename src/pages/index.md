@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_special_message
-    title: March Update 02/03/21
+    title: Monday 12th April - Grand Reopening!
     content: ""
     body: content
   - type: section_quotes

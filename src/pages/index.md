@@ -23,7 +23,7 @@ sections:
       - text: Quality  -  Authenticity  -  Independence
         author: Call Us On 01728 830185
         image: /images/4-1600x725.jpg
-        url: /index
+        url: /
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion

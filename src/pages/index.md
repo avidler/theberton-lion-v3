@@ -53,6 +53,7 @@ sections:
         service_page_link: accommodation
         service_image: /images/double-1.jpg
   - type: section_events
+    title: Upcoming Events
     section_id: event_section
     component: SectionEvents
     event:

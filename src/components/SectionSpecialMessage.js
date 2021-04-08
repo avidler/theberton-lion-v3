@@ -19,7 +19,7 @@ export default class SectionSpecialMessage extends React.Component {
             </p><p>
 With the restrictions limiting us to garden tables we will be operating different hours to normal as detailed below. With the unpredictability of the weather these are subject to change at short notice;
 </p><p>
-</p><p><img src="./images/april.jpg" width="40%"></img></p>
+</p><p><div id="special-picture" style={{display:"flex", justifyContent:"center"}}><img src="./images/april.jpg" display="block" width="40%"></img></div></p>
             <p>{`${section.content}`}</p>
   
             </div>

@@ -1,45 +1,45 @@
 beers:
-  - beer_name: Little Sharpie - Delivered to your door
-    beer_brewery: Humpty Dumpty
-    beer_abv: 3.8
-    beer_image: /images/little-sharpie.jpg
-    beer_price: 3.2
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_name: Sweeney Todd - Delivered to your door
-    beer_brewery: Colchester Brewery
-    beer_abv: 4.2
-    beer_image: /images/colchester-sweeney-todd.jpg
-    beer_price: 3.2
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_name: AKA Pale
-    beer_brewery: Colchester
-    beer_abv: 3.7
-    beer_image: /images/aka-pale.jpg
-    beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: false
-  - beer_name: Ambassador - Delivered to your door
-    beer_brewery: Colchester
-    beer_abv: 3.9
-    beer_image: /images/colchester-ambassador.jpg
-    beer_price: 3.2
-    beer_on_now: false
-    beer_coming_soon: false
-  - beer_image: /images/victoria-bitter.jpg
-    beer_name: Victoria Bitter (Avail Fri 12 Feb)
+  - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
-    beer_price: 3.5
+    beer_image: /images/victoria-bitter.jpg
+    beer_price: 3.3
+    beer_on_now: true
     beer_coming_soon: false
+  - beer_name: Nelson's Revenge
+    beer_brewery: Woodfordes
+    beer_abv: 4.5
+    beer_image: /images/nelsons.jpg
+    beer_price: 3.5
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_name: Bure Cold
+    beer_brewery: Woodfordes
+    beer_abv: 4.3
+    beer_image: /images/bure-gold.jpg
+    beer_price: 3.5
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_name: Skiffle
+    beer_brewery: Shortts Farm
+    beer_abv: 4.5
+    beer_image: /images/skiffle.jpg
+    beer_price: 3.5
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/simple-pleasures.png
+    beer_name: Simple Pleasures
+    beer_brewery: Nene Valley
+    beer_abv: 3.6
+    beer_price: 3.5
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/encore.jpg
-    beer_name: Encore
-    beer_brewery: Lacons
+  - beer_image: /images/venture.jpg
+    beer_name: Venture
+    beer_brewery: Nethergate
     beer_price: 3.5
-    beer_abv: 3.8
-    beer_coming_soon: false
+    beer_abv: 3.7
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/wolf-ale.jpg
     beer_name: Wolf Ale

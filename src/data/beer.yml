@@ -41,19 +41,19 @@ beers:
     beer_abv: 3.7
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/wolf-ale.jpg
-    beer_name: Wolf Ale
-    beer_brewery: Wolf
-    beer_abv: 3.8
+  - beer_image: /images/cabin-gold-rush.jpg
+    beer_name: Gold Rush
+    beer_brewery: Cabin Brewery
+    beer_abv: 4
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/80-shilling.jpg
-    beer_name: 80 Shilling
-    beer_brewery: Elmtree Beers
-    beer_abv: 4.5
+  - beer_image: /images/chesnt.jpg
+    beer_name: Chesn't
+    beer_brewery: Cabin Brewery
+    beer_abv: 3.9
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/snetterton-scary-tree.jpg
     beer_name: Snetterton Scary Tree
@@ -61,33 +61,6 @@ beers:
     beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/burston-s-cuckoo.jpeg
-    beer_name: Burston's Cuckoo
-    beer_brewery: Elmtree Beers
-    beer_abv: 3.6
-    beer_price: 3.5
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/humpty-dumpty-red-mill.jpeg
-    beer_name: Red Mill
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.3
-    beer_price: 3.5
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/woodcock-s-relish.png
-    beer_name: Woodcock's Relish
-    beer_brewery: Nene Valley
-    beer_abv: 4.3
-    beer_coming_soon: false
-    beer_price: 3.5
-  - beer_image: /images/growling-dog.jpg
-    beer_name: Growling Dog
-    beer_brewery: Nethergate
-    beer_price: 3.5
-    beer_coming_soon: false
-    beer_abv: 4.5
     beer_on_now: false
   - beer_image: /images/jester.jpg
     beer_name: Jester

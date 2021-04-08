@@ -924,7 +924,7 @@ h2.page-title {
 .beer_coming_soon {
   width: 100%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   flex-wrap: wrap;
 }
@@ -1064,7 +1064,7 @@ h2.page-title {
 
 }
 
-.live_ale_list_on_now_and_coming_soon {
+#live_ale_list_on_now_and_coming_soon {
   display: flex;
 }
 

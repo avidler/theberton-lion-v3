@@ -16,7 +16,7 @@ export default class SectionSpecialMessage extends React.Component {
             <h2 className="page-title">{`${section.title}`}</h2>
            
             <p>We are very excited at the prospect of being able to welcome you back to The Lion again and are planning to open our outside spaces on Monday April 12 provided nothing changes between now and then.
-            </p><p>
+            
 With the restrictions limiting us to garden tables we will be operating different hours to normal as detailed below. With the unpredictability of the weather these are subject to change at short notice;
 </p><p>
 </p><p><div id="special-picture" style={{display:"flex", justifyContent:"center"}}><img src="./images/april.jpg" display="block" width="40%"></img></div></p>

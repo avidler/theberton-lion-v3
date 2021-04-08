@@ -9,7 +9,7 @@ function FoodMenu (props) {
     
 
 
-    const [menuChoice, setMenuChoice] = useState("specials") 
+    const [menuChoice, setMenuChoice] = useState("mains") 
     
         //const allData = _.get(props, 'pageContext.site.data')
         const specialsList = _.get(props, 'pageContext.site.data.specials.specials_list')
@@ -193,7 +193,7 @@ for (var i = 0; i < btns.length; i++) {
                 </div> 
                 )
             }
-
+        
             else if (menuChoice === "snacks") {
                 return (
                     <div className="food_category snacks">
@@ -233,13 +233,13 @@ for (var i = 0; i < btns.length; i++) {
                 <span className="glf-button" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9"  > Order Takeaway</span>
                 <span className="glf-button reservation" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9" data-glf-reservation="true" > Book a Table</span>
 
-                        <button className="btn active" onClick={() => setMenuChoice("specials")}>Specials </button>
-                        <button className="btn" onClick={() => setMenuChoice("mains")}>Mains</button>
+                        {/*<button className="btn active" onClick={() => setMenuChoice("specials")}>Specials </button>*/}
+                        <button className="btn active" onClick={() => setMenuChoice("mains")}>Mains</button>
                         <button className="btn" onClick={() => setMenuChoice("litebites")}>Lite Bites</button>
                         <button className="btn" onClick={() => setMenuChoice("sides")}>Sides</button>
                         <button className="btn" onClick={() => setMenuChoice("sunday")}>Sunday Lunch</button>
                         <button className="btn" onClick={() => setMenuChoice("desserts")}>Desserts</button>
-                        <button className="btn" onClick={() => setMenuChoice("lunch")}>Lunch</button>
+                        {/*<button className="btn" onClick={() => setMenuChoice("lunch")}>Lunch</button>*/}
                         <button className="btn" onClick={() => setMenuChoice("snacks")}>Bar Snacks</button>
                     
                 </nav>

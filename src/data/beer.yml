@@ -13,7 +13,7 @@ beers:
     beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Bure Cold
+  - beer_name: Bure Gold
     beer_brewery: Woodfordes
     beer_abv: 4.3
     beer_image: /images/bure-gold.jpg

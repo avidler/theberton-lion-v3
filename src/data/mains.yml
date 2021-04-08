@@ -1,40 +1,45 @@
 mains:
   - main_course_name: House Vegetable and Mixed Bean Chilli
-    main_course_description: Served with long grain rice and tortilla chips. Available Friday - Sunday.
+    main_course_description: Served with long grain rice and tortilla chips.
+      Available Friday - Sunday to eat in or takeaway.
     main_course_price: 9.5
     main_course_wheat_free: true
     main_course_vegetarian: true
   - main_course_name: Chef's Beef Lasagne
-    main_course_description: Served with Garlic Ciabatta and Salad Garnish. Available Friday - Sunday.
+    main_course_description: Served with Garlic Ciabatta and Salad Garnish.
+      Available Friday - Sunday to eat in or takeaway.
     main_course_price: 9.5
   - main_course_name: House Curry of The Day
     main_course_description: Served with rice and a poppadum. Please ask for today's
-      selection.  Available Friday - Sunday.
+      selection.  Available Friday - Sunday to eat in or takeaway.
     main_course_price: 9.5
   - main_course_name: Beer Battered Cod Fillet & Chips
-    main_course_description: Available Friday - Sunday.
+    main_course_description: Available Friday - Sunday to eat in or takeaway.
     main_course_price: 8.5
     main_course_vegetarian: true
   - main_course_name: "The Lion’s Legendary Steak & Ale Pie "
-    main_course_description: |
+    main_course_description: >
       A hearty house-made pie served with your choice of chips or mash with
-      seasonal vegetables & gravy. Available Friday - Sunday.
+
+      seasonal vegetables & gravy. Available Friday - Sunday to eat in or takeaway.
     main_course_price: 11.5
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: >-
       Topped with bacon and your choice of blue cheese or Butlers Secret
       cheddar.
 
-      Served with Chef’s coleslaw, onion rings and chunky chips. Available Friday - Sunday.
+      Served with Chef’s coleslaw, onion rings and chunky chips. Available Friday - Sunday to eat in or takeaway.
     main_course_price: 10.5
   - main_course_name: House-made Chicken, Mushroom and Bacon Pie
-    main_course_description: |-
+    main_course_description: >-
       A hearty house-made pie served with your choice of chips or mash with
-      seasonal vegetables & gravy. Available Friday - Sunday.
+
+      seasonal vegetables & gravy. Available Friday - Sunday to eat in or takeaway.
     main_course_price: 11.5
     main_course_wheat_free: true
   - main_course_name: Wild Mushroom Stroganoff
-    main_course_description: Served with Rice and Side Salad. Available Friday - Sunday.
+    main_course_description: Served with Rice and Side Salad. Available Friday -
+      Sunday to eat in or takeaway.
     main_course_price: 12.95
     main_course_wheat_free: false
     main_course_image: ""

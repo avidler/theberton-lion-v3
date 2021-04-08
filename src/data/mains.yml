@@ -1,40 +1,41 @@
 mains:
-  - main_course_name: Slow Cooked BBQ Ribs & Piri Piri Chicken
-    main_course_description: "Served with Corn On The Cob, Side Salad and Sweet Potato Wedges "
-    main_course_price: 14.95
+  - main_course_name: House Vegetable and Mixed Bean Chilli
+    main_course_description: Served with long grain rice and tortilla chips. Available Friday - Sunday.
+    main_course_price: 9.5
     main_course_wheat_free: true
-  - main_course_name: Chef’s Thai Fish Cake
-    main_course_description: "Served on a bed of noodles and prawns with a Thai curry sauce "
-    main_course_price: 14.95
-  - main_course_name: 8oz Prime Ribeye Steak
-    main_course_description: |-
-      Served with grilled field mushrooms, beef tomato, side salad & fries.
-      With your choice of parsley butter or Chef’s mustard sauce.
-    main_course_price: 20.95
-  - main_course_name: "Tagliatelle with Sun Dried Tomatoes & Basil Pesto "
-    main_course_description: in a Blue Cheese Sauce. Served with house garlic ciabatta
-    main_course_price: 11.95
+    main_course_vegetarian: true
+  - main_course_name: Chef's Beef Lasagne
+    main_course_description: Served with Garlic Ciabatta and Salad Garnish. Available Friday - Sunday.
+    main_course_price: 9.5
+  - main_course_name: House Curry of The Day
+    main_course_description: Served with rice and a poppadum. Please ask for today's
+      selection.  Available Friday - Sunday.
+    main_course_price: 9.5
+  - main_course_name: Beer Battered Cod Fillet & Chips
+    main_course_description: Available Friday - Sunday.
+    main_course_price: 8.5
     main_course_vegetarian: true
   - main_course_name: "The Lion’s Legendary Steak & Ale Pie "
     main_course_description: |
       A hearty house-made pie served with your choice of chips or mash with
-      seasonal vegetables & gravy 
-    main_course_price: 14.95
+      seasonal vegetables & gravy. Available Friday - Sunday.
+    main_course_price: 11.5
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: >-
       Topped with bacon and your choice of blue cheese or Butlers Secret
       cheddar.
 
-      Served with Chef’s coleslaw, onion rings and chunky chips
-    main_course_price: 12.95
-  - main_course_name: "Chef’s Fisherman’s Pie "
+      Served with Chef’s coleslaw, onion rings and chunky chips. Available Friday - Sunday.
+    main_course_price: 10.5
+  - main_course_name: House-made Chicken, Mushroom and Bacon Pie
     main_course_description: |-
-      Haddock, cod & prawns in a creamy sauce topped with mash.
-      With seasonal vegetables
-    main_course_price: 14.95
+      A hearty house-made pie served with your choice of chips or mash with
+      seasonal vegetables & gravy. Available Friday - Sunday.
+    main_course_price: 11.5
     main_course_wheat_free: true
-  - main_course_name: Norwegian Meatballs in a Dill and Red Onion Gravy
-    main_course_description: Pork meatballs served with red cabbage & caramelized potatoes
+  - main_course_name: Wild Mushroom Stroganoff
+    main_course_description: Served with Rice and Side Salad. Available Friday - Sunday.
     main_course_price: 12.95
-    main_course_wheat_free: true
-    main_course_image: /images/img_7289.jpg
+    main_course_wheat_free: false
+    main_course_image: ""
+    main_course_vegetarian: true

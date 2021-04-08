@@ -40,7 +40,7 @@ mains:
   - main_course_name: Wild Mushroom Stroganoff
     main_course_description: Served with Rice and Side Salad. Available Friday -
       Sunday to eat in or takeaway.
-    main_course_price: 12.95
+    main_course_price: 10.5
     main_course_wheat_free: false
     main_course_image: ""
     main_course_vegetarian: true

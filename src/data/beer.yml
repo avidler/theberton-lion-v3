@@ -4,22 +4,22 @@ beers:
     beer_abv: 3.6
     beer_image: /images/victoria-bitter.jpg
     beer_price: 3.3
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_name: Nelson's Revenge
-    beer_brewery: Woodfordes
-    beer_abv: 4.5
-    beer_image: /images/nelsons.jpg
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_name: Pollen Power
+    beer_brewery: Mr Bees
+    beer_abv: 3.8
+    beer_image: /images/pollen-power.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: false
-  - beer_name: Bure Gold
-    beer_brewery: Woodfordes
-    beer_abv: 4.3
-    beer_image: /images/bure-gold.jpg
+    beer_coming_soon: true
+  - beer_name: Sun Turn
+    beer_brewery: Mr Bees
+    beer_abv: 4.1
+    beer_image: /images/sun-turn.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: Skiffle
     beer_brewery: Shortts Farm
     beer_abv: 4.5
@@ -34,38 +34,38 @@ beers:
     beer_price: 3.5
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/venture.jpg
-    beer_name: Venture
-    beer_brewery: Nethergate
+  - beer_image: /images/ploughman-s-gold.png
+    beer_name: Ploughman's Gold
+    beer_brewery: Mauldon's
     beer_price: 3.5
-    beer_abv: 3.7
-    beer_coming_soon: false
-    beer_on_now: true
+    beer_abv: 3.9
+    beer_coming_soon: true
+    beer_on_now: false
   - beer_image: /images/cabin-gold-rush.jpg
     beer_name: Gold Rush
     beer_brewery: Cabin Brewery
     beer_abv: 4
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/chesnt.jpg
     beer_name: Chesn't
     beer_brewery: Cabin Brewery
     beer_abv: 3.9
     beer_price: 3.5
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/lupus-lupus.jpg
+    beer_name: Lupus Lupus
+    beer_brewery: Wolf Brewery
+    beer_abv: 4.2
+    beer_price: 3.5
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/snetterton-scary-tree.jpg
-    beer_name: Snetterton Scary Tree
-    beer_brewery: Elmtree Beers
-    beer_abv: 4.5
+  - beer_image: /images/wolf-ale.jpg
+    beer_name: Wolf Ale
+    beer_brewery: Wolf Brewery
+    beer_abv: 3.9
     beer_price: 3.5
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/jester.jpg
-    beer_name: Jester
-    beer_brewery: Colchester
-    beer_abv: 4.5
-    beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false

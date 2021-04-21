@@ -4,8 +4,8 @@ beers:
     beer_abv: 3.6
     beer_image: /images/victoria-bitter.jpg
     beer_price: 3.3
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Pollen Power
     beer_brewery: Mr Bees
     beer_abv: 3.8

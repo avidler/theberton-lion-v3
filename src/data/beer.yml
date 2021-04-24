@@ -32,8 +32,8 @@ beers:
     beer_brewery: Nene Valley
     beer_abv: 3.6
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/ploughman-s-gold.png
     beer_name: Ploughman's Gold
     beer_brewery: Mauldon's
@@ -47,7 +47,7 @@ beers:
     beer_abv: 4
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/chesnt.jpg
     beer_name: Chesn't
     beer_brewery: Cabin Brewery

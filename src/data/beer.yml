@@ -60,8 +60,8 @@ beers:
     beer_brewery: Wolf Brewery
     beer_abv: 4.2
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/wolf-ale.jpg
     beer_name: Wolf Ale
     beer_brewery: Wolf Brewery

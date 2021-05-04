@@ -20,19 +20,19 @@ beers:
     beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Skiffle
-    beer_brewery: Shortts Farm
-    beer_abv: 4.5
-    beer_image: /images/skiffle.jpg
+  - beer_name: Edith Cavell
+    beer_brewery: Wolf Brewery
+    beer_abv: 3.7
+    beer_image: /images/edith-cavell.jpg
     beer_price: 3.5
     beer_on_now: false
-    beer_coming_soon: false
-  - beer_image: /images/simple-pleasures.png
-    beer_name: Simple Pleasures
-    beer_brewery: Nene Valley
-    beer_abv: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/venture.jpg
+    beer_name: Venture
+    beer_brewery: Nethergate
+    beer_abv: 3.7
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/ploughman-s-gold.png
     beer_name: Ploughman's Gold
@@ -41,26 +41,26 @@ beers:
     beer_abv: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/cabin-gold-rush.jpg
-    beer_name: Gold Rush
+  - beer_image: /images/mark-s-gold.jpg
+    beer_name: Mark's Gold
     beer_brewery: Cabin Brewery
     beer_abv: 4
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/chesnt.jpg
-    beer_name: Chesn't
-    beer_brewery: Cabin Brewery
-    beer_abv: 3.9
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
+    beer_brewery: Green Jack
+    beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/lupus-lupus.jpg
-    beer_name: Lupus Lupus
-    beer_brewery: Wolf Brewery
-    beer_abv: 4.2
+  - beer_image: /images/augustinian.jpeg
+    beer_name: Augustinian
+    beer_brewery: Nethergate
+    beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/wolf-ale.jpg
     beer_name: Wolf Ale

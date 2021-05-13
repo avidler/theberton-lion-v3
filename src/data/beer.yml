@@ -11,22 +11,22 @@ beers:
     beer_abv: 3.8
     beer_image: /images/pollen-power.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Sun Turn
     beer_brewery: Mr Bees
     beer_abv: 4.1
     beer_image: /images/sun-turn.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Edith Cavell
     beer_brewery: Wolf Brewery
     beer_abv: 3.7
     beer_image: /images/edith-cavell.jpg
     beer_price: 3.5
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/venture.jpg
     beer_name: Venture
     beer_brewery: Nethergate
@@ -53,8 +53,8 @@ beers:
     beer_brewery: Green Jack
     beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/augustinian.jpeg
     beer_name: Augustinian
     beer_brewery: Nethergate
@@ -68,4 +68,4 @@ beers:
     beer_abv: 3.9
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false

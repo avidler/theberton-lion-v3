@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_special_message
-    title: Monday 12th April - Grand Reopening!
+    title: Welcome Back!
     content: ""
     body: content
   - type: section_quotes

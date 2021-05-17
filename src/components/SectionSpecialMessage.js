@@ -15,12 +15,26 @@ export default class SectionSpecialMessage extends React.Component {
             <div className="container" id="special_message">
             <h2 className="page-title">{`${section.title}`}</h2>
            
-            <p>We are very excited at the prospect of being able to welcome you back to The Lion again and are planning to open our outside spaces on Monday April 12 provided nothing changes between now and then.
-            
-With the restrictions limiting us to garden tables we will be operating different hours to normal as detailed below. With the unpredictability of the weather these are subject to change at short notice;
-</p><p>
-</p><p><div id="special-picture" style={{display:"flex", justifyContent:"center"}}><img src="./images/april.jpg" display="block" width="40%"></img></div></p>
-            <p>{`${section.content}`}</p>
+           
+
+<h2>
+    Update Monday 17 May 2021
+    </h2>
+ 
+    <p>
+    We are very excited to be able to welcome you back inside.  Alfresco April was fun but challenging and all steps have been taken to adhere to the latest guidance to ensure we remain Covid Secure inside and out.
+    </p>
+ 
+    <p>
+    It has been a strange five months but we are confident that we can now slowly get back to normal. For now, you will need a mask to enter the pub and for when you’re moving around inside.  Once seated you’re free to sup your pint and tuck in to your lamb shank.  We will be continuing with our one way system which means entry is via the front door and departure via the beer garden.  Table service remains for both inside and out. We are continuing to offer takeaways and deliveries of both food and drink if you’re not quite ready to come back to the pub. Booking is actively encouraged for dine in and pre-ordering for takeaways is essential. It is simple to order takeaway or reserve a table from our website.
+    </p>
+ 
+    <p>
+    We'll see you back at The Lion very soon. As I've said before, we will get through this, together. Take care.
+    </p>
+ 
+
+    <p>Tom and Helen</p>
   
             </div>
         </section>

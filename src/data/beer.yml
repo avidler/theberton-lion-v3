@@ -32,13 +32,13 @@ beers:
     beer_abv: 3.7
     beer_image: /images/edith-cavell.jpg
     beer_price: 3.5
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
-  - beer_image: /images/ploughman-s-gold.png
-    beer_name: Ploughman's Gold
-    beer_brewery: Mauldon's
+  - beer_image: /images/mark-s-gold.jpg
+    beer_name: Mark's Gold
+    beer_brewery: Cabin Brewery
     beer_price: 3.5
-    beer_abv: 3.9
+    beer_abv: 4
     beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/mark-s-gold.jpg
@@ -54,7 +54,7 @@ beers:
     beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/augustinian.jpeg
     beer_name: Augustinian
     beer_brewery: Nethergate

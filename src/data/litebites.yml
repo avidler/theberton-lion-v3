@@ -1,12 +1,12 @@
 lite_bites:
   - lite_bite_name: Chef's Soup Of The Day
     lite_bite_description: A warming bowl of house made soup with a bread roll and
-      butter. Ask for today's selection. Available Tuesday - Sunday.
-    lite_bite_price: 4.5
+      butter. Ask for today's selection.
+    lite_bite_price: 5.95
     lite_bite_wheat_free: true
   - lite_bite_name: House Samosas
     lite_bite_description: Helen's legendary vegetable samosas.  Available Tuesday - Sunday
-    lite_bite_price: 4
+    lite_bite_price: 5.95
     lite_bite_vegetarian: true
   - lite_bite_name: Six Inch Sausage Roll
     lite_bite_description: A six inch sausage roll, served hot. As simple as that!

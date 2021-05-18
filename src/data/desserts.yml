@@ -2,21 +2,21 @@ desserts:
   - dessert_name: House-made Sticky Toffee Pudding
     dessert_description: Served with piping hot custard.  Available Friday - Sunday
       to eat in or takeaway.
-    dessert_price: 4.5
+    dessert_price: 5.95
     dessert_vegetarian: true
   - dessert_name: Chef’s Chocolate Brownie
     dessert_description: with White Chocolate Sauce and Vanilla Ice
       Cream.  Available Friday - Sunday to eat in or takeaway.
-    dessert_price: 4.5
+    dessert_price: 5.95
     dessert_wheat_free: true
     dessert_vegetarian: true
   - dessert_name: "House-Made Bread & Butter Pudding "
     dessert_description: Served with Piping Hot Custard. Available Friday - Sunday
       to eat in or takeaway.
-    dessert_price: 4.5
+    dessert_price: 5.95
     dessert_vegetarian: true
   - dessert_name: Landlord's Cheeseboard
     dessert_description: Cheeses from the region with Crackers & Chutney
-    dessert_price: 7.95
+    dessert_price: 8.95
     dessert_wheat_free: true
     dessert_vegetarian: true

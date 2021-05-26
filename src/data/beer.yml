@@ -41,13 +41,13 @@ beers:
     beer_abv: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/mark-s-gold.jpg
-    beer_name: Mark's Gold
-    beer_brewery: Cabin Brewery
-    beer_abv: 4
+  - beer_image: /images/nelsons.jpg
+    beer_name: Nelson's Revenge
+    beer_brewery: Woodfordes
+    beer_abv: 4.5
     beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack

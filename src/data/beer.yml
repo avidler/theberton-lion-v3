@@ -6,13 +6,13 @@ beers:
     beer_price: 3.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Nene Valley
-    beer_brewery: Bitter
-    beer_abv: 4.1
-    beer_image: /images/nene-valley-bitter.png
+  - beer_name: Tindall Ales
+    beer_brewery: Mild
+    beer_abv: 3.7
+    beer_image: /images/tindall-mild.jpeg
     beer_price: 3.5
-    beer_on_now: true
-    beer_coming_soon: false
+    beer_on_now: false
+    beer_coming_soon: true
   - beer_name: Lupus Lupus
     beer_brewery: Wolf Brewery
     beer_abv: 4.2
@@ -27,19 +27,19 @@ beers:
     beer_price: 3.5
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Sly Wolf
+  - beer_name: Tindall Ales
     beer_brewery: Wolf Brewery
-    beer_abv: 4.4
-    beer_image: /images/wolf-sly-wolf.jpg
+    beer_abv: 3.7
+    beer_image: /images/tindall-s-best-bitter.jpg
     beer_price: 3.5
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/mark-s-gold.jpg
-    beer_name: Mark's Gold
-    beer_brewery: Cabin Brewery
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_image: /images/tindall-caramel-stout.jpg
+    beer_name: Tindall Ales
+    beer_brewery: Caramel Stout
     beer_price: 3.5
-    beer_abv: 4
-    beer_coming_soon: false
+    beer_abv: 4.5
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/nelsons.jpg
     beer_name: Nelson's Revenge
@@ -55,17 +55,17 @@ beers:
     beer_price: 3.5
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/wolf-ale.jpg
+  - beer_image: /images/seething-pale.jpg
     beer_name: Wolf Ale
     beer_brewery: Wolf Brewery
     beer_abv: 3.9
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/augustinian.jpeg
-    beer_name: Augustinian
-    beer_brewery: Nethergate
-    beer_abv: 4.5
+  - beer_image: /images/seething-pale.jpg
+    beer_name: TIndall Ales
+    beer_brewery: Liberator
+    beer_abv: 3.8
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false

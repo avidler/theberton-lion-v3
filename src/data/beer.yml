@@ -13,10 +13,10 @@ beers:
     beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/sirius-dog-star.jpg
-    beer_name: Sirius Dog Star
-    beer_brewery: Wolf Brewery
-    beer_abv: 4.4
+  - beer_image: /images/buzz-litebeer.jpg.png
+    beer_name: Buzz Litebeer
+    beer_brewery: Mr Bees
+    beer_abv: 4.9
     beer_price: 3.5
     beer_coming_soon: false
     beer_on_now: false

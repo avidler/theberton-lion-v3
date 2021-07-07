@@ -6,40 +6,40 @@ beers:
     beer_price: 3.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Hoptrick
-    beer_brewery: Tindall Ales
-    beer_abv: 3.8
-    beer_image: /images/hoptrick.jpeg
+  - beer_name: Augustinian
+    beer_brewery: Nethergate
+    beer_abv: 4.5
+    beer_image: /images/augustinian.jpeg
     beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/buzz-litebeer.jpg.png
-    beer_name: Buzz Litebeer
-    beer_brewery: Mr Bees
-    beer_abv: 4.9
-    beer_price: 3.5
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_name: Lupus Lupus
-    beer_brewery: Wolf Brewery
+  - beer_image: /images/stour-valley-gold.jpg
+    beer_name: Stour Valley Gold
+    beer_brewery: Nethergate
     beer_abv: 4.2
-    beer_image: /images/lupus-lupus.jpg
     beer_price: 3.5
-    beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/tindall-caramel-stout.jpg
-    beer_name: Caramel Stout
+    beer_on_now: true
+  - beer_name: Straw Dog
+    beer_brewery: Wolf Brewery
+    beer_abv: 4.5
+    beer_image: /images/straw-dog.png
+    beer_price: 3.5
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_image: /images/black-wolf.jpeg
+    beer_name: Black Wolf
     beer_brewery: Tindall Ales
     beer_price: 3.5
-    beer_abv: 4.5
-    beer_coming_soon: false
+    beer_abv: 4.6
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/nelsons.jpg
-    beer_name: Nelson's Revenge
-    beer_brewery: Woodfordes
-    beer_abv: 4.5
+  - beer_image: /images/golden-jackal.jpg
+    beer_name: Golden Jackal
+    beer_brewery: Wolf Brewery
+    beer_abv: 3.7
     beer_price: 3.5
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
@@ -47,7 +47,7 @@ beers:
     beer_abv: 4.5
     beer_price: 3.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/seething-pale.jpg
     beer_name: Seething Pale
     beer_brewery: Tindall Ales

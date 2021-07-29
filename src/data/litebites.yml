@@ -1,14 +1,16 @@
 lite_bites:
+  - lite_bite_name: Crispy Halloumi Fries
+    lite_bite_description: With Garlic Mayonnaise and Salad Garnish
+    lite_bite_price: 6.95
   - lite_bite_name: Chef's Soup Of The Day
     lite_bite_description: A warming bowl of house made soup with a bread roll and
       butter. Ask for today's selection.
-    lite_bite_price: 5.95
+    lite_bite_price: 6.95
     lite_bite_wheat_free: true
   - lite_bite_name: House Samosas
     lite_bite_description: Helen's legendary vegetable samosas.  Available Tuesday - Sunday
-    lite_bite_price: 5.95
+    lite_bite_price: 6.95
     lite_bite_vegetarian: true
-  - lite_bite_name: Six Inch Sausage Roll
-    lite_bite_description: A six inch sausage roll, served hot. As simple as that!
-      Available Tuesday - Saturday.
-    lite_bite_price: 3.5
+  - lite_bite_name: Potted Shrimps
+    lite_bite_description: Infused with Garlic and Served with Toasted Ciabatta.
+    lite_bite_price: 7.95

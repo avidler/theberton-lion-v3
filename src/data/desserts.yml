@@ -1,22 +1,32 @@
 desserts:
+  - dessert_name: Lemon & Ginger Cheesecake
+    dessert_description: A real treat freshly made to order by our chef.
+    dessert_price: 6.95
+    dessert_wheat_free: true
+    dessert_vegetarian: true
+  - dessert_name: Chef’s Chocolate Blondie
+    dessert_description: "with Cinnamon Ice Cream. "
+    dessert_price: 6.95
+    dessert_wheat_free: true
+    dessert_vegetarian: true
   - dessert_name: House-made Sticky Toffee Pudding
     dessert_description: Served with piping hot custard.  Available Friday - Sunday
       to eat in or takeaway.
-    dessert_price: 5.95
+    dessert_price: 6.95
     dessert_vegetarian: true
-  - dessert_name: Chef’s Chocolate Brownie
-    dessert_description: with White Chocolate Sauce and Vanilla Ice
-      Cream.  Available Friday - Sunday to eat in or takeaway.
-    dessert_price: 5.95
     dessert_wheat_free: true
+  - dessert_name: Crumble of The Day
+    dessert_description: Served with Piping Hot Custard. Just ask us for today's choice.
+    dessert_price: 6.95
     dessert_vegetarian: true
-  - dessert_name: "House-Made Bread & Butter Pudding "
-    dessert_description: Served with Piping Hot Custard. Available Friday - Sunday
-      to eat in or takeaway.
-    dessert_price: 5.95
-    dessert_vegetarian: true
+    dessert_wheat_free: true
   - dessert_name: Landlord's Cheeseboard
     dessert_description: Cheeses from the region with Crackers & Chutney
     dessert_price: 8.95
+    dessert_wheat_free: true
+    dessert_vegetarian: true
+  - dessert_name: Pineapple Pavlova
+    dessert_description: With Elderflower Syrup
+    dessert_price: 6.95
     dessert_wheat_free: true
     dessert_vegetarian: true

@@ -3,6 +3,11 @@ mains:
     main_course_description: "Served with New Potatoes and A Medley of Green Vegetables "
     main_course_price: 16.95
     main_course_wheat_free: true
+  - main_course_name: "Chicken Caesar Salad "
+    main_course_description: "Romaine Lettuce, Croutons, Anchovies, Parmesan and our
+      house Caesar Dressing     "
+    main_course_price: 11.95
+    main_course_wheat_free: true
   - main_course_name: Slow Cooked Pork Belly
     main_course_description: With Crushed Wholegrain Mustard New Potatoes, Red Cabbage and Apple Crisp.
     main_course_price: 14.95
@@ -45,11 +50,7 @@ mains:
       Coleslaw and Onion Rings.
     main_course_price: 12.95
     main_course_vegetarian: false
-  - main_course_name: "Chicken Caesar Salad "
-    main_course_description: "Romaine Lettuce, Croutons, Anchovies, Parmesan and our
-      house Caesar Dressing     "
-    main_course_price: 11.95
-    main_course_wheat_free: true
+    main_course_wheat_free: false
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings for a selection of our
       House Curries. Served with rice and our House Naan Bread. Please ask for

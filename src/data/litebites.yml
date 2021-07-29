@@ -8,7 +8,7 @@ lite_bites:
     lite_bite_price: 6.95
     lite_bite_wheat_free: true
   - lite_bite_name: House Samosas
-    lite_bite_description: Helen's legendary vegetable samosas.  Available Tuesday - Sunday
+    lite_bite_description: Helen's legendary vegetable samosas.
     lite_bite_price: 6.95
     lite_bite_vegetarian: true
   - lite_bite_name: Potted Shrimps

@@ -17,9 +17,9 @@ export default class SectionSpecialMessage extends React.Component {
            
            
 
-<h2>
+<h3>
     Update Monday 17 May 2021
-    </h2>
+    </h3>
  
     <p>
     We are very excited to be able to welcome you back inside.  Alfresco April was fun but challenging and all steps have been taken to adhere to the latest guidance to ensure we remain Covid Secure inside and out.

@@ -62,3 +62,63 @@ beers:
     beer_price: 3.6
     beer_coming_soon: false
     beer_on_now: true
+  - beer_image: /images/nightingale.jpg
+    beer_name: Nightingale
+    beer_brewery: Green Jack
+    beer_abv: 4
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/mahseer.jpg
+    beer_name: Mahseer
+    beer_brewery: Green Jack
+    beer_abv: 5.8
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/jhb.jpg
+    beer_name: JHB
+    beer_brewery: Oakham
+    beer_abv: 3.8
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/cabin-autumn-leaf.jpg
+    beer_name: Autumn Leaf
+    beer_brewery: Cabin
+    beer_abv: 3.8
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/cabin-gold-rush.jpg
+    beer_name: Gold Rush
+    beer_brewery: Cabin
+    beer_abv: 4
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/mole-trap.png
+    beer_name: Mole Trap
+    beer_brewery: Mauldons
+    beer_abv: 3.8
+    beer_coming_soon: true
+    beer_price: 3.6
+  - beer_image: /images/brewer-s-gold.jpg
+    beer_brewery: Crouch Vale
+    beer_name: Brewer's Gold
+    beer_abv: 4
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/captain-bob.png
+    beer_name: Captain Bob
+    beer_brewery: Mighty Oak
+    beer_abv: 3.8
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/four-acre-arcadia.jpg
+    beer_name: Four Acre Arcadia
+    beer_brewery: Starwing
+    beer_abv: 5
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/red-at-night.jpg
+    beer_name: Red At Night
+    beer_brewery: Starwing
+    beer_abv: 4.5
+    beer_price: 3.6
+    beer_coming_soon: true

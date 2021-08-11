@@ -6,59 +6,59 @@ beers:
     beer_price: 3.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Oscar Wilde Mid
-    beer_brewery: Mighty Oak
-    beer_abv: 3.7
-    beer_image: /images/oscar-wilde-mild.png
-    beer_price: 3.5
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/crows-nest.jpg
-    beer_name: Mighty Oak
-    beer_brewery: The Crow's Nest
-    beer_abv: 4.3
-    beer_price: 3.5
-    beer_coming_soon: false
+  - beer_name: Silver Adder
+    beer_brewery: Mauldons
+    beer_abv: 4.2
+    beer_image: /images/silver-adder.jpg
+    beer_price: 3.6
     beer_on_now: false
-  - beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.6
-    beer_image: /images/trawlerboys.png
-    beer_price: 3.5
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/lacons.png
-    beer_name: East Coast IPA
-    beer_brewery: Lacons
-    beer_price: 3.5
+    beer_coming_soon: true
+  - beer_image: /images/wolf-in-sheep-s-clothing.jpeg
+    beer_name: Wolf In Sheep's Clothing
+    beer_brewery: Wolf
+    beer_abv: 3.7
+    beer_price: 5.6
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_name: Cosmic Jellyfish
+    beer_brewery: Oakham
+    beer_abv: 4
+    beer_image: /images/cosmic-jellyfish.png
+    beer_price: 3.6
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_image: /images/mrwinters-evolution.jpg
+    beer_name: Evolution
+    beer_brewery: Mr Winters
+    beer_price: 3.6
     beer_abv: 3.9
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/yakima-gold.jpg
-    beer_name: Yakima Gold
-    beer_brewery: Crouch Vale
-    beer_abv: 4.2
-    beer_price: 3.5
+  - beer_image: /images/genetic-code.jpeg
+    beer_name: Genetic Code
+    beer_brewery: Mr Winters
+    beer_abv: 3.9
+    beer_price: 3.6
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.5
-    beer_price: 3.5
-    beer_coming_soon: false
+  - beer_image: /images/loop-daddy.jpg
+    beer_name: Loop Daddy
+    beer_brewery: Nene Valley
+    beer_abv: 3.8
+    beer_price: 3.6
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/seething-pale.jpg
     beer_name: Caramel Stout
     beer_brewery: Tindall Ales
     beer_abv: 4.5
-    beer_price: 3.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_price: 3.6
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/seething-pale.jpg
     beer_name: Liberator
     beer_brewery: Tindall Ales
     beer_abv: 3.8
-    beer_price: 3.8
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_price: 3.6
+    beer_coming_soon: false
+    beer_on_now: true

@@ -1,6 +1,8 @@
 ---
 title: Home
 sections:
+  - type: section_special_message
+    title: Handfasting Celebration
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion

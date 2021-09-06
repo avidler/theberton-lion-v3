@@ -15,7 +15,7 @@ export default class SectionSpecialMessage extends React.Component {
             <div className="container" id="special_message">
             <h2 className="page-title">{`${section.title}`}</h2>
            
-           <img src="./images/handfasting.jpg" />
+           <img src="/images/handfasting.jpg" />
 
   
             </div>

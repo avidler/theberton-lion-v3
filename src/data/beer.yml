@@ -104,7 +104,7 @@ beers:
     beer_abv: 4
     beer_price: 3.6
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/captain-bob.png
     beer_name: Captain Bob
     beer_brewery: Mighty Oak

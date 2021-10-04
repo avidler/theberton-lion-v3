@@ -6,80 +6,80 @@ beers:
     beer_price: 3.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Silver Adder
-    beer_brewery: Mauldons
-    beer_abv: 4.2
-    beer_image: /images/silver-adder.jpg
+  - beer_name: Coyote
+    beer_brewery: Wolf
+    beer_abv: 4.3
+    beer_image: /images/coyote.jpg
     beer_price: 3.6
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/wolf-in-sheep-s-clothing.jpeg
-    beer_name: Wolf In Sheep's Clothing
-    beer_brewery: Wolf
-    beer_abv: 3.7
-    beer_price: 5.6
+  - beer_image: /images/mary-celeste.jpg
+    beer_name: Mary Celeste
+    beer_brewery: Cabin
+    beer_abv: 4.5
+    beer_price: 3.6
     beer_coming_soon: false
+    beer_on_now: true
+  - beer_name: Broadland Sunrise
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.2
+    beer_image: /images/broadland-sunrise.jpg
+    beer_price: 3.6
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/chesnt.jpg
+    beer_name: Chestn't
+    beer_brewery: Cabin
+    beer_price: 3.6
+    beer_abv: 3.9
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_name: Cosmic Jellyfish
-    beer_brewery: Oakham
+  - beer_image: /images/pintail.jpg
+    beer_name: Pintail
+    beer_brewery: Moon Gazer
+    beer_abv: 3.9
+    beer_price: 3.6
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/green-jack-generic.jpg
+    beer_name: Big Dog
+    beer_brewery: Green Jack
     beer_abv: 4
-    beer_image: /images/cosmic-jellyfish.png
     beer_price: 3.6
+    beer_coming_soon: true
     beer_on_now: false
-    beer_coming_soon: false
-  - beer_image: /images/mrwinters-evolution.jpg
-    beer_name: Evolution
-    beer_brewery: Mr Winters
+  - beer_image: /images/sirius-dog-star.jpg
+    beer_name: Sirius Dog Star
+    beer_brewery: Wolf
+    beer_abv: 4.4
     beer_price: 3.6
-    beer_abv: 3.9
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/genetic-code.jpeg
-    beer_name: Genetic Code
-    beer_brewery: Mr Winters
-    beer_abv: 3.9
-    beer_price: 3.6
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/loop-daddy.jpg
-    beer_name: Loop Daddy
-    beer_brewery: Nene Valley
-    beer_abv: 3.8
-    beer_price: 3.6
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/seething-pale.jpg
+    beer_name: Best Bitter
+    beer_brewery: Tindall Ales
+    beer_abv: 3.7
+    beer_price: 3.6
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/tindall-s-best-bitter.jpg
+    beer_name: Hedgerow
+    beer_brewery: Tindall Ales
+    beer_abv: 4.4
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/tindall-caramel-stout.jpg
     beer_name: Caramel Stout
     beer_brewery: Tindall Ales
     beer_abv: 4.5
     beer_price: 3.6
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/seething-pale.jpg
-    beer_name: Liberator
-    beer_brewery: Tindall Ales
-    beer_abv: 3.8
+    beer_coming_soon: true
+  - beer_image: /images/cliff-quay.jpeg
+    beer_name: Magellan
+    beer_brewery: Cliff Quay
+    beer_abv: 4.3
     beer_price: 3.6
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/nightingale.jpg
-    beer_name: Nightingale
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 3.6
-    beer_coming_soon: false
-  - beer_image: /images/mahseer.jpg
-    beer_name: Mahseer
-    beer_brewery: Green Jack
-    beer_abv: 5.8
-    beer_price: 3.6
-    beer_coming_soon: false
-  - beer_image: /images/jhb.jpg
-    beer_name: JHB
-    beer_brewery: Oakham
-    beer_abv: 3.8
-    beer_price: 3.6
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_image: /images/cabin-autumn-leaf.jpg
     beer_name: Autumn Leaf
     beer_brewery: Cabin

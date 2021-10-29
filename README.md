@@ -34,3 +34,9 @@ I have always found CSS and front-end development significantly harder to master
 
 I added two boolean options to the backend so each ale either appears in the 'on now' section, 'coming soon' section or not at all. This allows the client to keep an ale on the database in case he reorders it again in the future. If he does not have a graphic for the pump clip, a blank one is displayed by default with a 'chalkboard' style font showing the information, as is often the case in pubs.
 ![TL7](https://user-images.githubusercontent.com/18460931/139427712-a586bd7d-acfb-453f-ade6-545f3633b0a2.png)
+
+### Services
+The three highlighted services are the same and look almost identical as on the previous incarnation of the site. Again, as all I had was static pages from Wordpres I basically had to use Element Inspector to work out how to recreate them. As you will see from the second screenshot below, the client actually has the option to amend these, though is perhaps unlikely to do so given the fundamentals of the business will probably remain the same.
+
+<img width="343" alt="TL8" src="https://user-images.githubusercontent.com/18460931/139428767-22959c7d-1d27-464d-9ded-5d014ba499ee.png">
+![TL9](https://user-images.githubusercontent.com/18460931/139429227-59b0293d-5ed3-4dd3-a5dd-6784c74a70fb.png)

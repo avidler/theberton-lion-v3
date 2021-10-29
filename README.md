@@ -24,8 +24,13 @@ The homepage carousel was fairly straightforward to set up, making use of [Slick
 
 ### Live Ale List
 This was the part of the site that I found the most fun. Extracting the data from the backend and mapping it so that it dynamically displays on the page was particularly enjoyable and gave a great sense of achievement.  
-The first screenshot also shows an example of where the system would benefit from a 'tidy-up'. We can see that the 'Real Ale On Now' heading has been hard coded in, rather than dynamically fetched. There are a few instances where I would like for this to be editable in the CMS and extracted with the rest of the data, but the time pressure of completing this work around my full-time job meant I made a sacrifice on flexibility over meeting the deadline.   
+The first screenshot also shows an example of where the system would benefit from a 'tidy-up'. We can see that the 'Real Ale On Now' heading has been hard coded in, rather than dynamically fetched. There are a few instances where I would like for this to be editable in the CMS and extracted with the rest of the data, but the time pressure of completing this work around my full-time job meant I made a sacrifice on flexibility over meeting the deadline.  
+<img width="605" alt="TL3" src="https://user-images.githubusercontent.com/18460931/139427702-8183ca9b-60a4-40f4-ae0f-a1a228532c2a.png">
 
 I have always found CSS and front-end development significantly harder to master than back-end scripting. However, I set myself the challenge of displaying the beer list in a visually appealing manner. Having the pump clip images align with the pump image in the background was no mean feat. Furthermore, ensuring that the pumps did not appear on smaller displays and having the information realigned was also satisfying.  
+<img width="391" alt="TL4" src="https://user-images.githubusercontent.com/18460931/139427693-3ff6884b-5a48-4c60-bb01-13f514f110a4.png">
+![TL5](https://user-images.githubusercontent.com/18460931/139427720-ed8a357f-1805-4c19-a212-6c62f92f158d.png)
+![TL6](https://user-images.githubusercontent.com/18460931/139427713-76fd601a-0b5a-41e2-ab89-f019bcfa2c45.png)
 
 I added two boolean options to the backend so each ale either appears in the 'on now' section, 'coming soon' section or not at all. This allows the client to keep an ale on the database in case he reorders it again in the future. If he does not have a graphic for the pump clip, a blank one is displayed by default with a 'chalkboard' style font showing the information, as is often the case in pubs.
+![TL7](https://user-images.githubusercontent.com/18460931/139427712-a586bd7d-acfb-453f-ade6-545f3633b0a2.png)

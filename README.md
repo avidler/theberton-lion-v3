@@ -20,3 +20,5 @@ To develop the backend CMS I taught myself [Stackbit](https://www.stackbit.com/)
 ### Carousel
 The homepage carousel was fairly straightforward to set up, making use of [Slick Carousel](https://kenwheeler.github.io/slick/). However, the client wished for it to be clickable so that the user was taken to the page being promoted by each banner as it appeared. I expected this to be straightforward, however I soon discovered that when I added a url to each image, the user was always taken to the final one regardless of the content of the others. In order to get around this problem I created a small function to call and extract the url when the image is clicked.
 
+<img width="652" alt="TL2" src="https://user-images.githubusercontent.com/18460931/139422770-a7f8c4b2-7ceb-48bb-91ea-21382ca92f19.png">
+

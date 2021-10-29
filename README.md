@@ -52,5 +52,17 @@ Other than the live ale list, the drinks and food page make use of React compone
 ## Accommodation
 My client uses a service called freetobook.com to manage the bookings of his on-site accommodation. Though the service does provide free widgets which are very straightforward to add to static pages and Wordpress sites, I found that they did not render in React. After exploring various ways to get around this issue, I concluded that it made more sense to simply code my own widget and pass the selected information to the service in the same way that its own widget would. It is worth acknowledging at this point that I do indeed have a mix of class-based and functional components in my React code. I learnt about functional components after beginning this project and prefer them overall. I have not yet gone back and re-rendered my previous work, hence there is a mix of both on the site.
 
-<img width="368" alt="TL11" src="https://user-images.githubusercontent.com/18460931/139434462-dea2477b-d734-4d2b-9ae2-2935f222f83a.png">
+<img width="368" alt="TL11" src="https://user-images.githubusercontent.com/18460931/139434462-dea2477b-d734-4d2b-9ae2-2935f222f83a.png">   
+
+## Directions / Keeping You Safe
+Not really much to say about these as they are just pages with some embedded data. But I thought I had better add them so this didn't look unfinished! I may as well point out that if the client ever decides that the risk assessment is no longer required, he has control over which options appear on the menu so can remove it himself.
+
+## Closing Points  
+It has been great to have had a side project such as this one and needless to say, I am still in regular communications with the client regarding updates or amendments to the site. The Live Ale List is something that I have pretty much created from scratch and he has commented that his customers appreciate it and he does highlight the feature in promotional material. If I had the time I would like to arrange for weight or other such sensors to be installed around his casks so that the website could automatically calculate how many pints of a particular beer were left.   
+
+Having thoroughly enjoyed learning React through a variety of courses and tutorials, it has been a great thrill to be able to use my new knowledge to help someone's business. It is definitely something I would like to do again in the future, developing my skills even further.   
+
+If you would like a testimonial regarding my work on this project then please do feel free to contact my client directly - tom@thebertonlion.co.uk  
+
+Cheers!
 

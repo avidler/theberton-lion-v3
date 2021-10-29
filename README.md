@@ -37,6 +37,5 @@ I added two boolean options to the backend so each ale either appears in the 'on
 
 ### Services
 The three highlighted services are the same and look almost identical as on the previous incarnation of the site. Again, as all I had was static pages from Wordpres I basically had to use Element Inspector to work out how to recreate them. As you will see from the second screenshot below, the client actually has the option to amend these, though is perhaps unlikely to do so given the fundamentals of the business will probably remain the same.
-
-<img width="343" alt="TL8" src="https://user-images.githubusercontent.com/18460931/139428767-22959c7d-1d27-464d-9ded-5d014ba499ee.png">
-![TL9](https://user-images.githubusercontent.com/18460931/139429227-59b0293d-5ed3-4dd3-a5dd-6784c74a70fb.png)
+<img width="343" alt="TL8" src="https://user-images.githubusercontent.com/18460931/139429331-13b7fb74-b68f-4c21-b595-017ae020c70e.png">
+![TL9](https://user-images.githubusercontent.com/18460931/139429329-0f132388-52f0-449b-be74-d63fd1e0def3.png)

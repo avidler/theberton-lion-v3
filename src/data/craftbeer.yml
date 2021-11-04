@@ -19,12 +19,11 @@ craft_beers:
       beer. GLUTEN FREE AND VEGAN
     craft_beer_half_price: 2.15
     craft_beer_pint_price: 4.3
-  - craft_beer_brewery: Briarbank
-    craft_beer_name: Black Horse Stout
-    craft_beer_brewery_location: Ipswich, Suffolk
-    craft_beer_abv: 4.3
-    craft_beer_description: Our famous Irish style stout. A smooth, full bodied,
-      roasty stout with a beautifully creamy head.
+  - craft_beer_brewery: Mighty Oak
+    craft_beer_name: Old Man and The Sea Stout
+    craft_beer_brewery_location: Maldon, Essex
+    craft_beer_abv: 4.1
+    craft_beer_description: Smooth full bodied, roasted stout with a beautifully creamy head.
     craft_beer_half_price: 2.05
     craft_beer_pint_price: 4.1
   - craft_beer_name: Pilsner Urquell

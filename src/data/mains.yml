@@ -1,35 +1,39 @@
 mains:
-  - main_course_name: Pan Fried Tuna Steak with Fresh Salsa
-    main_course_description: "Served with New Potatoes and A Medley of Green Vegetables "
-    main_course_price: 16.95
+  - main_course_name: Slow Cooked Beef Stew & Dumplings
+    main_course_description: Served with mashed potatoes, green beans, chantenay
+      carrots and purple sprouting broccoli.
+    main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: "Chicken Caesar Salad "
-    main_course_description: "Romaine Lettuce, Croutons, Anchovies, Parmesan and our
-      house Caesar Dressing     "
+  - main_course_name: Chicken En Croute with Celeriac Potato Gratin
+    main_course_description: "With chestnut mushrooms in a white wine and mushroom
+      sauce.  Served with chantenay carrots, green beans and purple sprouting
+      broccoli.   "
+    main_course_price: 14.95
+    main_course_wheat_free: true
+  - main_course_name: Pork Chop with Root Vegetable Mash & Cider Mustard Gravy
+    main_course_description: With chantenay carrots, green beans, purple sprotuing
+      broccoli, sautéed sprouts and bacon.
+    main_course_price: 13.95
+    main_course_wheat_free: true
+  - main_course_name: Chorizo & Roasted Red Pepper Tagliatelle
+    main_course_description: In a rich tomato sauce. Served with house garlic ciabatta.
     main_course_price: 11.95
-    main_course_wheat_free: true
-  - main_course_name: Slow Cooked Pork Belly
-    main_course_description: With Crushed Wholegrain Mustard New Potatoes, Red Cabbage and Apple Crisp.
-    main_course_price: 16.95
-    main_course_wheat_free: true
-  - main_course_name: House Vegetable and Mixed Bean Chilli
-    main_course_description: Served with long grain rice and tortilla chips and Salad Garnish.
+    main_course_wheat_free: false
+    main_course_vegetarian: false
+  - main_course_name: Mediterranean Vegetable Lasagne
+    main_course_description: Served with house garlic ciabatta and side salad.
     main_course_price: 12.95
     main_course_wheat_free: true
     main_course_vegetarian: true
-  - main_course_name: Moroccan Lamb Shank
-    main_course_description: With Saffron Mash & Mediterranean Vegetables.
-    main_course_price: 16.95
-    main_course_wheat_free: true
   - main_course_name: Beer Battered Cod Fillet & Chips
     main_course_description: Served with your choice of peas and House Tartare Sauce.
     main_course_price: 11.95
     main_course_vegetarian: false
     main_course_wheat_free: true
-  - main_course_name: "The Lion’s Legendary Steak & Ale Pie "
-    main_course_description: |
-      A hearty house-made pie served with your choice of chips or mash with
-      seasonal vegetables & gravy.
+  - main_course_name: Fisherman's Pie
+    main_course_description: Smoked mackerel, hake and prawns in a creamy sauce
+      topped with mash. With green beans, purple sprouting and chantenay
+      carrots.
     main_course_price: 15.95
     main_course_wheat_free: false
   - main_course_name: House-made Gourmet Beef Burger
@@ -39,20 +43,10 @@ mains:
 
       Served with Chef’s coleslaw, onion rings and chunky chips.
     main_course_price: 12.95
-  - main_course_name: Cherry Tomato & Courgette Tartlets
-    main_course_description: Served with New Potatoes and Salad
-    main_course_price: 12.95
-    main_course_wheat_free: true
-    main_course_image: ""
-    main_course_vegetarian: true
-  - main_course_name: Chef's Cajun Chicken Burger
-    main_course_description: With Cheddar Cheese & Mango Chutney. Served with Chips,
-      Coleslaw and Onion Rings.
-    main_course_price: 12.95
-    main_course_vegetarian: false
-    main_course_wheat_free: false
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings for a selection of our
-      House Curries. Served with rice and our House Naan Bread. Please ask for
-      today's selection.
+      House Curries. Served with rice and our House Naan Bread. Please call for
+      this week's selection.  A limited number of other dishes are available on
+      Tuesday evenings.
     main_course_price: 12.95
+    main_course_wheat_free: true

@@ -1,7 +1,6 @@
-snacks_intro: "At The Theberton Lion we pride ourselves on offering a range of
-  bar snacks to suit all tastes. "
+snacks_intro: At some point in your pint your mind will turn to.... Bar Snacks.
 snack_list:
-  - snack_brand_logo: /images/fairfields-farm-crisps-border-1000x700.jpg
+  - snack_brand_logo: ""
     snack_brand_list:
       - snack_brand_variety_name: Fairfield Farm Lightly Sea Salted
         snack_brand_variety_price: 1
@@ -9,21 +8,19 @@ snack_list:
         snack_brand_variety_price: 1
       - snack_brand_variety_name: Fairfield Farm Farmhouse Sea Salt & Aspalls Cider Vinegar
         snack_brand_variety_price: 1
-    snack_brand_name: Fairfield Farm Crisps
+    snack_brand_name: Salty Dog Crisps
     snack_brand_Variety:
-      - snack_brand_variety_name: Lightly Sea Salted
+      - snack_brand_variety_name: Salted
         snack_brand_variety_price: 1
-      - snack_brand_variety_name: Farmhouse Cheese & Chives
+      - snack_brand_variety_name: Cheese & Onion
         snack_brand_variety_price: 1
-      - snack_brand_variety_name: Farmhouse Sea Salt & Aspalls Cider Vinegar
+      - snack_brand_variety_name: Salt & Vinegar
         snack_brand_variety_price: 1
   - snack_brand_name: Salty Dog
     snack_brand_Variety:
       - snack_brand_variety_name: Salted Peanuts
         snack_brand_variety_price: 1
       - snack_brand_variety_name: Dry Roasted Peanuts
-        snack_brand_variety_price: 1
-      - snack_brand_variety_name: Cashew Nuts
         snack_brand_variety_price: 1
   - snack_brand_name: Gruntled
     snack_brand_Variety:
@@ -34,12 +31,10 @@ snack_list:
   - snack_brand_name: " "
     snack_brand_Variety:
       - snack_brand_variety_name: Crunchie / Twirl / Galaxy / KitKat / Mars
-        snack_brand_variety_price: 0.85
+        snack_brand_variety_price: 1
       - snack_brand_variety_name: Flapjacks (various)
         snack_brand_variety_price: 1
-      - snack_brand_variety_name: Tic Tacs
-        snack_brand_variety_price: 0.8
       - snack_brand_variety_name: Twiglets
-        snack_brand_variety_price: 1
+        snack_brand_variety_price: 1.3
       - snack_brand_variety_name: Mini Cheddars
-        snack_brand_variety_price: 0.85
+        snack_brand_variety_price: 1

@@ -1,16 +1,19 @@
 lite_bites:
-  - lite_bite_name: Crispy Halloumi Fries
-    lite_bite_description: With Garlic Mayonnaise and Salad Garnish
-    lite_bite_price: 6.95
-  - lite_bite_name: Chef's Soup Of The Day
-    lite_bite_description: A warming bowl of house made soup with a bread roll and
-      butter. Ask for today's selection.
-    lite_bite_price: 6.95
-    lite_bite_wheat_free: true
-  - lite_bite_name: House Samosas
-    lite_bite_description: Helen's legendary vegetable samosas.
+  - lite_bite_name: House Nachos
+    lite_bite_description: With cheddar cheese, spring onion, fresh salsa & sour cream
     lite_bite_price: 6.95
     lite_bite_vegetarian: true
-  - lite_bite_name: Potted Shrimps
-    lite_bite_description: Infused with Garlic and Served with Toasted Ciabatta.
+  - lite_bite_name: Spiced Butternut Squash Soup with Chef's Cheese Scone
+    lite_bite_description: A warming bowl of house made soup with chef's cheese scone and butter.
+    lite_bite_price: 6.95
+    lite_bite_wheat_free: false
+    lite_bite_vegetarian: true
+  - lite_bite_name: Smoked Salmon & Sun Dried Tomato Tartlet
+    lite_bite_description: With salad garnish.
+    lite_bite_price: 6.95
+    lite_bite_vegetarian: false
+    lite_bite_wheat_free: true
+  - lite_bite_name: Lamb Koftas
+    lite_bite_description: With buck wheat tabula and mint dip.
     lite_bite_price: 7.95
+    lite_bite_wheat_free: true

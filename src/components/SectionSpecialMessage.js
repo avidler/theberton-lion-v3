@@ -14,8 +14,9 @@ export default class SectionSpecialMessage extends React.Component {
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="container" id="special_message">
             <h2 className="page-title">{`${section.title}`}</h2>
-            <img src="/images/book_for_christmas.jpg" alt="Logo" />
-          
+            <div id="special-picture">
+           <img src="/images/book_for_christmas.jpg" alt="Logo" />
+          </div>
 
   
             </div>

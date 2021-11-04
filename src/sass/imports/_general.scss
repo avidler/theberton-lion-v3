@@ -552,7 +552,6 @@ img {
     width: 98%;
     margin: 0 auto;
 
-
     .service_list {
       display: flex;
       flex-direction: row;
@@ -572,7 +571,6 @@ img {
           -moz-transition: all 0.2s linear; 
           -webkit-transition: all 0.2s linear; 
           -khtml-transition: all 0.2s linear;
-
         }
 
         
@@ -690,6 +688,9 @@ h2.page-title {
 }
 
 /* Welcome Section */
+#special_message {
+  margin: 0px auto
+}
 
 #welcome, #special_message {
 

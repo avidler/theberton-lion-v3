@@ -1,9 +1,11 @@
 side_dishes:
   - side_dish_name: House-made Garlic Ciabatta Bread
     side_dish_price: 2.2
-  - side_dish_name: "Portion of Chunky Chips / Fries / Sweet Potato Wedges "
-    side_dish_price: 2.6
-  - side_dish_name: "Portion of Cheesy Chips "
+  - side_dish_name: Portion of Chips
+    side_dish_price: 2.8
+  - side_dish_name: "Dish of Seasonal Vegetables "
     side_dish_price: 2.8
   - side_dish_name: "Portion of House Onion Rings "
-    side_dish_price: 2.2
+    side_dish_price: 2.6
+  - side_dish_name: Side Salad
+    side_dish_price: 2.6

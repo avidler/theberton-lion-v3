@@ -3,35 +3,35 @@ beers:
     beer_brewery: Earl Soham
     beer_abv: 3.6
     beer_image: /images/victoria-bitter.jpg
-    beer_price: 3.3
+    beer_price: 3.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Coyote
-    beer_brewery: Wolf
-    beer_abv: 4.3
-    beer_image: /images/coyote.jpg
-    beer_price: 3.6
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/mary-celeste.jpg
-    beer_name: Mary Celeste
-    beer_brewery: Cabin
-    beer_abv: 4.5
-    beer_price: 3.6
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: Broadland Sunrise
+  - beer_name: Little Sharpie
     beer_brewery: Humpty Dumpty
-    beer_abv: 4.2
-    beer_image: /images/broadland-sunrise.jpg
+    beer_abv: 3.8
+    beer_image: /images/little-sharpie.jpg
     beer_price: 3.6
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/chesnt.jpg
-    beer_name: Chestn't
-    beer_brewery: Cabin
+  - beer_image: /images/poppy-ale.jpeg
+    beer_name: Poppy Ale
+    beer_brewery: Wolf
+    beer_abv: 4.2
     beer_price: 3.6
-    beer_abv: 3.9
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_name: The Cure
+    beer_brewery: Shortts Farm
+    beer_abv: 3.6
+    beer_image: /images/cure.jpg
+    beer_price: 3.6
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_image: /images/simple-pleasures.png
+    beer_name: Simple Pleasures
+    beer_brewery: Nene Valley
+    beer_price: 3.6
+    beer_abv: 3.6
     beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/pintail.jpg
@@ -39,47 +39,47 @@ beers:
     beer_brewery: Moon Gazer
     beer_abv: 3.9
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/green-jack-generic.jpg
     beer_name: Big Dog
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/sirius-dog-star.jpg
     beer_name: Sirius Dog Star
     beer_brewery: Wolf
     beer_abv: 4.4
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/seething-pale.jpg
     beer_name: Best Bitter
     beer_brewery: Tindall Ales
     beer_abv: 3.7
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/tindall-s-best-bitter.jpg
     beer_name: Hedgerow
     beer_brewery: Tindall Ales
     beer_abv: 4.4
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/tindall-caramel-stout.jpg
     beer_name: Caramel Stout
     beer_brewery: Tindall Ales
     beer_abv: 4.5
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/cliff-quay.jpeg
     beer_name: Magellan
     beer_brewery: Cliff Quay
     beer_abv: 4.3
     beer_price: 3.6
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/cabin-autumn-leaf.jpg
     beer_name: Autumn Leaf
     beer_brewery: Cabin

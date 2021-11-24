@@ -11,7 +11,7 @@ beers:
     beer_abv: 3.8
     beer_image: /images/little-sharpie.jpg
     beer_price: 3.6
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/poppy-ale.jpeg
     beer_name: Poppy Ale
@@ -19,28 +19,28 @@ beers:
     beer_abv: 4.2
     beer_price: 3.6
     beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: The Cure
-    beer_brewery: Shortts Farm
-    beer_abv: 3.6
-    beer_image: /images/cure.jpg
-    beer_price: 3.6
     beer_on_now: false
-    beer_coming_soon: true
+  - beer_name: Mole Trap
+    beer_brewery: Mauldon's Brewery
+    beer_abv: 3.8
+    beer_image: /images/mole-trap.png
+    beer_price: 3.6
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/simple-pleasures.png
     beer_name: Simple Pleasures
     beer_brewery: Nene Valley
     beer_price: 3.6
     beer_abv: 3.6
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/pintail.jpg
-    beer_name: Pintail
-    beer_brewery: Moon Gazer
-    beer_abv: 3.9
-    beer_price: 3.6
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
+  - beer_image: /images/ploughman-s-gold.png
+    beer_name: Ploughman's Gold
+    beer_brewery: Mauldons
+    beer_abv: 3.9
+    beer_price: 3.9
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/green-jack-generic.jpg
     beer_name: Big Dog
     beer_brewery: Green Jack
@@ -110,7 +110,7 @@ beers:
     beer_brewery: Mighty Oak
     beer_abv: 3.8
     beer_price: 3.6
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_image: /images/four-acre-arcadia.jpg
     beer_name: Four Acre Arcadia
     beer_brewery: Starwing

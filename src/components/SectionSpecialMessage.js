@@ -13,9 +13,9 @@ export default class SectionSpecialMessage extends React.Component {
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="container" id="special_message">
-            <h2 className="page-title">{`${section.title}`}</h2>
+            <h2 className="page-title">Friday 17 December 2021</h2>
             <div>
-            <h3>Friday 17 December 2021</h3>
+         
 <p>
 Sadly one of our children has tested positive for COVID this morning on a lateral flow test having tested negative each day previously this week. We are all otherwise testing negative at present.
 </p>

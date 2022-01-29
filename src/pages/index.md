@@ -1,9 +1,6 @@
 ---
 title: Home
 sections:
-  - type: section_special_message
-    title: Festive Menu
-    body: "![](/images/book_for_christmas.jpg)"
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion

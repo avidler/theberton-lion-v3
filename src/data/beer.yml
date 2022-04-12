@@ -39,7 +39,7 @@ beers:
     beer_brewery: Cabin
     beer_abv: 4.3
     beer_price: 3.7
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys

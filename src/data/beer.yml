@@ -92,10 +92,10 @@ beers:
     beer_abv: 3.9
     beer_price: 3.7
     beer_coming_soon: true
-  - beer_image: /images/mole-trap.png
-    beer_name: Mole Trap
-    beer_brewery: Mauldons
-    beer_abv: 3.8
+  - beer_image: /images/mark-s-gold.jpg
+    beer_name: Cabin
+    beer_brewery: Mark's Gold
+    beer_abv: 4
     beer_coming_soon: false
     beer_price: 3.6
   - beer_image: /images/brewer-s-gold.jpg

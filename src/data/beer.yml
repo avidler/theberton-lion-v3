@@ -3,7 +3,7 @@ beers:
     beer_brewery: Earl Soham
     beer_abv: 3.6
     beer_image: /images/victoria-bitter.jpg
-    beer_price: 3.4
+    beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
   - beer_name: Little Sharpie
@@ -20,27 +20,27 @@ beers:
     beer_price: 3.6
     beer_coming_soon: false
     beer_on_now: false
-  - beer_name: Mole Trap
-    beer_brewery: Mauldon's Brewery
-    beer_abv: 3.8
-    beer_image: /images/mole-trap.png
-    beer_price: 3.6
+  - beer_name: Drifter
+    beer_brewery: Green Jack
+    beer_abv: 4
+    beer_image: /images/drifter.jpg
+    beer_price: 3.7
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/simple-pleasures.png
-    beer_name: Simple Pleasures
-    beer_brewery: Nene Valley
-    beer_price: 3.6
-    beer_abv: 3.6
+  - beer_image: /images/mary-celeste.jpg
+    beer_name: Mary Celeste
+    beer_brewery: Cabin
+    beer_price: 3.7
+    beer_abv: 4.5
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/ploughman-s-gold.png
-    beer_name: Ploughman's Gold
-    beer_brewery: Mauldons
-    beer_abv: 3.9
-    beer_price: 3.9
-    beer_coming_soon: false
-    beer_on_now: true
+    beer_name: Red Nek
+    beer_brewery: Cabin
+    beer_abv: 4.3
+    beer_price: 3.7
+    beer_coming_soon: true
+    beer_on_now: false
   - beer_image: /images/green-jack-generic.jpg
     beer_name: Big Dog
     beer_brewery: Green Jack
@@ -80,18 +80,18 @@ beers:
     beer_abv: 4.3
     beer_price: 3.6
     beer_coming_soon: false
-  - beer_image: /images/cabin-autumn-leaf.jpg
-    beer_name: Autumn Leaf
+  - beer_image: /images/inn-spiration.jpg
+    beer_name: Inn Spiration
     beer_brewery: Cabin
-    beer_abv: 3.8
-    beer_price: 3.6
+    beer_abv: 5
+    beer_price: 3.7
     beer_coming_soon: false
-  - beer_image: /images/cabin-gold-rush.jpg
-    beer_name: Gold Rush
+  - beer_image: /images/chesnt.jpg
+    beer_name: Chestn't
     beer_brewery: Cabin
-    beer_abv: 4
-    beer_price: 3.6
-    beer_coming_soon: false
+    beer_abv: 3.9
+    beer_price: 3.7
+    beer_coming_soon: true
   - beer_image: /images/mole-trap.png
     beer_name: Mole Trap
     beer_brewery: Mauldons
@@ -105,12 +105,13 @@ beers:
     beer_price: 3.6
     beer_coming_soon: false
     beer_on_now: false
-  - beer_image: /images/captain-bob.png
-    beer_name: Captain Bob
-    beer_brewery: Mighty Oak
-    beer_abv: 3.8
-    beer_price: 3.6
-    beer_coming_soon: true
+  - beer_image: /images/lgm1.jpg
+    beer_name: LGM1
+    beer_brewery: Green Jack
+    beer_abv: 3.9
+    beer_price: 3.7
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/four-acre-arcadia.jpg
     beer_name: Four Acre Arcadia
     beer_brewery: Starwing

@@ -1,21 +1,21 @@
 desserts:
-  - dessert_name: Rice Pudding Cake
-    dessert_description: Served with mixed berry jam.
+  - dessert_name: Rhubarb & Stem Ginger Cobbler
+    dessert_description: With vegan vanilla ice cream.
     dessert_price: 6.95
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Blackberry Bakewell Pudding
-    dessert_description: Served with piping hot custard.
-    dessert_price: 6.95
+  - dessert_name: Deconstructed Banoffee Meringue Cheesecake
+    dessert_description: With honey sauce. Perfect for sharing!
+    dessert_price: 8.95
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Carrot Cake Muffin with an Orange Jus
-    dessert_description: Served with vanilla ice cream
+  - dessert_name: Rum & Chestnut Chocolate Tart
+    dessert_description: With glace cherries and vanilla ice cream
     dessert_price: 6.95
     dessert_vegetarian: true
     dessert_wheat_free: true
-  - dessert_name: Pear Custard Pie
-    dessert_description: With cinnamon syrup
+  - dessert_name: Spotted Dick & Custard
+    dessert_description: ""
     dessert_price: 6.95
-    dessert_vegetarian: true
+    dessert_vegetarian: false
     dessert_wheat_free: true

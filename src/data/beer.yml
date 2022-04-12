@@ -85,7 +85,7 @@ beers:
     beer_brewery: Cabin
     beer_abv: 5
     beer_price: 3.7
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_image: /images/chesnt.jpg
     beer_name: Chestn't
     beer_brewery: Cabin

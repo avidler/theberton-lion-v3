@@ -33,3 +33,10 @@ craft_beers:
       make this premium pilsner.
     craft_beer_half_price: 2.3
     craft_beer_pint_price: 4.6
+  - craft_beer_brewery: Nethergate
+    craft_beer_name: Venture 0.5
+    craft_beer_abv: 0.5
+    craft_beer_half_price: 1.75
+    craft_beer_pint_price: 3.5
+    craft_beer_description: A very refreshing golden alcohol free ale.
+    craft_beer_brewery_location: Sudbury, Suffolk

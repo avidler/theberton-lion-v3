@@ -1,33 +1,36 @@
 wine_categories:
   - wine_category: Red
     wine_category_list:
-      - wine_vineyard: Roberts & Reeves
+      - wine_vineyard: Peculiar Mr Pat
         wine_name: Merlot
-        wine_location: Central Valley, Chile
-        wine_description: Intense flavours of cherry and plum with sumptuous aromas of
-          coffee and chocolate.
+        wine_location: Mildura, Australia
+        wine_description: >
+          Bright, plush, deeply tasty, this is abundant in freshly picked red
+          fruit with a soft tannic
+
+          profile and a long, moreish finish.
         wine_prices:
           - wine_size: 125ml
-            wine_price: 3.6
+            wine_price: 3.8
           - wine_size: 175ml
-            wine_price: 4.5
+            wine_price: 4.7
           - wine_size: 250ml
-            wine_price: 5.6
+            wine_price: 5.8
           - wine_size: 75cl bottle
-            wine_price: 15.5
+            wine_price: 15.7
       - wine_vineyard: Compass Point
         wine_name: Shiraz
         wine_location: South Eastern Australia
         wine_description: Rich, ripe black fruit flavours of cherry and plum with hints
           of vanilla and peppery spice.
         wine_prices:
-          - wine_price: 3.7
+          - wine_price: 3.9
             wine_size: 125ml
-          - wine_price: 4.6
+          - wine_price: 4.8
             wine_size: 175ml
-          - wine_price: 5.8
+          - wine_price: 6
             wine_size: 250ml
-          - wine_price: 16.9
+          - wine_price: 17.1
             wine_size: 75cl bottle
       - wine_vineyard: El Monstruo De Las Montanas
         wine_name: Malbec
@@ -36,13 +39,13 @@ wine_categories:
           followed by dark, damson and savoury overtones on the taste with a
           smooth and rounded finish.
         wine_prices:
-          - wine_price: 3.9
+          - wine_price: 4.1
             wine_size: 125ml
-          - wine_price: 4.9
+          - wine_price: 5.1
             wine_size: 175ml
-          - wine_price: 6.4
+          - wine_price: 6.6
             wine_size: 250ml
-          - wine_price: 18
+          - wine_price: 18.2
             wine_size: 75cl bottle
       - wine_vineyard: Vina Albina
         wine_name: Rioja Crianza
@@ -59,7 +62,7 @@ wine_categories:
         wine_description: Delightful strawberry and redcurrent aromas lead into
           tantalising savoury flavours of roast game and raspberry.
         wine_prices:
-          - wine_price: 22
+          - wine_price: 23
             wine_size: 75cl
   - wine_category: Rosé
     wine_category_list:
@@ -69,13 +72,13 @@ wine_categories:
         wine_description: Lively and refreshing flavours of ripe fruit combine with a
           delicate sweetness and crisp audacity.
         wine_prices:
-          - wine_price: 3.6
+          - wine_price: 3.8
             wine_size: 125ml
-          - wine_price: 4.5
+          - wine_price: 4.7
             wine_size: 175ml
-          - wine_price: 5.6
+          - wine_price: 5.8
             wine_size: 250ml
-          - wine_price: 15.5
+          - wine_price: 15.7
             wine_size: 75cl bottle
       - wine_vineyard: Voluta Grande
         wine_name: Pinot Grigio Rose
@@ -84,8 +87,14 @@ wine_categories:
           style. Strong red berry aromas and subdued hints of ripe strawberries.
           "
         wine_prices:
-          - wine_price: 17
-            wine_size: 75cl bottle
+          - wine_price: 4.1
+            wine_size: 125ml
+          - wine_price: 5.1
+            wine_size: 175ml
+          - wine_price: 6.6
+            wine_size: 250ml
+          - wine_price: 18.2
+            wine_size: 75cl Bottle
   - wine_category: White
     wine_category_list:
       - wine_vineyard: Il Badalisc
@@ -94,13 +103,13 @@ wine_categories:
         wine_description: A fresh, dry white with wonderful stonefruit and citrus
           aromas. Crisp and delicate with a balance of honey & citrus to finish.
         wine_prices:
-          - wine_price: 3.7
+          - wine_price: 3.9
             wine_size: 125ml
-          - wine_price: 4.6
+          - wine_price: 4.8
             wine_size: 175ml
-          - wine_price: 5.8
+          - wine_price: 6
             wine_size: 250ml
-          - wine_price: 16.9
+          - wine_price: 17.1
             wine_size: 75cl bottle
       - wine_vineyard: Robert & Reeves
         wine_name: Chardonnay
@@ -108,13 +117,13 @@ wine_categories:
         wine_description: Generous and vibrant with ripe, tropical fruit flavours with a
           burst of peach and melon on the palate.
         wine_prices:
-          - wine_price: 3.6
+          - wine_price: 3.8
             wine_size: 125ml
-          - wine_price: 4.5
+          - wine_price: 4.7
             wine_size: 175ml
-          - wine_price: 5.6
+          - wine_price: 5.8
             wine_size: 250ml
-          - wine_price: 15.5
+          - wine_price: 15.7
             wine_size: 75cl bottle
       - wine_vineyard: Honu
         wine_name: Sauvignon Blanc
@@ -122,13 +131,13 @@ wine_categories:
         wine_description: Fresh, crisp and zesty with aromas of citrus and passionfruit
           combined with intense flavours of lime and gooseberry.
         wine_prices:
-          - wine_price: 3.9
+          - wine_price: 4.1
             wine_size: 125ml
-          - wine_price: 4.9
+          - wine_price: 5.1
             wine_size: 175ml
-          - wine_price: 6.4
+          - wine_price: 6.6
             wine_size: 250ml
-          - wine_price: 18
+          - wine_price: 18.2
             wine_size: 75cl bottle
       - wine_vineyard: Chamin des Pins Marsanne
         wine_name: Viognier
@@ -137,7 +146,7 @@ wine_categories:
           offers a background of haunting hedgerow blossom, with hints of
           jasmine supported by refreshing flavours of apricot & peach.
         wine_prices:
-          - wine_price: 20
+          - wine_price: 21
             wine_size: 75cl bottle
       - wine_vineyard: L'Ormarine
         wine_name: Picpoul de Pinet
@@ -145,7 +154,7 @@ wine_categories:
         wine_description: Yellow with bright highlights, generous notes of citrus. Well
           balanced & lively on the palate with delicate lemony notes.
         wine_prices:
-          - wine_price: 20
+          - wine_price: 21
             wine_size: 75cl bottle
   - wine_category: Sparkling
     wine_category_list:
@@ -155,9 +164,9 @@ wine_categories:
         wine_description: Delicate lemon fruit notes with white stone fruit. Refreshing,
           lively with fine bubbles.
         wine_prices:
-          - wine_price: 5.5
+          - wine_price: 6.9
             wine_size: 20cl bottle
-          - wine_price: 19.5
+          - wine_price: 22.6
             wine_size: 75cl bottle
       - wine_vineyard: Moet & Chandon
         wine_name: Imperial Brut

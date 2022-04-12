@@ -34,19 +34,19 @@ beers:
     beer_abv: 4.5
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/ploughman-s-gold.png
+  - beer_image: /images/red-neck.png
     beer_name: Red Nek
     beer_brewery: Cabin
     beer_abv: 4.3
     beer_price: 3.7
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/green-jack-generic.jpg
-    beer_name: Big Dog
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4
-    beer_price: 3.6
-    beer_coming_soon: false
+    beer_price: 3.7
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/sirius-dog-star.jpg
     beer_name: Sirius Dog Star

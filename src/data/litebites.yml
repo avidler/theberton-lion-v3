@@ -1,19 +1,19 @@
 lite_bites:
-  - lite_bite_name: House Nachos
-    lite_bite_description: With cheddar cheese, spring onion, fresh salsa & sour cream
-    lite_bite_price: 6.95
-    lite_bite_vegetarian: true
-  - lite_bite_name: Spiced Butternut Squash Soup with Chef's Cheese Scone
-    lite_bite_description: A warming bowl of house made soup with chef's cheese scone and butter.
-    lite_bite_price: 6.95
-    lite_bite_wheat_free: false
-    lite_bite_vegetarian: true
-  - lite_bite_name: Smoked Salmon & Sun Dried Tomato Tartlet
-    lite_bite_description: With salad garnish.
+  - lite_bite_name: Black Pudding Bon Bons
+    lite_bite_description: With apple sauce & salad garnish
     lite_bite_price: 6.95
     lite_bite_vegetarian: false
+  - lite_bite_name: Pea and Mint Soup
+    lite_bite_description: A warming bowl of house made soup served with bread and butter
+    lite_bite_price: 6.95
     lite_bite_wheat_free: true
-  - lite_bite_name: Lamb Koftas
-    lite_bite_description: With buck wheat tabula and mint dip.
-    lite_bite_price: 7.95
+    lite_bite_vegetarian: true
+  - lite_bite_name: Mushroom & Tarragon Pate
+    lite_bite_description: Served with melba toast & salad garnish.
+    lite_bite_price: 6.95
+    lite_bite_vegetarian: true
     lite_bite_wheat_free: true
+  - lite_bite_name: Chef's Fish Cake
+    lite_bite_description: Served on a bed of wilted spinach.
+    lite_bite_price: 6.95
+    lite_bite_wheat_free: false

@@ -1,10 +1,11 @@
 real_cider_title: Real Ciders
 real_cider_list:
-  - real_cider_brewery: Giggler
-    real_cider_name: Dry Cyder
-    real_cider_location: Bramfield, Suffolk
-    real_cider_abv: 6.6
-    real_cider_description: A dry yet refreshing artisan cider from the Suffolk Coast.
+  - real_cider_brewery: Sandford Orchards
+    real_cider_name: Devon Scrumpy
+    real_cider_location: Crediton, Devon
+    real_cider_abv: 6
+    real_cider_description: |
+      Naturally cloudy, full-bodied and bursting with character.
     real_cider_pint_price: 4.1
     real_cider_half_price: 2.05
   - real_cider_brewery: Thistley Cross
@@ -13,15 +14,24 @@ real_cider_list:
     real_cider_abv: 4.4
     real_cider_description: A fruity and aromatic session cider from Scotland,
       golden in the glass with a clean apple finish.
-    real_cider_pint_price: 3.8
-    real_cider_half_price: 1.9
-  - real_cider_brewery: "Lilley's "
-    real_cider_name: Rhubarb
-    real_cider_location: Frome, Somerset
+    real_cider_pint_price: 4.1
+    real_cider_half_price: 2.05
+  - real_cider_brewery: Snails Bank
+    real_cider_name: Very Perry
+    real_cider_location: Pencombe, Herefordshire
     real_cider_abv: 4
-    real_cider_description: Sweet and full on rhubarb flavour with a tart edge to it.
-    real_cider_pint_price: 3.8
-    real_cider_half_price: 1.9
+    real_cider_description: >
+      A fruity medium Perry with a complex yet balanced flavour only found in
+      real perry. 
+    real_cider_pint_price: 4.1
+    real_cider_half_price: 2.05
+  - real_cider_brewery: Gwnt y Ddraig
+    real_cider_name: Black Dragon
+    real_cider_location: Pontypridd, Wales
+    real_cider_abv: 6.5
+    real_cider_description: Rich in colour, body and flavour with a fresh, fruity aroma.
+    real_cider_pint_price: 4.5
+    real_cider_half_price: 2.25
 craft_ciders_title: Craft & Keg Ciders
 craft_cider_list:
   - craft_cider_brewery: Lilley's
@@ -30,16 +40,23 @@ craft_cider_list:
     craft_cider_abv: 4.5
     craft_cider_description: Slowly matured medium dry cider made from a blend of
       apples making a smooth and refreshing cider.
-    craft_cider_pint_price: 3.9
-    craft_cider_half_price: 1.95
+    craft_cider_pint_price: 4.1
+    craft_cider_half_price: 2.05
   - craft_cider_brewery: Lilley's
     craft_cider_name: Fire Dancer
     craft_cider_location: Frome, Somerset
     craft_cider_abv: 4.5
     craft_cider_description: A cloudy rosy red medium cider which is lightly
       carbonated and delightfully drinkable.
-    craft_cider_pint_price: 3.9
-    craft_cider_half_price: 1.95
+    craft_cider_pint_price: 4.1
+    craft_cider_half_price: 2.05
+  - craft_cider_brewery: Lilley's Cider
+    craft_cider_name: Rhubarb
+    craft_cider_description: Sweet and full on rhubarb flavour with a tart edge to it.
+    craft_cider_location: Frome, Somerset
+    craft_cider_abv: 4
+    craft_cider_pint_price: 4.1
+    craft_cider_half_price: 2.05
 bottled_ciders_title: Bottled Ciders
 bottled_cider:
   - bottled_cider_brewery: Old Moult Cider
@@ -48,17 +65,10 @@ bottled_cider:
       - bottled_cider_variety_name: Passionfruit & Apple
     bottled_cider_abv: 4
     bottled_cider_description: Fabulous award wining fruit cider from Nelson New Zealand
-    bottled_cider_price: 3.6
-  - bottled_cider_brewery: Samuel Smiths
+    bottled_cider_price: 3.9
+  - bottled_cider_brewery: Pulp
     bottled_cider_varieties:
-      - bottled_cider_variety_name: Organic Cider
-      - bottled_cider_variety_name: Organic Perry
-    bottled_cider_abv: 5
-    bottled_cider_description: A medium dry cider and dry perry from Tadcaster, Yorkshire.
-    bottled_cider_price: 3.6
-  - bottled_cider_brewery: Braxzz
-    bottled_cider_varieties:
-      - bottled_cider_variety_name: Oaked Alcohol Free Cider
+      - bottled_cider_variety_name: Alcohol Free Cider
     bottled_cider_abv: 0
-    bottled_cider_description: Combined with hops this delightfully dry cider has an oakwood finish.
-    bottled_cider_price: 2.7
+    bottled_cider_description: Delicious alcohol free medium cider.
+    bottled_cider_price: 3.4

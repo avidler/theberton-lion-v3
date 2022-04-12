@@ -17,3 +17,18 @@ lite_bites:
     lite_bite_description: Served on a bed of wilted spinach.
     lite_bite_price: 6.95
     lite_bite_wheat_free: false
+  - lite_bite_name: The English One
+    lite_bite_description: Pork Pie, Sausage Roll, Bread, Ham, Cheddar, Chutney,
+      Onion and Apple.  An ideal lunch for one or perfect sharer starter
+    lite_bite_wheat_free: false
+    lite_bite_price: 10.95
+  - lite_bite_name: The Italian One
+    lite_bite_description: Mozzarella Pearls, Prosciutto, Salami, Ciabatta,
+      Artichoke Hearts, Gorgonzola, Almonds & Garnish. An ideal lunch for one or
+      perfect sharer starter
+    lite_bite_price: 10.95
+  - lite_bite_name: The Greek One
+    lite_bite_description: Olives, Vegan Feta Cubes, Roasted Red Peppers, Humus, Sun
+      Dried Tomatoes, Sliced Lemons & Garnish
+    lite_bite_price: 10.95
+    lite_bite_vegetarian: true

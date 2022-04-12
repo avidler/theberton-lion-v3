@@ -1,41 +1,38 @@
 mains:
-  - main_course_name: Slow Cooked Beef Stew & Dumplings
-    main_course_description: Served with mashed potatoes, green beans, chantenay
-      carrots and purple sprouting broccoli.
+  - main_course_name: Pan Seared Salmon Steak in Lemon  & Saffron Butter
+    main_course_description: With olive brown rice and sauteed asparagus.
+    main_course_price: 15.95
+    main_course_wheat_free: true
+  - main_course_name: Slow Roast Pork Belly with Hoisin & Plum Sauce
+    main_course_description: Served with lemon potato salad and garnish.
+    main_course_price: 15.95
+    main_course_wheat_free: false
+  - main_course_name: Balsamic Glazed Chicken Breast
+    main_course_description: With mushroom fricassee and chef's parmesan gnocchi
     main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Chicken En Croute with Celeriac Potato Gratin
-    main_course_description: "With chestnut mushrooms in a white wine and mushroom
-      sauce.  Served with chantenay carrots, green beans and purple sprouting
-      broccoli.   "
+  - main_course_name: Norwegian Meatballs in a Dill and Red Onion Gravy
+    main_course_description: Pork & beef meatballs served with red cabbage & caramelised potatoes
     main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Pork Chop with Root Vegetable Mash & Cider Mustard Gravy
-    main_course_description: With chantenay carrots, green beans, purple sprotuing
-      broccoli, sautéed sprouts and bacon.
-    main_course_price: 13.95
-    main_course_wheat_free: true
-  - main_course_name: Chorizo & Roasted Red Pepper Tagliatelle
-    main_course_description: In a rich tomato sauce. Served with house garlic ciabatta.
-    main_course_price: 11.95
+    main_course_vegetarian: false
+  - main_course_name: The Lion's Legendary Steak & Ale Pie
+    main_course_description: A hearty house-made pie served with your choice of
+      chips or mash with seasonal vegetables and gravy
+    main_course_price: 15.95
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: Mediterranean Vegetable Lasagne
-    main_course_description: Served with house garlic ciabatta and side salad.
-    main_course_price: 12.95
-    main_course_wheat_free: true
-    main_course_vegetarian: true
   - main_course_name: Beer Battered Cod Fillet & Chips
     main_course_description: Served with your choice of peas and House Tartare Sauce.
     main_course_price: 11.95
     main_course_vegetarian: false
     main_course_wheat_free: true
-  - main_course_name: Fisherman's Pie
-    main_course_description: Smoked mackerel, hake and prawns in a creamy sauce
-      topped with mash. With green beans, purple sprouting and chantenay
-      carrots.
+  - main_course_name: Stuffed Field Mushroom
+    main_course_description: With spinach, vegan feta, pine nuts and tarragon.
+      Served with new potatoes and salad.
     main_course_price: 15.95
-    main_course_wheat_free: false
+    main_course_wheat_free: true
+    main_course_vegetarian: true
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: >-
       Topped with bacon and your choice of blue cheese or Butlers Secret
@@ -43,6 +40,10 @@ mains:
 
       Served with Chef’s coleslaw, onion rings and chunky chips.
     main_course_price: 12.95
+  - main_course_name: Chicken Caesar Salad
+    main_course_description: With anchovies,cherry tomatoes, bacon, red onion, croutons & cos lettuce
+    main_course_price: 11.95
+    main_course_wheat_free: true
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings for a selection of our
       House Curries. Served with rice and our House Naan Bread. Please call for

@@ -6,25 +6,25 @@ beers:
     beer_price: 3.5
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Little Sharpie
-    beer_brewery: Humpty Dumpty
-    beer_abv: 3.8
-    beer_image: /images/little-sharpie.jpg
-    beer_price: 3.6
-    beer_on_now: false
+  - beer_name: Summer Lightning
+    beer_brewery: Hopback
+    beer_abv: 5
+    beer_image: /images/summer-lightning.jpg
+    beer_price: 3.8
+    beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/golden-best.jpg
-    beer_name: Golden Best
+  - beer_image: /images/simple-pleasures.png
+    beer_name: Simple Pleasures
     beer_brewery: Green Jack
-    beer_abv: 3.8
+    beer_abv: 3.6
     beer_price: 3.6
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_name: Drifter
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_name: Summer Dream
     beer_brewery: Green Jack
     beer_abv: 4
-    beer_image: /images/drifter.jpg
-    beer_price: 3.7
+    beer_image: /images/summer-dream.jpeg
+    beer_price: 3.8
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/mary-celeste.jpg
@@ -33,20 +33,20 @@ beers:
     beer_price: 3.7
     beer_abv: 4.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/red-neck.png
     beer_name: Red Nek
     beer_brewery: Cabin
     beer_abv: 4.3
     beer_price: 3.7
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 3.7
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/sirius-dog-star.jpg
     beer_name: Sirius Dog Star
@@ -85,18 +85,18 @@ beers:
     beer_brewery: Cabin
     beer_abv: 5
     beer_price: 3.7
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/chesnt.jpg
     beer_name: Chestn't
     beer_brewery: Cabin
     beer_abv: 3.9
     beer_price: 3.7
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/mar-s-gold-new.jpg
     beer_name: Cabin
     beer_brewery: Mark's Gold
     beer_abv: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_price: 3.6
   - beer_image: /images/brewer-s-gold.jpg
     beer_brewery: Crouch Vale
@@ -111,7 +111,7 @@ beers:
     beer_abv: 3.9
     beer_price: 3.7
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/four-acre-arcadia.jpg
     beer_name: Four Acre Arcadia
     beer_brewery: Starwing

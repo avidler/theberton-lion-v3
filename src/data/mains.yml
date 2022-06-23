@@ -1,19 +1,19 @@
 mains:
-  - main_course_name: Pan Seared Salmon Steak in Lemon  & Saffron Butter
-    main_course_description: With olive brown rice and sauteed asparagus.
+  - main_course_name: Sea Bass with Tomato & Basil Crust
+    main_course_description: Served with new potatoes, braised fennel and salad garnish.
+    main_course_price: 16.95
+    main_course_wheat_free: true
+  - main_course_name: Garlic & Ginger Glazed Sticky Pork
+    main_course_description: Served with broccoli and long grain rice.
     main_course_price: 15.95
     main_course_wheat_free: true
-  - main_course_name: Slow Roast Pork Belly with Hoisin & Plum Sauce
-    main_course_description: Served with lemon potato salad and garnish.
+  - main_course_name: Pan Fried Chicken Breast in a Watercress Sauce
+    main_course_description: With gruyere potato stack, roasted vine tomatoes and seasonal salad.
     main_course_price: 15.95
-    main_course_wheat_free: false
-  - main_course_name: Balsamic Glazed Chicken Breast
-    main_course_description: With mushroom fricassee and chef's parmesan gnocchi
-    main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Norwegian Meatballs in a Dill and Red Onion Gravy
-    main_course_description: Pork & beef meatballs served with red cabbage & caramelised potatoes
-    main_course_price: 14.95
+  - main_course_name: Lamb Chops with Apricot & Rosemary Stuffing
+    main_course_description: With sauteed potatoes, seasonal vegetables and rosemary gravy.
+    main_course_price: 16.95
     main_course_wheat_free: true
     main_course_vegetarian: false
   - main_course_name: The Lion's Legendary Steak & Ale Pie
@@ -24,13 +24,12 @@ mains:
     main_course_vegetarian: false
   - main_course_name: Beer Battered Cod Fillet & Chips
     main_course_description: Served with your choice of peas and House Tartare Sauce.
-    main_course_price: 11.95
+    main_course_price: 13.95
     main_course_vegetarian: false
     main_course_wheat_free: true
-  - main_course_name: Stuffed Field Mushroom
-    main_course_description: With spinach, vegan feta, pine nuts and tarragon.
-      Served with new potatoes and salad.
-    main_course_price: 15.95
+  - main_course_name: Mediterranean Vegetable Ratatouille
+    main_course_description: With crisp pitta, cumin spiced yoghurt and seasonal salad.
+    main_course_price: 13.95
     main_course_wheat_free: true
     main_course_vegetarian: true
   - main_course_name: House-made Gourmet Beef Burger
@@ -39,11 +38,16 @@ mains:
       cheddar.
 
       Served with Chef’s coleslaw, onion rings and chunky chips.
-    main_course_price: 12.95
+    main_course_price: 13.95
   - main_course_name: Chicken Caesar Salad
     main_course_description: With anchovies,cherry tomatoes, bacon, red onion, croutons & cos lettuce
-    main_course_price: 11.95
+    main_course_price: 13.95
     main_course_wheat_free: true
+  - main_course_name: Artichoke & Cherry Tomato Risotto
+    main_course_description: With vegan feta and seasonal salad. (VEGAN)
+    main_course_price: 13.95
+    main_course_wheat_free: true
+    main_course_vegetarian: true
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings for a selection of our
       House Curries. Served with rice and our House Naan Bread. Please call for

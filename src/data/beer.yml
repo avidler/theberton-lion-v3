@@ -10,37 +10,37 @@ beers:
     beer_brewery: Hopback
     beer_abv: 5
     beer_image: /images/summer-lightning.jpg
-    beer_price: 3.8
+    beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/simple-pleasures.png
     beer_name: Simple Pleasures
-    beer_brewery: Green Jack
+    beer_brewery: Nene Valley
     beer_abv: 3.6
     beer_price: 3.6
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Summer Dream
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_image: /images/summer-dream.jpeg
+  - beer_name: Norfolk Gem
+    beer_brewery: Lacons
+    beer_abv: 3.6
+    beer_image: /images/norfolk-gem.jpg
     beer_price: 3.8
+    beer_on_now: false
+    beer_coming_soon: true
+  - beer_image: /images/encore.jpg
+    beer_name: Encore
+    beer_brewery: Lacons
+    beer_price: 3.8
+    beer_abv: 3.8
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/colchester-sweeney-todd.jpg
+    beer_name: Sweeney Todd
+    beer_brewery: Colchester
+    beer_abv: 4.2
+    beer_price: 3.8
+    beer_coming_soon: false
     beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/mary-celeste.jpg
-    beer_name: Mary Celeste
-    beer_brewery: Cabin
-    beer_price: 3.7
-    beer_abv: 4.5
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/red-neck.png
-    beer_name: Red Nek
-    beer_brewery: Cabin
-    beer_abv: 4.3
-    beer_price: 3.7
-    beer_coming_soon: false
-    beer_on_now: false
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack

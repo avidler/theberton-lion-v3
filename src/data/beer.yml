@@ -41,11 +41,11 @@ beers:
     beer_price: 3.8
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 3.7
+  - beer_image: /images/humpty-dumpty-red-mill.jpeg
+    beer_name: Red Mill
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.3
+    beer_price: 3.8
     beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/sirius-dog-star.jpg

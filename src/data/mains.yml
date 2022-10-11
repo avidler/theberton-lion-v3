@@ -1,20 +1,21 @@
 mains:
-  - main_course_name: Sea Bass with Tomato & Basil Crust
-    main_course_description: Served with new potatoes, braised fennel and salad garnish.
+  - main_course_name: Monkfish Tail with Caper Sauce
+    main_course_description: Served with a medley of green vegetables & crushed new potatoes
     main_course_price: 16.95
     main_course_wheat_free: true
-  - main_course_name: Garlic & Ginger Glazed Sticky Pork
-    main_course_description: Served with broccoli and long grain rice.
+  - main_course_name: Chicken Gremolata on Parmesan Mashed Potato
+    main_course_description: Served with crispy maple bacon and seasonal vegetables
     main_course_price: 15.95
     main_course_wheat_free: true
-  - main_course_name: Pan Fried Chicken Breast in a Watercress Sauce
-    main_course_description: With gruyere potato stack, roasted vine tomatoes and seasonal salad.
+  - main_course_name: Pork Chop with Fondant Potato & Apple Crisp
+    main_course_description: Served with sausage meat stuffing, seasonal vegetables
+      and sage and onion gravy
     main_course_price: 15.95
     main_course_wheat_free: true
-  - main_course_name: Lamb Chops with Apricot & Rosemary Stuffing
-    main_course_description: With sauteed potatoes, seasonal vegetables and rosemary gravy.
+  - main_course_name: Lurcher Stout Lamb Stew & Dumplings
+    main_course_description: With colcannon and seasonal vegetables.
     main_course_price: 16.95
-    main_course_wheat_free: true
+    main_course_wheat_free: false
     main_course_vegetarian: false
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: A hearty house-made pie served with your choice of
@@ -24,28 +25,25 @@ mains:
     main_course_vegetarian: false
   - main_course_name: Beer Battered Cod Fillet & Chips
     main_course_description: Served with your choice of peas and House Tartare Sauce.
-    main_course_price: 13.95
+    main_course_price: 14.95
     main_course_vegetarian: false
     main_course_wheat_free: true
-  - main_course_name: Mediterranean Vegetable Ratatouille
-    main_course_description: With crisp pitta, cumin spiced yoghurt and seasonal salad.
-    main_course_price: 13.95
-    main_course_wheat_free: true
-    main_course_vegetarian: true
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: >-
       Topped with bacon and your choice of blue cheese or Butlers Secret
       cheddar.
 
       Served with Chef’s coleslaw, onion rings and chunky chips.
-    main_course_price: 13.95
-  - main_course_name: Chicken Caesar Salad
-    main_course_description: With anchovies,cherry tomatoes, bacon, red onion, croutons & cos lettuce
-    main_course_price: 13.95
+    main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Artichoke & Cherry Tomato Risotto
-    main_course_description: With vegan feta and seasonal salad. (VEGAN)
-    main_course_price: 13.95
+  - main_course_name: Chef's Vegetable Moussaka
+    main_course_description: With seasonal salad. (VEGAN)
+    main_course_price: 14.95
+    main_course_wheat_free: true
+    main_course_vegetarian: true
+  - main_course_name: Lentil & Root Vegetable "Shepherd's Pie"
+    main_course_description: With a medley of green vegetables
+    main_course_price: 14.95
     main_course_wheat_free: true
     main_course_vegetarian: true
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
@@ -55,3 +53,7 @@ mains:
       Tuesday evenings.
     main_course_price: 12.95
     main_course_wheat_free: true
+  - main_course_name: STEAK SATURDAYS Once a month
+    main_course_description: Join us for one selected Saturday a month for our Steak
+      Specials. Please call us for more details
+    main_course_price: 22

@@ -1,34 +1,31 @@
 lite_bites:
-  - lite_bite_name: Brie Arancini with Cranberry Jus
-    lite_bite_description: Served with salad garnish.
+  - lite_bite_name: Bombay Burrito
+    lite_bite_description: Spicy wraps with cauliflower, chickpeas, onion, curried
+      mashed potatoes and spinach. Served with salad garnish.
     lite_bite_price: 7.5
-    lite_bite_wheat_free: false
-  - lite_bite_name: Wild Mushroom & Stilton Tartlet with Parsley Cream
-    lite_bite_description: Served with salad garnish.
-    lite_bite_price: 7.5
-    lite_bite_vegetarian: true
     lite_bite_wheat_free: true
-  - lite_bite_name: Haggis Bon Bons
-    lite_bite_description: With whisky sauce & salad garnish
+  - lite_bite_name: Smoked Salmon Nicoise Salad
+    lite_bite_description: With tomatoes, egg, olives, salad leaf and a yoghurt dressing.
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
-  - lite_bite_name: Leek & Potato Soup
-    lite_bite_description: A warming bowl of house made soup served with ciabatta bread
+    lite_bite_wheat_free: true
+  - lite_bite_name: Chef's Scotch Egg with Dijon Mustard
+    lite_bite_description: Served with salad garnish
     lite_bite_price: 6.95
-    lite_bite_wheat_free: false
+    lite_bite_vegetarian: false
+    lite_bite_wheat_free: true
+  - lite_bite_name: Sweet Potato Soup with Cinnamon & Nutmeg
+    lite_bite_description: A warming bowl of house made soup served with a cheese scone
+    lite_bite_price: 6.95
+    lite_bite_wheat_free: true
     lite_bite_vegetarian: true
   - lite_bite_name: The English One
     lite_bite_description: Pork Pie, Sausage Roll, Bread, Ham, Cheddar, Chutney,
       Onion and Apple.  An ideal lunch for one or perfect sharer starter
     lite_bite_wheat_free: false
-    lite_bite_price: 12.95
-  - lite_bite_name: The Italian One
-    lite_bite_description: Mozzarella Pearls, Prosciutto, Salami, Ciabatta,
-      Artichoke Hearts, Gorgonzola, Almonds & Garnish. An ideal lunch for one or
-      perfect sharer starter
-    lite_bite_price: 12.95
-  - lite_bite_name: The Greek One
-    lite_bite_description: Olives, Vegan Feta Cubes, Roasted Red Peppers, Humus, Sun
-      Dried Tomatoes, Sliced Lemons & Garnish
-    lite_bite_price: 12.95
-    lite_bite_vegetarian: true
+    lite_bite_price: 14.95
+  - lite_bite_name: Bierock Brunch
+    lite_bite_description: Like an Eastern European pasty, Bierocks are generously
+      seasoned savoury buns filled with peppered beef, onions & savoy cabbage.
+      Served with onion rings, sauerkraut and garnish.
+    lite_bite_price: 8.95

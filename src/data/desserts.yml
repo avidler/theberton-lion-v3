@@ -1,22 +1,22 @@
 desserts:
-  - dessert_name: Henley Royal Summer Fruits Pavlova
-    dessert_description: With Pimms Cream and Mint Coulis
-    dessert_price: 7.25
+  - dessert_name: Frangipane & Plum Tart
+    dessert_description: With piping hot custard
+    dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Rhubarb Crumble
+  - dessert_name: Autumn Fruit Pudding
     dessert_description: With vegan vanilla ice cream. (VEGAN)
-    dessert_price: 7.25
+    dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Chocolate Fondant Pudding
-    dessert_description: With Honeycomb Ice Cream
-    dessert_price: 7.25
+  - dessert_name: Mocha Cake with Kahlua Cream
+    dessert_description: Served with Rum & Raisin Ice Cream
+    dessert_price: 7.5
     dessert_vegetarian: true
     dessert_wheat_free: true
-  - dessert_name: Chef's Cherry Cake
-    dessert_description: With Marsala Cream
-    dessert_price: 7.25
+  - dessert_name: Churros with Chocolate Sauce
+    dessert_description: ""
+    dessert_price: 7.5
     dessert_vegetarian: true
     dessert_wheat_free: true
   - dessert_name: Landlord's Cheeseboard

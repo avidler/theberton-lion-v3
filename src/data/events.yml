@@ -1,24 +1,22 @@
 event:
-  - event_date: April 12, 2021 12:00 PM
-    event_title: April 12 Reopening
-    event_image: /images/get-excited-we-re-reopening-soon.png
-    event_notes: It's been a long time coming but we're back! Come and join us ALL
-      DAY outside as we reopen.
-  - event_date: March 1, 2021 8:00 PM
-    event_title: POSTPONED - Random Blues Company - Live @ The Lion
-    event_image: /images/random-blues.jpg
-    event_notes: The Random Blues Company is a tight Rhythm & Blues band, consisting
-      of Nick Ward on Lead Guitars and Vocals, Kevin Atkins on Bass, and Simon
-      "Buddy" Middleditch on Drums.
-  - event_date: May 29, 2021 9:00 PM
-    event_title: "Vinyl Night "
-    event_image: /images/vinyl-night-alt.jpg
-    event_notes: Sarrif spins the disks of your choosing for an old school evening
+  - event_date: October 16, 2022 4:00 PM
+    event_title: Vinyl Countdown
+    event_image: /images/vinyl-countdown.jpg
+    event_notes: Sarrif spins the disks of your choosing for an old school afternoon
       where you pick the tunes.  Bring your records and your dancing shoes.
-  - event_date: June 3, 2021 8:00 PM
-    event_title: Beer Club (The Return!) - Tindall's Ales Tap Takeover
-    event_image: /images/tindalls.jpg
-    event_notes: Tindall's Brewery takes over the taps with five of their beers on
-      offer and brewer Michael on hand to offer some words of wisdom. Be the
-      first to try them and help shape The Lion's future beer list, enjoying
-      five thirds for £5 along the way.
+  - event_date: October 22, 2022 11:00 PM
+    event_title: Rock & Roll Bingo
+    event_image: /images/rock-and-roll-bingo-300x300.jpg
+    event_notes: Listen to songs, identify the tunes, find them on your card, form a
+      line and win a drink. It's only Rock and Roll Bingo, but we like it.
+  - event_date: October 23, 2022 4:00 PM
+    event_title: Open Mic
+    event_image: /images/open-mic.jpg
+    event_notes: Join us for an afternoon of varied music from local performers with
+      some familiar tunes and some new.  Bring your voice or just your ears,
+      everyone is welcome.
+  - event_date: October 29, 2022 7:00 PM
+    event_title: Halloween Costume Party
+    event_image: /images/halloween-party.png
+    event_notes: Join us for an evening of fancy dress, cocktails and fun and games
+      all at the spookiest time of year.

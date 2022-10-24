@@ -1,22 +1,20 @@
 event:
-  - event_date: October 16, 2022 3:00 PM
-    event_title: Vinyl Countdown
-    event_image: /images/vinyl-countdown.jpg
-    event_notes: Sarrif spins the disks of your choosing for an old school afternoon
-      where you pick the tunes.  Bring your records and your dancing shoes.
-  - event_date: October 22, 2022 9:00 PM
-    event_title: Rock & Roll Bingo
-    event_image: /images/rock-and-roll-bingo-logo.jpg
-    event_notes: Listen to songs, identify the tunes, find them on your card, form a
-      line and win a drink. It's only Rock and Roll Bingo, but we like it.
-  - event_date: October 17, 2022 3:00 PM
-    event_title: Open Mic
-    event_image: /images/open-mic.jpg
-    event_notes: Join us for an afternoon of varied music from local performers with
-      some familiar tunes and some new.  Bring your voice or just your ears,
-      everyone is welcome.
   - event_date: October 29, 2022 6:00 PM
     event_title: Halloween Costume Party
     event_image: /images/halloween-party.png
     event_notes: Join us for an evening of fancy dress, cocktails and fun and games
       all at the spookiest time of year.
+  - event_date: November 5, 2022 6:00 PM
+    event_title: Steak Saturday
+    event_image: /images/steak-night.jpg
+    event_notes: Steak is on the menu tonight! Booking essential.
+  - event_date: November 17, 2022 8:30 PM
+    event_title: Beer Club - Barsham Brewery Tap Takeover
+    event_image: /images/beer-club-tap-takeover.png
+    event_notes: Try five beers for just £7.50 as Barsham Brewery Takeover the taps.
+  - event_date: November 24, 2022 6:00 PM
+    event_title: Thanksgiving Dinner
+    event_image: /images/thanksgiving.png
+    event_notes: Join us for an afternoon of varied music from local performers with
+      some familiar tunes and some new.  Bring your voice or just your ears,
+      everyone is welcome.

@@ -1,9 +1,4 @@
 event:
-  - event_date: October 29, 2022 6:00 PM
-    event_title: Halloween Costume Party
-    event_image: /images/halloween-party.png
-    event_notes: Join us for an evening of fancy dress, cocktails and fun and games
-      all at the spookiest time of year.
   - event_date: November 5, 2022 6:00 PM
     event_title: Steak Saturday
     event_image: /images/steak-night.jpg
@@ -18,3 +13,7 @@ event:
     event_notes: Join us for an afternoon of varied music from local performers with
       some familiar tunes and some new.  Bring your voice or just your ears,
       everyone is welcome.
+  - event_date: November 26, 2022 8:00 PM
+    event_title: Quiz Night
+    event_image: /images/quiz.png
+    event_notes: Come and test your general knowledge. Teams of 4 welcome.

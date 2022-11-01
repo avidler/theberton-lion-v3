@@ -4,8 +4,8 @@ beers:
     beer_abv: 3.9
     beer_image: /images/ploughman-s-gold.png
     beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
@@ -19,28 +19,28 @@ beers:
     beer_abv: 4
     beer_price: 3.9
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_name: Cascade Dry Hopped Best Bitter
     beer_brewery: Tindalls
     beer_abv: 4.2
     beer_image: /images/cascade-dry-hopped-best-bitter.jpg
     beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/suffolk-pride.png
     beer_name: Suffolk Pride
     beer_brewery: Mauldons
     beer_price: 3.9
     beer_abv: 4.2
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/oscar-wilde-mild.png
     beer_name: Oscar Wilde Mild
     beer_brewery: Mighty Oak
     beer_abv: 3.7
     beer_price: 3.9
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/cabin-autumn-leaf.jpg
     beer_name: Autumn Leaf
     beer_brewery: Cabin Brewery

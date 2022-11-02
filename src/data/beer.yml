@@ -4,7 +4,7 @@ beers:
     beer_abv: 3.9
     beer_image: /images/ploughman-s-gold.png
     beer_price: 3.9
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham

@@ -20,18 +20,18 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: false
-  - beer_name: Cascade Dry Hopped Best Bitter
-    beer_brewery: Tindalls
-    beer_abv: 4.2
-    beer_image: /images/cascade-dry-hopped-best-bitter.jpg
+  - beer_name: Autumn Leaf
+    beer_brewery: Cabin
+    beer_abv: 3.8
+    beer_image: /images/cabin-autumn-leaf.jpg
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/suffolk-pride.png
-    beer_name: Suffolk Pride
-    beer_brewery: Mauldons
+  - beer_image: /images/old-cock.jpeg
+    beer_name: Green Jack
+    beer_brewery: Old Cock
     beer_price: 3.9
-    beer_abv: 4.2
+    beer_abv: 4.4
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/oscar-wilde-mild.png

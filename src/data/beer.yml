@@ -41,11 +41,11 @@ beers:
     beer_price: 3.9
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/cabin-autumn-leaf.jpg
-    beer_name: Autumn Leaf
-    beer_brewery: Cabin Brewery
+  - beer_image: /images/oscar-wilde-mild.png
+    beer_name: Oscar Wilde Mild
+    beer_brewery: Mighty Oak
     beer_price: 3.9
-    beer_abv: 3.8
+    beer_abv: 3.7
     beer_coming_soon: true
   - beer_image: /images/panther-americanpaleale1.jpg
     beer_price: 3.9

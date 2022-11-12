@@ -1,11 +1,11 @@
 beers:
-  - beer_name: Ploughmans
-    beer_brewery: Mauldons
-    beer_abv: 3.9
-    beer_image: /images/ploughman-s-gold.png
+  - beer_name: Oaks
+    beer_brewery: Barsham Brewery
+    beer_abv: 3.6
+    beer_image: /images/oaks.jpg
     beer_price: 3.9
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
@@ -13,12 +13,12 @@ beers:
     beer_price: 3.6
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/copperhead.jpg
-    beer_name: Copperhead
-    beer_brewery: Nethergate
-    beer_abv: 4
+  - beer_image: /images/norfolk-topper.jpeg
+    beer_name: Norfolk Topper
+    beer_brewery: Barsham Brewery
+    beer_abv: 3.8
     beer_price: 3.9
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_name: Autumn Leaf
     beer_brewery: Cabin
@@ -34,12 +34,12 @@ beers:
     beer_abv: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/oscar-wilde-mild.png
-    beer_name: Oscar Wilde Mild
-    beer_brewery: Mighty Oak
-    beer_abv: 3.7
+  - beer_image: /images/barsham-bob.jpg
+    beer_name: B.O.B
+    beer_brewery: Barsham Brewery
+    beer_abv: 4.3
     beer_price: 3.9
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/cabin-autumn-leaf.jpg
     beer_name: Autumn Leaf
@@ -47,3 +47,21 @@ beers:
     beer_price: 3.9
     beer_abv: 3.8
     beer_coming_soon: true
+  - beer_image: /images/panther-americanpaleale1.jpg
+    beer_price: 3.9
+    beer_coming_soon: true
+    beer_name: American Pale
+    beer_brewery: Panther
+    beer_abv: 4.4
+  - beer_image: /images/panther-golden.jpeg
+    beer_name: Panther
+    beer_brewery: Golden
+    beer_abv: 3.7
+    beer_coming_soon: true
+    beer_price: 3.9
+  - beer_image: /images/trawlerboys.png
+    beer_brewery: Green Jack
+    beer_abv: 4.6
+    beer_name: Trawlerboys
+    beer_on_now: true
+    beer_price: 3.9

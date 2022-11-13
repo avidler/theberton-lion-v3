@@ -28,8 +28,8 @@ beers:
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/old-cock.jpeg
-    beer_name: Green Jack
-    beer_brewery: Old Cock
+    beer_name: Old Cock
+    beer_brewery: Green Jack
     beer_price: 3.9
     beer_abv: 4.4
     beer_coming_soon: false
@@ -54,8 +54,8 @@ beers:
     beer_brewery: Panther
     beer_abv: 4.4
   - beer_image: /images/panther-golden.jpeg
-    beer_name: Panther
-    beer_brewery: Golden
+    beer_name: Golden
+    beer_brewery: Panther
     beer_abv: 3.7
     beer_coming_soon: true
     beer_price: 3.9

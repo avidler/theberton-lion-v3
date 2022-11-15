@@ -6,13 +6,6 @@ beers:
     beer_price: 3.9
     beer_on_now: false
     beer_coming_soon: true
-  - beer_name: Victoria Bitter
-    beer_brewery: Earl Soham
-    beer_abv: 3.6
-    beer_image: /images/victoria-bitter.jpg
-    beer_price: 3.6
-    beer_on_now: true
-    beer_coming_soon: false
   - beer_image: /images/norfolk-topper.jpeg
     beer_name: Norfolk Topper
     beer_brewery: Barsham Brewery
@@ -20,10 +13,17 @@ beers:
     beer_price: 3.9
     beer_coming_soon: true
     beer_on_now: false
-  - beer_name: Autumn Leaf
-    beer_brewery: Cabin
-    beer_abv: 3.8
-    beer_image: /images/cabin-autumn-leaf.jpg
+  - beer_name: Victoria Bitter
+    beer_brewery: Earl Soham
+    beer_abv: 3.6
+    beer_image: /images/victoria-bitter.jpg
+    beer_price: 3.6
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_name: LGM1
+    beer_brewery: Green Jack
+    beer_abv: 4.2
+    beer_image: /images/lgm1.jpg
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
@@ -33,7 +33,7 @@ beers:
     beer_price: 3.9
     beer_abv: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/barsham-bob.jpg
     beer_name: B.O.B
     beer_brewery: Barsham Brewery
@@ -63,5 +63,5 @@ beers:
     beer_brewery: Green Jack
     beer_abv: 4.6
     beer_name: Trawlerboys
-    beer_on_now: true
+    beer_on_now: false
     beer_price: 3.9

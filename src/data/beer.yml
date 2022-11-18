@@ -27,13 +27,6 @@ beers:
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/old-cock.jpeg
-    beer_name: Old Cock
-    beer_brewery: Green Jack
-    beer_price: 3.9
-    beer_abv: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
   - beer_image: /images/barsham-bob.jpg
     beer_name: B.O.B
     beer_brewery: Barsham Brewery
@@ -58,10 +51,4 @@ beers:
     beer_brewery: Panther
     beer_abv: 3.7
     beer_coming_soon: true
-    beer_price: 3.9
-  - beer_image: /images/trawlerboys.png
-    beer_brewery: Green Jack
-    beer_abv: 4.6
-    beer_name: Trawlerboys
-    beer_on_now: false
     beer_price: 3.9

@@ -4,15 +4,15 @@ beers:
     beer_abv: 3.6
     beer_image: /images/oaks.jpg
     beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/norfolk-topper.jpeg
     beer_name: Norfolk Topper
     beer_brewery: Barsham Brewery
     beer_abv: 3.8
     beer_price: 3.9
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
@@ -39,8 +39,8 @@ beers:
     beer_brewery: Barsham Brewery
     beer_abv: 4.3
     beer_price: 3.9
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/oscar-wilde-mild.png
     beer_name: Oscar Wilde Mild
     beer_brewery: Mighty Oak

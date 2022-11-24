@@ -44,7 +44,7 @@ beers:
     beer_price: 3.9
     beer_coming_soon: true
     beer_name: American Pale
-    beer_brewery: Panther
+    beer_brewery: Panther Brewery
     beer_abv: 4.4
   - beer_image: /images/panther-golden.jpeg
     beer_name: Golden

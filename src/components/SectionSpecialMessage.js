@@ -16,7 +16,7 @@ export default class SectionSpecialMessage extends React.Component {
             <h2 className="page-title">Book for Christmas</h2>
          
             <div id="special-picture">
-           <img src="/images/book_for_christmas.jpg" alt="Logo" />
+           <img src="christmas.jpg" alt="Logo" />
           </div>
 
   

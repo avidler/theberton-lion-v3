@@ -20,32 +20,32 @@ beers:
     beer_price: 3.6
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: LGM1
-    beer_brewery: Green Jack
+  - beer_name: Red Santa
+    beer_brewery: Nethergate
     beer_abv: 4.2
-    beer_image: /images/lgm1.jpg
+    beer_image: /images/red-santa.jpeg
     beer_price: 3.9
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/barsham-bob.jpg
-    beer_name: B.O.B
-    beer_brewery: Barsham Brewery
-    beer_abv: 4.3
-    beer_price: 3.9
-    beer_coming_soon: false
     beer_on_now: false
-  - beer_image: /images/oscar-wilde-mild.png
-    beer_name: Oscar Wilde Mild
-    beer_brewery: Mighty Oak
+    beer_coming_soon: true
+  - beer_image: /images/oak.png
+    beer_name: Oak
+    beer_brewery: Grain
+    beer_abv: 3.8
     beer_price: 3.9
-    beer_abv: 3.7
-    beer_coming_soon: false
-  - beer_image: /images/panther-americanpaleale1.jpg
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/parkeston-porter.jpeg
+    beer_name: Parkeston Porter
+    beer_brewery: Harwich Town
     beer_price: 3.9
-    beer_coming_soon: false
-    beer_name: Golden
-    beer_brewery: Panther Brewery
-    beer_abv: 4.4
+    beer_abv: 4.5
+    beer_coming_soon: true
+  - beer_image: /images/california-common.jpeg
+    beer_price: 3.9
+    beer_coming_soon: true
+    beer_name: California Common
+    beer_brewery: Grain
+    beer_abv: 4.2
   - beer_image: /images/panther-golden.jpeg
     beer_name: Golden
     beer_brewery: Panther

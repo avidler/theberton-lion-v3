@@ -1,19 +1,19 @@
 event:
-  - event_date: November 5, 2022 6:00 PM
-    event_title: Steak Saturday
-    event_image: /images/steak-night.jpg
-    event_notes: Steak is on the menu tonight! Booking essential.
-  - event_date: November 17, 2022 8:30 PM
-    event_title: Beer Club - Barsham Brewery Tap Takeover
-    event_image: /images/beer-club-tap-takeover.png
-    event_notes: Try five beers for just £7.50 as Barsham Brewery Takeover the taps.
-  - event_date: November 24, 2022 6:00 PM
-    event_title: Thanksgiving Dinner
-    event_image: /images/thanksgiving.png
-    event_notes: Join us for an afternoon of varied music from local performers with
-      some familiar tunes and some new.  Bring your voice or just your ears,
-      everyone is welcome.
-  - event_date: November 26, 2022 8:00 PM
+  - event_date: December 15, 2022 7:00 PM
+    event_title: Open Mic
+    event_image: /images/open-mic.jpg
+    event_notes: Bring an instrument, a voice or just your ears as our Sunday
+      session has a rare Thursday night run out.
+  - event_date: December 24, 2022 9:00 PM
+    event_title: Christmas Rock and Roll Bingo
+    event_image: /images/rock-and-roll-bingo-300x300.jpg
+    event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
+      Rock and Roll Bingo, but we like it.
+  - event_date: December 31, 2022 7:00 PM
+    event_title: New Years Eve Party
+    event_image: /images/new-years-eve.jpg
+    event_notes: Book for dinner followed by Karaoke, Quiz and a Vinyl Countdown
+  - event_date: January 1, 2023 12:00 PM
     event_title: Quiz Night
-    event_image: /images/quiz.png
+    event_image: /images/new-years-day-brunch.jpg
     event_notes: Come and test your general knowledge. Teams of 4 welcome.

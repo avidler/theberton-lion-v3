@@ -48,11 +48,11 @@ mains:
     main_course_price: 14.95
     main_course_wheat_free: true
     main_course_vegetarian: true
-  - main_course_name: TUESDAY NIGHT IS CURRY NIGHT! March - October
-    main_course_description: Join us on Tuesday evenings for a selection of our
-      House Curries. Served with rice and our House Naan Bread. Please call for
-      this week's selection.  A limited number of other dishes are available on
-      Tuesday evenings.
+  - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
+    main_course_description: Join us on Tuesday evenings, March - October, for a
+      selection of our House Curries. Served with rice and our House Naan Bread.
+      Please call for this week's selection.  A limited number of other dishes
+      are available on Tuesday evenings.
     main_course_price: 12.95
     main_course_wheat_free: true
   - main_course_name: STEAK SATURDAYS Once a month

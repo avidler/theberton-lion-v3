@@ -1,4 +1,6 @@
 mains:
+  - main_course_name: PLEASE SEE FESTIVE MENU ON OUR HOME PAGE FOR DECEMBER'S MENU
+    main_course_price: 1
   - main_course_name: Monkfish Tail with Caper Sauce
     main_course_description: Served with a medley of green vegetables & crushed new potatoes
     main_course_price: 16.95

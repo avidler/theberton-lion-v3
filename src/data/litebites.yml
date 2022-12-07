@@ -1,4 +1,7 @@
 lite_bites:
+  - lite_bite_name: PLEASE SEE FESTIVE MENU ON OUR HOME PAGE FOR DECEMBER'S MENU
+    lite_bite_price: 1
+    lite_bite_wheat_free: false
   - lite_bite_name: Bombay Burrito
     lite_bite_description: Spicy wraps with cauliflower, chickpeas, onion, curried
       mashed potatoes and spinach. Served with salad garnish.

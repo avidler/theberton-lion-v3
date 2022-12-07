@@ -1,4 +1,6 @@
 desserts:
+  - dessert_name: PLEASE SEE FESTIVE MENU ON OUR HOME PAGE FOR DECEMBER'S MENU
+    dessert_price: 1
   - dessert_name: Frangipane & Plum Tart
     dessert_description: With piping hot custard
     dessert_price: 7.5

@@ -20,13 +20,6 @@ beers:
     beer_price: 3.6
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Red Santa
-    beer_brewery: Nethergate
-    beer_abv: 4.2
-    beer_image: /images/red-santa.jpeg
-    beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
   - beer_image: /images/oak.png
     beer_name: Oak
     beer_brewery: Grain

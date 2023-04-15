@@ -1,23 +1,16 @@
 desserts:
-  - dessert_name: PLEASE SEE FESTIVE MENU ON OUR HOME PAGE FOR DECEMBER'S MENU
-    dessert_price: 1
-  - dessert_name: Frangipane & Plum Tart
-    dessert_description: With piping hot custard
+  - dessert_name: Flapjack Apple Pudding with Toffee Sauce
+    dessert_description: With vegan vanilla ice cream
     dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Autumn Fruit Pudding
-    dessert_description: With vegan vanilla ice cream. (VEGAN)
+  - dessert_name: Chocolate & Almond Muffin with Mini Meringue
+    dessert_description: With almond syrup & vanilla ice cream.
     dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Mocha Cake with Kahlua Cream
-    dessert_description: Served with Rum & Raisin Ice Cream
-    dessert_price: 7.5
-    dessert_vegetarian: true
-    dessert_wheat_free: true
-  - dessert_name: Churros with Chocolate Sauce
-    dessert_description: ""
+  - dessert_name: Lemon & Licquorice Tart
+    dessert_description: Served with cinnamon ice cream
     dessert_price: 7.5
     dessert_vegetarian: true
     dessert_wheat_free: true

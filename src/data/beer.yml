@@ -1,23 +1,9 @@
 beers:
-  - beer_name: Stone Pier
-    beer_brewery: Harwich Town
-    beer_abv: 4.3
-    beer_image: /images/stone-pier.jpeg
+  - beer_name: Bitter
+    beer_brewery: Cliff Quay
+    beer_abv: 3.4
+    beer_image: /images/cliff-quay.jpeg
     beer_price: 3.9
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/grain-redwood.png
-    beer_name: Redwood
-    beer_brewery: Grain
-    beer_abv: 4.7
-    beer_price: 3.9
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: Victoria Bitter
-    beer_brewery: Earl Soham
-    beer_abv: 3.6
-    beer_image: /images/victoria-bitter.jpg
-    beer_price: 3.6
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/oak.png
@@ -25,23 +11,19 @@ beers:
     beer_brewery: Grain
     beer_abv: 3.8
     beer_price: 3.9
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/parkeston-porter.jpeg
-    beer_name: Parkeston Porter
-    beer_brewery: Harwich Town
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_name: Victoria Bitter
+    beer_brewery: Earl Soham
+    beer_abv: 3.6
+    beer_image: /images/victoria-bitter.jpg
+    beer_price: 3.8
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/316.png
+    beer_name: Grain
+    beer_brewery: ThreeOneSix
     beer_price: 3.9
-    beer_abv: 4.5
-    beer_coming_soon: true
-  - beer_image: /images/california-common.jpeg
-    beer_price: 3.9
-    beer_coming_soon: true
-    beer_name: California Common
-    beer_brewery: Grain
-    beer_abv: 4.2
-  - beer_image: /images/panther-golden.jpeg
-    beer_name: Golden
-    beer_brewery: Panther
-    beer_abv: 3.7
-    beer_coming_soon: true
-    beer_price: 3.9
+    beer_abv: 3.9
+    beer_coming_soon: false
+    beer_on_now: true

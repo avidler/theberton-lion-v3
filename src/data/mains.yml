@@ -1,23 +1,22 @@
 mains:
-  - main_course_name: PLEASE SEE FESTIVE MENU ON OUR HOME PAGE FOR DECEMBER'S MENU
-    main_course_price: 1
-  - main_course_name: Monkfish Tail with Caper Sauce
-    main_course_description: Served with a medley of green vegetables & crushed new potatoes
-    main_course_price: 16.95
-    main_course_wheat_free: true
-  - main_course_name: Chicken Gremolata on Parmesan Mashed Potato
-    main_course_description: Served with crispy maple bacon and seasonal vegetables
+  - main_course_name: Pesto Chicken 'Bruschetta' with Mozzarella & Garlic Cherry Tomatoes
+    main_course_description: Bread free but with all the taste.  Served with
+      parmentier potatoes and spring salad.
     main_course_price: 15.95
     main_course_wheat_free: true
-  - main_course_name: Pork Chop with Fondant Potato & Apple Crisp
-    main_course_description: Served with sausage meat stuffing, seasonal vegetables
-      and sage and onion gravy
+  - main_course_name: Slow Roast Pork Belly with Boston Barbeque Beans
+    main_course_description: Served with baby corn and sweet potato wedges.
     main_course_price: 15.95
     main_course_wheat_free: true
-  - main_course_name: Lurcher Stout Lamb Stew & Dumplings
-    main_course_description: With colcannon and seasonal vegetables.
-    main_course_price: 16.95
-    main_course_wheat_free: false
+  - main_course_name: Bean and Lentil Burger with Roasted Red Pepper
+    main_course_description: Served with sweet potato wedges, onion rings and vegan coleslaw.
+    main_course_price: 14.95
+    main_course_wheat_free: true
+    main_course_vegetarian: true
+  - main_course_name: Norwegian Meatballs in a Dill and Red Onion Gravy
+    main_course_description: Pork and beef meatballs served with red cabbage and caramelised potatoes.
+    main_course_price: 15.95
+    main_course_wheat_free: true
     main_course_vegetarian: false
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: A hearty house-made pie served with your choice of
@@ -38,22 +37,22 @@ mains:
       Served with Chef’s coleslaw, onion rings and chunky chips.
     main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Chef's Vegetable Moussaka
-    main_course_description: With seasonal salad. (VEGAN)
+  - main_course_name: Asparagus & Cherry Tomato Spring Tart with Brie and Red Onion
+    main_course_description: Served with new potatoes and spring salad.
     main_course_price: 14.95
     main_course_wheat_free: true
     main_course_vegetarian: true
-  - main_course_name: Lentil & Root Vegetable "Shepherd's Pie"
-    main_course_description: With a medley of green vegetables
-    main_course_price: 14.95
+  - main_course_name: Smoked Haddock Fish Cakes in a Creamy Dill Sauce
+    main_course_description: With a medley of green vegetables and fondant potato
+    main_course_price: 15.95
     main_course_wheat_free: true
-    main_course_vegetarian: true
+    main_course_vegetarian: false
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings, March - October, for a
       selection of our House Curries. Served with rice and our House Naan Bread.
       Please call for this week's selection.  A limited number of other dishes
       are available on Tuesday evenings.
-    main_course_price: 12.95
+    main_course_price: 14.95
     main_course_wheat_free: true
   - main_course_name: STEAK SATURDAYS Once a month
     main_course_description: Join us for one selected Saturday a month for our Steak

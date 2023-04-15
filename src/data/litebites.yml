@@ -1,24 +1,20 @@
 lite_bites:
-  - lite_bite_name: PLEASE SEE FESTIVE MENU ON OUR HOME PAGE FOR DECEMBER'S MENU
-    lite_bite_price: 1
-    lite_bite_wheat_free: false
-  - lite_bite_name: Bombay Burrito
-    lite_bite_description: Spicy wraps with cauliflower, chickpeas, onion, curried
-      mashed potatoes and spinach. Served with salad garnish.
+  - lite_bite_name: Smoked Mackerel Pate
+    lite_bite_description: With zesty lemon syrup and warm bread.
     lite_bite_price: 7.5
     lite_bite_wheat_free: true
-  - lite_bite_name: Smoked Salmon Nicoise Salad
-    lite_bite_description: With tomatoes, egg, olives, salad leaf and a yoghurt dressing.
+  - lite_bite_name: Chicken Satay Skewer
+    lite_bite_description: With salad and dipping sauce.
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
-  - lite_bite_name: Chef's Scotch Egg with Dijon Mustard
-    lite_bite_description: Served with salad garnish
-    lite_bite_price: 6.95
+  - lite_bite_name: Grilled Halloumi with Warm Asparagus Tips
+    lite_bite_description: Served with onion dip.
+    lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
-  - lite_bite_name: Sweet Potato Soup with Cinnamon & Nutmeg
-    lite_bite_description: A warming bowl of house made soup served with a cheese scone
+  - lite_bite_name: Pea and Mint Soup
+    lite_bite_description: A warming bowl of house made soup served with bread and butter.
     lite_bite_price: 6.95
     lite_bite_wheat_free: true
     lite_bite_vegetarian: true

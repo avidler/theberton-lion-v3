@@ -18,13 +18,11 @@ lite_bites:
     lite_bite_price: 6.95
     lite_bite_wheat_free: true
     lite_bite_vegetarian: true
-  - lite_bite_name: The English One
-    lite_bite_description: Pork Pie, Sausage Roll, Bread, Ham, Cheddar, Chutney,
-      Onion and Apple.  An ideal lunch for one or perfect sharer starter
+  - lite_bite_name: Sizzling Seven Brunch Breakfast
+    lite_bite_description: Sausage, bacon, fried egg, beef tomato, field mushroom,
+      beans and hash brown.
     lite_bite_wheat_free: false
-    lite_bite_price: 14.95
-  - lite_bite_name: Bierock Brunch
-    lite_bite_description: Like an Eastern European pasty, Bierocks are generously
-      seasoned savoury buns filled with peppered beef, onions & savoy cabbage.
-      Served with onion rings, sauerkraut and garnish.
+    lite_bite_price: 12.95
+  - lite_bite_name: Big Brunch Bap
+    lite_bite_description: Sausage, Egg and Bacon
     lite_bite_price: 8.95

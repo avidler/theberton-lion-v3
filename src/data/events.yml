@@ -1,20 +1,19 @@
 event:
-  - event_date: December 15, 2022 7:00 PM
-    event_title: Open Mic
-    event_image: /images/open-mic.jpg
-    event_notes: Bring an instrument, a voice or just your ears as our Sunday
-      session has a rare Thursday night run out.
-  - event_date: December 24, 2022 9:00 PM
-    event_title: Christmas Rock and Roll Bingo
+  - event_date: April 23, 2023 1:00 PM
+    event_title: St. George's Day Celebrations
+    event_image: /images/st-george-s-day.png
+    event_notes: It's our annual Pie Festival in celebration of St George.
+  - event_date: April 29, 2023 9:30 PM
+    event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-300x300.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
       Rock and Roll Bingo, but we like it.
-  - event_date: December 31, 2022 7:00 PM
-    event_title: New Years Eve Party
-    event_image: /images/new-years-eve.jpg
-    event_notes: Book for dinner followed by Karaoke, Quiz and a Vinyl Countdown
-  - event_date: January 1, 2023 12:00 PM
-    event_title: Quiz Night
-    event_image: /images/new-years-day-brunch.jpg
+  - event_date: May 6, 2023 11:00 AM
+    event_title: Coronation Celebrations
+    event_image: /images/coronation.png
+    event_notes: ""
+  - event_date: May 13, 2023 9:00 PM
+    event_title: Big Eurovision Party
+    event_image: /images/big-eurovision-party.png
     event_notes: What better way to recover from the festivities than a Fry Up? Join
       us for a Full English.

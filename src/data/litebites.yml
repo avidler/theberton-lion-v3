@@ -1,28 +1,23 @@
 lite_bites:
-  - lite_bite_name: Smoked Mackerel Pate
-    lite_bite_description: With zesty lemon syrup and warm bread.
+  - lite_bite_name: Baked Feta with Burst Tomatoes and Chilli Honey
+    lite_bite_description: With salad garnish.
     lite_bite_price: 7.5
     lite_bite_wheat_free: true
-  - lite_bite_name: Chicken Satay Skewer
-    lite_bite_description: With salad and dipping sauce.
-    lite_bite_price: 7.5
-    lite_bite_vegetarian: false
-    lite_bite_wheat_free: true
-  - lite_bite_name: Grilled Halloumi with Warm Asparagus Tips
-    lite_bite_description: Served with onion dip.
+  - lite_bite_name: "Chilli Garlic Prawns "
+    lite_bite_description: ""
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
-  - lite_bite_name: Pea and Mint Soup
-    lite_bite_description: A warming bowl of house made soup served with bread and butter.
-    lite_bite_price: 6.95
+  - lite_bite_name: "Potted Duck "
+    lite_bite_description: With bread sticks and salad garnish
+    lite_bite_price: 7.5
+    lite_bite_vegetarian: false
+    lite_bite_wheat_free: true
+  - lite_bite_name: Mushroom & Leek Cabbage Dumplings
+    lite_bite_description: With soy sauce dip
+    lite_bite_price: 7.5
     lite_bite_wheat_free: true
     lite_bite_vegetarian: true
-  - lite_bite_name: Sizzling Seven Brunch Breakfast
-    lite_bite_description: Sausage, bacon, fried egg, beef tomato, field mushroom,
-      beans and hash brown.
-    lite_bite_wheat_free: false
-    lite_bite_price: 12.95
   - lite_bite_name: Big Brunch Bap
     lite_bite_description: Sausage, Egg and Bacon
     lite_bite_price: 8.95

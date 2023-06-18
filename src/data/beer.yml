@@ -1,14 +1,14 @@
 beers:
   - beer_name: Bitter
-    beer_brewery: Cliff Quay
-    beer_abv: 3.4
-    beer_image: /images/cliff-quay.jpeg
+    beer_brewery: Nene Valley
+    beer_abv: 4.1
+    beer_image: /images/nene-valley-bitter.png
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/oak.png
-    beer_name: Oak
-    beer_brewery: Grain
+  - beer_image: /images/reedham-gold.jpeg
+    beer_name: Reedham Gold
+    beer_brewery: Humpty Dumpty
     beer_abv: 3.8
     beer_price: 3.9
     beer_coming_soon: false
@@ -20,10 +20,16 @@ beers:
     beer_price: 3.8
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/316.png
-    beer_name: Grain
-    beer_brewery: ThreeOneSix
-    beer_price: 3.9
+  - beer_image: /images/edith-cavell.jpg
+    beer_name: Edith Cavell
+    beer_brewery: Wolf
+    beer_price: 3.7
     beer_abv: 3.9
     beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/sirius-dog-star.jpg
+    beer_name: Sirius Dog Star
+    beer_brewery: Wolf
+    beer_abv: 4.4
+    beer_price: 3.9
     beer_on_now: true

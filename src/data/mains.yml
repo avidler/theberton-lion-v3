@@ -1,22 +1,29 @@
 mains:
-  - main_course_name: Pesto Chicken 'Bruschetta' with Mozzarella & Garlic Cherry Tomatoes
-    main_course_description: Bread free but with all the taste.  Served with
-      parmentier potatoes and spring salad.
+  - main_course_name: Jerk Pulled Pork Wraps with Banana Salsa
+    main_course_description: Served with sweet potato wedges and summer salad.
+    main_course_price: 16.95
+    main_course_wheat_free: true
+  - main_course_name: Sea Trout Steak with Caper Butter
+    main_course_description: Served with zesty new potatoes and summer salad.
+    main_course_price: 16.95
+    main_course_wheat_free: false
+    main_course_vegetarian: false
+  - main_course_name: Chicken Cacciatore
+    main_course_description: Served with rice and a medley of green vegetable
+    main_course_price: 16.95
+    main_course_wheat_free: true
+    main_course_vegetarian: false
+  - main_course_name: Lamb Tagine with Coriander Couscous
+    main_course_description: Served with a citrus salad
+    main_course_price: 16.95
+  - main_course_name: Sweet Potato, Peanut and Ginger Curry
+    main_course_description: Served with rice, pappadum and mango chutney
+    main_course_price: 16.95
+    main_course_wheat_free: true
+  - main_course_name: Roasted Mustard Mackerel
+    main_course_description: With heritage carrots and bulgur wheat
     main_course_price: 15.95
-    main_course_wheat_free: true
-  - main_course_name: Slow Roast Pork Belly with Boston Barbeque Beans
-    main_course_description: Served with baby corn and sweet potato wedges.
-    main_course_price: 15.95
-    main_course_wheat_free: true
-  - main_course_name: Bean and Lentil Burger with Roasted Red Pepper
-    main_course_description: Served with sweet potato wedges, onion rings and vegan coleslaw.
-    main_course_price: 14.95
-    main_course_wheat_free: true
-    main_course_vegetarian: true
-  - main_course_name: Norwegian Meatballs in a Dill and Red Onion Gravy
-    main_course_description: Pork and beef meatballs served with red cabbage and caramelised potatoes.
-    main_course_price: 15.95
-    main_course_wheat_free: true
+    main_course_wheat_free: false
     main_course_vegetarian: false
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: A hearty house-made pie served with your choice of
@@ -24,9 +31,9 @@ mains:
     main_course_price: 15.95
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: Beer Battered Cod Fillet & Chips
-    main_course_description: Served with your choice of peas and House Tartare Sauce.
-    main_course_price: 14.95
+  - main_course_name: Chef's Cajun Chicken Burger
+    main_course_description: With cheddar, served with chef's coleslaw, onion rings and chips
+    main_course_price: 15.95
     main_course_vegetarian: false
     main_course_wheat_free: true
   - main_course_name: House-made Gourmet Beef Burger
@@ -37,16 +44,11 @@ mains:
       Served with Chef’s coleslaw, onion rings and chunky chips.
     main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Asparagus & Cherry Tomato Spring Tart with Brie and Red Onion
-    main_course_description: Served with new potatoes and spring salad.
+  - main_course_name: Bean and Lentil Burger with Roasted Red Pepper
+    main_course_description: Served with sweet potato wedges, onion rings and vegan coleslaw.
     main_course_price: 14.95
     main_course_wheat_free: true
     main_course_vegetarian: true
-  - main_course_name: Smoked Haddock Fish Cakes in a Creamy Dill Sauce
-    main_course_description: With a medley of green vegetables and fondant potato
-    main_course_price: 15.95
-    main_course_wheat_free: true
-    main_course_vegetarian: false
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings, March - October, for a
       selection of our House Curries. Served with rice and our House Naan Bread.

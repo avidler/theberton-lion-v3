@@ -1,16 +1,16 @@
 beers:
-  - beer_name: Bitter
-    beer_brewery: Nene Valley
-    beer_abv: 4.1
-    beer_image: /images/nene-valley-bitter.png
+  - beer_name: Mole Trap
+    beer_brewery: Mauldons
+    beer_abv: 3.8
+    beer_image: /images/mole-trap.png
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/reedham-gold.jpeg
-    beer_name: Reedham Gold
-    beer_brewery: Humpty Dumpty
+  - beer_image: /images/venture.jpg
+    beer_name: Venture
+    beer_brewery: Nethergate
     beer_abv: 3.8
-    beer_price: 3.9
+    beer_price: 3.7
     beer_coming_soon: false
     beer_on_now: true
   - beer_name: Victoria Bitter
@@ -20,16 +20,17 @@ beers:
     beer_price: 3.8
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/edith-cavell.jpg
-    beer_name: Edith Cavell
-    beer_brewery: Wolf
+  - beer_image: /images/silver-adder.jpg
+    beer_name: Silver Adder
+    beer_brewery: Mauldons
     beer_price: 3.7
-    beer_abv: 3.9
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/sirius-dog-star.jpg
-    beer_name: Sirius Dog Star
-    beer_brewery: Wolf
-    beer_abv: 4.4
+    beer_abv: 4.5
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/cloudless.jpeg
+    beer_name: Cloudless
+    beer_brewery: Lacons
+    beer_abv: 4.5
     beer_price: 3.9
-    beer_on_now: true
+    beer_on_now: false
+    beer_coming_soon: true

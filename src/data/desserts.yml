@@ -1,19 +1,24 @@
 desserts:
-  - dessert_name: Flapjack Apple Pudding with Toffee Sauce
-    dessert_description: With vegan vanilla ice cream
+  - dessert_name: Banoffee Sundae with Rum & Raisin Ice Cream & Chopped Nuts
+    dessert_description: ""
     dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Chocolate & Almond Muffin with Mini Meringue
-    dessert_description: With almond syrup & vanilla ice cream.
+  - dessert_name: Kutia Rice Pudding
+    dessert_description: With honey, cherries, almonds and dried fruit.
     dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Lemon & Licquorice Tart
-    dessert_description: Served with cinnamon ice cream
+  - dessert_name: Chocolate Eve's Pudding
+    dessert_description: Served with chocolate ice cream
     dessert_price: 7.5
     dessert_vegetarian: true
     dessert_wheat_free: true
+  - dessert_name: Summer Fruits Clafoutis
+    dessert_description: With pouring cream
+    dessert_wheat_free: true
+    dessert_vegetarian: true
+    dessert_price: 7.5
   - dessert_name: Landlord's Cheeseboard
     dessert_description: Cheddar, brie and blue with chutney and crackers.
     dessert_price: 9.95

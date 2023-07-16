@@ -3,7 +3,7 @@ event:
     event_title: St. George's Day Celebrations
     event_image: /images/st-george-s-day.png
     event_notes: It's our annual Pie Festival in celebration of St George.
-  - event_date: April 29, 2023 9:30 PM
+  - event_date: July 22, 2023 8:30 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-300x300.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
@@ -17,3 +17,15 @@ event:
     event_image: /images/big-eurovision-party.png
     event_notes: What better way to recover from the festivities than a Fry Up? Join
       us for a Full English.
+  - event_date: July 23, 2023 1:30 PM
+    event_title: Peter Hepworth - Live @ The Lion
+    event_notes: Peter Hepworth returns to The Lion for an afternoon of original
+      songs and classic covers in The Lion garden.
+    event_image: /images/peterhepworth.jpg
+  - event_date: July 26, 2023 8:30 PM
+    event_title: Beer Club & Tap Takeover - Roughacre Brewery
+    event_image: /images/beer-club-tap-takeover.png
+    event_notes: oin us for Beer Club at The Theberton Lion and be the first to try
+      five Roughacre beers for just £7.50 as the Clare based brewer takes over
+      the taps. All we ask in return is your feedback to help us shape our
+      future beer lists!

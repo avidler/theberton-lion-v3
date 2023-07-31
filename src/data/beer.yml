@@ -34,3 +34,82 @@ beers:
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
+  - beer_image: /images/brewer-s-gold.jpg
+    beer_on_now: false
+    beer_name: Brewer's Gold
+    beer_brewery: Crouch Vale
+    beer_abv: 4
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/essex-boys.jpg
+    beer_name: Essex Boys
+    beer_brewery: Crouch Vale
+    beer_abv: 3.8
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/summer-dream.jpeg
+    beer_price: 4
+    beer_coming_soon: true
+    beer_name: Summer Dream
+    beer_brewery: Green Jack
+    beer_abv: 4
+  - beer_image: /images/gone-fishing.jpeg
+    beer_name: Gone Fishing
+    beer_brewery: Green Jack
+    beer_abv: 5.5
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/nightingale.jpg
+    beer_name: Nightingale
+    beer_brewery: Green Jack
+    beer_abv: 4
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/queen-of-hops.jpeg
+    beer_name: Queen Of Hops
+    beer_brewery: Boudicca
+    beer_price: 4
+    beer_abv: 3.7
+    beer_coming_soon: true
+  - beer_image: /images/prasto-s-porter.jpeg
+    beer_name: Prasto's Porter
+    beer_brewery: Boudicca
+    beer_abv: 5.2
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/the-red-queen.jpeg
+    beer_name: The Red Queen
+    beer_brewery: Boudicca
+    beer_abv: 4.5
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/jhb.jpg
+    beer_name: J.H.B
+    beer_brewery: Oakham
+    beer_price: 4
+    beer_coming_soon: true
+    beer_abv: 3.8
+  - beer_image: /images/shine.png
+    beer_name: Shine
+    beer_brewery: Oakham
+    beer_abv: 3.7
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/hangar-17.jpeg
+    beer_name: Hangar 17
+    beer_brewery: Oakham
+    beer_abv: 4.1
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/bishops-farewell.png
+    beer_name: Bishop's Farewell
+    beer_brewery: Oakham
+    beer_abv: 4.6
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/shortts-generic.jpeg
+    beer_name: Juicy
+    beer_brewery: Shortt's Farm
+    beer_abv: 4.5
+    beer_coming_soon: true
+    beer_price: 4

@@ -2,41 +2,79 @@ craft_beer_title: Craft Beers & Lagers
 craft_beer_description: We stock the finest craft beers available locally,
   nationally and internationally.
 craft_beers:
-  - craft_beer_brewery: Calvors
-    craft_beer_name: Helles
-    craft_beer_brewery_location: Coddenham Green, Suffolk
-    craft_beer_abv: 3.8
-    craft_beer_description: A beautiful pale English lager with a clean, crisp refreshing taste.
-    craft_beer_half_price: 1.95
-    craft_beer_pint_price: 3.9
-  - craft_beer_brewery: Nene Valley Brewery
-    craft_beer_name: Release The Chimps IPA
-    craft_beer_brewery_location: Peterborough
-    craft_beer_abv: 4.4
-    craft_beer_description: An IPA for everyday drinking. A pale malt base gives a
-      crisp mouthfeel that allows late addition and dry hops to come through
-      with a punchy bitterness and a good deal of hop flavour in such a light
-      beer. GLUTEN FREE AND VEGAN
-    craft_beer_half_price: 2.3
-    craft_beer_pint_price: 4.6
-  - craft_beer_brewery: Mighty Oak
-    craft_beer_name: Old Man and The Sea Stout
-    craft_beer_brewery_location: Maldon, Essex
-    craft_beer_abv: 4.1
+  - craft_beer_brewery: Moon Gazer
+    craft_beer_name: Pintail
+    craft_beer_brewery_location: Hindringham, Norfolk
+    craft_beer_abv: 3.9
+    craft_beer_description: >-
+      Light, golden & hoppy with aromatic citrus notes.  Extra pale Maris Otter
+      barley gives a light golden colour and equally smooth mouthfeel, while the
+      Motueka New Zealand hop which has a fresh lime initial flavour followed by
+      a background of tropical fruit and lemon zest…with citrus notes that
+      dominate. 
+
+
+      GLUTEN FREE.
+    craft_beer_half_price: 2.65
+    craft_beer_pint_price: 5.3
+  - craft_beer_brewery: Green Jack
+    craft_beer_name: Lurcher Stout
+    craft_beer_brewery_location: Lowestoft, Suffolk
+    craft_beer_abv: 4.8
     craft_beer_description: Smooth full bodied, roasted stout with a beautifully creamy head.
-    craft_beer_half_price: 2.3
-    craft_beer_pint_price: 4.6
-  - craft_beer_name: Pilsner Urquell
+    craft_beer_half_price: 2.5
+    craft_beer_pint_price: 5
+  - craft_beer_brewery: Ampersand
+    craft_beer_name: Feld
+    craft_beer_brewery_location: Diss, Suffolk
+    craft_beer_abv: 4
+    craft_beer_description: >-
+      Helles Lager
+
+
+      A classic take on an easy drinking Helles style lager beer. Munich malt helps accentuate the body giving it a classic malt base supported by the combination of Tettnang & the more modern Mandarina Bavaria hops. A light & refreshing fridge filler.
+
+
+      GLUTEN FREE & VEGAN FRIENDLY.
+    craft_beer_half_price: 2.1
+    craft_beer_pint_price: 4.2
+  - craft_beer_name: Pilsner
     craft_beer_brewery_location: Pilsen, Czech Republic
     craft_beer_abv: 4.4
-    craft_beer_description: A rich combination of 21 different taste notes blend to
-      make this premium pilsner.
-    craft_beer_half_price: 2.3
-    craft_beer_pint_price: 4.6
-  - craft_beer_brewery: Nethergate
-    craft_beer_name: Venture 0.5
+    craft_beer_description: >-
+      Czech style pale Pilsner lager. Fermented low and slow at 12c then lagered
+      at zero to create a crisp, easy-drinking Pilsner.  Full flavoured, clean
+      and crisp. Unfiltered.
+
+
+      GLUTEN FREE & VEGAN FRIENDLY.
+    craft_beer_half_price: 2.65
+    craft_beer_pint_price: 5.3
+    craft_beer_brewery: Grain
+  - craft_beer_brewery: Wildcraft Brewing
+    craft_beer_name: Wild Vienna
+    craft_beer_brewery_location: Buxton, Norfolk
+    craft_beer_description: >-
+      This Vienna lager, based on the amazing recipes of old, combine heaps of
+      Vienna malt with a touch of Munich and is finished with noble hops.
+      Fermented for 8 weeks at 4c, this is a much slower beer to produce than an
+      ale, this shows in the complex character and crisp nature of the beer.
+
+
+      The finished beer is clean and fresh with a fantastic, smooth, biscuity edge.
+
+
+      GLUTEN FREE & VEGAN FRIENDLY.
+    craft_beer_abv: 4.5
+    craft_beer_pint_price: 5.3
+    craft_beer_half_price: 2.65
+  - craft_beer_brewery: Big Drop
+    craft_beer_name: Paradiso 0.5
     craft_beer_abv: 0.5
-    craft_beer_half_price: 1.75
-    craft_beer_pint_price: 3.5
-    craft_beer_description: A very refreshing golden alcohol free ale.
-    craft_beer_brewery_location: Sudbury, Suffolk
+    craft_beer_half_price: 1.9
+    craft_beer_pint_price: 3.8
+    craft_beer_description: |-
+      A very refreshing extra pale alcohol free ale.
+
+      GLUTEN FREE & VEGAN FRIENDLY.
+    craft_beer_brewery_location: Ipswich, Suffolk

@@ -146,7 +146,7 @@ wine_categories:
           offers a background of haunting hedgerow blossom, with hints of
           jasmine supported by refreshing flavours of apricot & peach.
         wine_prices:
-          - wine_price: 21
+          - wine_price: 25
             wine_size: 75cl bottle
       - wine_vineyard: L'Ormarine
         wine_name: Picpoul de Pinet
@@ -154,7 +154,7 @@ wine_categories:
         wine_description: Yellow with bright highlights, generous notes of citrus. Well
           balanced & lively on the palate with delicate lemony notes.
         wine_prices:
-          - wine_price: 21
+          - wine_price: 25
             wine_size: 75cl bottle
   - wine_category: Sparkling
     wine_category_list:

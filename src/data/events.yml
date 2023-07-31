@@ -3,29 +3,33 @@ event:
     event_title: St. George's Day Celebrations
     event_image: /images/st-george-s-day.png
     event_notes: It's our annual Pie Festival in celebration of St George.
-  - event_date: July 22, 2023 8:30 PM
+  - event_date: August 11, 2023 5:00 PM
+    event_title: The 7th Annual Theberton Lion Summer Beer & Cider Festival
+    event_image: /images/7th-beer-fest-logo.png
+    event_notes: Join us for our fabulous annual festival of ale & cider
+  - event_date: August 19, 2023 8:30 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-300x300.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
       Rock and Roll Bingo, but we like it.
-  - event_date: May 6, 2023 11:00 AM
-    event_title: Coronation Celebrations
-    event_image: /images/coronation.png
-    event_notes: ""
+  - event_date: August 13, 2023 1:30 PM
+    event_title: Joel Fisk - Live @ The Lion
+    event_notes: Joel Fisk returns to The Lion for an afternoon of original songs
+      and classic covers in The Lion garden.
+    event_image: /images/joel-fisk.png
+  - event_date: August 19, 2023 1:30 PM
+    event_title: Eric Sedge Live @ The Lion
+    event_image: /images/eric-sedge.png
+    event_notes: Live Music from Former Broadside Boy Eric Sedge
+  - event_date: September 21, 2023 8:30 PM
+    event_title: Beer Club & Tap Takeover - Wharf Brewery
+    event_image: /images/beer-club-tap-takeover.png
+    event_notes: oin us for Beer Club at The Theberton Lion and be the first to try
+      five Wharf Brewery beers for just £7.50 as the Coggeshall based brewer
+      takes over the taps. All we ask in return is your feedback to help us
+      shape our future beer lists!
   - event_date: May 13, 2023 9:00 PM
     event_title: Big Eurovision Party
     event_image: /images/big-eurovision-party.png
     event_notes: What better way to recover from the festivities than a Fry Up? Join
       us for a Full English.
-  - event_date: July 23, 2023 1:30 PM
-    event_title: Peter Hepworth - Live @ The Lion
-    event_notes: Peter Hepworth returns to The Lion for an afternoon of original
-      songs and classic covers in The Lion garden.
-    event_image: /images/peterhepworth.jpg
-  - event_date: July 26, 2023 8:30 PM
-    event_title: Beer Club & Tap Takeover - Roughacre Brewery
-    event_image: /images/beer-club-tap-takeover.png
-    event_notes: oin us for Beer Club at The Theberton Lion and be the first to try
-      five Roughacre beers for just £7.50 as the Clare based brewer takes over
-      the taps. All we ask in return is your feedback to help us shape our
-      future beer lists!

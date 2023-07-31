@@ -1,16 +1,16 @@
 beers:
-  - beer_name: Mole Trap
-    beer_brewery: Mauldons
-    beer_abv: 3.8
-    beer_image: /images/mole-trap.png
+  - beer_name: Zestival
+    beer_brewery: Roughacre
+    beer_abv: 3.6
+    beer_image: /images/zestival.png
     beer_price: 3.9
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/venture.jpg
-    beer_name: Venture
-    beer_brewery: Nethergate
-    beer_abv: 3.8
-    beer_price: 3.7
+  - beer_image: /images/l-abbaye-noire.png
+    beer_name: L'Abbaye Noire
+    beer_brewery: Roughacre
+    beer_abv: 7.2
+    beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
   - beer_name: Victoria Bitter
@@ -20,17 +20,17 @@ beers:
     beer_price: 3.8
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/silver-adder.jpg
-    beer_name: Silver Adder
-    beer_brewery: Mauldons
-    beer_price: 3.7
-    beer_abv: 4.5
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/cloudless.jpeg
-    beer_name: Cloudless
-    beer_brewery: Lacons
-    beer_abv: 4.5
+  - beer_image: /images/ashdon-amber.png
+    beer_name: Ashdon Amber
+    beer_brewery: Roughacre
     beer_price: 3.9
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_abv: 4.4
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/mosquito-ipa.png
+    beer_name: Mosquito I.PA
+    beer_brewery: Roughacre
+    beer_abv: 6.2
+    beer_price: 4.4
+    beer_on_now: true
+    beer_coming_soon: false

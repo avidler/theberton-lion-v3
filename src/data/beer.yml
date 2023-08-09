@@ -10,8 +10,8 @@ beers:
     beer_name: L'Abbaye Noire
     beer_brewery: Roughacre
     beer_abv: 7.2
-    beer_price: 4.4
-    beer_coming_soon: false
+    beer_price: 4.6
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/ashdon-amber.png
     beer_name: Ashdon Amber
@@ -70,7 +70,8 @@ beers:
     beer_brewery: Boudicca
     beer_price: 4
     beer_abv: 3.7
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/prasto-s-porter.jpeg
     beer_name: Prasto's Porter
     beer_brewery: Boudicca
@@ -168,4 +169,4 @@ beers:
     beer_brewery: Roughacre
     beer_abv: 8.4
     beer_price: 4.6
-    beer_coming_soon: true
+    beer_coming_soon: false

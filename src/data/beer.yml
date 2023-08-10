@@ -1,11 +1,11 @@
 beers:
-  - beer_name: Zestival
-    beer_brewery: Roughacre
-    beer_abv: 3.6
-    beer_image: /images/zestival.png
-    beer_price: 3.9
+  - beer_name: Black Pearl
+    beer_brewery: Milestone
+    beer_abv: 4.3
+    beer_image: /images/milestone-black-pearl.jpeg
+    beer_price: 4
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_image: /images/l-abbaye-noire.png
     beer_name: L'Abbaye Noire
     beer_brewery: Roughacre
@@ -13,12 +13,12 @@ beers:
     beer_price: 4.6
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/ashdon-amber.png
-    beer_name: Ashdon Amber
-    beer_brewery: Roughacre
-    beer_price: 3.9
-    beer_abv: 4.4
-    beer_coming_soon: false
+  - beer_image: /images/360-bluebell.jpeg
+    beer_name: Bluebell
+    beer_brewery: "360"
+    beer_price: 4
+    beer_abv: 4.3
+    beer_coming_soon: true
     beer_on_now: false
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
@@ -90,7 +90,7 @@ beers:
     beer_price: 4
     beer_coming_soon: true
     beer_abv: 3.8
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/shine.png
     beer_name: Shine
     beer_brewery: Oakham
@@ -102,7 +102,7 @@ beers:
     beer_brewery: Oakham
     beer_abv: 4.1
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/bishops-farewell.png
     beer_name: Bishop's Farewell
     beer_brewery: Oakham
@@ -119,8 +119,9 @@ beers:
     beer_name: The Cure
     beer_brewery: Shortts Farm
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_abv: 3.6
+    beer_on_now: true
   - beer_image: /images/pale-ale.png
     beer_name: Pale Ale
     beer_brewery: Mauldons

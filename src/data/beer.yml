@@ -27,13 +27,13 @@ beers:
     beer_price: 3.8
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/mosquito-ipa.png
-    beer_name: Mosquito I.PA
-    beer_brewery: Roughacre
-    beer_abv: 6.2
-    beer_price: 4.4
+  - beer_image: /images/caramel-stout.jpeg
+    beer_name: Caramel Stout
+    beer_brewery: Tindall Ales
+    beer_abv: 4.5
+    beer_price: 4
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_image: /images/brewer-s-gold.jpg
     beer_on_now: false
     beer_name: Brewer's Gold

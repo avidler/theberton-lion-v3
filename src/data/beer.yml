@@ -18,8 +18,8 @@ beers:
     beer_brewery: "360"
     beer_price: 4
     beer_abv: 4.3
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
@@ -28,19 +28,19 @@ beers:
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/brewer-s-gold.jpg
-    beer_on_now: false
+    beer_on_now: true
     beer_name: Brewer's Gold
     beer_brewery: Crouch Vale
     beer_abv: 4
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/caramel-stout.jpeg
     beer_name: Caramel Stout
     beer_brewery: Tindall Ales
     beer_abv: 4.5
     beer_price: 4
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/essex-boys.jpg
     beer_name: Essex Boys
     beer_brewery: Crouch Vale
@@ -71,7 +71,7 @@ beers:
     beer_price: 4
     beer_abv: 3.7
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/prasto-s-porter.jpeg
     beer_name: Prasto's Porter
     beer_brewery: Boudicca
@@ -108,13 +108,15 @@ beers:
     beer_brewery: Oakham
     beer_abv: 4.6
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/shortts-generic.jpeg
     beer_name: Juicy
     beer_brewery: Shortts Farm
     beer_abv: 4.5
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_price: 4
+    beer_on_now: true
   - beer_image: /images/cure.jpg
     beer_name: The Cure
     beer_brewery: Shortts Farm
@@ -128,13 +130,14 @@ beers:
     beer_abv: 3.6
     beer_coming_soon: false
     beer_price: 4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/scruffy-mild.png
     beer_name: Scruffy Mild
     beer_brewery: Wharf Brewery
     beer_abv: 3.9
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/nibbler.jpg
     beer_name: Nibbler
     beer_brewery: Moon Gazer
@@ -158,7 +161,8 @@ beers:
     beer_brewery: Tindall Ales
     beer_abv: 4.5
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/tap.jpeg
     beer_name: Tap
     beer_brewery: Chalk Hill

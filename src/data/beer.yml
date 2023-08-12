@@ -58,13 +58,14 @@ beers:
     beer_brewery: Green Jack
     beer_abv: 5.5
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/nightingale.jpg
     beer_name: Nightingale
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/queen-of-hops.jpeg
     beer_name: Queen Of Hops
     beer_brewery: Boudicca

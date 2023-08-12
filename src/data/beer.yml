@@ -49,10 +49,11 @@ beers:
     beer_coming_soon: true
   - beer_image: /images/summer-dream.jpeg
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_name: Summer Dream
     beer_brewery: Green Jack
     beer_abv: 4
+    beer_on_now: true
   - beer_image: /images/gone-fishing.jpeg
     beer_name: Gone Fishing
     beer_brewery: Green Jack

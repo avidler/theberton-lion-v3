@@ -85,7 +85,8 @@ beers:
     beer_brewery: Boudicca
     beer_abv: 4.5
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/jhb.jpg
     beer_name: J.H.B
     beer_brewery: Oakham

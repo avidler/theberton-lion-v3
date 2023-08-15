@@ -28,7 +28,7 @@ beers:
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/brewer-s-gold.jpg
-    beer_on_now: true
+    beer_on_now: false
     beer_name: Brewer's Gold
     beer_brewery: Crouch Vale
     beer_abv: 4
@@ -46,7 +46,8 @@ beers:
     beer_brewery: Crouch Vale
     beer_abv: 3.8
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/summer-dream.jpeg
     beer_price: 4
     beer_coming_soon: false
@@ -87,6 +88,13 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
+  - beer_image: /images/shine.png
+    beer_name: Shine
+    beer_brewery: Oakham
+    beer_abv: 3.7
+    beer_price: 4
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/jhb.jpg
     beer_name: J.H.B
     beer_brewery: Oakham
@@ -94,12 +102,6 @@ beers:
     beer_coming_soon: true
     beer_abv: 3.8
     beer_on_now: false
-  - beer_image: /images/shine.png
-    beer_name: Shine
-    beer_brewery: Oakham
-    beer_abv: 3.7
-    beer_price: 4
-    beer_coming_soon: true
   - beer_image: /images/hangar-17.jpeg
     beer_name: Hangar 17
     beer_brewery: Oakham
@@ -119,13 +121,20 @@ beers:
     beer_abv: 4.5
     beer_coming_soon: false
     beer_price: 4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/cure.jpg
     beer_name: The Cure
     beer_brewery: Shortts Farm
     beer_price: 4
     beer_coming_soon: false
     beer_abv: 3.6
+    beer_on_now: true
+  - beer_image: /images/scruffy-mild.png
+    beer_name: Scruffy Mild
+    beer_brewery: Wharf Brewery
+    beer_abv: 3.9
+    beer_price: 4
+    beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/pale-ale.png
     beer_name: Pale Ale
@@ -134,13 +143,6 @@ beers:
     beer_coming_soon: false
     beer_price: 4
     beer_on_now: false
-  - beer_image: /images/scruffy-mild.png
-    beer_name: Scruffy Mild
-    beer_brewery: Wharf Brewery
-    beer_abv: 3.9
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/nibbler.jpg
     beer_name: Nibbler
     beer_brewery: Moon Gazer
@@ -172,7 +174,8 @@ beers:
     beer_brewery: Chalk Hill
     beer_abv: 3.6
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/roughacre-generic.png
     beer_name: L'Abbaye Grand Cru
     beer_brewery: Roughacre

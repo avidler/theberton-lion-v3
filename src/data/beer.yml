@@ -4,22 +4,22 @@ beers:
     beer_abv: 4.3
     beer_image: /images/milestone-black-pearl.jpeg
     beer_price: 4
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/l-abbaye-noire.png
     beer_name: L'Abbaye Noire
     beer_brewery: Roughacre
     beer_abv: 7.2
     beer_price: 4.6
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/360-bluebell.jpeg
     beer_name: Bluebell
     beer_brewery: "360"
     beer_price: 4
     beer_abv: 4.3
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
@@ -54,7 +54,7 @@ beers:
     beer_name: Summer Dream
     beer_brewery: Green Jack
     beer_abv: 4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/gone-fishing.jpeg
     beer_name: Gone Fishing
     beer_brewery: Green Jack
@@ -67,7 +67,7 @@ beers:
     beer_abv: 4
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/queen-of-hops.jpeg
     beer_name: Queen Of Hops
     beer_brewery: Boudicca
@@ -128,14 +128,14 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_abv: 3.6
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/scruffy-mild.png
     beer_name: Scruffy Mild
     beer_brewery: Wharf Brewery
     beer_abv: 3.9
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/pale-ale.png
     beer_name: Pale Ale
     beer_brewery: Mauldons

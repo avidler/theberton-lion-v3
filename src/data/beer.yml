@@ -41,13 +41,13 @@ beers:
     beer_price: 4
     beer_on_now: false
     beer_coming_soon: true
-  - beer_image: /images/essex-boys.jpg
-    beer_name: Essex Boys
-    beer_brewery: Crouch Vale
-    beer_abv: 3.8
-    beer_price: 4
+  - beer_image: /images/victoria-bitter.jpg
+    beer_name: Victoria Bitter
+    beer_brewery: Earl Soham
+    beer_abv: 3.6
+    beer_price: 3.8
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/summer-dream.jpeg
     beer_price: 4
     beer_coming_soon: false

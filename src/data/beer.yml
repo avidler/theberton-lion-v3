@@ -1,53 +1,53 @@
 beers:
-  - beer_name: Black Pearl
-    beer_brewery: Milestone
-    beer_abv: 4.3
-    beer_image: /images/milestone-black-pearl.jpeg
+  - beer_name: Leading Lights
+    beer_brewery: Wharf Brewery
+    beer_abv: 3.8
+    beer_image: /images/leading-lights.jpeg
     beer_price: 4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/l-abbaye-noire.png
-    beer_name: L'Abbaye Noire
-    beer_brewery: Roughacre
-    beer_abv: 7.2
-    beer_price: 4.6
+  - beer_image: /images/pucks-folly.jpeg
+    beer_name: Puck's Folly
+    beer_brewery: Wharf Brewery
+    beer_abv: 4.2
+    beer_price: 4
     beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/360-bluebell.jpeg
-    beer_name: Bluebell
-    beer_brewery: "360"
+    beer_on_now: true
+  - beer_image: /images/bure-gold.jpg
+    beer_name: Bure Gold
+    beer_brewery: Woodfordes
     beer_price: 4
     beer_abv: 4.3
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_name: Victoria Bitter
-    beer_brewery: Earl Soham
+  - beer_name: Norfolk Nog
+    beer_brewery: Woodfordes
     beer_abv: 3.6
-    beer_image: /images/victoria-bitter.jpg
-    beer_price: 3.8
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/brewer-s-gold.jpg
+    beer_image: /images/nog.jpeg
+    beer_price: 4.6
     beer_on_now: false
-    beer_name: Brewer's Gold
-    beer_brewery: Crouch Vale
+    beer_coming_soon: true
+  - beer_image: /images/big-dog.jpeg
+    beer_on_now: false
+    beer_name: Big Dog
+    beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4
-    beer_coming_soon: false
-  - beer_image: /images/caramel-stout.jpeg
-    beer_name: Caramel Stout
-    beer_brewery: Tindall Ales
-    beer_abv: 4.5
+    beer_coming_soon: true
+  - beer_image: /images/sundown.jpeg
+    beer_name: Sundown
+    beer_brewery: Lacons
+    beer_abv: 5
     beer_price: 4
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_image: /images/essex-boys.jpg
     beer_name: Essex Boys
     beer_brewery: Crouch Vale
     beer_abv: 3.8
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/summer-dream.jpeg
     beer_price: 4
     beer_coming_soon: false
@@ -80,14 +80,14 @@ beers:
     beer_brewery: Boudicca
     beer_abv: 5.2
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/the-red-queen.jpeg
     beer_name: The Red Queen
     beer_brewery: Boudicca
     beer_abv: 4.5
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/shine.png
     beer_name: Shine
     beer_brewery: Oakham
@@ -101,7 +101,7 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_abv: 3.8
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/hangar-17.jpeg
     beer_name: Hangar 17
     beer_brewery: Oakham
@@ -114,7 +114,7 @@ beers:
     beer_abv: 4.6
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/shortts-generic.jpeg
     beer_name: Juicy
     beer_brewery: Shortts Farm
@@ -135,7 +135,7 @@ beers:
     beer_abv: 3.9
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/pale-ale.png
     beer_name: Pale Ale
     beer_brewery: Mauldons
@@ -149,7 +149,7 @@ beers:
     beer_price: 4
     beer_abv: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/ditchingham-dam.jpeg
     beer_name: Ditchingham Dam
     beer_brewery: Tindall Ales
@@ -163,14 +163,14 @@ beers:
     beer_price: 4
     beer_abv: 3.8
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/caramel-stout.jpeg
     beer_name: Caramel Stout
     beer_brewery: Tindall Ales
     beer_abv: 4.5
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/tap.jpeg
     beer_name: Tap
     beer_brewery: Chalk Hill

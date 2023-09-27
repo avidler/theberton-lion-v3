@@ -48,39 +48,39 @@ beers:
     beer_price: 3.8
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/summer-dream.jpeg
+  - beer_image: /images/dark-side-of-the-moose.jpeg
     beer_price: 4
-    beer_coming_soon: false
-    beer_name: Summer Dream
-    beer_brewery: Green Jack
-    beer_abv: 4
+    beer_coming_soon: true
+    beer_name: Dark Side of The Moose
+    beer_brewery: Purple Moose
+    beer_abv: 4.6
     beer_on_now: false
-  - beer_image: /images/gone-fishing.jpeg
-    beer_name: Gone Fishing
-    beer_brewery: Green Jack
-    beer_abv: 5.5
+  - beer_image: /images/snowdonia.jpeg
+    beer_name: Snowdonia Ale
+    beer_brewery: Purple Moose
+    beer_abv: 3.6
     beer_price: 4
-    beer_coming_soon: false
-  - beer_image: /images/nightingale.jpg
-    beer_name: Nightingale
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/queen-of-hops.jpeg
-    beer_name: Queen Of Hops
-    beer_brewery: Boudicca
-    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/madogs.jpeg
+    beer_name: " Madog's Ale"
+    beer_brewery: Purple Moose
     beer_abv: 3.7
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/prasto-s-porter.jpeg
-    beer_name: Prasto's Porter
-    beer_brewery: Boudicca
-    beer_abv: 5.2
     beer_price: 4
-    beer_coming_soon: false
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/calon-lan.jpeg
+    beer_name: Calon Lan
+    beer_brewery: Purple Moose
+    beer_price: 4
+    beer_abv: 4
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/glaslyn-ale.jpeg
+    beer_name: Glaslyn Ale
+    beer_brewery: Purple Moose
+    beer_abv: 4.2
+    beer_price: 4
+    beer_coming_soon: true
   - beer_image: /images/the-red-queen.jpeg
     beer_name: The Red Queen
     beer_brewery: Boudicca

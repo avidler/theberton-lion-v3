@@ -50,7 +50,7 @@ export default class OpeningHoursTable extends React.Component {
                         <span>
                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_afternoon_open')} –&nbsp; 
                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_afternoon_close')} |&nbsp;
-                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_evening_open')} –&nbsp; 
+                        {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_evening_open')} –&nbsp; 
                         {_.get(this.props, 'pageContext.site.siteMetadata.opening_hours.saturday.saturday_evening_close')}
                         </span>
                     </p>

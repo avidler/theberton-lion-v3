@@ -1,21 +1,21 @@
 desserts:
-  - dessert_name: Banoffee Sundae with Rum & Raisin Ice Cream & Chopped Nuts
+  - dessert_name: Blackberry, Apple & Ginger Crumble
+    dessert_description: Served with Custard
+    dessert_price: 7.5
+    dessert_wheat_free: true
+    dessert_vegetarian: true
+  - dessert_name: Chocolate Torte with Honeycomb Dust
     dessert_description: ""
     dessert_price: 7.5
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Kutia Rice Pudding
-    dessert_description: With honey, cherries, almonds and dried fruit.
-    dessert_price: 7.5
-    dessert_wheat_free: true
-    dessert_vegetarian: true
-  - dessert_name: Chocolate Eve's Pudding
-    dessert_description: Served with chocolate ice cream
+  - dessert_name: Poached Apricot Pudding
+    dessert_description: Served with Pouring Cream
     dessert_price: 7.5
     dessert_vegetarian: true
     dessert_wheat_free: true
-  - dessert_name: Summer Fruits Clafoutis
-    dessert_description: With pouring cream
+  - dessert_name: Cherry Tart with Raspberry Coulis
+    dessert_description: Served with Crème Fraiche
     dessert_wheat_free: true
     dessert_vegetarian: true
     dessert_price: 7.5

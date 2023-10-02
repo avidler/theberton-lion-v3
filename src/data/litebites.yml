@@ -1,23 +1,44 @@
 lite_bites:
-  - lite_bite_name: Baked Feta with Burst Tomatoes and Chilli Honey
-    lite_bite_description: With salad garnish.
+  - lite_bite_name: Baked Chicken Wings
+    lite_bite_description: With Ranch Dressing.
     lite_bite_price: 7.5
     lite_bite_wheat_free: true
-  - lite_bite_name: "Chilli Garlic Prawns "
-    lite_bite_description: ""
-    lite_bite_price: 7.5
-    lite_bite_vegetarian: false
-    lite_bite_wheat_free: true
-  - lite_bite_name: "Potted Duck "
-    lite_bite_description: With bread sticks and salad garnish
+  - lite_bite_name: Hot Bacon & Artichoke Salad
+    lite_bite_description: With Pine Nuts
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
-  - lite_bite_name: Mushroom & Leek Cabbage Dumplings
-    lite_bite_description: With soy sauce dip
+  - lite_bite_name: Fennel Braised in Vermouth with Dill & Garlic Butter
+    lite_bite_description: Served with Crusty Warm Bread
     lite_bite_price: 7.5
+    lite_bite_vegetarian: false
     lite_bite_wheat_free: true
+  - lite_bite_name: Pumpkin & Corn Chowder
+    lite_bite_description: Served with Crusty Warm Bread
+    lite_bite_price: 7.5
+    lite_bite_wheat_free: false
     lite_bite_vegetarian: true
-  - lite_bite_name: Big Brunch Bap
-    lite_bite_description: Sausage, Egg and Bacon
-    lite_bite_price: 8.95
+  - lite_bite_name: LION BRUNCHES (Lunchtimes Only)
+    lite_bite_description: >-
+      Choose from;
+
+
+      EGGS BENEDICT
+
+      Poached eggs on brioche with sliced tomato, spinach &  hollandaise
+
+
+      EGGS ROMA
+
+      Poached eggs on ciabatta, pesto, sliced tomato, prosciutto, parmesan
+
+
+      EGGS HEMMINGWAY
+
+      Poached eggs on brioche, smoked salmon, spinach, hollandaise, chopped chives    
+
+
+      HUEVOS BENEDICTUS
+
+      Eggs on brioche, smashed avocado, chorizo, salsa, chilli hollandaise & coriander    
+    lite_bite_price: 9.95

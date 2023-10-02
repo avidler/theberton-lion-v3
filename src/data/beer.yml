@@ -4,7 +4,7 @@ beers:
     beer_abv: 3.8
     beer_image: /images/leading-lights.jpeg
     beer_price: 4
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/pucks-folly.jpeg
     beer_name: Puck's Folly
@@ -12,7 +12,7 @@ beers:
     beer_abv: 4.2
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/bure-gold.jpg
     beer_name: Bure Gold
     beer_brewery: Woodfordes
@@ -25,22 +25,22 @@ beers:
     beer_abv: 3.6
     beer_image: /images/nog.jpeg
     beer_price: 4.6
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/big-dog.jpeg
-    beer_on_now: false
+    beer_on_now: true
     beer_name: Big Dog
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/sundown.jpeg
     beer_name: Sundown
     beer_brewery: Lacons
     beer_abv: 5
     beer_price: 4
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham
@@ -135,7 +135,7 @@ beers:
     beer_abv: 3.9
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/pale-ale.png
     beer_name: Pale Ale
     beer_brewery: Mauldons

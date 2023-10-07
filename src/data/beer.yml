@@ -6,26 +6,26 @@ beers:
     beer_price: 4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/pucks-folly.jpeg
-    beer_name: Puck's Folly
-    beer_brewery: Wharf Brewery
+  - beer_image: /images/gorgeous-george.jpg
+    beer_name: Gorgeous George
+    beer_brewery: Mighty Oak
     beer_abv: 4.2
     beer_price: 4
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/bure-gold.jpg
-    beer_name: Bure Gold
-    beer_brewery: Woodfordes
+  - beer_image: /images/oscar-wilde-mild.png
+    beer_name: Oscar Wild Mild
+    beer_brewery: Mighty Oak
     beer_price: 4
-    beer_abv: 4.3
+    beer_abv: 3.7
     beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: Norfolk Nog
-    beer_brewery: Woodfordes
-    beer_abv: 3.6
-    beer_image: /images/nog.jpeg
-    beer_price: 4.6
     beer_on_now: false
+  - beer_name: Bure Gold
+    beer_brewery: Woodfordes
+    beer_abv: 4.3
+    beer_image: /images/bure-gold.jpg
+    beer_price: 4.3
+    beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/big-dog.jpeg
     beer_on_now: false

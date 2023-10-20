@@ -4,28 +4,28 @@ beers:
     beer_abv: 3.9
     beer_image: /images/ploughman-s-gold.png
     beer_price: 4
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/gorgeous-george.jpg
     beer_name: Gorgeous George
     beer_brewery: Mighty Oak
     beer_abv: 4.2
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/oscar-wilde-mild.png
     beer_name: Oscar Wild Mild
     beer_brewery: Mighty Oak
     beer_price: 4
     beer_abv: 3.7
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_name: Bure Gold
     beer_brewery: Woodfordes
     beer_abv: 4.3
     beer_image: /images/bure-gold.jpg
     beer_price: 4.3
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/mighty-oak.jpeg
     beer_on_now: false
@@ -50,31 +50,31 @@ beers:
     beer_on_now: true
   - beer_image: /images/dark-side-of-the-moose.jpeg
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_name: Dark Side of The Moose
     beer_brewery: Purple Moose
     beer_abv: 4.6
-    beer_on_now: false
+    beer_on_now: true
+  - beer_image: /images/madogs.jpeg
+    beer_name: " Madog's Ale"
+    beer_brewery: Purple Moose
+    beer_abv: 3.7
+    beer_price: 4
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/snowdonia.jpeg
     beer_name: Snowdonia Ale
     beer_brewery: Purple Moose
     beer_abv: 3.6
     beer_price: 4
     beer_coming_soon: true
-  - beer_image: /images/madogs.jpeg
-    beer_name: " Madog's Ale"
-    beer_brewery: Purple Moose
-    beer_abv: 3.7
-    beer_price: 4
-    beer_coming_soon: true
-    beer_on_now: false
   - beer_image: /images/calon-lan.jpeg
     beer_name: Calon Lan
     beer_brewery: Purple Moose
     beer_price: 4
     beer_abv: 4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/glaslyn-ale.jpeg
     beer_name: Glaslyn Ale
     beer_brewery: Purple Moose

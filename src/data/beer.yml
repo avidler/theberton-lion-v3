@@ -28,19 +28,19 @@ beers:
     beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/mighty-oak.jpeg
-    beer_on_now: false
+    beer_on_now: true
     beer_name: Outfoxed
     beer_brewery: Mighty Oak
     beer_abv: 4.2
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/mighty-oak.jpeg
     beer_name: Fiasco
     beer_brewery: Mighty Oak
     beer_abv: 4.2
     beer_price: 4
-    beer_on_now: false
-    beer_coming_soon: true
+    beer_on_now: true
+    beer_coming_soon: false
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham
@@ -54,21 +54,21 @@ beers:
     beer_name: Dark Side of The Moose
     beer_brewery: Purple Moose
     beer_abv: 4.6
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/madogs.jpeg
     beer_name: " Madog's Ale"
     beer_brewery: Purple Moose
     beer_abv: 3.7
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/snowdonia.jpeg
     beer_name: Snowdonia Ale
     beer_brewery: Purple Moose
     beer_abv: 3.6
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/calon-lan.jpeg
     beer_name: Calon Lan
     beer_brewery: Purple Moose
@@ -82,21 +82,21 @@ beers:
     beer_abv: 4.2
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/tumble-home.jpeg
     beer_name: Tumble Home
     beer_brewery: Cliff Quay
     beer_abv: 4.7
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
-  - beer_image: /images/jhb.jpg
-    beer_name: J.H.B
-    beer_brewery: Oakham
+  - beer_image: /images/lacons.png
+    beer_name: Phantom
+    beer_brewery: Lacons
     beer_price: 4
     beer_coming_soon: false
-    beer_abv: 3.8
-    beer_on_now: false
+    beer_abv: 4.4
+    beer_on_now: true
   - beer_image: /images/shine.png
     beer_name: Shine
     beer_brewery: Oakham

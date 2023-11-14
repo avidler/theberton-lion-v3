@@ -1,18 +1,18 @@
 beers:
-  - beer_name: Ploughmans
-    beer_brewery: Mauldons
-    beer_abv: 3.9
-    beer_image: /images/ploughman-s-gold.png
+  - beer_name: Mad Wolf
+    beer_brewery: Wolf
+    beer_abv: 4.7
+    beer_image: /images/mad-wolf.jpeg
     beer_price: 4
-    beer_on_now: false
+    beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/gorgeous-george.jpg
-    beer_name: Gorgeous George
-    beer_brewery: Mighty Oak
+  - beer_image: /images/lupus-lupus.jpg
+    beer_name: Lupus Lupus
+    beer_brewery: Wolf
     beer_abv: 4.2
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/oscar-wilde-mild.png
     beer_name: Oscar Wild Mild
     beer_brewery: Mighty Oak
@@ -54,13 +54,13 @@ beers:
     beer_name: Fusioneer
     beer_brewery: Mr Winters
     beer_abv: 3.6
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/tailwgger.jpeg
     beer_name: Tail Wagger
     beer_brewery: Listers
     beer_abv: 4.1
     beer_price: 4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_on_now: false
   - beer_image: /images/listers-special-ale.png
     beer_name: Snowdonia Ale
@@ -96,7 +96,7 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_abv: 4.4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/shine.png
     beer_name: Shine
     beer_brewery: Oakham

@@ -1,15 +1,15 @@
 beers:
-  - beer_name: Mad Wolf
-    beer_brewery: Wolf
-    beer_abv: 4.7
-    beer_image: /images/mad-wolf.jpeg
+  - beer_name: Brewer's Bitter
+    beer_brewery: Mauldons
+    beer_abv: 4
+    beer_image: /images/mauldons-brewery_1.jpg
     beer_price: 4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/lupus-lupus.jpg
-    beer_name: Lupus Lupus
-    beer_brewery: Wolf
-    beer_abv: 4.2
+  - beer_image: /images/mole-trap.png
+    beer_name: Mole Trap
+    beer_brewery: Mauldons
+    beer_abv: 3.8
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
@@ -61,13 +61,6 @@ beers:
     beer_abv: 4.1
     beer_price: 4
     beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/listers-special-ale.png
-    beer_name: Snowdonia Ale
-    beer_brewery: Purple Moose
-    beer_abv: 4.6
-    beer_price: 4
-    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/calon-lan.jpeg
     beer_name: Calon Lan

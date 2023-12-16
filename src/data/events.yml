@@ -7,8 +7,8 @@ event:
     event_title: The 7th Annual Theberton Lion Summer Beer & Cider Festival
     event_image: /images/7th-beer-fest-logo.png
     event_notes: Join us for our fabulous annual festival of ale & cider
-  - event_date: October 13, 2023 10:00 PM
-    event_title: Rock and Roll Bingo
+  - event_date: December 24, 2023 9:00 PM
+    event_title: Christmas Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-300x300.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
       Rock and Roll Bingo, but we like it.
@@ -39,3 +39,6 @@ event:
   - event_date: October 28, 2023 6:00 PM
     event_title: Halloween Cocktail Party
     event_image: /images/halloween-cocktail-party.png
+  - event_date: December 31, 2023 7:00 PM
+    event_title: New Year's Eve Cocktails & Karaoke
+    event_image: /images/new-years-2023.jpg

@@ -1,25 +1,25 @@
 beers:
-  - beer_name: Brewer's Bitter
-    beer_brewery: Mauldons
-    beer_abv: 4
-    beer_image: /images/mauldons-brewery_1.jpg
-    beer_price: 4
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/mole-trap.png
-    beer_name: Mole Trap
-    beer_brewery: Mauldons
-    beer_abv: 3.8
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/oscar-wilde-mild.png
-    beer_name: Oscar Wild Mild
+  - beer_name: Ding Dong
     beer_brewery: Mighty Oak
+    beer_abv: 4.3
+    beer_image: /images/ding-dong.jpg
     beer_price: 4
-    beer_abv: 3.7
+    beer_on_now: true
     beer_coming_soon: false
-    beer_on_now: false
+  - beer_image: /images/hoppy-christmas.jpeg
+    beer_name: Hoppy Christmas
+    beer_brewery: Tindall's
+    beer_abv: 4.1
+    beer_price: 4
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/starry-night-stout.jpg
+    beer_name: Starry Night Stout
+    beer_brewery: Tindall's
+    beer_price: 4
+    beer_abv: 4.2
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_name: Bure Gold
     beer_brewery: Woodfordes
     beer_abv: 4.3

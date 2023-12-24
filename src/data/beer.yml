@@ -1,45 +1,45 @@
 beers:
-  - beer_name: Ding Dong
-    beer_brewery: Mighty Oak
-    beer_abv: 4.3
-    beer_image: /images/ding-dong.jpg
-    beer_price: 4
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/hoppy-christmas.jpeg
-    beer_name: Hoppy Christmas
-    beer_brewery: Tindall's
+  - beer_name: Hair Of The Dog
+    beer_brewery: Nethergate
     beer_abv: 4.1
+    beer_image: /images/hair-of-the-dog.jpeg
+    beer_price: 4
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/listers-best-bitter.png
+    beer_name: Best Bitter
+    beer_brewery: Listers
+    beer_abv: 3.9
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/starry-night-stout.jpg
-    beer_name: Starry Night Stout
-    beer_brewery: Tindall's
+  - beer_image: /images/saint-nicks.jpeg
+    beer_name: Saint Nick's
+    beer_brewery: Lacons
     beer_price: 4
-    beer_abv: 4.2
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: Bure Gold
-    beer_brewery: Woodfordes
     beer_abv: 4.3
-    beer_image: /images/bure-gold.jpg
-    beer_price: 4.3
-    beer_on_now: false
     beer_coming_soon: false
-  - beer_image: /images/mighty-oak.jpeg
-    beer_on_now: false
-    beer_name: Outfoxed
-    beer_brewery: Mighty Oak
-    beer_abv: 4.2
-    beer_price: 4
+    beer_on_now: true
+  - beer_name: Red Robin
+    beer_brewery: Green Jack
+    beer_abv: 4.3
+    beer_image: /images/red-robin.jpeg
+    beer_price: 3.8
+    beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/mighty-oak.jpeg
-    beer_name: Fiasco
-    beer_brewery: Mighty Oak
-    beer_abv: 4.2
-    beer_price: 4
+  - beer_image: /images/the-cap.jpeg
     beer_on_now: false
+    beer_name: The Cap
+    beer_brewery: Ampersand
+    beer_abv: 3.9
+    beer_price: 4
+    beer_coming_soon: true
+  - beer_image: /images/cowella.jpeg
+    beer_name: Cowella
+    beer_brewery: Ampersand
+    beer_abv: 4.8
+    beer_price: 4.1
+    beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter
@@ -48,12 +48,12 @@ beers:
     beer_price: 3.8
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/mrwinters-fusioneer.png
-    beer_price: 4
-    beer_coming_soon: false
-    beer_name: Fusioneer
-    beer_brewery: Mr Winters
-    beer_abv: 3.6
+  - beer_image: /images/tindalls.png
+    beer_price: 4.1
+    beer_coming_soon: true
+    beer_name: Forgotten Christmas
+    beer_brewery: Tindall
+    beer_abv: 5.5
     beer_on_now: false
   - beer_image: /images/tailwgger.jpeg
     beer_name: Tail Wagger

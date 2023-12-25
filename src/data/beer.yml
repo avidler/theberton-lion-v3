@@ -19,7 +19,7 @@ beers:
     beer_price: 4
     beer_abv: 4.3
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_name: Red Robin
     beer_brewery: Green Jack
     beer_abv: 4.3
@@ -50,11 +50,11 @@ beers:
     beer_on_now: true
   - beer_image: /images/tindalls.png
     beer_price: 4.1
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_name: Forgotten Christmas
     beer_brewery: Tindall
     beer_abv: 5.5
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/tailwgger.jpeg
     beer_name: Tail Wagger
     beer_brewery: Listers

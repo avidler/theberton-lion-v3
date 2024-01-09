@@ -4,12 +4,13 @@ sections:
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion
-    content1: Dating from the early 19th century, The Theberton Lion is a Grade II
-      listed pub at the centre of the     tranquil Suffolk village of Theberton.
-      With an emphasis on local produce and the best food and drink available
-      nationally and internationally, The Theberton Lion is a privately run
-      freehouse with an emphasis on quality, independence, authenticity and
-      choice.
+    content1: WE ARE CLOSED FOR MAINTENANCE WORK FROM 8 - 18 JANUARY
+      INCLUSIVE.  Dating from the early 19th century, The Theberton Lion is a
+      Grade II listed pub at the centre of the     tranquil Suffolk village of
+      Theberton. With an emphasis on local produce and the best food and drink
+      available nationally and internationally, The Theberton Lion is a
+      privately run freehouse with an emphasis on quality, independence,
+      authenticity and choice.
     content2: Offering a wide range of hand-picked beverages and real ales alongside
       traditional, freshly made meals, The Theberton Lion also boasts
       comfortable visitor accommodation allowing it to serve locals and visitors

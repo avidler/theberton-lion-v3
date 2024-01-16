@@ -1,46 +1,81 @@
 beers:
-  - beer_name: Hair Of The Dog
-    beer_brewery: Nethergate
-    beer_abv: 4.1
-    beer_image: /images/hair-of-the-dog.jpeg
-    beer_price: 4
+  - beer_image: /images/dead-moon.jpeg
+    beer_name: Dead Moon
+    beer_brewery: Brid's Cross
+    beer_abv: 4.6
+    beer_price: 4.2
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/listers-best-bitter.png
-    beer_name: Best Bitter
-    beer_brewery: Listers
-    beer_abv: 3.9
-    beer_price: 4
+  - beer_image: /images/bolster-s-blood.jpeg
+    beer_price: 4.2
     beer_coming_soon: false
+    beer_name: Bolster's Blood
+    beer_brewery: Brid's Cross
+    beer_abv: 5.5
     beer_on_now: true
-  - beer_image: /images/saint-nicks.jpeg
-    beer_name: Saint Nick's
-    beer_brewery: Lacons
-    beer_price: 4
-    beer_abv: 4.3
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_name: Red Robin
-    beer_brewery: Green Jack
-    beer_abv: 4.3
-    beer_image: /images/red-robin.jpeg
-    beer_price: 3.8
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/the-cap.jpeg
-    beer_on_now: false
-    beer_name: The Cap
-    beer_brewery: Ampersand
-    beer_abv: 3.9
-    beer_price: 4
-    beer_coming_soon: true
-  - beer_image: /images/cowella.jpeg
-    beer_name: Cowella
-    beer_brewery: Ampersand
-    beer_abv: 4.8
+  - beer_name: Wolf In Sheep's Clothing
+    beer_brewery: Wolf
+    beer_abv: 3.7
+    beer_image: /images/wolf-in-sheep-s-clothing.jpeg
     beer_price: 4.1
     beer_on_now: true
     beer_coming_soon: false
+  - beer_image: /images/mrwinters-tranquillity.jpg
+    beer_name: Tranquility
+    beer_brewery: Mr Winters
+    beer_abv: 4.2
+    beer_price: 4.1
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/mr-winters-classic.jpeg
+    beer_name: G.S.B
+    beer_brewery: Mr Winters
+    beer_price: 4.1
+    beer_abv: 3.8
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_name: Bouchart
+    beer_brewery: Moon Gazer
+    beer_abv: 4.9
+    beer_image: /images/bouchart.jpeg
+    beer_price: 4.2
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/snowshoe.jpg
+    beer_on_now: true
+    beer_name: Snowshoe
+    beer_brewery: Moon Gazer
+    beer_abv: 4.5
+    beer_price: 4.2
+    beer_coming_soon: false
+  - beer_image: /images/winter-wisp.png
+    beer_name: Winter Whisp
+    beer_brewery: Oakham
+    beer_abv: 4.1
+    beer_price: 4.1
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/mahseer.jpg
+    beer_name: Mahseer
+    beer_brewery: Green Jack
+    beer_abv: 5.8
+    beer_price: 4.2
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/gone-fishing.jpeg
+    beer_name: Gone Fishing
+    beer_brewery: Green Jack
+    beer_price: 4.2
+    beer_abv: 5.5
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/nightingale.jpg
+    beer_name: Nightingale
+    beer_brewery: Green Jack
+    beer_abv: 4
+    beer_price: 4.1
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham
@@ -48,134 +83,3 @@ beers:
     beer_price: 3.8
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/tindalls.png
-    beer_price: 4.1
-    beer_coming_soon: false
-    beer_name: Forgotten Christmas
-    beer_brewery: Tindall
-    beer_abv: 5.5
-    beer_on_now: true
-  - beer_image: /images/tailwgger.jpeg
-    beer_name: Tail Wagger
-    beer_brewery: Listers
-    beer_abv: 4.1
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/calon-lan.jpeg
-    beer_name: Calon Lan
-    beer_brewery: Purple Moose
-    beer_price: 4
-    beer_abv: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/glaslyn-ale.jpeg
-    beer_name: Glaslyn Ale
-    beer_brewery: Purple Moose
-    beer_abv: 4.2
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/tumble-home.jpeg
-    beer_name: Tumble Home
-    beer_brewery: Cliff Quay
-    beer_abv: 4.7
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/lacons.png
-    beer_name: Phantom
-    beer_brewery: Lacons
-    beer_price: 4
-    beer_coming_soon: false
-    beer_abv: 4.4
-    beer_on_now: false
-  - beer_image: /images/shine.png
-    beer_name: Shine
-    beer_brewery: Oakham
-    beer_abv: 3.7
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/hangar-17.jpeg
-    beer_name: Hangar 17
-    beer_brewery: Oakham
-    beer_abv: 4.1
-    beer_price: 4
-    beer_coming_soon: false
-  - beer_image: /images/bishops-farewell.png
-    beer_name: Bishop's Farewell
-    beer_brewery: Oakham
-    beer_abv: 4.6
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/shortts-generic.jpeg
-    beer_name: Juicy
-    beer_brewery: Shortts Farm
-    beer_abv: 4.5
-    beer_coming_soon: false
-    beer_price: 4
-    beer_on_now: false
-  - beer_image: /images/cure.jpg
-    beer_name: The Cure
-    beer_brewery: Shortts Farm
-    beer_price: 4
-    beer_coming_soon: false
-    beer_abv: 3.6
-    beer_on_now: false
-  - beer_image: /images/scruffy-mild.png
-    beer_name: Scruffy Mild
-    beer_brewery: Wharf Brewery
-    beer_abv: 3.9
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/pale-ale.png
-    beer_name: Pale Ale
-    beer_brewery: Mauldons
-    beer_abv: 3.6
-    beer_coming_soon: false
-    beer_price: 4
-    beer_on_now: false
-  - beer_image: /images/nibbler.jpg
-    beer_name: Nibbler
-    beer_brewery: Moon Gazer
-    beer_price: 4
-    beer_abv: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/ditchingham-dam.jpeg
-    beer_name: Ditchingham Dam
-    beer_brewery: Tindall Ales
-    beer_abv: 4.2
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/liberator.jpg
-    beer_name: Liberator
-    beer_brewery: Tindall Ales
-    beer_price: 4
-    beer_abv: 3.8
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/caramel-stout.jpeg
-    beer_name: Caramel Stout
-    beer_brewery: Tindall Ales
-    beer_abv: 4.5
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/tap.jpeg
-    beer_name: Tap
-    beer_brewery: Chalk Hill
-    beer_abv: 3.6
-    beer_price: 4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/roughacre-generic.png
-    beer_name: L'Abbaye Grand Cru
-    beer_brewery: Roughacre
-    beer_abv: 8.4
-    beer_price: 4.6
-    beer_coming_soon: false

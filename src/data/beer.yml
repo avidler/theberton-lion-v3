@@ -1,23 +1,23 @@
 beers:
-  - beer_image: /images/dead-moon.jpeg
-    beer_name: Dead Moon
-    beer_brewery: Brid's Cross
-    beer_abv: 4.6
-    beer_price: 4.2
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/bolster-s-blood.jpeg
-    beer_price: 4.2
-    beer_coming_soon: false
-    beer_name: Bolster's Blood
-    beer_brewery: Brid's Cross
-    beer_abv: 5.5
-    beer_on_now: true
-  - beer_name: Wolf In Sheep's Clothing
-    beer_brewery: Wolf
-    beer_abv: 3.7
-    beer_image: /images/wolf-in-sheep-s-clothing.jpeg
+  - beer_image: /images/jhb.jpg
+    beer_name: J.H.B
+    beer_brewery: Oakham
+    beer_abv: 3.8
     beer_price: 4.1
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/umbel-magna.jpg
+    beer_price: 4.2
+    beer_coming_soon: false
+    beer_name: Umbel Magna
+    beer_brewery: Nethergate
+    beer_abv: 5
+    beer_on_now: true
+  - beer_name: Fireside
+    beer_brewery: Lacons
+    beer_abv: 4
+    beer_image: /images/lacons.jpg
+    beer_price: 4.2
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/mrwinters-tranquillity.jpg
@@ -26,7 +26,7 @@ beers:
     beer_abv: 4.2
     beer_price: 4.1
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/mr-winters-classic.jpeg
     beer_name: G.S.B
     beer_brewery: Mr Winters
@@ -39,7 +39,7 @@ beers:
     beer_abv: 4.9
     beer_image: /images/bouchart.jpeg
     beer_price: 4.2
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/snowshoe.jpg
     beer_on_now: true
@@ -54,28 +54,28 @@ beers:
     beer_abv: 4.1
     beer_price: 4.1
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/mahseer.jpg
     beer_name: Mahseer
     beer_brewery: Green Jack
     beer_abv: 5.8
     beer_price: 4.2
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/gone-fishing.jpeg
     beer_name: Gone Fishing
     beer_brewery: Green Jack
     beer_price: 4.2
     beer_abv: 5.5
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/nightingale.jpg
     beer_name: Nightingale
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4.1
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham

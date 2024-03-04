@@ -33,7 +33,7 @@ beers:
     beer_price: 4.1
     beer_abv: 3.8
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_name: Bouchart
     beer_brewery: Moon Gazer
     beer_abv: 4.9
@@ -42,7 +42,7 @@ beers:
     beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/snowshoe.jpg
-    beer_on_now: true
+    beer_on_now: false
     beer_name: Snowshoe
     beer_brewery: Moon Gazer
     beer_abv: 4.5

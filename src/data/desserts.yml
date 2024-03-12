@@ -1,24 +1,29 @@
 desserts:
-  - dessert_name: Blackberry, Apple & Ginger Crumble
-    dessert_description: Served with Custard
-    dessert_price: 7.5
+  - dessert_name: "House-Made Waffle with your choice of topping:"
+    dessert_description: |-
+      Sliced banana, Toffee Ice Cream & Warm Toffee Sauce
+
+      Strawberries and White Chocolate with Vanilla Ice Cream
+
+      Whipped Biscoff Cream, Vanilla Ice Cream and Crumbled Biscoff Biscuits
+    dessert_price: 7.75
+    dessert_wheat_free: false
+    dessert_vegetarian: true
+  - dessert_name: "Rhubarb & Marzipan Tart "
+    dessert_description: With Cinnamon Ice Cream
+    dessert_price: 7.75
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Chocolate Torte with Honeycomb Dust
-    dessert_description: ""
-    dessert_price: 7.5
-    dessert_wheat_free: true
-    dessert_vegetarian: true
-  - dessert_name: Poached Apricot Pudding
+  - dessert_name: Blueberry Lemon Cake with Coconut Topping
     dessert_description: Served with Pouring Cream
-    dessert_price: 7.5
+    dessert_price: 7.75
     dessert_vegetarian: true
     dessert_wheat_free: true
-  - dessert_name: Cherry Tart with Raspberry Coulis
-    dessert_description: Served with Crème Fraiche
+  - dessert_name: Vanilla Pavlova
+    dessert_description: With pineapple and passionfruit
     dessert_wheat_free: true
     dessert_vegetarian: true
-    dessert_price: 7.5
+    dessert_price: 7.75
   - dessert_name: Landlord's Cheeseboard
     dessert_description: Cheddar, brie and blue with chutney and crackers.
     dessert_price: 9.95

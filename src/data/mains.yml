@@ -1,28 +1,28 @@
 mains:
-  - main_course_name: Roasted Duck Breast in Plum & Oyster Sauce
-    main_course_description: Served with  Savoy Cabbage & Roast New Potatoes.
-    main_course_price: 16.95
+  - main_course_name: "Baked Garlic Parmesan Salmon Fillet with Charred Asparagus "
+    main_course_description: Served with crispy parmentier potatoes
+    main_course_price: 17.95
     main_course_wheat_free: true
-  - main_course_name: Pan fried Chicken in a Mushroom & Bacon Sauce
-    main_course_description: " Served with Sautéed Potatoes & Seasonal Vegetables."
-    main_course_price: 16.95
-    main_course_wheat_free: false
-    main_course_vegetarian: false
-  - main_course_name: Lemon Shrimp Linguine
-    main_course_description: Served with House-made Garlic Bread.
-    main_course_price: 16.95
+  - main_course_name: Rabbit & Mushroom Hotpot with Roasted Radishes
+    main_course_description: Served with seasonal vegetables and mashed potato
+    main_course_price: 17.95
     main_course_wheat_free: true
     main_course_vegetarian: false
-  - main_course_name: Pork Tenderloin with a Wholegrain Mustard & Parmesan Sauce
-    main_course_description: With Hasselback Potatoes & Seasonal Vegetables.
+  - main_course_name: Creamy Pesto Chicken with House Made Gnocchi
+    main_course_description: With toasted pine nuts and a green salad
     main_course_price: 16.95
-  - main_course_name: Traditional Bean Cassoulet
-    main_course_description: Served with House-made Parmesan Gnudi & Fine Beans
-    main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Moroccan Lamb Shank with Saffron Mash
-    main_course_description: "& Roasted Mediterranean Vegetables"
-    main_course_price: 16.95
+    main_course_vegetarian: false
+  - main_course_name: Cumberland Toad In The Hole
+    main_course_description: Served with seasonal vegetables and horseradish mashed potato
+    main_course_price: 15.95
+  - main_course_name: Garlic & Rosemary Lamb Chops
+    main_course_description: Served with spring greens, baby carrots and roast new potatoes
+    main_course_price: 18.95
+    main_course_wheat_free: true
+  - main_course_name: Chickpea and Courgette Pilaf with Cashews
+    main_course_description: Served with a green salad
+    main_course_price: 15.95
     main_course_wheat_free: false
     main_course_vegetarian: false
   - main_course_name: The Lion's Legendary Steak & Ale Pie
@@ -44,8 +44,8 @@ mains:
       Served with Chef’s coleslaw, onion rings and chunky chips.
     main_course_price: 14.95
     main_course_wheat_free: true
-  - main_course_name: Root Vegetable Filo Parcel with Mushroom & Hazelnut
-    main_course_description: Served with a Blue Cheese Sauce and Roasted Peppers.
+  - main_course_name: Courgette & Aubergine Lasagne
+    main_course_description: Served with side salad and house-made garlic bread
     main_course_price: 15.95
     main_course_wheat_free: true
     main_course_vegetarian: true

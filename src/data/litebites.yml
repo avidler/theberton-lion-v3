@@ -1,44 +1,37 @@
 lite_bites:
-  - lite_bite_name: Baked Chicken Wings
-    lite_bite_description: With Ranch Dressing.
+  - lite_bite_name: Pork & Chive Dumplings
+    lite_bite_description: With a Sour Cream and Dill Dip
     lite_bite_price: 7.5
-    lite_bite_wheat_free: true
-  - lite_bite_name: Hot Bacon & Artichoke Salad
-    lite_bite_description: With Pine Nuts
-    lite_bite_price: 7.5
-    lite_bite_vegetarian: false
-    lite_bite_wheat_free: true
-  - lite_bite_name: Fennel Braised in Vermouth with Dill & Garlic Butter
-    lite_bite_description: Served with Crusty Warm Bread
+    lite_bite_wheat_free: false
+  - lite_bite_name: Sticky Ribs
+    lite_bite_description: A snack size rack of flavoursome pork ribs
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
-  - lite_bite_name: Pumpkin & Corn Chowder
-    lite_bite_description: Served with Crusty Warm Bread
+  - lite_bite_name: Caprese Salad
+    lite_bite_description: Mozzarella, tomato, olive oil & sweet basil with warm bread
+    lite_bite_price: 7.5
+    lite_bite_vegetarian: false
+    lite_bite_wheat_free: true
+  - lite_bite_name: Sprouting Broccoli and Asparagus Tempura
+    lite_bite_description: With ponzu sauce
     lite_bite_price: 7.5
     lite_bite_wheat_free: false
     lite_bite_vegetarian: true
-  - lite_bite_name: LION BRUNCHES (Lunchtimes Only)
-    lite_bite_description: >-
-      Choose from;
+  - lite_bite_name: LION HOUSE-MADE FLATBREADS
+    lite_bite_description: |
+      GENEROUSLY LAYERED WITH SALAD TO COMPLIMENT YOUR CHOICE OF TOPPING.
 
+      Fig and Prosciutto Flatbread with Gorgonzola
+      served with a thyme infused honey & sherry vinaigrette 
+       
+      Chicken Caesar Flatbread with Anchovies & Bacon
+      served with a Caesar dressing
+       
+      Tex Mex Flatbread with Spicy Ground Beef & Coriander
+      served with a sour cream dressing
 
-      EGGS BENEDICT
-
-      Poached eggs on brioche with sliced tomato, spinach &  hollandaise |
-
-
-      EGGS ROMA
-
-      Poached eggs on ciabatta, pesto, sliced tomato, prosciutto, parmesan |
-
-
-      EGGS HEMMINGWAY
-
-      Poached eggs on brioche, smoked salmon, spinach, hollandaise, chopped chives |
-
-
-      HUEVOS BENEDICTUS
-
-      Eggs on brioche, smashed avocado, chorizo, salsa, chilli hollandaise & coriander     .  
+      Greek Salad Flatbread with Torn Fresh Basil
+      with a balsamic & olive oil dressing
     lite_bite_price: 9.95
+    lite_bite_vegetarian: false

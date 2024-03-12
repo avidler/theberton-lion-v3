@@ -4,17 +4,17 @@ lite_bites:
     lite_bite_price: 7.5
     lite_bite_wheat_free: false
   - lite_bite_name: Sticky Ribs
-    lite_bite_description: A snack size rack of flavoursome pork ribs
+    lite_bite_description: A snack size rack of flavoursome pork ribs     (GF)
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
   - lite_bite_name: Caprese Salad
-    lite_bite_description: Mozzarella, tomato, olive oil & sweet basil with warm bread
+    lite_bite_description: Mozzarella, tomato, olive oil & sweet basil with warm bread     (GF), (V)
     lite_bite_price: 7.5
     lite_bite_vegetarian: false
     lite_bite_wheat_free: true
   - lite_bite_name: Sprouting Broccoli and Asparagus Tempura
-    lite_bite_description: With ponzu sauce
+    lite_bite_description: With ponzu sauce     (VEGAN)
     lite_bite_price: 7.5
     lite_bite_wheat_free: false
     lite_bite_vegetarian: true

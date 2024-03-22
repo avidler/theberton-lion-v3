@@ -1,22 +1,22 @@
 beers:
-  - beer_image: /images/peiskos-porter.jpeg
-    beer_name: Peiskos Porter
-    beer_brewery: Bruha
+  - beer_image: /images/professor.jpg
+    beer_name: Professor
+    beer_brewery: Elmtree Brewery
+    beer_abv: 3.8
+    beer_price: 4.2
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/snetterton-scary-tree.jpg
+    beer_price: 4.2
+    beer_coming_soon: false
+    beer_name: Snetterton Scary Tree
+    beer_brewery: Elmtree
     beer_abv: 4.5
-    beer_price: 4.2
     beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/niksun-pale.jpeg
-    beer_price: 4.2
-    beer_coming_soon: false
-    beer_name: Niksun Pale
-    beer_brewery: Bruha
-    beer_abv: 4
-    beer_on_now: true
-  - beer_name: Cupshot Bitter
-    beer_brewery: Bruha
-    beer_abv: 3.4
-    beer_image: /images/cupshot-bitter.jpeg
+  - beer_name: Burston's Cuckoo
+    beer_brewery: Elmtree
+    beer_abv: 3.8
+    beer_image: /images/burston-s-cuckoo.jpeg
     beer_price: 4.2
     beer_on_now: true
     beer_coming_soon: false

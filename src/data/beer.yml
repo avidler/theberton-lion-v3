@@ -80,6 +80,6 @@ beers:
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
-    beer_price: 3.8
+    beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true

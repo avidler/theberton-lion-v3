@@ -69,13 +69,13 @@ beers:
     beer_abv: 5.5
     beer_coming_soon: false
     beer_on_now: false
-  - beer_image: /images/nightingale.jpg
-    beer_name: Nightingale
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 4.1
+  - beer_image: /images/cowella.jpeg
+    beer_name: Cowella
+    beer_brewery: Ampersand
+    beer_abv: 4.8
+    beer_price: 4.2
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/victoria-bitter.jpg
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham

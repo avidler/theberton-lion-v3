@@ -10,7 +10,7 @@ event:
   - event_date: January 19, 2024 5:00 PM
     event_title: Theberton Lion Winter Beer Festival
     event_image: /images/winter-beer-festival-2024.jpg
-  - event_date: April 20, 2024 9:00 PM
+  - event_date: May 18, 2024 9:00 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-live.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
@@ -24,18 +24,17 @@ event:
     event_title: Eric Sedge Live @ The Lion
     event_image: /images/eric-sedge.png
     event_notes: Live Music from Former Broadside Boy Eric Sedge
-  - event_date: April 25, 2024 8:30 PM
-    event_title: Beer Club & Tap Takeover - Brids Cross
-    event_image: /images/brids-cross-round.png
+  - event_date: May 16, 2024 8:30 PM
+    event_title: Beer Club & Tap Takeover - Mr Winters
+    event_image: /images/mr-winters-classic.jpeg
     event_notes: Join us for Beer Club at The Theberton Lion and be the first to try
       five Wharf Brewery beers for just £7.50 as the Coggeshall based brewer
       takes over the taps. All we ask in return is your feedback to help us
       shape our future beer lists!
-  - event_date: May 13, 2023 9:00 PM
+  - event_date: May 11, 2024 8:00 PM
     event_title: Big Eurovision Party
     event_image: /images/big-eurovision-party.png
-    event_notes: What better way to recover from the festivities than a Fry Up? Join
-      us for a Full English.
+    event_notes: An evening of Eurovision themed fun and games
   - event_date: November 30, 2023 8:00 PM
     event_title: St. Andrews Day Whisky Tasting
     event_image: /images/st-andrews-day-smaller.png
@@ -45,3 +44,7 @@ event:
   - event_date: December 31, 2023 7:00 PM
     event_title: New Year's Eve Cocktails & Karaoke
     event_image: /images/new-years-2023.jpg
+  - event_date: May 24, 2024 9:00 PM
+    event_title: Quiz Night
+    event_notes: Join us for a fun evening of questions
+    event_image: /images/quiz.png

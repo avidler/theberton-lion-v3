@@ -44,7 +44,7 @@ event:
   - event_date: December 31, 2023 7:00 PM
     event_title: New Year's Eve Cocktails & Karaoke
     event_image: /images/new-years-2023.jpg
-  - event_date: May 24, 2024 9:00 PM
+  - event_date: May 25, 2024 9:00 PM
     event_title: Quiz Night
     event_notes: Join us for a fun evening of questions
     event_image: /images/quiz.png

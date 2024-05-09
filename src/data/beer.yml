@@ -13,12 +13,12 @@ beers:
     beer_price: 4.3
     beer_on_now: false
     beer_coming_soon: true
-  - beer_image: /images/black-shuck.jpeg
-    beer_name: Black Shuck
-    beer_brewery: Brids Cross
-    beer_price: 4.2
-    beer_abv: 4.4
-    beer_coming_soon: false
+  - beer_image: /images/bloom.jpeg
+    beer_name: Bloom
+    beer_brewery: Lacons
+    beer_price: 4.3
+    beer_abv: 4
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys

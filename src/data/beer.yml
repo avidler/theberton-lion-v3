@@ -83,3 +83,9 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
+  - beer_image: /images/first-light.jpeg
+    beer_name: First Light
+    beer_brewery: Lacons
+    beer_price: 4.3
+    beer_coming_soon: true
+    beer_abv: 4.5

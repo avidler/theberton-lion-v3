@@ -36,17 +36,17 @@ beers:
     beer_coming_soon: false
   - beer_image: /images/mrwinters-vanillalatte2.png
     beer_price: 4.2
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_name: Vanilla Latte Milk Stout
     beer_brewery: Mr Winters
     beer_abv: 4.5
     beer_on_now: false
-  - beer_image: /images/little-sharpie.jpg
+  - beer_image: /images/metropolis.png
     beer_on_now: true
-    beer_name: Little Sharpie
-    beer_brewery: Humpty Dumpty
-    beer_abv: 3.8
-    beer_price: 4.2
+    beer_name: Metropolis
+    beer_brewery: Colchester Brewery
+    beer_abv: 3.9
+    beer_price: 4.3
     beer_coming_soon: false
   - beer_image: /images/swingbridge-stout.jpg
     beer_name: Swingbridge Stout
@@ -56,18 +56,18 @@ beers:
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/farrier.jpg
-    beer_name: The Farrier
-    beer_brewery: Humpty Dumpty
+    beer_name: Vanilla Latte Stout
+    beer_brewery: Mr Winters
     beer_abv: 4.5
-    beer_price: 4.2
-    beer_coming_soon: false
-    beer_on_now: true
+    beer_price: 4.3
+    beer_coming_soon: true
+    beer_on_now: false
   - beer_image: /images/twin-parallel.jpeg
     beer_name: "Twin Parallel "
     beer_brewery: Mr Winters
     beer_price: 4.3
     beer_abv: 3.8
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/mrwinters-tranquillity.jpg
     beer_name: Tranquility

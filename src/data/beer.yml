@@ -89,3 +89,9 @@ beers:
     beer_price: 4.3
     beer_coming_soon: true
     beer_abv: 4.5
+  - beer_image: /images/img_4538.png
+    beer_name: All Day Long
+    beer_brewery: All Day Brewing
+    beer_abv: 3.4
+    beer_price: 4.3
+    beer_coming_soon: true

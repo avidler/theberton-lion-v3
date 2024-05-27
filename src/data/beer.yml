@@ -87,8 +87,9 @@ beers:
     beer_name: First Light
     beer_brewery: Lacons
     beer_price: 4.3
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_abv: 4.5
+    beer_on_now: true
   - beer_image: /images/img_4538.png
     beer_name: All Day Long
     beer_brewery: All Day Brewing

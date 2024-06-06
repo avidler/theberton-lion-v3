@@ -62,13 +62,13 @@ beers:
     beer_price: 4.3
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/twin-parallel.jpeg
-    beer_name: "Twin Parallel "
-    beer_brewery: Mr Winters
+  - beer_image: /images/mash-up.jpeg
+    beer_name: Mash Up
+    beer_brewery: Moon Gazer
     beer_price: 4.3
-    beer_abv: 3.8
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_abv: 4.4
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/mrwinters-tranquillity.jpg
     beer_name: Tranquility
     beer_brewery: Mr Winters
@@ -83,17 +83,17 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/first-light.jpeg
-    beer_name: First Light
-    beer_brewery: Lacons
+  - beer_image: /images/oaks.jpg
+    beer_name: Oaks
+    beer_brewery: Barsham
     beer_price: 4.3
     beer_coming_soon: false
-    beer_abv: 4.5
+    beer_abv: 0.6
     beer_on_now: true
-  - beer_image: /images/img_4538.png
-    beer_name: All Day Long
-    beer_brewery: All Day Brewing
-    beer_abv: 3.4
+  - beer_image: /images/norfolk-topper.jpeg
+    beer_name: Norfolk Topper
+    beer_brewery: Barsham
+    beer_abv: 3.8
     beer_price: 4.3
     beer_coming_soon: false
     beer_on_now: true

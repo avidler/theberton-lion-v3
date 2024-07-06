@@ -1,39 +1,39 @@
 beers:
-  - beer_image: /images/mr-winters-classic.jpeg
-    beer_name: Berry Nice Mild
-    beer_brewery: Mr Winters
+  - beer_image: /images/devil-in-the-fireplace.jpg
+    beer_name: Devil In The Fireplace
+    beer_brewery: Brids Cross
     beer_abv: 4.3
     beer_price: 4.3
-    beer_on_now: false
+    beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Peach Tea Pale
-    beer_brewery: Mr Winters
-    beer_abv: 4
-    beer_image: /images/peach-tea.jpeg
+  - beer_name: Blackwood
+    beer_brewery: Grain
+    beer_abv: 4.5
+    beer_image: /images/grain-blackwood-cask-clip-pantone-407c-v0.2-with-colour-bg.jpg
     beer_price: 4.3
-    beer_on_now: false
+    beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/bloom.jpeg
-    beer_name: Bloom
-    beer_brewery: Lacons
+  - beer_image: /images/golden-best.jpg
+    beer_name: Golden Best
+    beer_brewery: Green Jack
     beer_price: 4.3
-    beer_abv: 4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_abv: 3.8
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4.6
     beer_price: 4.3
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_name: Albion Mild
     beer_brewery: Green Jack
     beer_abv: 3.8
     beer_image: /images/albion-mild.jpeg
     beer_price: 4.3
     beer_on_now: false
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/metropolis.png
     beer_on_now: false
     beer_name: Metropolis
@@ -68,7 +68,7 @@ beers:
     beer_price: 4.3
     beer_abv: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/mrwinters-tranquillity.jpg
     beer_name: Tranquility
     beer_brewery: Mr Winters
@@ -89,11 +89,11 @@ beers:
     beer_price: 4.3
     beer_coming_soon: false
     beer_abv: 0.6
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/norfolk-topper.jpeg
     beer_name: Norfolk Topper
     beer_brewery: Barsham
     beer_abv: 3.8
     beer_price: 4.3
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false

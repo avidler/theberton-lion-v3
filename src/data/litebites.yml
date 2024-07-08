@@ -1,36 +1,32 @@
 lite_bites:
-  - lite_bite_name: Pork & Chive Dumplings
-    lite_bite_description: With a Sour Cream and Dill Dip
-    lite_bite_price: 7.5
+  - lite_bite_name: Duck, Chicken & Sour Cherry Terrine
+    lite_bite_description: With pistachios, pink pickled onions, sourdough,
+      cornichons and Dijon mustard     (GF OPTION AVAILABLE)
+    lite_bite_price: 8.5
+  - lite_bite_name: Bubble & Squeak Bites
+    lite_bite_description: With house-made brown sauce    (VEGAN)
+    lite_bite_price: 7.95
     lite_bite_wheat_free: false
-  - lite_bite_name: Sticky Ribs
-    lite_bite_description: A snack size rack of flavoursome pork ribs     (GF)
-    lite_bite_price: 7.5
+  - lite_bite_name: Dirty Martini Prawn Cocktail
+    lite_bite_description: Served with brown bread and butter     (GF OPTION AVAILABLE)
+    lite_bite_price: 7.95
     lite_bite_vegetarian: false
-    lite_bite_wheat_free: true
-  - lite_bite_name: Caprese Salad
-    lite_bite_description: Mozzarella, tomato, olive oil & sweet basil with warm bread     (GF), (V)
-    lite_bite_price: 7.5
-    lite_bite_vegetarian: false
-    lite_bite_wheat_free: true
-  - lite_bite_name: Sprouting Broccoli and Asparagus Tempura
-    lite_bite_description: With ponzu sauce     (VEGAN)
-    lite_bite_price: 7.5
     lite_bite_wheat_free: false
-    lite_bite_vegetarian: true
+  - lite_bite_name: Minted Melon & Mozzarella Salad
+    lite_bite_description: With honey and mustard dressing     (GF)
+    lite_bite_price: 7.95
+    lite_bite_vegetarian: false
+    lite_bite_wheat_free: false
   - lite_bite_name: LION HOUSE-MADE FLATBREADS
     lite_bite_description: |
       GENEROUSLY LAYERED WITH SALAD TO COMPLIMENT YOUR CHOICE OF TOPPING.
 
-      Fig and Prosciutto Flatbread with Gorgonzola
-      served with a thyme infused honey & sherry vinaigrette 
+      Ploughman's Flatbread with Cheddar & Blue Cheese
+      served with balsamic pickled onions & honey and mustard dressing
        
       Chicken Caesar Flatbread with Anchovies & Bacon
       served with a Caesar dressing
        
-      Tex Mex Flatbread with Spicy Ground Beef & Coriander
-      served with a sour cream dressing
-
       Greek Salad Flatbread with Torn Fresh Basil
       with a balsamic & olive oil dressing
     lite_bite_price: 9.95

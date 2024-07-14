@@ -1,23 +1,23 @@
 beers:
-  - beer_image: /images/devil-in-the-fireplace.jpg
-    beer_name: Devil In The Fireplace
-    beer_brewery: Brids Cross
-    beer_abv: 4.3
+  - beer_image: /images/pale-ale.png
+    beer_name: Pale Ale
+    beer_brewery: Mauldons
+    beer_abv: 3.6
     beer_price: 4.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Blackwood
-    beer_brewery: Grain
+  - beer_name: Mid-Summer Gold
+    beer_brewery: Mauldons
+    beer_abv: 4
+    beer_image: /images/midsummer-gold.jpg
+    beer_price: 4.3
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/augustinian.jpeg
+    beer_name: Augustinian
+    beer_brewery: Nethergate
+    beer_price: 4.3
     beer_abv: 4.5
-    beer_image: /images/grain-blackwood-cask-clip-pantone-407c-v0.2-with-colour-bg.jpg
-    beer_price: 4.3
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/golden-best.jpg
-    beer_name: Golden Best
-    beer_brewery: Green Jack
-    beer_price: 4.3
-    beer_abv: 3.8
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/trawlerboys.png

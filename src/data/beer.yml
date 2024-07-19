@@ -13,11 +13,11 @@ beers:
     beer_price: 4.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/augustinian.jpeg
-    beer_name: Augustinian
-    beer_brewery: Nethergate
+  - beer_image: /images/cure.jpg
+    beer_name: Shortts Farm
+    beer_brewery: The Cure
     beer_price: 4.3
-    beer_abv: 4.5
+    beer_abv: 3.6
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/trawlerboys.png

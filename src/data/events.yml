@@ -3,16 +3,20 @@ event:
     event_title: 3rd Annual St. George's Day Pie Festival
     event_image: /images/st-georges-day-2024.jpg.png
     event_notes: It's our annual Pie Festival in celebration of St George.
-  - event_date: August 11, 2023 5:00 PM
-    event_title: The 7th Annual Theberton Lion Summer Beer & Cider Festival
-    event_image: /images/7th-beer-fest-logo.png
+  - event_date: August 9, 2024 6:00 PM
+    event_title: The 8th Annual Theberton Lion Summer Beer & Cider Festival
+    event_image: /images/8th-beer-festival-logo.png
     event_notes: Join us for our fabulous annual festival of ale & cider
+  - event_date: August 10, 2024 2:30 PM
+    event_title: Peter Hepworth Live @ The Lion
+    event_image: /images/peterhepworth.jpg
+    event_notes: Live Music from Peter Hepworth
   - event_date: January 19, 2024 5:00 PM
     event_title: Theberton Lion Winter Beer Festival
     event_image: /images/winter-beer-festival-2024.jpg
-  - event_date: May 18, 2024 9:00 PM
+  - event_date: August 17, 2024 10:00 PM
     event_title: Rock and Roll Bingo
-    event_image: /images/rock-and-roll-bingo-live.jpg
+    event_image: /images/rock-and-roll-bingo-logo.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
       Rock and Roll Bingo, but we like it.
   - event_date: April 21, 2024 2:00 PM
@@ -20,13 +24,9 @@ event:
     event_notes: Joel Fisk returns to The Lion for an afternoon of original songs
       and classic covers in The Lion garden.
     event_image: /images/joel-fisk.png
-  - event_date: August 20, 2023 1:30 PM
-    event_title: Eric Sedge Live @ The Lion
-    event_image: /images/eric-sedge.png
-    event_notes: Live Music from Former Broadside Boy Eric Sedge
-  - event_date: May 16, 2024 8:30 PM
-    event_title: Beer Club & Tap Takeover - Mr Winters
-    event_image: /images/mr-winters-classic.jpeg
+  - event_date: August 29, 2024 9:30 PM
+    event_title: Beer Club & Tap Takeover - Woodfordes
+    event_image: /images/woodfordes-beer-club.jpg
     event_notes: Join us for Beer Club at The Theberton Lion and be the first to try
       five Wharf Brewery beers for just £7.50 as the Coggeshall based brewer
       takes over the taps. All we ask in return is your feedback to help us

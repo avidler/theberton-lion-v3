@@ -11,7 +11,7 @@ beers:
     beer_brewery: Tindalls
     beer_abv: 3.7
     beer_price: 4.3
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_name: Wild Fox
     beer_brewery: Nethergate

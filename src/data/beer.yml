@@ -13,12 +13,12 @@ beers:
     beer_price: 4.3
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Golden Jackal
-    beer_brewery: Wolf
-    beer_abv: 3.7
-    beer_image: /images/golden-jackal.jpg
+  - beer_name: Wild Fox
+    beer_brewery: Nethergate
+    beer_abv: 4.3
+    beer_image: /images/wild-fox.jpeg
     beer_price: 4.3
-    beer_on_now: false
+    beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/galaxy-dream.jpeg
     beer_name: Galaxy Dream

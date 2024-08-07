@@ -139,3 +139,9 @@ beers:
     beer_abv: 3.9
     beer_price: 4.4
     beer_coming_soon: true
+  - beer_image: /images/eastern-gold.jpeg
+    beer_name: Eastern Gold
+    beer_brewery: Barsham
+    beer_abv: 4.5
+    beer_price: 4.4
+    beer_coming_soon: true

@@ -18,7 +18,7 @@ beers:
     beer_abv: 3.7
     beer_image: /images/golden-jackal.jpg
     beer_price: 4.3
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/galaxy-dream.jpeg
     beer_name: Galaxy Dream
@@ -67,8 +67,8 @@ beers:
     beer_brewery: Mighty Oak
     beer_abv: 4.2
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/bruha.jpeg
     beer_name: Ludic Best Bitter
     beer_brewery: Bruha
@@ -109,10 +109,10 @@ beers:
     beer_abv: 3.8
     beer_price: 4.4
     beer_coming_soon: true
-  - beer_image: /images/endless-summer.jpeg
-    beer_name: Endless Summer
+  - beer_image: /images/helter-skelter-png.png
+    beer_name: Helter Skelter
     beer_brewery: Oakham
-    beer_abv: 3.4
+    beer_abv: 5
     beer_price: 4.4
     beer_coming_soon: true
   - beer_image: /images/summer-dream.jpeg
@@ -131,5 +131,11 @@ beers:
     beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4.6
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/mauldons-logo.png
+    beer_name: Swift
+    beer_brewery: Mauldons
+    beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: true

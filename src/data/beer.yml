@@ -42,12 +42,12 @@ beers:
     beer_on_now: false
     beer_coming_soon: true
   - beer_image: /images/augustinian.jpeg
-    beer_on_now: false
+    beer_on_now: true
     beer_name: Augustinian
     beer_brewery: Nethergate
     beer_abv: 4.5
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/little-red-riding-hood.jpeg
     beer_price: 4.4
     beer_coming_soon: true
@@ -87,16 +87,16 @@ beers:
     beer_name: Saxon Strong
     beer_brewery: Mighty Oak
     beer_price: 4.8
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_abv: 6.5
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/stotart.jpeg
     beer_name: Stotart
     beer_brewery: Moon Gazer
     beer_abv: 4.5
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/harmonic-png.png
     beer_name: Harmonic
     beer_brewery: Oakham & Salopian
@@ -120,19 +120,22 @@ beers:
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/nightingale.jpg
     beer_name: Nightingale
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4.6
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/mauldons-logo.png
     beer_name: Swift
     beer_brewery: Mauldons

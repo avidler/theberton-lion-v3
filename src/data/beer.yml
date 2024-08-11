@@ -18,7 +18,7 @@ beers:
     beer_abv: 4.3
     beer_image: /images/wild-fox.jpeg
     beer_price: 4.3
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/galaxy-dream.jpeg
     beer_name: Galaxy Dream
@@ -50,11 +50,11 @@ beers:
     beer_coming_soon: false
   - beer_image: /images/little-red-riding-hood.jpeg
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_name: Little Red Riding Hood
     beer_brewery: Wolf
     beer_abv: 4.6
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/lavender-honey.jpeg
     beer_name: Lavender Honey
     beer_brewery: Wolf
@@ -68,21 +68,21 @@ beers:
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/bruha.jpeg
     beer_name: Ludic Best Bitter
     beer_brewery: Bruha
     beer_price: 4.4
     beer_abv: 4.2
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/mrwinters-tranquillity.jpg
     beer_name: Tranquility
     beer_brewery: Mr Winters
     beer_abv: 4.2
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/saxon-strong.jpeg
     beer_name: Saxon Strong
     beer_brewery: Mighty Oak
@@ -102,7 +102,8 @@ beers:
     beer_brewery: Oakham & Salopian
     beer_abv: 4.4
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/jhb.jpg
     beer_name: JHB
     beer_brewery: Oakham

@@ -6,13 +6,13 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/tindall-s-best-bitter.jpg
-    beer_name: Best Bitter
-    beer_brewery: Tindalls
-    beer_abv: 3.7
-    beer_price: 4.3
+  - beer_image: /images/scruffy-mild.png
+    beer_name: Scruffy Mild
+    beer_brewery: Wharf
+    beer_abv: 3.9
+    beer_price: 4.4
     beer_on_now: false
-    beer_coming_soon: false
+    beer_coming_soon: true
   - beer_name: Wild Fox
     beer_brewery: Nethergate
     beer_abv: 4.3

@@ -32,8 +32,8 @@ beers:
     beer_brewery: Summer Loving
     beer_abv: 4
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_name: Signal Box Bitter
     beer_brewery: Humpty Dumpty
     beer_abv: 4
@@ -42,7 +42,7 @@ beers:
     beer_on_now: false
     beer_coming_soon: true
   - beer_image: /images/augustinian.jpeg
-    beer_on_now: true
+    beer_on_now: false
     beer_name: Augustinian
     beer_brewery: Nethergate
     beer_abv: 4.5
@@ -75,7 +75,7 @@ beers:
     beer_price: 4.4
     beer_abv: 4.2
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/mrwinters-tranquillity.jpg
     beer_name: Tranquility
     beer_brewery: Mr Winters
@@ -103,7 +103,7 @@ beers:
     beer_abv: 4.4
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/jhb.jpg
     beer_name: JHB
     beer_brewery: Oakham
@@ -122,14 +122,14 @@ beers:
     beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/nightingale.jpg
     beer_name: Nightingale
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack

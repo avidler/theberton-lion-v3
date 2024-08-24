@@ -33,14 +33,14 @@ beers:
     beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_name: Signal Box Bitter
     beer_brewery: Humpty Dumpty
     beer_abv: 4
     beer_image: /images/humpty-dumpty.jpg
     beer_price: 4.4
     beer_on_now: false
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/augustinian.jpeg
     beer_on_now: false
     beer_name: Augustinian
@@ -54,14 +54,14 @@ beers:
     beer_name: Little Red Riding Hood
     beer_brewery: Wolf
     beer_abv: 4.6
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/lavender-honey.jpeg
     beer_name: Lavender Honey
     beer_brewery: Wolf
     beer_abv: 4.1
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/gorgeous-george.jpg
     beer_name: Gorgeous George
     beer_brewery: Mighty Oak
@@ -96,7 +96,7 @@ beers:
     beer_abv: 4.5
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/harmonic-png.png
     beer_name: Harmonic
     beer_brewery: Oakham & Salopian
@@ -110,13 +110,14 @@ beers:
     beer_abv: 3.8
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/helter-skelter-png.png
     beer_name: Helter Skelter
     beer_brewery: Oakham
     beer_abv: 5
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/summer-dream.jpeg
     beer_name: Summer Dream
     beer_brewery: Green Jack
@@ -143,11 +144,12 @@ beers:
     beer_brewery: Mauldons
     beer_abv: 3.9
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/eastern-gold.jpeg
     beer_name: Eastern Gold
     beer_brewery: Barsham
     beer_abv: 4.5
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false

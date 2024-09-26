@@ -6,27 +6,27 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/scruffy-mild.png
-    beer_name: Scruffy Mild
-    beer_brewery: Wharf
-    beer_abv: 3.9
+  - beer_image: /images/sundown.jpeg
+    beer_name: Sundown
+    beer_brewery: Lacons
+    beer_abv: 5
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Wild Fox
+  - beer_name: Harvest Stout
     beer_brewery: Nethergate
-    beer_abv: 4.3
-    beer_image: /images/wild-fox.jpeg
-    beer_price: 4.3
-    beer_on_now: false
-    beer_coming_soon: false
-  - beer_image: /images/galaxy-dream.jpeg
-    beer_name: Galaxy Dream
-    beer_brewery: Tindall Ales
-    beer_price: 4.4
     beer_abv: 4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_image: /images/harvest-stout.jpg
+    beer_price: 4.4
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/mightyoak-deerstalker2024.jpg
+    beer_name: Deerstalker
+    beer_brewery: Mighty Oak
+    beer_price: 4.4
+    beer_abv: 4.2
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/tindalls.png
     beer_name: Tindall Ales
     beer_brewery: Summer Loving
@@ -68,7 +68,7 @@ beers:
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/bruha.jpeg
     beer_name: Ludic Best Bitter
     beer_brewery: Bruha

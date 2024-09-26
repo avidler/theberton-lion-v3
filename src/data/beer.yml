@@ -61,7 +61,7 @@ beers:
     beer_abv: 4.1
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/gorgeous-george.jpg
     beer_name: Gorgeous George
     beer_brewery: Mighty Oak
@@ -82,14 +82,14 @@ beers:
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/saxon-strong.jpeg
     beer_name: Saxon Strong
     beer_brewery: Mighty Oak
     beer_price: 4.8
     beer_coming_soon: false
     beer_abv: 6.5
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/stotart.jpeg
     beer_name: Stotart
     beer_brewery: Moon Gazer
@@ -117,7 +117,7 @@ beers:
     beer_abv: 5
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/summer-dream.jpeg
     beer_name: Summer Dream
     beer_brewery: Green Jack
@@ -138,14 +138,14 @@ beers:
     beer_abv: 4.6
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/mauldons-logo.png
     beer_name: Swift
     beer_brewery: Mauldons
     beer_abv: 3.9
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/eastern-gold.jpeg
     beer_name: Eastern Gold
     beer_brewery: Barsham

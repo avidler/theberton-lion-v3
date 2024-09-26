@@ -1,24 +1,22 @@
 desserts:
-  - dessert_name: Red Velvet Bread Pudding
-    dessert_description: With vanilla ice cream     (GF) (V)
+  - dessert_name: Chocolate Crunch Pudding
+    dessert_description: With vanilla ice cream     (V)
     dessert_price: 7.95
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Chocolate & Pear Baked Amaretti Pudding
-    dessert_description: Served with house-made Amaretti crumb and pouring cream     (V)
+  - dessert_name: Cookie Dough Cheesecake
+    dessert_description: Served with vanilla ice cream (V)
     dessert_price: 7.95
     dessert_wheat_free: false
     dessert_vegetarian: true
-  - dessert_name: Landlady's Lemon Tart
-    dessert_description: Served with dried hibiscus flowers, fresh raspberries and
-      clotted cream ice cream     (V)
+  - dessert_name: Toffee Apple Pudding
+    dessert_description: With vanilla ice cream (GF) (V)
     dessert_price: 7.95
     dessert_vegetarian: true
-    dessert_wheat_free: false
+    dessert_wheat_free: true
   - dessert_name: Neapolitan Ice Cream Sundae
     dessert_description: Strawberry, chocolate and vanilla ice cream with whipped
-      cream, macerated strawberries, mini marshmallows and chocolate
-      sauce     (V)
+      cream, forest fruits, mini marshmallows and chocolate sauce
     dessert_wheat_free: false
     dessert_vegetarian: true
     dessert_price: 7.95

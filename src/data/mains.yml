@@ -1,54 +1,51 @@
 mains:
-  - main_course_name: Summer Lamb Cutlets with Fennel & Baked Nectarine
-    main_course_description: Served with Mediterranean vegetables and mini rosemary rosti     (GF)
+  - main_course_name: Zambezi Whole Baked Seabream
+    main_course_description: Stuffed with onions, peppers and tomatoes and coated in
+      fish masala this African dish is served with basmati rice and kachumbari
+      salad (GF)
     main_course_price: 17.95
-    main_course_wheat_free: true
-  - main_course_name: Duck Fesenjan with Persian Rice
-    main_course_description: A Persian stew blending savoury duck flavours with
-      pomegranate molasses and walnuts     (GF)
-    main_course_price: 17.95
-    main_course_wheat_free: true
-    main_course_vegetarian: false
-  - main_course_name: Harissa Prawns with Baked Orzo
-    main_course_description: Served with house-made garlic bread
+    main_course_wheat_free: false
+  - main_course_name: Apple & Red Currant Pork Steak with Mustard Mash
+    main_course_description: Served with seasonal vegetables (GF)
     main_course_price: 16.95
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: Garlic Lemon Swordfish with Zesty Couscous
-    main_course_description: Served with fine green beans
-    main_course_price: 17.95
-  - main_course_name: Mediterranean Vegetable Pie
-    main_course_description: Served with house-made sweet potato croquettes, charred
-      cabbage & a herby tahini sauce     (VEGAN)
-    main_course_price: 16.95
-    main_course_wheat_free: false
-  - main_course_name: Goats Cheese & Thyme Stuffed Chicken Breast
-    main_course_description: Served with house-made garlic potato wedges, carrots & green beans     (GF)
+  - main_course_name: Chinese Braised Beef with Ginger
+    main_course_description: Served with parsley mash and Chinese cabbage
     main_course_price: 16.95
     main_course_wheat_free: false
     main_course_vegetarian: false
+  - main_course_name: Venison Ragu with Tagliatelle
+    main_course_description: Topped with parmesan flakes
+    main_course_price: 16.95
+  - main_course_name: Chef's Chicken Caesar Burger
+    main_course_description: |-
+      Chicken breast with crispy maple bacon, Caesar sauce and
+      anchovy butter. Served with coleslaw, onion rings & chips (GF)
+    main_course_price: 15.95
+    main_course_wheat_free: false
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: A hearty house-made pie served with your choice of
       chips or mash with seasonal vegetables and gravy
-    main_course_price: 16.95
+    main_course_price: 17.95
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: Slow Cooked Pulled Pork Southern Mac & Cheese
-    main_course_description: With house-made sweetcorn fritter     (GF)
-    main_course_price: 14.95
+  - main_course_name: Beer Battered Haddock with Truffle Oil Hand Cut Chips
+    main_course_description: Served with mint pea puree and red tartare sauce (GF)
+    main_course_price: 15.95
+    main_course_wheat_free: false
+    main_course_vegetarian: false
+  - main_course_name: Chef's Halloumi Burger
+    main_course_description: >
+      With red onion, fried mushroom and chilli sauce.  Served with sweet potato
+      wedges. (GF)
+    main_course_price: 15.95
     main_course_vegetarian: false
     main_course_wheat_free: true
-  - main_course_name: House-made Gourmet Beef Burger
-    main_course_description: Topped with bacon and your choice of blue cheese or
-      Butlers Secret cheddar.  Served with Chef’s Mexican 'slaw, onion rings and
-      handcut chips.     (GF)
-    main_course_price: 14.95
-    main_course_wheat_free: true
-  - main_course_name: Wild Mushroom Burritos with Charred Salsa
-    main_course_description: Served with side salad and Mexican 'slaw     (GF), (V)
+  - main_course_name: Wild Mushroom and Chestnut Cottage Pie
+    main_course_description: Served with seasonal vegetables (GF)
     main_course_price: 15.95
-    main_course_wheat_free: true
-    main_course_vegetarian: true
+    main_course_wheat_free: false
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT!
     main_course_description: Join us on Tuesday evenings, March - October, for a
       selection of our House Curries. Served with rice and our House Naan Bread.

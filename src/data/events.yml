@@ -48,3 +48,6 @@ event:
     event_title: Quiz Night
     event_notes: Join us for a fun evening of questions
     event_image: /images/quiz.png
+  - event_date: November 28, 2024 5:00 PM
+    event_title: Thanksgiving Dinner
+    event_image: /images/thanks-giving-logo.png

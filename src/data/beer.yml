@@ -27,40 +27,40 @@ beers:
     beer_abv: 4.2
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/tindalls.png
-    beer_name: Tindall Ales
-    beer_brewery: Summer Loving
-    beer_abv: 4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_name: Signal Box Bitter
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4
-    beer_image: /images/humpty-dumpty.jpg
-    beer_price: 4.4
-    beer_on_now: false
-    beer_coming_soon: false
-  - beer_image: /images/augustinian.jpeg
-    beer_on_now: false
-    beer_name: Augustinian
+  - beer_image: /images/masterpiece.jpg
+    beer_name: Masterpiece
     beer_brewery: Nethergate
-    beer_abv: 4.5
+    beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/little-red-riding-hood.jpeg
+    beer_on_now: true
+  - beer_name: Piccadilly Pothole
+    beer_brewery: Grain
+    beer_abv: 4.2
+    beer_image: /images/piccadily-pothole.jpg
     beer_price: 4.4
+    beer_on_now: true
     beer_coming_soon: false
-    beer_name: Little Red Riding Hood
-    beer_brewery: Wolf
+  - beer_image: /images/seven-c-s.jpeg
+    beer_on_now: false
+    beer_name: Seven C's & Rye
+    beer_brewery: Humpty Dumpty
+    beer_abv: 3.2
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/cheltenham-flyer.png
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_name: Cheltenham Flyer
+    beer_brewery: Humpty Dumpty
     beer_abv: 4.6
     beer_on_now: false
-  - beer_image: /images/lavender-honey.jpeg
-    beer_name: Lavender Honey
-    beer_brewery: Wolf
+  - beer_image: /images/farrier.jpg
+    beer_name: Farrier
+    beer_brewery: Humpty Dumpty
     beer_abv: 4.1
     beer_price: 4.4
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false
   - beer_image: /images/gorgeous-george.jpg
     beer_name: Gorgeous George
@@ -68,7 +68,7 @@ beers:
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/bruha.jpeg
     beer_name: Ludic Best Bitter
     beer_brewery: Bruha

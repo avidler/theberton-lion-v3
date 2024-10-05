@@ -20,13 +20,6 @@ beers:
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/mightyoak-deerstalker2024.jpg
-    beer_name: Deerstalker
-    beer_brewery: Mighty Oak
-    beer_price: 4.4
-    beer_abv: 4.2
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/masterpiece.jpg
     beer_name: Masterpiece
     beer_brewery: Nethergate

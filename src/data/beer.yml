@@ -13,13 +13,6 @@ beers:
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_name: Harvest Stout
-    beer_brewery: Nethergate
-    beer_abv: 4
-    beer_image: /images/harvest-stout.jpg
-    beer_price: 4.4
-    beer_on_now: true
-    beer_coming_soon: false
   - beer_image: /images/masterpiece.jpg
     beer_name: Masterpiece
     beer_brewery: Nethergate

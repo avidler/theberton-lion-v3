@@ -6,24 +6,24 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/sundown.jpeg
-    beer_name: Sundown
-    beer_brewery: Lacons
-    beer_abv: 5
-    beer_price: 4.4
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/masterpiece.jpg
-    beer_name: Masterpiece
-    beer_brewery: Nethergate
-    beer_abv: 4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: Piccadilly Pothole
-    beer_brewery: Grain
+  - beer_image: /images/duration-best-bitter.jpg
+    beer_name: Best Bitter
+    beer_brewery: Duration
     beer_abv: 4.2
-    beer_image: /images/piccadily-pothole.jpg
+    beer_price: 4.4
+    beer_on_now: true
+    beer_coming_soon: false
+  - beer_image: /images/duration-ambition.jpeg
+    beer_name: Duration
+    beer_brewery: Ambition
+    beer_abv: 4.4
+    beer_price: 4.4
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_name: Mid Autumn Gold
+    beer_brewery: Mauldons
+    beer_abv: 4.2
+    beer_image: /images/mid-autumn-gold.jpg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
@@ -36,7 +36,7 @@ beers:
     beer_coming_soon: true
   - beer_image: /images/cheltenham-flyer.png
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_name: Cheltenham Flyer
     beer_brewery: Humpty Dumpty
     beer_abv: 4.6

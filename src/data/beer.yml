@@ -20,20 +20,20 @@ beers:
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Mid Autumn Gold
-    beer_brewery: Mauldons
-    beer_abv: 4.2
-    beer_image: /images/mid-autumn-gold.jpg
+  - beer_name: Phantom
+    beer_brewery: Howler
+    beer_abv: 4.3
+    beer_image: /images/howler-wolf.jpeg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/seven-c-s.jpeg
-    beer_on_now: false
+    beer_on_now: true
     beer_name: Seven C's & Rye
     beer_brewery: Humpty Dumpty
     beer_abv: 3.2
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
   - beer_image: /images/cheltenham-flyer.png
     beer_price: 4.4
     beer_coming_soon: false

@@ -6,41 +6,27 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/duration-best-bitter.jpg
-    beer_name: Best Bitter
-    beer_brewery: Duration
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/duration-ambition.jpeg
-    beer_name: Duration
-    beer_brewery: Ambition
-    beer_abv: 4.4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_name: Phantom
-    beer_brewery: Howler
+  - beer_name: Howler
+    beer_brewery: Wolf
     beer_abv: 4.3
     beer_image: /images/howler-wolf.jpeg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/seven-c-s.jpeg
+  - beer_image: /images/phantom.jpg
     beer_on_now: true
-    beer_name: Seven C's & Rye
-    beer_brewery: Humpty Dumpty
-    beer_abv: 3.2
+    beer_name: Phantom
+    beer_brewery: Lacons
+    beer_abv: 4.4
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/cheltenham-flyer.png
+  - beer_image: /images/mr-winters-classic.jpeg
     beer_price: 4.4
     beer_coming_soon: false
-    beer_name: Cheltenham Flyer
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.6
-    beer_on_now: false
+    beer_name: Extra Scary Bitter
+    beer_brewery: Mr Winters
+    beer_abv: 4.8
+    beer_on_now: true
   - beer_image: /images/farrier.jpg
     beer_name: Farrier
     beer_brewery: Humpty Dumpty
@@ -48,94 +34,10 @@ beers:
     beer_price: 4.4
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/gorgeous-george.jpg
-    beer_name: Gorgeous George
-    beer_brewery: Mighty Oak
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/bruha.jpeg
-    beer_name: Ludic Best Bitter
-    beer_brewery: Bruha
-    beer_price: 4.4
-    beer_abv: 4.2
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/mrwinters-tranquillity.jpg
-    beer_name: Tranquility
-    beer_brewery: Mr Winters
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/saxon-strong.jpeg
-    beer_name: Saxon Strong
-    beer_brewery: Mighty Oak
-    beer_price: 4.8
-    beer_coming_soon: false
-    beer_abv: 6.5
-    beer_on_now: false
-  - beer_image: /images/stotart.jpeg
-    beer_name: Stotart
-    beer_brewery: Moon Gazer
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/harmonic-png.png
-    beer_name: Harmonic
-    beer_brewery: Oakham & Salopian
+  - beer_image: /images/werewolf_165604-39984193.jpeg
+    beer_name: Werewolf
+    beer_brewery: Wolf
     beer_abv: 4.4
     beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/jhb.jpg
-    beer_name: JHB
-    beer_brewery: Oakham
-    beer_abv: 3.8
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/helter-skelter-png.png
-    beer_name: Helter Skelter
-    beer_brewery: Oakham
-    beer_abv: 5
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/summer-dream.jpeg
-    beer_name: Summer Dream
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/nightingale.jpg
-    beer_name: Nightingale
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.6
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/mauldons-logo.png
-    beer_name: Swift
-    beer_brewery: Mauldons
-    beer_abv: 3.9
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/eastern-gold.jpeg
-    beer_name: Eastern Gold
-    beer_brewery: Barsham
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: false
+    beer_coming_soon: true
     beer_on_now: false

@@ -52,10 +52,10 @@ beers:
     beer_brewery: Brids Cross
     beer_coming_soon: true
     beer_price: 4.4
-    beer_abv: 4
+    beer_abv: 4.6
   - beer_image: /images/brids-cross-round.png
     beer_name: Grey Wiolf
     beer_brewery: Brids Cross
     beer_price: 4.4
     beer_coming_soon: true
-    beer_abv: 4
+    beer_abv: 4.2

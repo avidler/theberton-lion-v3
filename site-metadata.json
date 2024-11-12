@@ -44,8 +44,8 @@
       "monday_evening_close": "CLOSED"
     },
     "tuesday": {
-      "tuesday_afternoon_open": "12:30pm",
-      "tuesday_afternoon_close": "2:30pm",
+      "tuesday_afternoon_open": "CLOSED",
+      "tuesday_afternoon_close": "CLOSED",
       "tuesday_evening_open": "5.00pm",
       "tuesday_evening_close": "Close"
     },

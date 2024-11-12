@@ -6,38 +6,56 @@ beers:
     beer_price: 3.9
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Howler
-    beer_brewery: Wolf
+  - beer_name: Complete Howler
+    beer_brewery: Nethergate
     beer_abv: 4.3
-    beer_image: /images/howler-wolf.jpeg
+    beer_image: /images/complete-howler.jpeg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/phantom.jpg
+  - beer_image: /images/old-growler.jpg
     beer_on_now: true
-    beer_name: Phantom
-    beer_brewery: Lacons
-    beer_abv: 4.4
+    beer_name: Old Growler
+    beer_brewery: Nethergate
+    beer_abv: 5
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/mr-winters-classic.jpeg
+  - beer_image: /images/golden-best.jpg
     beer_price: 4.4
     beer_coming_soon: false
-    beer_name: Extra Scary Bitter
-    beer_brewery: Mr Winters
-    beer_abv: 4.8
+    beer_name: Golden Best
+    beer_brewery: Green Jack
+    beer_abv: 3.8
     beer_on_now: true
-  - beer_image: /images/farrier.jpg
-    beer_name: Farrier
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.1
+  - beer_image: /images/pantherlogo.jpg
+    beer_name: Black Porter
+    beer_brewery: Panther
+    beer_abv: 4.5
     beer_price: 4.4
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/werewolf_165604-39984193.jpeg
-    beer_name: Werewolf
-    beer_brewery: Wolf
-    beer_abv: 4.4
+  - beer_image: /images/watts-and-co.jpg
+    beer_name: Cellophane Flowers
+    beer_brewery: Watts and Co,
+    beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: true
     beer_on_now: false
+  - beer_image: /images/watts-and-co.jpg
+    beer_name: September In The Rain
+    beer_brewery: Watts and Co.
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_abv: 4
+  - beer_image: /images/silchester-horse.jpg
+    beer_name: Silchester Horse
+    beer_brewery: Brids Cross
+    beer_coming_soon: true
+    beer_price: 4.4
+    beer_abv: 4
+  - beer_image: /images/brids-cross-round.png
+    beer_name: Grey Wiolf
+    beer_brewery: Brids Cross
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_abv: 4

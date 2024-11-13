@@ -3,7 +3,7 @@ beers:
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
-    beer_price: 3.9
+    beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
   - beer_name: Complete Howler
@@ -34,19 +34,19 @@ beers:
     beer_price: 4.4
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/watts-and-co.jpg
+  - beer_image: /images/cellophane-flowers.png
     beer_name: Cellophane Flowers
     beer_brewery: Watts and Co,
-    beer_abv: 4
+    beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/watts-and-co.jpg
+  - beer_image: /images/september-in-the-rain.png
     beer_name: September In The Rain
     beer_brewery: Watts and Co.
     beer_price: 4.4
     beer_coming_soon: true
-    beer_abv: 4
+    beer_abv: 4.1
   - beer_image: /images/silchester-horse.jpg
     beer_name: Silchester Horse
     beer_brewery: Brids Cross

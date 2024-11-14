@@ -11,7 +11,7 @@ beers:
     beer_abv: 4.3
     beer_image: /images/complete-howler.jpeg
     beer_price: 4.4
-    beer_on_now: true
+    beer_on_now: false
     beer_coming_soon: false
   - beer_image: /images/old-growler.jpg
     beer_on_now: true

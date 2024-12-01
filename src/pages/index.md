@@ -4,6 +4,9 @@ sections:
   - type: section_special_message
     title: Book for Christmas!
     body: "![](/images/christmas_menu_poster_2024.jpg)"
+  - type: section_special_message
+    title: Christmas Opening
+    body: "![](/images/christmas_opening_hours_2024.jpg)"
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion

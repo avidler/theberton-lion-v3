@@ -1,18 +1,18 @@
 lite_bites:
-  - lite_bite_name: Spicy Red Pepper Soup
-    lite_bite_description: With sourdough toast  (GF OPTION AVAILABLE) (V)
+  - lite_bite_name: Leek, Butterbean and Crispy Chorizo Soup
+    lite_bite_description: With sourdough toast  (V & GF OPTION AVAILABLE)
     lite_bite_price: 7.95
-  - lite_bite_name: Deep Fried Pheasant
-    lite_bite_description: With house-made plum sauce
+  - lite_bite_name: Pan Fried Pigeon Breast
+    lite_bite_description: With blackberry hedgerow salad (GF)
     lite_bite_price: 7.95
     lite_bite_wheat_free: false
-  - lite_bite_name: Beer Battered Garlic Mushrooms
-    lite_bite_description: Served with blue cheese sauce     (GF) (V)
+  - lite_bite_name: Smoked Salmon and Watercress Paté
+    lite_bite_description: Served with sourdough toast
     lite_bite_price: 7.95
     lite_bite_vegetarian: false
     lite_bite_wheat_free: false
-  - lite_bite_name: Beetroot & Walnut Terrine
-    lite_bite_description: With sourdough toast and red pepper relish (GF) (VEGAN)
+  - lite_bite_name: "Beetroot Carpaccio "
+    lite_bite_description: With rocket, goats cheese & walnut salad (GF) (V)
     lite_bite_price: 7.95
     lite_bite_vegetarian: false
     lite_bite_wheat_free: false

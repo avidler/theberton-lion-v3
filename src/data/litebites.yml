@@ -16,17 +16,3 @@ lite_bites:
     lite_bite_price: 7.95
     lite_bite_vegetarian: false
     lite_bite_wheat_free: false
-  - lite_bite_name: LION HOUSE-MADE FLATBREADS
-    lite_bite_description: |
-      GENEROUSLY LAYERED WITH SALAD TO COMPLIMENT YOUR CHOICE OF TOPPING.
-
-      Ploughman's Flatbread with Cheddar & Blue Cheese
-      served with balsamic pickled onions & honey and mustard dressing
-       
-      Chicken Caesar Flatbread with Anchovies & Bacon
-      served with a Caesar dressing
-       
-      Greek Salad Flatbread with Torn Fresh Basil
-      with a balsamic & olive oil dressing (V)
-    lite_bite_price: 9.95
-    lite_bite_vegetarian: false

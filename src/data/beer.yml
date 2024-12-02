@@ -20,12 +20,12 @@ beers:
     beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/golden-best.jpg
+  - beer_image: /images/lord-wimount.jpeg
     beer_price: 4.4
-    beer_coming_soon: false
-    beer_name: Golden Best
-    beer_brewery: Green Jack
-    beer_abv: 3.8
+    beer_coming_soon: true
+    beer_name: Lord Wimount
+    beer_brewery: Moon Gazer
+    beer_abv: 4.7
     beer_on_now: false
   - beer_image: /images/pantherlogo.jpg
     beer_name: Black Porter

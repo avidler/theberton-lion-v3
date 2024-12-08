@@ -11,10 +11,10 @@ event:
     event_title: Peter Hepworth Live @ The Lion
     event_image: /images/peterhepworth.jpg
     event_notes: Live Music from Peter Hepworth
-  - event_date: January 19, 2024 5:00 PM
+  - event_date: January 17, 2025 5:00 PM
     event_title: Theberton Lion Winter Beer Festival
-    event_image: /images/winter-beer-festival-2024.jpg
-  - event_date: November 16, 2024 9:00 PM
+    event_image: /images/winter-2025.png
+  - event_date: December 24, 2024 9:00 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-logo.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
@@ -41,7 +41,7 @@ event:
   - event_date: October 26, 2024 7:00 PM
     event_title: Halloween Cocktail Party with Costumes & Quiz
     event_image: /images/halloween.png
-  - event_date: December 31, 2023 7:00 PM
+  - event_date: December 31, 2024 5:00 PM
     event_title: New Year's Eve Cocktails & Karaoke
     event_image: /images/new-years-2023.jpg
   - event_date: May 25, 2024 9:00 PM

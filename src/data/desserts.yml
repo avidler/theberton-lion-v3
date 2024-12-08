@@ -1,22 +1,19 @@
 desserts:
-  - dessert_name: Chocolate Crunch Pudding
-    dessert_description: With vanilla ice cream     (V)
+  - dessert_name: Chef's Christmas Pudding
+    dessert_description: With brandy cream    (V)
     dessert_price: 7.95
     dessert_wheat_free: true
     dessert_vegetarian: true
-  - dessert_name: Cookie Dough Cheesecake
-    dessert_description: Served with vanilla ice cream (V)
+  - dessert_name: Caramel Apple & Stem Ginger Crumble
+    dessert_description: Served with custard (V), (GF)
     dessert_price: 7.95
     dessert_wheat_free: false
     dessert_vegetarian: true
-  - dessert_name: Toffee Apple Pudding
-    dessert_description: With vanilla ice cream (GF) (V)
+  - dessert_name: Landlady's Black Forest Trifle
+    dessert_description: A chocolate and cherry treat (V)
     dessert_price: 7.95
     dessert_vegetarian: true
     dessert_wheat_free: true
-  - dessert_name: Neapolitan Ice Cream Sundae
-    dessert_description: Strawberry, chocolate and vanilla ice cream with whipped
-      cream, forest fruits, mini marshmallows and chocolate sauce
-    dessert_wheat_free: false
-    dessert_vegetarian: true
+  - dessert_name: Lion Cheesboard
+    dessert_description: Three cheeses, crackers, chutney, apple & grapes
     dessert_price: 7.95

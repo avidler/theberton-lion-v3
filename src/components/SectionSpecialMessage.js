@@ -19,9 +19,8 @@ export default class SectionSpecialMessage extends React.Component {
            <img src="images/christmas_menu_poster_2024.jpg" alt="Logo" />
           </div>
           <br />
-          <div id="special-picture">
-           <img src="images/christmas_opening_hours_2024.png" alt="Logo" />
-          </div>
+         
+
   
             </div>
         </section>

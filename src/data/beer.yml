@@ -6,56 +6,38 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Racer
-    beer_brewery: Moongazer
-    beer_abv: 4
-    beer_image: /images/moon-gazer.webp
+  - beer_name: Santa Paws
+    beer_brewery: Wolf
+    beer_abv: 4.5
+    beer_image: /images/santa-paws.jpeg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/suffolk-county.jpg
+  - beer_image: /images/cure.jpg
     beer_on_now: true
-    beer_name: Suffolk County
-    beer_brewery: Nethergate
-    beer_abv: 4
+    beer_name: The Cure
+    beer_brewery: Shortts Farn
+    beer_abv: 3.6
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/lord-wimount.jpeg
+  - beer_image: /images/silver-adder.jpg
+    beer_price: 4.4
+    beer_coming_soon: false
+    beer_name: Silver Adder
+    beer_brewery: Mauldons
+    beer_abv: 4.2
+    beer_on_now: true
+  - beer_image: /images/scrooge-s-revenge.jpg
+    beer_name: Scrooge's Revenge
+    beer_brewery: Mauldons
+    beer_abv: 4.9
+    beer_price: 4.5
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/mr-winters-classic.jpeg
+    beer_name: Chocolate Orange Porter
+    beer_brewery: Mr Winters
+    beer_abv: 4.8
     beer_price: 4.4
     beer_coming_soon: true
-    beer_name: Lord Wimount
-    beer_brewery: Moon Gazer
-    beer_abv: 4.7
     beer_on_now: false
-  - beer_image: /images/pantherlogo.jpg
-    beer_name: Black Porter
-    beer_brewery: Panther
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/cellophane-flowers.png
-    beer_name: Cellophane Flowers
-    beer_brewery: Watts and Co,
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/september-in-the-rain.png
-    beer_name: September In The Rain
-    beer_brewery: Watts and Co.
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_abv: 4.1
-  - beer_image: /images/silchester-horse.jpg
-    beer_name: Silchester Horse
-    beer_brewery: Brids Cross
-    beer_coming_soon: false
-    beer_price: 4.4
-    beer_abv: 4.6
-  - beer_image: /images/brids-cross-round.png
-    beer_name: Grey Wiolf
-    beer_brewery: Brids Cross
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_abv: 4.2

@@ -1,25 +1,25 @@
 mains:
-  - main_course_name: "Turkey Ballotine "
-    main_course_description: With Seasonal Vegetables, Roast Potatoes & Yorkshire Pudding (GF OPTION)
-    main_course_price: 16.95
+  - main_course_name: "House-made Margherita Pizza "
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella & cheddar cheese
+    main_course_price: 9
     main_course_wheat_free: false
-  - main_course_name: Beef Wellington
-    main_course_description: With Garlic Mashed Potato & Honey Roasted Carrots
-    main_course_price: 16.95
-    main_course_wheat_free: false
-    main_course_vegetarian: false
-  - main_course_name: Chestnut Mushroom Bourguignon
-    main_course_description: With Mashed Potato and Seasonal Vegetables (GF), (VEGAN)
-    main_course_price: 16.95
+  - main_course_name: House-made Pepperoni  Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese & sliced pepperoni
+    main_course_price: 10
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: "Roast Rack of Lamb "
-    main_course_description: With Roast Potatoes & Seasonal Vegetables (GF)
-    main_course_price: 16.95
-  - main_course_name: Tuscan Salmon Fillet
-    main_course_description: Served with Crunchy Gnocchi and Green Vegetables (GF)
-    main_course_price: 15.95
+  - main_course_name: House-made Cajun Chicken Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, Cajun chicken and green peppers
+    main_course_price: 10
     main_course_wheat_free: false
+    main_course_vegetarian: false
+  - main_course_name: Free Choice Pizza
+    main_course_description: "Choose your pizza and add the following: Red Onion,
+      Mushrooms, Sweetcorn, Green Peppers.  £1 per extra topping "
+    main_course_price: 10
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT FROM FEBRUARY!
     main_course_description: >-
       Throughout December we offer our Festive Menu six days a week. Curry
@@ -33,3 +33,5 @@ mains:
     main_course_description: Join us for one selected Saturday a month for our Steak
       Specials. Please call us for more details and dates.
     main_course_price: 23.95
+  - main_course_name: New Menu Launching 17th January 2025
+    main_course_price: 16.95

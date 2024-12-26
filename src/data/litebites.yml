@@ -1,18 +1,8 @@
 lite_bites:
-  - lite_bite_name: Leek, Butterbean and Crispy Chorizo Soup
-    lite_bite_description: With sourdough toast  (V & GF OPTION AVAILABLE)
+  - lite_bite_name: Hand Cut House Chips
+    lite_bite_description: Add Cheese for 50p
+    lite_bite_price: 4
+  - lite_bite_name: NEW SPRING MENU LAUNCHING JAN 17th 2025
+    lite_bite_description: ""
     lite_bite_price: 7.95
-  - lite_bite_name: Pan Fried Pigeon Breast
-    lite_bite_description: With blackberry hedgerow salad (GF)
-    lite_bite_price: 7.95
-    lite_bite_wheat_free: false
-  - lite_bite_name: Smoked Salmon and Watercress Paté
-    lite_bite_description: Served with sourdough toast
-    lite_bite_price: 7.95
-    lite_bite_vegetarian: false
-    lite_bite_wheat_free: false
-  - lite_bite_name: "Beetroot Carpaccio "
-    lite_bite_description: With rocket, goats cheese & walnut salad (GF) (V)
-    lite_bite_price: 7.95
-    lite_bite_vegetarian: false
     lite_bite_wheat_free: false

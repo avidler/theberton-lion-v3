@@ -14,7 +14,7 @@ beers:
     beer_on_now: true
     beer_coming_soon: false
   - beer_image: /images/cure.jpg
-    beer_on_now: true
+    beer_on_now: false
     beer_name: The Cure
     beer_brewery: Shortts Farn
     beer_abv: 3.6
@@ -26,18 +26,18 @@ beers:
     beer_name: Silver Adder
     beer_brewery: Mauldons
     beer_abv: 4.2
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/scrooge-s-revenge.jpg
     beer_name: Scrooge's Revenge
     beer_brewery: Mauldons
     beer_abv: 4.9
     beer_price: 4.5
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/mr-winters-classic.jpeg
     beer_name: Chocolate Orange Porter
     beer_brewery: Mr Winters
     beer_abv: 4.8
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true

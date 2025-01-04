@@ -6,10 +6,10 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Santa Paws
-    beer_brewery: Wolf
-    beer_abv: 4.5
-    beer_image: /images/santa-paws.jpeg
+  - beer_name: Mid Winter Gold
+    beer_brewery: Mauldons
+    beer_abv: 4.1
+    beer_image: /images/mid-winter-gold.jpg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false

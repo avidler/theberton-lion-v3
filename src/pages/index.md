@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_special_message
-    title: Closed for Refurbishment
+    title: Closed for Refurbishment!
     body: "![Closed for refurb image](/images/refurb2025.jpg)"
   - type: section_welcome
     section_id: welcome_section

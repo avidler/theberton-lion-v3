@@ -16,7 +16,7 @@ export default class SectionSpecialMessage extends React.Component {
             <h2 className="page-title">Closed for Refurbishment!</h2>
          
             <div id="special-picture">
-           <img src="images/refurb2025.jpg" alt="refurbishment image" />
+           <img src="images/refurb.jpg" alt="refurbishment image" />
           </div>
           <br />
         

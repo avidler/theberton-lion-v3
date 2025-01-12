@@ -13,16 +13,13 @@ export default class SectionSpecialMessage extends React.Component {
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="container" id="special_message">
-            <h2 className="page-title">Book now for Christmas!</h2>
+            <h2 className="page-title">Closed for Refurbishment</h2>
          
             <div id="special-picture">
-           <img src="images/pizza.jpg" alt="pizza menu" />
+           <img src="images/refurb2025.jpg" alt="refurb image" />
           </div>
           <br />
-         
-          <div id="special-picture">
-           <img src="images/christmas-hours-2024.jpg" alt="Logo" />
-          </div>
+        
   
             </div>
         </section>

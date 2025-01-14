@@ -6,38 +6,62 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Mid Winter Gold
+  - beer_name: Suffolk Pride
     beer_brewery: Mauldons
-    beer_abv: 4.1
-    beer_image: /images/mid-winter-gold.jpg
+    beer_abv: 4.8
+    beer_image: /images/suffolk-pride.png
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/cure.jpg
-    beer_on_now: false
-    beer_name: The Cure
+  - beer_image: /images/snowshoe.jpg
+    beer_name: Snowshoe
+    beer_brewery: Moon Gazer
+    beer_abv: 4.5
+    beer_price: 4.4
+    beer_coming_soon: false
+    beer_on_now: true
+  - beer_image: /images/shortts-generic.jpeg
+    beer_on_now: true
+    beer_name: Ol' Bor
     beer_brewery: Shortts Farn
-    beer_abv: 3.6
+    beer_abv: 5
+    beer_price: 4.5
+    beer_coming_soon: false
+  - beer_image: /images/choc-and-cherry-porter.jpg
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/silver-adder.jpg
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_name: Silver Adder
-    beer_brewery: Mauldons
-    beer_abv: 4.2
-    beer_on_now: false
-  - beer_image: /images/scrooge-s-revenge.jpg
-    beer_name: Scrooge's Revenge
-    beer_brewery: Mauldons
-    beer_abv: 4.9
+    beer_name: Chocolate & Cherry Porter
+    beer_brewery: Small Batch Project (Wolf)
+    beer_abv: 4.6
+    beer_on_now: true
+  - beer_image: /images/recessive-red.jpg
+    beer_name: Recessive Red
+    beer_brewery: Mr Winters
+    beer_abv: 6
     beer_price: 4.5
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/mr-winters-classic.jpeg
-    beer_name: Chocolate Orange Porter
-    beer_brewery: Mr Winters
-    beer_abv: 4.8
+  - beer_image: /images/get-checking-2.png
+    beer_name: Get Checking
+    beer_brewery: Moon Gazer
+    beer_abv: 4.4
+    beer_on_now: true
     beer_price: 4.4
-    beer_coming_soon: false
+  - beer_image: /images/strummer.jpeg
+    beer_name: Strummer
+    beer_brewery: Shortts Farm
+    beer_abv: 3.8
+    beer_on_now: true
+    beer_price: 4.4
+  - beer_image: /images/old-cock.jpeg
+    beer_name: Old Cock
+    beer_brewery: Green Jack
+    beer_abv: 4.4
+    beer_price: 4.4
+    beer_on_now: true
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
+    beer_brewery: Green Jack
+    beer_abv: 4.6
+    beer_price: 4.4
     beer_on_now: true

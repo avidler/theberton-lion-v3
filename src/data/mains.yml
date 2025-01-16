@@ -1,4 +1,11 @@
 mains:
+  - main_course_name: House Made Gourmet Beef Burger
+    main_course_description: Stacked with cheddar cheese, bacon, salad leave and
+      onion chutney and served with house chips, onion rings and coleslaw  (GF)
+    main_course_price: 15.95
+  - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
+    main_course_description: Served with Garden peas and house tartare (GF)
+    main_course_price: 15.95
   - main_course_name: "House-made Margherita Pizza "
     main_course_description: Our own house-made base with rich house tomato sauce,
       mozzarella & cheddar cheese

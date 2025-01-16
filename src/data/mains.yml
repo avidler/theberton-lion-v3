@@ -7,18 +7,18 @@ mains:
   - main_course_name: House-made Pepperoni  Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
       mozzarella, cheddar cheese & sliced pepperoni
-    main_course_price: 10
+    main_course_price: 12
     main_course_wheat_free: false
     main_course_vegetarian: false
   - main_course_name: House-made Cajun Chicken Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
       mozzarella, cheddar cheese, Cajun chicken and green peppers
-    main_course_price: 10
+    main_course_price: 12
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: Free Choice Pizza
-    main_course_description: "Choose your pizza and add the following: Red Onion,
-      Mushrooms, Sweetcorn, Green Peppers.  £1 per extra topping "
+  - main_course_name: Vegetarian Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, red onion, mushrooms and green peppers
     main_course_price: 10
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT FROM FEBRUARY!
     main_course_description: >-

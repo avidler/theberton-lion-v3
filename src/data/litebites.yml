@@ -1,4 +1,10 @@
 lite_bites:
+  - lite_bite_name: Crispy Chicken Wings
+    lite_bite_description: With BBQ sauce
+    lite_bite_price: 7.95
+  - lite_bite_name: Massachusetts Meatballs
+    lite_bite_description: In a cranberry ketchup sauce
+    lite_bite_price: 7.95
   - lite_bite_name: Hand Cut House Chips
     lite_bite_description: Add Cheese for 50p
     lite_bite_price: 4
@@ -6,10 +12,3 @@ lite_bites:
     lite_bite_description: ""
     lite_bite_price: 7.95
     lite_bite_wheat_free: false
-  - lite_bite_name: Crispy Chicken Wings
-    lite_bite_description: With BBQ sauce
-    lite_bite_price: 7.95
-  - lite_bite_name: Massachusetts Meatballs
-    lite_bite_description: |
-      In a cranberry ketchup sauce
-    lite_bite_price: 7.95

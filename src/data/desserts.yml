@@ -1,19 +1,15 @@
 desserts:
-  - dessert_name: Chef's Christmas Pudding
-    dessert_description: With brandy cream    (V)
-    dessert_price: 7.95
-    dessert_wheat_free: true
-    dessert_vegetarian: true
-  - dessert_name: Caramel Apple & Stem Ginger Crumble
-    dessert_description: Served with custard (V), (GF)
-    dessert_price: 7.95
-    dessert_wheat_free: false
-    dessert_vegetarian: true
   - dessert_name: Landlady's Black Forest Trifle
     dessert_description: A chocolate and cherry treat (V)
     dessert_price: 7.95
     dessert_vegetarian: true
     dessert_wheat_free: true
-  - dessert_name: Lion Cheesboard
-    dessert_description: Three cheeses, crackers, chutney, apple & grapes
+  - dessert_name: Trio of Ice Creams
+    dessert_description: Choose from vanilla, strawberry, chocolate, toffee,
+      cinnamon or black currant sorbet
+    dessert_price: 7.95
+    dessert_wheat_free: false
+    dessert_vegetarian: true
+  - dessert_name: Chef's Sticky Toffee Pudding
+    dessert_description: Served with custard
     dessert_price: 7.95

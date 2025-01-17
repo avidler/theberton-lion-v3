@@ -25,8 +25,8 @@ mains:
     main_course_vegetarian: false
   - main_course_name: Vegetarian Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, red onion, mushrooms and green peppers
-    main_course_price: 10
+      mozzarella, cheddar cheese, red onion, sweetcorn and green peppers
+    main_course_price: 12
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT FROM FEBRUARY!
     main_course_description: >-
       Throughout December we offer our Festive Menu six days a week. Curry

@@ -13,13 +13,6 @@ beers:
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/snowshoe.jpg
-    beer_name: Snowshoe
-    beer_brewery: Moon Gazer
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/shortts-generic.jpeg
     beer_on_now: true
     beer_name: Ol' Bor
@@ -42,15 +35,9 @@ beers:
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/get-checking-2.png
-    beer_name: Get Checking
+    beer_name: Time To Check
     beer_brewery: Moon Gazer
-    beer_abv: 4.4
-    beer_on_now: true
-    beer_price: 4.4
-  - beer_image: /images/strummer.jpeg
-    beer_name: Strummer
-    beer_brewery: Shortts Farm
-    beer_abv: 3.8
+    beer_abv: 3.4
     beer_on_now: true
     beer_price: 4.4
   - beer_image: /images/old-cock.jpeg
@@ -59,15 +46,9 @@ beers:
     beer_abv: 4.4
     beer_price: 4.4
     beer_on_now: true
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.6
-    beer_price: 4.4
-    beer_on_now: true
   - beer_image: /images/edith-cavell.jpg
     beer_name: Edith Cavell
-    beer_brewery: Wolfq
+    beer_brewery: Wolf
     beer_abv: 3.7
     beer_price: 4.4
     beer_on_now: true

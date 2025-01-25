@@ -20,13 +20,6 @@ beers:
     beer_abv: 5
     beer_price: 4.5
     beer_coming_soon: false
-  - beer_image: /images/choc-and-cherry-porter.jpg
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_name: Chocolate & Cherry Porter
-    beer_brewery: Small Batch Project (Wolf)
-    beer_abv: 4.6
-    beer_on_now: true
   - beer_image: /images/recessive-red.jpg
     beer_name: Recessive Red
     beer_brewery: Mr Winters
@@ -34,16 +27,16 @@ beers:
     beer_price: 4.5
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/get-checking-2.png
+  - beer_image: /images/time-to-check.jpeg
     beer_name: Time To Check
     beer_brewery: Moon Gazer
     beer_abv: 3.4
     beer_on_now: true
     beer_price: 4.4
-  - beer_image: /images/old-cock.jpeg
-    beer_name: Old Cock
-    beer_brewery: Green Jack
-    beer_abv: 4.4
+  - beer_image: /images/get-checking-2.png
+    beer_name: Get Checking
+    beer_brewery: Moon Gazer
+    beer_abv: 3.9
     beer_price: 4.4
     beer_on_now: true
   - beer_image: /images/edith-cavell.jpg

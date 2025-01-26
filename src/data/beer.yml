@@ -13,13 +13,6 @@ beers:
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/shortts-generic.jpeg
-    beer_on_now: true
-    beer_name: Ol' Bor
-    beer_brewery: Shortts Farn
-    beer_abv: 5
-    beer_price: 4.5
-    beer_coming_soon: false
   - beer_image: /images/recessive-red.jpg
     beer_name: Recessive Red
     beer_brewery: Mr Winters

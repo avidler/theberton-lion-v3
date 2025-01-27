@@ -4,52 +4,25 @@ mains:
       fish masala, this African dish is served with basmati rice and kachumbari
       salad (GF)
     main_course_price: 17.95
-  - main_course_name: Beer Battered Haddock Fillet & Hand Cut Truffle Oil Chips
-    main_course_description: Served with Garden peas and house made red tartare sauce (GF)
+  - main_course_name: Wild Mushroom & Chestnut Cottage Pie
+    main_course_description: Served with seasonal vegetables
     main_course_price: 15.95
-  - main_course_name: "House-made Margherita Pizza "
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella & cheddar cheese
-    main_course_price: 10
-    main_course_wheat_free: false
-  - main_course_name: House-made Pepperoni  Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese & sliced pepperoni
-    main_course_price: 12
-    main_course_wheat_free: false
-    main_course_vegetarian: false
-  - main_course_name: House-made Cajun Chicken Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, Cajun chicken and green peppers
-    main_course_price: 12
-    main_course_wheat_free: false
-    main_course_vegetarian: false
-  - main_course_name: Vegetarian Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, red onion, sweetcorn and green peppers
-    main_course_price: 12
-  - main_course_name: TUESDAY NIGHT IS CURRY NIGHT FROM FEBRUARY!
-    main_course_description: >-
-      Throughout December we offer our Festive Menu six days a week. Curry
-      Nights will resume in February.
-
-
-      Join us on Tuesday evenings, March - October, for a selection of our House Curries. Served with rice and our House Naan Bread. Please call for this week's selection.  A limited number of other dishes are available on Tuesday evenings.
-    main_course_price: 15.95
-    main_course_wheat_free: true
-  - main_course_name: STEAK SATURDAY - 1st Saturday of The Month FROM FEBRUARY
-    main_course_description: Join us for one selected Saturday a month for our Steak
-      Specials. Please call us for more details and dates.
-    main_course_price: 23.95
+  - main_course_name: Venison Ragu with Tagliatelle
+    main_course_description: Topped with parmesan flakes
+    main_course_price: 16.95
   - main_course_name: Apple & Red Currant Pork Steak
     main_course_description: Served with seasonal vegetables (GF)
     main_course_price: 16.95
   - main_course_name: Chinese Braised Beef with Ginger
     main_course_description: Served with parsley mash and Chinese cabbage
     main_course_price: 16.95
-  - main_course_name: Venison Ragu with Tagliatelle
-    main_course_description: Topped with parmesan flakes
-    main_course_price: 16.95
+  - main_course_name: Chef's Haloumi Burger
+    main_course_description: With red onion, fried mushroom and chilli sauce, Served
+      with sweet potato wedges
+    main_course_price: 15.95
+  - main_course_name: Beer Battered Haddock Fillet & Hand Cut Truffle Oil Chips
+    main_course_description: Served with Garden peas and house made red tartare sauce (GF)
+    main_course_price: 15.95
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
@@ -57,10 +30,37 @@ mains:
     main_course_description: Chicken breast with crispy maple bacon, Caesar sauce
       and anchovy butter. Served with coleslaw, onion rings and hand cut chips
     main_course_price: 15.95
-  - main_course_name: Chef's Haloumi Burger
-    main_course_description: With red onion, fried mushroom and chilli sauce, Served
-      with sweet potato wedges
+  - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
+    main_course_description: Join us on Tuesday evenings, March - November, for a
+      selection of our House Curries. Served with rice and our House Naan Bread.
+      Please call for this week's selection.  A limited number of other dishes
+      are available on Tuesday evenings.
     main_course_price: 15.95
-  - main_course_name: Wild Mushroom & Chestnut Cottage Pie
-    main_course_description: Served with seasonal vegetables
-    main_course_price: 15.95
+    main_course_wheat_free: true
+  - main_course_name: STEAK SATURDAY - 1st Saturday of The Month
+    main_course_description: Join us for one selected Saturday a month March -
+      November for our Steak Specials. Please call us for more details and
+      dates.
+    main_course_price: 23.95
+    main_course_wheat_free: false
+  - main_course_name: House-made Pepperoni  Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese & sliced pepperoni
+    main_course_price: 12
+    main_course_wheat_free: false
+    main_course_vegetarian: false
+  - main_course_name: Vegetarian Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, red onion, sweetcorn and green peppers
+    main_course_price: 12
+  - main_course_name: House-made Cajun Chicken Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, Cajun chicken and green peppers
+    main_course_price: 12
+    main_course_wheat_free: false
+    main_course_vegetarian: false
+  - main_course_name: "House-made Margherita Pizza "
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella & cheddar cheese
+    main_course_price: 10
+    main_course_wheat_free: false

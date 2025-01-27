@@ -69,9 +69,9 @@
     },
     "saturday": {
       "saturday_afternoon_open": "12:00pm",
-      "saturday_afternoon_close": "Close",
-      "saturday_evening_open": "  ",
-      "saturday_evening_close": "  "
+      "saturday_afternoon_close": "3:00pm",
+      "saturday_evening_open": "5:00pm",
+      "saturday_evening_close": "Close"
     },
     "sunday": {
       "sunday_afternoon_open": "12:00pm",

@@ -1,10 +1,11 @@
 mains:
-  - main_course_name: House Made Gourmet Beef Burger
-    main_course_description: Stacked with cheddar cheese, bacon, salad leave and
-      onion chutney and served with house chips, onion rings and coleslaw  (GF)
-    main_course_price: 15.95
-  - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
-    main_course_description: Served with Garden peas and house tartare (GF)
+  - main_course_name: Zambezi Whole Baked Sea Bream
+    main_course_description: Stuffed with onions, peppers and tomatoes and coated in
+      fish masala, this African dish is served with basmati rice and kachumbari
+      salad (GF)
+    main_course_price: 17.95
+  - main_course_name: Beer Battered Haddock Fillet & Hand Cut Truffle Oil Chips
+    main_course_description: Served with Garden peas and house made red tartare sauce (GF)
     main_course_price: 15.95
   - main_course_name: "House-made Margherita Pizza "
     main_course_description: Our own house-made base with rich house tomato sauce,
@@ -40,5 +41,26 @@ mains:
     main_course_description: Join us for one selected Saturday a month for our Steak
       Specials. Please call us for more details and dates.
     main_course_price: 23.95
-  - main_course_name: New Menu Launching 27th January 2025
+  - main_course_name: Apple & Red Currant Pork Steak
+    main_course_description: Served with seasonal vegetables (GF)
     main_course_price: 16.95
+  - main_course_name: Chinese Braised Beef with Ginger
+    main_course_description: Served with parsley mash and Chinese cabbage
+    main_course_price: 16.95
+  - main_course_name: Venison Ragu with Tagliatelle
+    main_course_description: Topped with parmesan flakes
+    main_course_price: 16.95
+  - main_course_name: The Lion's Legendary Steak & Ale Pie
+    main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
+    main_course_price: 17.95
+  - main_course_name: Chef's Chicken Caesar Burger
+    main_course_description: Chicken breast with crispy maple bacon, Caesar sauce
+      and anchovy butter. Served with coleslaw, onion rings and hand cut chips
+    main_course_price: 15.95
+  - main_course_name: Chef's Haloumi Burger
+    main_course_description: With red onion, fried mushroom and chilli sauce, Served
+      with sweet potato wedges
+    main_course_price: 15.95
+  - main_course_name: Wild Mushroom & Chestnut Cottage Pie
+    main_course_description: Served with seasonal vegetables
+    main_course_price: 15.95

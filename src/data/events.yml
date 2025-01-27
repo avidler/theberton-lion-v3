@@ -14,7 +14,7 @@ event:
   - event_date: January 17, 2025 5:00 PM
     event_title: Theberton Lion Winter Beer Festival
     event_image: /images/winter-2025.png
-  - event_date: December 24, 2024 9:00 PM
+  - event_date: February 1, 2025 9:00 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-logo.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
@@ -24,8 +24,8 @@ event:
     event_notes: Joel Fisk returns to The Lion for an afternoon of original songs
       and classic covers in The Lion garden.
     event_image: /images/joel-fisk.png
-  - event_date: November 21, 2024 8:30 PM
-    event_title: Beer Club & Tap Takeover - Watts and Co.
+  - event_date: February 27, 2025 8:30 PM
+    event_title: Beer Club & Tap Takeover - Burnt Mill
     event_image: /images/beer-club-tap-takeover.png
     event_notes: Join us for Beer Club at The Theberton Lion and be the first to try
       five Brewery beers for just £8.50 as the Coggeshall based brewer takes
@@ -51,3 +51,6 @@ event:
   - event_date: November 28, 2024 5:00 PM
     event_title: Thanksgiving Dinner
     event_image: /images/thanks-giving-logo.png
+  - event_date: February 15, 2025 8:00 PM
+    event_title: Wine Tasting With Peter Watts Wines
+    event_image: /images/wine-tasting-2025-square.jpg

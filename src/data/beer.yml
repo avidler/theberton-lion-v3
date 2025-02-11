@@ -6,35 +6,34 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Suffolk Pride
-    beer_brewery: Mauldons
-    beer_abv: 4.8
-    beer_image: /images/suffolk-pride.png
+  - beer_name: Centaurs Gold
+    beer_brewery: Mighty Oak
+    beer_abv: 3.9
+    beer_image: /images/mighty-oak-standard.jpeg
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/recessive-red.jpg
-    beer_name: Recessive Red
-    beer_brewery: Mr Winters
-    beer_abv: 6
-    beer_price: 4.5
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/time-to-check.jpeg
-    beer_name: Time To Check
+  - beer_image: /images/moongazer-keepchecking2025.jpg
+    beer_name: Keep Checking
     beer_brewery: Moon Gazer
     beer_abv: 3.4
     beer_on_now: true
     beer_price: 4.4
-  - beer_image: /images/get-checking-2.png
-    beer_name: Get Checking
-    beer_brewery: Moon Gazer
+  - beer_image: /images/lupus-lupus.jpg
+    beer_name: Lupus Lupus
+    beer_brewery: Wolf Brewery
+    beer_abv: 4.2
+    beer_coming_soon: true
+    beer_price: 4.4
+  - beer_image: /images/sirius-dog-star.jpg
+    beer_name: Sirius Dog Star
+    beer_brewery: Wolf Brewery
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_abv: 4.4
+  - beer_image: /images/wolf-ale.jpg
+    beer_name: Wolf Ale
+    beer_brewery: Wolf Brewery
     beer_abv: 3.9
     beer_price: 4.4
-    beer_on_now: true
-  - beer_image: /images/edith-cavell.jpg
-    beer_name: Edith Cavell
-    beer_brewery: Wolf
-    beer_abv: 3.7
-    beer_price: 4.4
-    beer_on_now: true
+    beer_coming_soon: true

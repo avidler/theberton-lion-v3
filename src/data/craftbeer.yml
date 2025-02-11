@@ -30,19 +30,13 @@ craft_beers:
       GLUTEN FREE & VEGAN FRIENDLY.
     craft_beer_half_price: 2.5
     craft_beer_pint_price: 5
-  - craft_beer_name: Pilsner
-    craft_beer_brewery_location: Pilsen, Czech Republic
-    craft_beer_abv: 4.4
-    craft_beer_description: >-
-      Czech style pale Pilsner lager. Fermented low and slow at 12c then lagered
-      at zero to create a crisp, easy-drinking Pilsner.  Full flavoured, clean
-      and crisp. Unfiltered.
-
-
-      GLUTEN FREE & VEGAN FRIENDLY.
-    craft_beer_half_price: 2.65
-    craft_beer_pint_price: 5.3
-    craft_beer_brewery: Grain
+  - craft_beer_name: Conwallis Eye PA
+    craft_beer_brewery_location: Eye, Suffolk
+    craft_beer_abv: 5.6
+    craft_beer_description: Refreshing full bodied American style I.P.A
+    craft_beer_half_price: 2.95
+    craft_beer_pint_price: 5.9
+    craft_beer_brewery: Chevallier Brewing Company
   - craft_beer_brewery: Tindalls
     craft_beer_name: Galaxy Dream
     craft_beer_brewery_location: Seething, Norfolk
@@ -60,10 +54,23 @@ craft_beers:
 
       GLUTEN FREE
     craft_beer_brewery_location: Kings Lynn, Norfolk
-  - craft_beer_brewery: Watts
-    craft_beer_name: Golden Slumbers
-    craft_beer_brewery_location: Debenham, Suffolk
-    craft_beer_abv: 4.5
-    craft_beer_description: Hazy golden ale
+  - craft_beer_brewery: Green Jack
+    craft_beer_name: Rising Sun
+    craft_beer_brewery_location: Lowestoft, Suffolk
+    craft_beer_abv: 4.8
+    craft_beer_description: Dry hopped premium lager. Clean and crisp with a fruity
+      yet spicy hop character and aroma.
     craft_beer_half_price: 2.95
     craft_beer_pint_price: 5.9
+  - craft_beer_brewery: Grain
+    craft_beer_name: Pilsner
+    craft_beer_description: >-
+      Czech style, pale Pilsener lager. Fermented low and slow at 12C then
+      lagered at zero to create a crisp, easy-drinking pilsner.
+
+
+      GLUTEN FREE & VEGAN
+    craft_beer_half_price: 2.9
+    craft_beer_pint_price: 5.8
+    craft_beer_brewery_location: Harleston, Norfolk
+    craft_beer_abv: 4

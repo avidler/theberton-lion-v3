@@ -9,13 +9,14 @@ mains:
     main_course_description: Served with asparagus spears.
     main_course_price: 16.95
   - main_course_name: Butternut Squash Steak with a Basil and Tomato Sauce
-    main_course_description: With Beef Tomato, Field Mushroom, Onion Rings and Hand Cut Chips (GF)
+    main_course_description: With Beef Tomato, Field Mushroom, Onion Rings and Hand
+      Cut Chips (GF), (Vegan)
     main_course_price: 16.95
   - main_course_name: Wild Garlic & Ricotta Gnocchi
-    main_course_description: With pesto, pine nuts and rocket
+    main_course_description: With pesto, pine nuts and rocket (GF), (V)
     main_course_price: 15.95
   - main_course_name: House Short Rib Tacos
-    main_course_description: With pineapple salsa and house paprika fries.
+    main_course_description: With pineapple salsa and house paprika fries. (GF Option)
     main_course_price: 16.95
   - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
     main_course_description: Served with Garden peas and house tartare sauce (GF)
@@ -24,10 +25,9 @@ mains:
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
   - main_course_name: Gourmet Beef Burger
-    main_course_description: >-
-      With streaky bacon, your choice of cheddar or blue cheese, leaf and
-      tomato. 
-       Served with coleslaw, onion rings and hand cut chips
+    main_course_description: With streaky bacon, your choice of cheddar or blue
+      cheese, leaf and tomato.   Served with coleslaw, onion rings and hand cut
+      chips. (GF)
     main_course_price: 15.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a

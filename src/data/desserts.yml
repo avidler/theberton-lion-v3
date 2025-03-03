@@ -1,16 +1,16 @@
 desserts:
   - dessert_name: Landlady's Orange Posset
-    dessert_description: With chocolate drizzle. (GF)
+    dessert_description: With chocolate drizzle. (GF) (V)
     dessert_price: 7.95
     dessert_vegetarian: true
     dessert_wheat_free: true
   - dessert_name: Chocolate Fondant
-    dessert_description: With salted caramel ice cream. (GF)
+    dessert_description: With salted caramel ice cream. (GF) (V)
     dessert_price: 7.95
     dessert_wheat_free: false
     dessert_vegetarian: true
   - dessert_name: Jam Doughnut Pancakes
-    dessert_description: Served with strawberry ice cream
+    dessert_description: Served with strawberry ice cream (V)
     dessert_price: 7.95
-  - dessert_name: Chef's Lime Cheesecake
+  - dessert_name: Chef's Lime Cheesecake (V)
     dessert_price: 7.95

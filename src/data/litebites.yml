@@ -1,12 +1,12 @@
 lite_bites:
   - lite_bite_name: Sticky Honey Pork Bites
-    lite_bite_description: With chopped spring onions and chillies.
+    lite_bite_description: With chopped spring onions and chillies. (GF)
     lite_bite_price: 7.95
   - lite_bite_name: Calamari Rings with Sriracha Mayonnaise
-    lite_bite_description: ""
+    lite_bite_description: (GF)
     lite_bite_price: 7.95
   - lite_bite_name: Chef's Wild Mushroom Pate
-    lite_bite_description: With sourdough toast.
+    lite_bite_description: With sourdough toast. (GF Option) (V)
     lite_bite_price: 4
   - lite_bite_name: Soup of The Day
     lite_bite_description: Served with sourdough.  Please ask for today's selection.

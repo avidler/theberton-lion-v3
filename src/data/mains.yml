@@ -1,34 +1,33 @@
 mains:
-  - main_course_name: Zambezi Whole Baked Sea Bream
-    main_course_description: Stuffed with onions, peppers and tomatoes and coated in
-      fish masala, this African dish is served with basmati rice and kachumbari
-      salad (GF)
-    main_course_price: 17.95
-  - main_course_name: Wild Mushroom & Chestnut Cottage Pie
-    main_course_description: Served with seasonal vegetables
-    main_course_price: 15.95
-  - main_course_name: Venison Ragu with Tagliatelle
-    main_course_description: Topped with parmesan flakes
+  - main_course_name: Chicken Chasseur with Parsley Mash
+    main_course_description: Served with chantenay carrots and spring greens (GF)
     main_course_price: 16.95
-  - main_course_name: Apple & Red Currant Pork Steak
+  - main_course_name: Pan Seared Duck Breast with Dauphinoise Potatoes
     main_course_description: Served with seasonal vegetables (GF)
+    main_course_price: 17.95
+  - main_course_name: Herb Crusted Halibut with Saffron Risotto
+    main_course_description: Served with asparagus spears.
     main_course_price: 16.95
-  - main_course_name: Chinese Braised Beef with Ginger
-    main_course_description: Served with parsley mash and Chinese cabbage
+  - main_course_name: Butternut Squash Steak with a Basil and Tomato Sauce
+    main_course_description: With Beef Tomato, Field Mushroom, Onion Rings and Hand Cut Chips (GF)
     main_course_price: 16.95
-  - main_course_name: Chef's Haloumi Burger
-    main_course_description: With red onion, fried mushroom and chilli sauce, Served
-      with sweet potato wedges
+  - main_course_name: Wild Garlic & Ricotta Gnocchi
+    main_course_description: With pesto, pine nuts and rocket
     main_course_price: 15.95
-  - main_course_name: Beer Battered Haddock Fillet & Hand Cut Truffle Oil Chips
-    main_course_description: Served with Garden peas and house made red tartare sauce (GF)
+  - main_course_name: House Short Rib Tacos
+    main_course_description: With pineapple salsa and house paprika fries.
+    main_course_price: 16.95
+  - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
+    main_course_description: Served with Garden peas and house tartare sauce (GF)
     main_course_price: 15.95
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
-  - main_course_name: Chef's Chicken Caesar Burger
-    main_course_description: Chicken breast with crispy maple bacon, Caesar sauce
-      and anchovy butter. Served with coleslaw, onion rings and hand cut chips
+  - main_course_name: Gourmet Beef Burger
+    main_course_description: >-
+      With streaky bacon, your choice of cheddar or blue cheese, leaf and
+      tomato. 
+       Served with coleslaw, onion rings and hand cut chips
     main_course_price: 15.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a
@@ -64,3 +63,8 @@ mains:
       mozzarella & cheddar cheese
     main_course_price: 10
     main_course_wheat_free: false
+  - main_course_name: House-made Meat Feast Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella & cheddar cheese, meatballs, peperoni, Cajun chicken and red
+      onion
+    main_course_price: 13.5

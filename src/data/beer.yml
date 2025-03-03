@@ -6,34 +6,70 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Centaurs Gold
-    beer_brewery: Mighty Oak
-    beer_abv: 3.9
-    beer_image: /images/mighty-oak-standard.jpeg
+  - beer_name: Ridley's Rite
+    beer_brewery: Bishop Nick
+    beer_abv: 3.6
+    beer_image: /images/ridleys-rite.webp
     beer_price: 4.4
     beer_on_now: true
     beer_coming_soon: false
-  - beer_image: /images/moongazer-keepchecking2025.jpg
-    beer_name: Keep Checking
-    beer_brewery: Moon Gazer
-    beer_abv: 3.4
+  - beer_image: /images/beyond-the-firs.jpg
+    beer_name: Burnt Mill
+    beer_brewery: Beyond The Firs
+    beer_abv: 4.8
     beer_on_now: true
     beer_price: 4.4
-  - beer_image: /images/lupus-lupus.jpg
-    beer_name: Lupus Lupus
-    beer_brewery: Wolf Brewery
-    beer_abv: 4.2
+  - beer_image: /images/barsham-bob.jpg
+    beer_name: B.O.B (Bitter Old Bustard)
+    beer_brewery: Barsham Brewery
+    beer_abv: 4.3
     beer_coming_soon: true
     beer_price: 4.4
-  - beer_image: /images/sirius-dog-star.jpg
-    beer_name: Sirius Dog Star
-    beer_brewery: Wolf Brewery
+  - beer_image: /images/azza-march-hare-w600-1-1.jpg
+    beer_name: Azza March Hare
+    beer_brewery: Nethergate
     beer_price: 4.4
     beer_coming_soon: true
-    beer_abv: 4.4
-  - beer_image: /images/wolf-ale.jpg
-    beer_name: Wolf Ale
-    beer_brewery: Wolf Brewery
+    beer_abv: 3.9
+  - beer_image: /images/tindalls.png
+    beer_name: Tindall Ales
+    beer_brewery: The Adventures of Squirrel Nutkin
     beer_abv: 3.9
     beer_price: 4.4
     beer_coming_soon: true
+  - beer_image: /images/mystical-meteor.jpg
+    beer_name: Tindall Ales
+    beer_brewery: Mystical Meteor
+    beer_abv: 3.4
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/rub-bee.jpg
+    beer_name: Rubee
+    beer_brewery: Mr Bees
+    beer_abv: 4.8
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/pollen-power.jpg
+    beer_name: Pollen Power
+    beer_brewery: Mr Bees
+    beer_abv: 3.8
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/grain-blackwood-cask-clip-pantone-407c-v0.2-with-colour-bg.jpg
+    beer_name: Blackwood Stout
+    beer_brewery: Grain
+    beer_abv: 4.5
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/red-nelson.jpg
+    beer_name: Red Nelson
+    beer_brewery: Grain
+    beer_abv: 4.7
+    beer_coming_soon: true
+    beer_price: 4.4
+  - beer_image: /images/hearth.webp
+    beer_name: Hearth
+    beer_brewery: Bishop Nick
+    beer_coming_soon: true
+    beer_abv: 4.2
+    beer_price: 4.4

@@ -2,7 +2,7 @@ mains:
   - main_course_name: Chicken Chasseur with Parsley Mash
     main_course_description: Served with chantenay carrots and spring greens (GF)
     main_course_price: 16.95
-  - main_course_name: Pan Seared Duck Breast with Dauphinoise Potatoes
+  - main_course_name: Pan Seared Duck Breast in Plum Gravy with Dauphinoise Potatoes
     main_course_description: Served with seasonal vegetables (GF)
     main_course_price: 17.95
   - main_course_name: Herb Crusted Halibut with Saffron Risotto

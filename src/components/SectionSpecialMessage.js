@@ -13,10 +13,10 @@ export default class SectionSpecialMessage extends React.Component {
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="container" id="special_message">
-            <h2 className="page-title">Main Meal Offer!</h2>
+            <h2 className="page-title">Spring Offer!</h2>
          
             <div id="special-picture">
-           <img src="images/bogof2025.jpg" alt="" />
+           <img src="images/spring_offer_poster.jpg" alt="" />
           </div>
     
  

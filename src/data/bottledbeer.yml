@@ -1,6 +1,6 @@
 bottled_beer_title: Bottled Beers
-bottled_beer_description: We stock an ever-changing range of bottled ales and
-  lagers. Please ask for the current range.
+bottled_beer_description: We stock an ever-changing range of bottled beers.
+  Please ask for the current range.
 bottled_beer_list:
   - bottled_beer_name: Newcastle Brown Ale
     bottled_beer_abv: 4.7

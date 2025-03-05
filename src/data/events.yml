@@ -1,4 +1,9 @@
 event:
+  - event_date: March 22, 2025 9:00 PM
+    event_title: Rock and Roll Bingo
+    event_image: /images/rock-and-roll-bingo-logo.jpg
+    event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
+      Rock and Roll Bingo, but we like it.
   - event_date: April 23, 2025 6:00 PM
     event_title: 4th Annual St. George's Day Pie Festival
     event_image: /images/st-georges-day-generic-logo.jpg
@@ -14,27 +19,26 @@ event:
   - event_date: January 17, 2025 5:00 PM
     event_title: Theberton Lion Winter Beer Festival
     event_image: /images/winter-2025.png
-  - event_date: February 1, 2025 9:00 PM
-    event_title: Rock and Roll Bingo
-    event_image: /images/rock-and-roll-bingo-logo.jpg
-    event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
-      Rock and Roll Bingo, but we like it.
-  - event_date: April 21, 2024 2:00 PM
-    event_title: Joel Fisk - Live @ The Lion
-    event_notes: Joel Fisk returns to The Lion for an afternoon of original songs
-      and classic covers in The Lion garden.
-    event_image: /images/joel-fisk.png
-  - event_date: February 27, 2025 8:30 PM
-    event_title: Beer Club & Tap Takeover - Burnt Mill
+  - event_date: April 24, 2025 9:30 PM
+    event_title: Beer Club & Tap Takeover - Three Blind Mice
     event_image: /images/beer-club-tap-takeover.png
     event_notes: Join us for Beer Club at The Theberton Lion and be the first to try
       five Brewery beers for just £8.50 as the Coggeshall based brewer takes
       over the taps. All we ask in return is your feedback to help us shape our
       future beer lists!
-  - event_date: May 11, 2024 8:00 PM
+  - event_date: April 27, 2025 3:00 PM
+    event_title: Joel Fisk - Live @ The Lion
+    event_notes: Joel Fisk returns to The Lion for an afternoon of original songs
+      and classic covers in The Lion garden.
+    event_image: /images/joel-fisk.png
+  - event_date: May 17, 2025 9:00 PM
     event_title: Big Eurovision Party
     event_image: /images/big-eurovision-party.png
     event_notes: An evening of Eurovision themed fun and games
+  - event_date: May 31, 2025 9:30 PM
+    event_title: Quiz Night
+    event_notes: Join us for a fun evening of questions
+    event_image: /images/quiz.png
   - event_date: November 30, 2024 8:00 PM
     event_title: St. Andrews Day Whisky Tasting
     event_image: /images/st-andrews-day-smaller.png
@@ -44,10 +48,6 @@ event:
   - event_date: December 31, 2024 5:00 PM
     event_title: New Year's Eve Cocktails & Karaoke
     event_image: /images/new-years-2023.jpg
-  - event_date: May 25, 2024 9:00 PM
-    event_title: Quiz Night
-    event_notes: Join us for a fun evening of questions
-    event_image: /images/quiz.png
   - event_date: November 28, 2024 5:00 PM
     event_title: Thanksgiving Dinner
     event_image: /images/thanks-giving-logo.png

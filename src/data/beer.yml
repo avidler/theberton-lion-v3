@@ -23,8 +23,9 @@ beers:
     beer_name: B.O.B (Bitter Old Bustard)
     beer_brewery: Barsham Brewery
     beer_abv: 4.3
-    beer_coming_soon: true
+    beer_coming_soon: false
     beer_price: 4.4
+    beer_on_now: true
   - beer_image: /images/azza-march-hare-w600-1-1.jpg
     beer_name: Azza March Hare
     beer_brewery: Nethergate

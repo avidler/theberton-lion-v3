@@ -6,19 +6,6 @@ beers:
     beer_price: 4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_name: Ridley's Rite
-    beer_brewery: Bishop Nick
-    beer_abv: 3.6
-    beer_image: /images/ridleys-rite.webp
-    beer_price: 4.4
-    beer_on_now: true
-    beer_coming_soon: false
-  - beer_image: /images/beyond-the-firs.jpg
-    beer_name: Burnt Mill
-    beer_brewery: Beyond The Firs
-    beer_abv: 4.8
-    beer_on_now: false
-    beer_price: 4.4
   - beer_image: /images/barsham-bob.jpg
     beer_name: B.O.B (Bitter Old Bustard)
     beer_brewery: Barsham Brewery

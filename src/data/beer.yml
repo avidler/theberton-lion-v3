@@ -12,7 +12,7 @@ beers:
     beer_abv: 4.3
     beer_coming_soon: false
     beer_price: 4.4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/azza-march-hare-w600-1-1.jpg
     beer_name: Azza March Hare
     beer_brewery: Nethergate
@@ -26,11 +26,11 @@ beers:
     beer_abv: 3.9
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/rub-bee.jpg
-    beer_name: Rubee
-    beer_brewery: Mr Bees
-    beer_abv: 4.8
+    beer_on_now: false
+  - beer_image: /images/snetterton-scary-tree.jpg
+    beer_name: Snetterton Scary Tree
+    beer_brewery: Elmtree
+    beer_abv: 4.5
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
@@ -39,7 +39,8 @@ beers:
     beer_brewery: Mystical Meteor
     beer_abv: 3.4
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/pollen-power.jpg
     beer_name: Pollen Power
     beer_brewery: Mr Bees
@@ -72,7 +73,7 @@ beers:
     beer_abv: 4
     beer_coming_soon: false
     beer_price: 4.4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/anna-maria.jpg
     beer_name: Anna Maria
     beer_brewery: Mauldons
@@ -85,7 +86,7 @@ beers:
     beer_abv: 3.6
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/img_0905.png
     beer_name: Wild Bill Hiccup
     beer_brewery: Wild Craft Brewing

@@ -46,13 +46,15 @@ beers:
     beer_brewery: Mr Bees
     beer_abv: 3.8
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/grain-blackwood-cask-clip-pantone-407c-v0.2-with-colour-bg.jpg
     beer_name: Blackwood Stout
     beer_brewery: Grain
     beer_abv: 4.5
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/red-nelson.jpg
     beer_name: Red Nelson
     beer_brewery: Grain

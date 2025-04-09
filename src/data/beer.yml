@@ -3,55 +3,55 @@ beers:
     beer_name: Victoria Bitter
     beer_brewery: Earl Soham
     beer_abv: 3.6
-    beer_price: 4
+    beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/barsham-bob.jpg
-    beer_name: B.O.B (Bitter Old Bustard)
-    beer_brewery: Barsham Brewery
-    beer_abv: 4.3
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
+    beer_brewery: Green Jack
+    beer_abv: 4.6
     beer_coming_soon: false
     beer_price: 4.4
-    beer_on_now: false
-  - beer_image: /images/azza-march-hare-w600-1-1.jpg
-    beer_name: Azza March Hare
-    beer_brewery: Nethergate
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_abv: 3.9
-    beer_on_now: false
-  - beer_image: /images/tindalls.png
-    beer_name: Tindall Ales
-    beer_brewery: The Adventures of Squirrel Nutkin
-    beer_abv: 3.9
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/snetterton-scary-tree.jpg
-    beer_name: Snetterton Scary Tree
-    beer_brewery: Elmtree
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/mystical-meteor.jpg
-    beer_name: Tindall Ales
-    beer_brewery: Mystical Meteor
-    beer_abv: 3.4
-    beer_price: 4.4
-    beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/pollen-power.jpg
-    beer_name: Pollen Power
-    beer_brewery: Mr Bees
-    beer_abv: 3.8
-    beer_price: 4.4
+  - beer_image: /images/farrier.jpg
+    beer_name: Farrier
+    beer_brewery: Humpty Dumpty
+    beer_price: 4.5
     beer_coming_soon: false
+    beer_abv: 3.9
+    beer_on_now: true
+  - beer_image: /images/good-egg.jpg
+    beer_name: Good Egg
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.1
+    beer_price: 4.4
+    beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/grain-blackwood-cask-clip-pantone-407c-v0.2-with-colour-bg.jpg
-    beer_name: Blackwood Stout
-    beer_brewery: Grain
+  - beer_image: /images/bad-egg.jpg
+    beer_name: Bad Egg
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.1
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/hares-to-victory-298x300.jpg
+    beer_name: Hares To Victory
+    beer_brewery: Moon Gazer
     beer_abv: 4.5
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/knight-to-remember.jpg
+    beer_name: Knight To Remember
+    beer_brewery: Mighty Oak
+    beer_abv: 3.9
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/mighty-oak-standard.jpeg
+    beer_name: Minotaur
+    beer_brewery: Mighty Oak
+    beer_abv: 4
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
@@ -82,14 +82,14 @@ beers:
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/golden-jackal.jpg
     beer_name: Golden Jackal
     beer_brewery: Wolf
     beer_abv: 3.6
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/img_0905.png
     beer_name: Wild Bill Hiccup
     beer_brewery: Wild Craft Brewing

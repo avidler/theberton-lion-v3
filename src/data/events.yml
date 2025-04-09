@@ -1,5 +1,5 @@
 event:
-  - event_date: March 22, 2025 9:00 PM
+  - event_date: April 26, 2025 10:00 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-logo.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
@@ -39,6 +39,9 @@ event:
     event_title: Quiz Night
     event_notes: Join us for a fun evening of questions
     event_image: /images/quiz.png
+  - event_date: April 12, 2025 10:00 PM
+    event_title: Bullseye Night
+    event_image: /images/bullseye-night-logo.jpg
   - event_date: November 30, 2024 8:00 PM
     event_title: St. Andrews Day Whisky Tasting
     event_image: /images/st-andrews-day-smaller.png

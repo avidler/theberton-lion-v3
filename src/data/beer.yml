@@ -12,21 +12,21 @@ beers:
     beer_abv: 4.6
     beer_coming_soon: false
     beer_price: 4.4
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/farrier.jpg
     beer_name: Farrier
     beer_brewery: Humpty Dumpty
     beer_price: 4.5
     beer_coming_soon: false
     beer_abv: 3.9
-    beer_on_now: true
+    beer_on_now: false
   - beer_image: /images/good-egg.jpg
     beer_name: Good Egg
     beer_brewery: Humpty Dumpty
     beer_abv: 4.1
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/bad-egg.jpg
     beer_name: Bad Egg
     beer_brewery: Humpty Dumpty

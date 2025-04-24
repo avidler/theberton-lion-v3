@@ -6,34 +6,34 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.6
+  - beer_image: /images/lonely-snake.jpg
+    beer_name: Lonely Snake
+    beer_brewery: Three Blind Mice
+    beer_abv: 3.4
     beer_coming_soon: false
     beer_price: 4.4
-    beer_on_now: false
-  - beer_image: /images/farrier.jpg
-    beer_name: Farrier
-    beer_brewery: Humpty Dumpty
-    beer_price: 4.5
+    beer_on_now: true
+  - beer_image: /images/porterhouse-blues.jpeg
+    beer_name: Porterhouse Blues
+    beer_brewery: Three Blind Mice
+    beer_price: 4.4
     beer_coming_soon: false
-    beer_abv: 3.9
-    beer_on_now: false
-  - beer_image: /images/good-egg.jpg
-    beer_name: Good Egg
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.1
+    beer_abv: 4.8
+    beer_on_now: true
+  - beer_image: /images/milk-worm.jpg
+    beer_name: Milk Work
+    beer_brewery: Three Blind Mice
+    beer_abv: 5.3
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/bad-egg.jpg
-    beer_name: Bad Egg
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.1
+  - beer_image: /images/juice-rocket.jpg
+    beer_name: Juice Rocket
+    beer_brewery: Three Blind Mice
+    beer_abv: 4.5
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/hares-to-victory-298x300.jpg
     beer_name: Hares To Victory
     beer_brewery: Moon Gazer
@@ -46,53 +46,5 @@ beers:
     beer_brewery: Mighty Oak
     beer_abv: 3.9
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/mighty-oak-standard.jpeg
-    beer_name: Minotaur
-    beer_brewery: Mighty Oak
-    beer_abv: 4
-    beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/red-nelson.jpg
-    beer_name: Red Nelson
-    beer_brewery: Grain
-    beer_abv: 4.7
-    beer_coming_soon: false
-    beer_price: 4.4
-    beer_on_now: false
-  - beer_image: /images/hearth.webp
-    beer_name: Hearth
-    beer_brewery: Bishop Nick
-    beer_coming_soon: false
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_on_now: false
-  - beer_image: /images/magpie.jpg
-    beer_name: Magpie
-    beer_brewery: Mauldons
-    beer_abv: 4
-    beer_coming_soon: false
-    beer_price: 4.4
-    beer_on_now: false
-  - beer_image: /images/anna-maria.jpg
-    beer_name: Anna Maria
-    beer_brewery: Mauldons
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/golden-jackal.jpg
-    beer_name: Golden Jackal
-    beer_brewery: Wolf
-    beer_abv: 3.6
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: false
-  - beer_image: /images/img_0905.png
-    beer_name: Wild Bill Hiccup
-    beer_brewery: Wild Craft Brewing
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_on_now: false

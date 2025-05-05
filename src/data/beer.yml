@@ -6,45 +6,17 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/lonely-snake.jpg
-    beer_name: Lonely Snake
-    beer_brewery: Three Blind Mice
-    beer_abv: 3.4
+  - beer_image: /images/best-bee-r.jpg
+    beer_name: Best Bee-R
+    beer_brewery: Mr Bees
+    beer_abv: 4
     beer_coming_soon: false
     beer_price: 4.4
     beer_on_now: true
-  - beer_image: /images/porterhouse-blues.jpeg
-    beer_name: Porterhouse Blues
-    beer_brewery: Three Blind Mice
-    beer_price: 4.4
+  - beer_image: /images/easy-beezy.jpg
+    beer_name: Easy Beesy
+    beer_brewery: Mr Bees
+    beer_price: 3.6
     beer_coming_soon: false
     beer_abv: 4.8
-    beer_on_now: true
-  - beer_image: /images/milk-worm.jpg
-    beer_name: Milk Work
-    beer_brewery: Three Blind Mice
-    beer_abv: 5.3
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/juice-rocket.jpg
-    beer_name: Juice Rocket
-    beer_brewery: Three Blind Mice
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/hares-to-victory-298x300.jpg
-    beer_name: Hares To Victory
-    beer_brewery: Moon Gazer
-    beer_abv: 4.5
-    beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/knight-to-remember.jpg
-    beer_name: Knight To Remember
-    beer_brewery: Mighty Oak
-    beer_abv: 3.9
-    beer_price: 4.4
-    beer_coming_soon: false
     beer_on_now: true

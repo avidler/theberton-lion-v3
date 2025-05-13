@@ -6,10 +6,10 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/best-bee-r.jpg
-    beer_name: Best Bee-R
-    beer_brewery: Mr Bees
-    beer_abv: 4
+  - beer_image: /images/albion-mild.jpeg
+    beer_name: Albion Mild
+    beer_brewery: Green Jack
+    beer_abv: 3.8
     beer_coming_soon: false
     beer_price: 4.4
     beer_on_now: true
@@ -20,3 +20,9 @@ beers:
     beer_coming_soon: false
     beer_abv: 3.6
     beer_on_now: true
+  - beer_image: /images/humpty-dumpty.jpg
+    beer_name: VE 80
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.5
+    beer_on_now: true
+    beer_price: 4.4

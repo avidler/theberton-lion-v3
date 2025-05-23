@@ -6,23 +6,23 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/nucleus.jpg
-    beer_name: Nucleus
-    beer_brewery: Mr Bees
-    beer_abv: 4.6
+  - beer_image: /images/24205ccb-1069-4b93-80d6-d8681c62239a.jpg
+    beer_name: Heavy Metal Mild
+    beer_brewery: Humpty Dumpty
+    beer_abv: 3.7
     beer_coming_soon: false
     beer_price: 4.4
     beer_on_now: true
-  - beer_image: /images/easy-beezy.jpg
-    beer_name: Easy Beesy
-    beer_brewery: Mr Bees
+  - beer_image: /images/wolf-ale.jpg
+    beer_name: Wolf Ale
+    beer_brewery: Wolf
     beer_price: 4.4
     beer_coming_soon: false
-    beer_abv: 3.6
-    beer_on_now: false
-  - beer_image: /images/reedham-gold.jpeg
-    beer_name: Reedham Gold
-    beer_brewery: Humpty Dumpty
-    beer_abv: 3.6
+    beer_abv: 3.9
+    beer_on_now: true
+  - beer_image: /images/01cf01a1-fd1d-4954-a34b-b6b5ddde213b.jpg
+    beer_name: Reedling
+    beer_brewery: Green Jack
+    beer_abv: 4.6
     beer_on_now: true
     beer_price: 4.4

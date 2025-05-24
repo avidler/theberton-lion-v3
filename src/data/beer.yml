@@ -44,7 +44,7 @@ beers:
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: true
-  - beer_image: ../images/blank.png
+  - beer_image: /images/drinkstone.png
     beer_name: Bitter
     beer_brewery: Drinkstone
     beer_abv: 3.8

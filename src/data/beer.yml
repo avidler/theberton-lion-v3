@@ -26,3 +26,39 @@ beers:
     beer_abv: 4.6
     beer_on_now: true
     beer_price: 4.4
+  - beer_image: /images/trimley-bee-air.jpg
+    beer_name: Trimley Bee Air
+    beer_brewery: Mr Bees
+    beer_abv: 3.7
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/drinkstone.png
+    beer_name: Uncle Percy's Solar Powered Pale Ale
+    beer_brewery: Drinkstone Ales
+    beer_abv: 4
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/drinkstone.png
+    beer_name: Stout
+    beer_brewery: Drinkstone Ales
+    beer_abv: 4.2
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: ../images/blank.png
+    beer_name: Bitter
+    beer_brewery: Drinkstone
+    beer_abv: 3.8
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/drinkstone.png
+    beer_name: Golden Ale
+    beer_brewery: Drinkstone Ales
+    beer_abv: 4
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/drinkstone.png
+    beer_name: Clover Mild
+    beer_brewery: Drinkstone Ales
+    beer_abv: 3.4
+    beer_price: 4.4
+    beer_coming_soon: true

@@ -13,13 +13,6 @@ beers:
     beer_coming_soon: false
     beer_price: 4.4
     beer_on_now: true
-  - beer_image: /images/wolf-ale.jpg
-    beer_name: Wolf Ale
-    beer_brewery: Wolf
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_abv: 3.9
-    beer_on_now: true
   - beer_image: /images/01cf01a1-fd1d-4954-a34b-b6b5ddde213b.jpg
     beer_name: Reedling
     beer_brewery: Green Jack
@@ -31,7 +24,8 @@ beers:
     beer_brewery: Mr Bees
     beer_abv: 3.7
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/drinkstone.png
     beer_name: Uncle Percy's Solar Powered Pale Ale
     beer_brewery: Drinkstone Ales

@@ -1,23 +1,22 @@
 mains:
-  - main_course_name: Chicken Chasseur with Parsley Mash
-    main_course_description: Served with chantenay carrots and spring greens (GF)
+  - main_course_name: Parmesan and Sage Pork Cutlets with Mustard Sauce
+    main_course_description: Served with seasonal vegetables and new potatoes (GF)
     main_course_price: 16.95
-  - main_course_name: Pan Seared Duck Breast in Plum Gravy with Dauphinoise Potatoes
-    main_course_description: Served with seasonal vegetables (GF)
+  - main_course_name: Chinese Velvet Cashew Chicken with Green Peppers
+    main_course_description: Stir fried and served with fine egg noodles
+    main_course_price: 16.95
+  - main_course_name: Baked Red Snapper with Zhoug
+    main_course_description: Served with coriander lime rice and asparagus spears. (GF)
     main_course_price: 17.95
-  - main_course_name: Herb Crusted Halibut with Saffron Risotto
-    main_course_description: Served with asparagus spears.
+  - main_course_name: Pumpkin Cannelloni with Cashew Cream
+    main_course_description: Served with garlic bread and side salad. (V)
     main_course_price: 16.95
-  - main_course_name: Butternut Squash Steak with a Basil and Tomato Sauce
-    main_course_description: With Beef Tomato, Field Mushroom, Onion Rings and Hand
-      Cut Chips (GF), (Vegan)
-    main_course_price: 16.95
-  - main_course_name: Wild Garlic & Ricotta Gnocchi
-    main_course_description: With pesto, pine nuts and rocket (GF), (V)
+  - main_course_name: Chef's Lamb Koftas with Herb Cous Cous Stuffed Roasted Peppers
+    main_course_description: Served with summer succotash and house made mint raita
+    main_course_price: 17.95
+  - main_course_name: Landlady's Baked Ratatouille with Vegan Feta
+    main_course_description: Served with garlic bread (GF, Vegan)
     main_course_price: 15.95
-  - main_course_name: House Short Rib Tacos
-    main_course_description: With pineapple salsa and house paprika fries. (GF Option)
-    main_course_price: 16.95
   - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
     main_course_description: Served with Garden peas and house tartare sauce (GF)
     main_course_price: 15.95
@@ -52,16 +51,16 @@ mains:
     main_course_description: Our own house-made base with rich house tomato sauce,
       mozzarella, cheddar cheese, red onion, sweetcorn and green peppers
     main_course_price: 12
-  - main_course_name: House-made Cajun Chicken Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, Cajun chicken and green peppers
+  - main_course_name: House-made BBQ Chicken Pizza
+    main_course_description: Our own house-made base with rich house BBQ sauce,
+      mozzarella, cheddar cheese, BBQ chicken and green peppers
     main_course_price: 12
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: "House-made Margherita Pizza "
+  - main_course_name: House-made Quattro Formaggi Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella & cheddar cheese
-    main_course_price: 10
+      mozzarella,  goats cheese, gorgonzola & parmesan cheese
+    main_course_price: 11
     main_course_wheat_free: false
   - main_course_name: House-made Meat Feast Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,

@@ -1,13 +1,20 @@
 lite_bites:
-  - lite_bite_name: Sticky Honey Pork Bites
-    lite_bite_description: With chopped spring onions and chillies. (GF)
+  - lite_bite_name: Citrus Cured Salmon
+    lite_bite_description: With parmesan toast
     lite_bite_price: 7.95
-  - lite_bite_name: Calamari Rings with Sriracha Mayonnaise
+  - lite_bite_name: Halloumi Fries
+    lite_bite_description: With sweet chilli and tomato jam
+    lite_bite_price: 7.95
+  - lite_bite_name: Honey Garlic Chicken Bites
     lite_bite_description: (GF)
     lite_bite_price: 7.95
-  - lite_bite_name: Chef's Wild Mushroom Pate
-    lite_bite_description: With sourdough toast. (GF Option) (V)
+  - lite_bite_name: Garlic Chilli King Prawns
+    lite_bite_description: (GF)
     lite_bite_price: 7.95
-  - lite_bite_name: Soup of The Day
-    lite_bite_description: Served with sourdough.  Please ask for today's selection.
+  - lite_bite_name: Goats Cheese Stuffed Bacon Wrapped Dates
+    lite_bite_description: With rosemary honey (GF)
+    lite_bite_price: 7.95
+  - lite_bite_name: Portobello Pizza
+    lite_bite_description: Portobello mushroom topped with marinara sauce, vegan
+      mozzarella and Italian herbs
     lite_bite_price: 7.95

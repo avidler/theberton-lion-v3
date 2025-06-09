@@ -6,59 +6,38 @@ beers:
     beer_price: 4.1
     beer_coming_soon: true
     beer_on_now: false
-  - beer_image: /images/24205ccb-1069-4b93-80d6-d8681c62239a.jpg
-    beer_name: Heavy Metal Mild
-    beer_brewery: Humpty Dumpty
-    beer_abv: 3.7
-    beer_coming_soon: true
+  - beer_image: /images/jumper.jpg
+    beer_name: Jumper
+    beer_brewery: Moon Gazer
+    beer_abv: 3.9
+    beer_coming_soon: false
     beer_price: 4.4
-    beer_on_now: false
+    beer_on_now: true
   - beer_image: /images/01cf01a1-fd1d-4954-a34b-b6b5ddde213b.jpg
     beer_name: Reedling
     beer_brewery: Green Jack
     beer_abv: 4.6
-    beer_on_now: false
-    beer_price: 4.4
-    beer_coming_soon: true
-  - beer_image: /images/trimley-bee-air.jpg
-    beer_name: Trimley Bee Air
-    beer_brewery: Mr Bees
-    beer_abv: 3.7
-    beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/drinkstone.png
-    beer_name: Uncle Percy's Solar Powered Pale Ale
-    beer_brewery: Drinkstone Ales
-    beer_abv: 4
+    beer_on_now: true
     beer_price: 4.4
     beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/drinkstone.png
-    beer_name: Stout
-    beer_brewery: Drinkstone Ales
-    beer_abv: 4.2
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/drinkstone.png
-    beer_name: Bitter
-    beer_brewery: Drinkstone
+  - beer_image: /images/umbel-ale.jpeg
+    beer_name: Umbel Ale
+    beer_brewery: Nethergate
     beer_abv: 3.8
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/drinkstone.png
-    beer_name: Golden Ale
-    beer_brewery: Drinkstone Ales
+  - beer_image: /images/broadland-sunrise.jpg
+    beer_name: Broadland Sunrise
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.2
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_on_now: false
+  - beer_image: /images/bloom.jpeg
+    beer_name: Bloom,
+    beer_brewery: Lacons
     beer_abv: 4
     beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/drinkstone.png
-    beer_name: Clover Mild
-    beer_brewery: Drinkstone Ales
-    beer_abv: 3.4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
+    beer_coming_soon: true
+    beer_on_now: false

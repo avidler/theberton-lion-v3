@@ -28,6 +28,10 @@ mains:
       cheese, leaf and tomato.   Served with coleslaw, onion rings and hand cut
       chips. (GF)
     main_course_price: 15.95
+  - main_course_name: 10oz Ribeye Steak with Hand Cut Chips
+    main_course_description: Served with beef tomato, field mushroom, onion rings
+      and your choice of blue cheese or peppercorn sauce. (GF)
+    main_course_price: 22.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a
       selection of our House Curries. Served with rice and our House Naan Bread.

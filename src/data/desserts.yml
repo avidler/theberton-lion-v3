@@ -1,16 +1,17 @@
 desserts:
-  - dessert_name: Landlady's Orange Posset
-    dessert_description: With chocolate drizzle. (GF) (V)
+  - dessert_name: Chef's Gooseberry Pie
+    dessert_description: Served with custard. (V)
     dessert_price: 7.95
     dessert_vegetarian: true
-    dessert_wheat_free: true
-  - dessert_name: Chocolate Fondant
-    dessert_description: With salted caramel ice cream. (GF) (V)
+    dessert_wheat_free: false
+  - dessert_name: Peach Melba Cake
+    dessert_description: With raspberry ripple ice cream (GF, Vegan)
     dessert_price: 7.95
     dessert_wheat_free: false
     dessert_vegetarian: true
-  - dessert_name: Jam Doughnut Pancakes
-    dessert_description: Served with strawberry ice cream (V)
+  - dessert_name: Chef's Mango Tiramisu
+    dessert_description: (V)
     dessert_price: 7.95
-  - dessert_name: Chef's Lime Cheesecake (V)
+  - dessert_name: Strawberry & Blueberry Eton Mess
     dessert_price: 7.95
+    dessert_description: With Red Velvet Crumb (GF, V)

@@ -1,5 +1,5 @@
 event:
-  - event_date: April 26, 2025 10:00 PM
+  - event_date: June 21, 2025 10:00 PM
     event_title: Rock and Roll Bingo
     event_image: /images/rock-and-roll-bingo-logo.jpg
     event_notes: Buy a card, identify songs, get a line, win a free drink. It's only
@@ -18,9 +18,9 @@ event:
   - event_date: January 17, 2025 5:00 PM
     event_title: Theberton Lion Winter Beer Festival
     event_image: /images/winter-2025.png
-  - event_date: April 24, 2025 9:30 PM
-    event_title: Beer Club & Tap Takeover - Three Blind Mice
-    event_image: /images/beer-club-tap-takeover.png
+  - event_date: June 26, 2025 9:30 PM
+    event_title: Beer Club & Tap Takeover - Milton Brewery
+    event_image: /images/493c1f4c-229c-4fc2-94e0-9586105ce86a.png
     event_notes: Join us for Beer Club at The Theberton Lion and be the first to try
       five Brewery beers for just £8.50 as the Coggeshall based brewer takes
       over the taps. All we ask in return is your feedback to help us shape our
@@ -38,8 +38,11 @@ event:
     event_title: Quiz Night
     event_notes: Join us for a fun evening of questions
     event_image: /images/quiz.png
-  - event_date: August 15, 2024 6:00 PM
-    event_title: The 8th Annual Theberton Lion Summer Beer & Cider Festival
+  - event_date: August 2, 2025 8:30 PM
+    event_title: Dinner Magic Show - 10th Anniversary Celebration
+    event_image: /images/oliver-tabor-magic-night-header.jpg
+  - event_date: August 8, 2025 6:00 PM
+    event_title: The 9th Annual Theberton Lion Summer Beer & Cider Festival
     event_image: /images/8th-beer-festival-logo.png
     event_notes: Join us for our fabulous annual festival of ale & cider
   - event_date: November 30, 2024 8:00 PM

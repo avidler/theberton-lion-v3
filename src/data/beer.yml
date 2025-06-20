@@ -20,9 +20,9 @@ beers:
     beer_on_now: true
     beer_price: 4.4
     beer_coming_soon: false
-  - beer_image: /images/broadland-sunrise.jpg
-    beer_name: Broadland Sunrise
-    beer_brewery: Humpty Dumpty
+  - beer_image: /images/gorgeous-george.jpg
+    beer_name: Gorgeous George
+    beer_brewery: Mighty Oak
     beer_abv: 4.2
     beer_price: 4.4
     beer_coming_soon: false
@@ -34,3 +34,51 @@ beers:
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
+  - beer_image: /images/minotaur.png
+    beer_name: Minotaur
+    beer_brewery: Milton
+    beer_price: 4.4
+    beer_coming_soon: true
+    beer_abv: 3.3
+  - beer_image: /images/minerva.png
+    beer_name: Minerva
+    beer_brewery: Milton Brewery
+    beer_abv: 4.6
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/justinian.png
+    beer_name: Justinian
+    beer_brewery: Milton Brewery
+    beer_abv: 3.9
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/pegasus.png
+    beer_name: Pegasus
+    beer_brewery: Milton Brewery
+    beer_abv: 4.1
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/nike.jpeg
+    beer_name: Nike
+    beer_brewery: Milton Brewery
+    beer_abv: 4.7
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/calypso.jpeg
+    beer_name: "Calypso "
+    beer_brewery: Mighty Oak
+    beer_abv: 3.9
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/oaks.jpg
+    beer_name: Oaks
+    beer_brewery: Barsham Brewery
+    beer_abv: 3.6
+    beer_price: 4.4
+    beer_coming_soon: true
+  - beer_image: /images/pilgrims-pale.jpg
+    beer_name: Pilgrims Pale
+    beer_brewery: Barsham Brewery
+    beer_abv: 4
+    beer_price: 4.4
+    beer_coming_soon: true

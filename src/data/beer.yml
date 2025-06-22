@@ -13,13 +13,6 @@ beers:
     beer_coming_soon: false
     beer_price: 4.4
     beer_on_now: true
-  - beer_image: /images/mighty-oak-standard.jpeg
-    beer_name: Harpy I.P.A
-    beer_brewery: Mighty Oak
-    beer_abv: 4.4
-    beer_on_now: true
-    beer_price: 4.4
-    beer_coming_soon: false
   - beer_image: /images/gorgeous-george.jpg
     beer_name: Gorgeous George
     beer_brewery: Mighty Oak

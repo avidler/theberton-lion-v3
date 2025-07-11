@@ -50,7 +50,7 @@ beers:
     beer_abv: 5.2
     beer_brewery: UILTJE Brewing / Greene King
     beer_coming_soon: true
-    beer_price: 4.4
+    beer_price: 4.6
   - beer_image: /images/belhaven-80-shilling.png
     beer_name: Belhaven 80 Shilling
     beer_brewery: Belhaven / Greene King

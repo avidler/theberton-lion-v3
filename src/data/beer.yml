@@ -44,7 +44,8 @@ beers:
     beer_brewery: Green Jack
     beer_abv: 4
     beer_price: 4.4
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/bird-of-prey.jpg
     beer_name: Bird of Prey
     beer_abv: 5.2

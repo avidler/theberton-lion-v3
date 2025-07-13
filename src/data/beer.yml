@@ -6,13 +6,6 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/soham-logo.jpeg
-    beer_name: Forty
-    beer_brewery: Earl Soham
-    beer_abv: 4
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/wolf-brewery-logo-201w.webp
     beer_name: Riptide
     beer_brewery: Wolf

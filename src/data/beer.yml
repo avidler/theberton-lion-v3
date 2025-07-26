@@ -6,48 +6,29 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/wolf-brewery-logo-201w.webp
-    beer_name: Riptide
-    beer_brewery: Wolf
-    beer_abv: 4.1
-    beer_price: 4.4
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/grain-on-the-hill-web-675x675.jpg
     beer_name: Grain / Chalk Hill
     beer_brewery: Grain On The Hill
     beer_abv: 4.5
     beer_price: 4.4
-    beer_coming_soon: true
-    beer_on_now: false
-  - beer_image: /images/augustinian.jpeg
-    beer_brewery: Nethergate
-    beer_name: Augustinian
-    beer_abv: 4.5
+    beer_coming_soon: false
     beer_on_now: true
-    beer_price: 4.4
   - beer_image: /images/grain-best-bitter.png
     beer_name: Best Bitter
     beer_brewery: Grain
     beer_abv: 4.2
     beer_price: 4.4
-    beer_coming_soon: true
-  - beer_image: /images/summer-dream.jpeg
-    beer_name: Summer Dream
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/bird-of-prey.jpg
-    beer_name: Bird of Prey
-    beer_abv: 5.2
-    beer_brewery: UILTJE Brewing / Greene King
-    beer_coming_soon: true
-    beer_price: 4.6
-  - beer_image: /images/belhaven-80-shilling.png
-    beer_name: Belhaven 80 Shilling
-    beer_brewery: Belhaven / Greene King
-    beer_abv: 3.9
+  - beer_image: /images/krush-on-you.jpeg
+    beer_name: Krush On You
+    beer_brewery: Tindall Ales
+    beer_abv: 4.4
+    beer_on_now: true
     beer_price: 4.4
-    beer_coming_soon: true
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
+    beer_brewery: Green Jack
+    beer_abv: 4.6
+    beer_on_now: true
+    beer_price: 4.4

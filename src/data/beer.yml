@@ -6,29 +6,23 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/grain-on-the-hill-web-675x675.jpg
-    beer_name: Grain / Chalk Hill
-    beer_brewery: Grain On The Hill
-    beer_abv: 4.5
+  - beer_image: /images/rascality-hair-of-the-frogh.jpg
+    beer_name: Hair of The Frog
+    beer_brewery: Rascality Brewing
+    beer_abv: 4.3
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/grain-best-bitter.png
-    beer_name: Best Bitter
-    beer_brewery: Grain
-    beer_abv: 4.2
+  - beer_image: /images/humpty-dumpty-red-mill.jpeg
+    beer_name: Red Mill
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.3
     beer_price: 4.4
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/krush-on-you.jpeg
-    beer_name: Krush On You
-    beer_brewery: Tindall Ales
-    beer_abv: 4.4
-    beer_on_now: true
-    beer_price: 4.4
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.6
+  - beer_image: /images/jigfoot.jpg
+    beer_name: Jigfoot
+    beer_brewery: Moon Gazer
+    beer_abv: 4.3
     beer_on_now: true
     beer_price: 4.4

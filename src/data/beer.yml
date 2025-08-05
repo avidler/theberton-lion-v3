@@ -26,16 +26,16 @@ beers:
     beer_abv: 4.3
     beer_on_now: true
     beer_price: 4.4
-  - beer_image: /images/red-herring.png
-    beer_name: Red Herring
-    beer_brewery: Green Jack
-    beer_abv: 5
-    beer_price: 4.6
-    beer_coming_soon: true
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4.6
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/red-herring.png
+    beer_name: Red Herring
+    beer_brewery: Green Jack
+    beer_abv: 5
     beer_price: 4.6
     beer_coming_soon: true
   - beer_image: /images/nightingale.jpg
@@ -44,17 +44,17 @@ beers:
     beer_abv: 4
     beer_price: 4.6
     beer_coming_soon: true
+  - beer_image: /images/b9796365-d751-42f2-8105-9c096c452d14.jpg
+    beer_name: Vanguard Pale Ale
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.7
+    beer_price: 4.6
+    beer_coming_soon: true
   - beer_image: /images/black-treacle-porter.jpeg
     beer_name: Black Treacle Porter
     beer_brewery: Humpty Dumpty
     beer_price: 4.6
     beer_abv: 3.9
-    beer_coming_soon: true
-  - beer_image: /images/b9796365-d751-42f2-8105-9c096c452d14.jpg
-    beer_name: Vanguard Pale Ale
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.7
-    beer_price: 3.6
     beer_coming_soon: true
   - beer_image: /images/tindalls-mild.png
     beer_name: Mild

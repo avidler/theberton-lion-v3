@@ -134,7 +134,7 @@ beers:
     beer_abv: 5.5
     beer_coming_soon: true
     beer_price: 4.6
-  - beer_image: /images/cherry.jpeg
+  - beer_image: /images/choc-and-cherry-porter.jpg
     beer_name: Cherry & Chocolate Porter
     beer_brewery: Wolf
     beer_abv: 4.6

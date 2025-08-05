@@ -26,3 +26,117 @@ beers:
     beer_abv: 4.3
     beer_on_now: true
     beer_price: 4.4
+  - beer_image: /images/red-herring.png
+    beer_name: Red Herring
+    beer_brewery: Green Jack
+    beer_abv: 5
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/trawlerboys.png
+    beer_name: Trawlerboys
+    beer_brewery: Green Jack
+    beer_abv: 4.6
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/nightingale.jpg
+    beer_name: Nightingale
+    beer_brewery: Green Jack
+    beer_abv: 4
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/black-treacle-porter.jpeg
+    beer_name: Black Treacle Porter
+    beer_brewery: Humpty Dumpty
+    beer_price: 4.6
+    beer_abv: 3.9
+    beer_coming_soon: true
+  - beer_image: /images/b9796365-d751-42f2-8105-9c096c452d14.jpg
+    beer_name: Vanguard Pale Ale
+    beer_brewery: Humpty Dumpty
+    beer_abv: 4.7
+    beer_price: 3.6
+    beer_coming_soon: true
+  - beer_image: /images/tindalls-mild.png
+    beer_name: Mild
+    beer_brewery: Tindall Ales
+    beer_abv: 3.7
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/7eb427f8-8d39-4ecc-a88e-03bbace64cfb.jpg
+    beer_name: Mr Winters
+    beer_brewery: Hypothesis
+    beer_price: 4.6
+    beer_coming_soon: true
+    beer_abv: 4.1
+  - beer_image: /images/lune-valley-gold.jpg
+    beer_name: Lune Valley Gold
+    beer_brewery: Lune Brew
+    beer_abv: 4.2
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/47e1c50b-2acf-4f6f-b7dd-a0e6c73a486c.jpg
+    beer_name: Poets' Tipple
+    beer_brewery: Ashover
+    beer_abv: 4
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/brentwood-lumberjack.jpeg
+    beer_name: Lumberjack
+    beer_brewery: Brentwood
+    beer_abv: 5.2
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/1555.jpeg
+    beer_name: "1555"
+    beer_brewery: Bishop Nick
+    beer_abv: 4.3
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/divine.jpg
+    beer_name: Divine
+    beer_brewery: Bishop Nick
+    beer_abv: 5.1
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/pegasus.png
+    beer_name: Pegasus
+    beer_brewery: Milton
+    beer_abv: 4.1
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/umbel-ale.jpeg
+    beer_name: Umbel Ale
+    beer_brewery: Nethergate
+    beer_abv: 3.8
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/wyldesky-gold2025.jpg
+    beer_name: Gold
+    beer_brewery: Wylde Sky
+    beer_abv: 4
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/wild-eye-pa.jpeg
+    beer_name: Wild Eye PA
+    beer_brewery: Wild Craft
+    beer_abv: 3.8
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/way-to-amberillo.jpeg
+    beer_name: Way To Amberillo
+    beer_brewery: Jackrabbit
+    beer_abv: 4.5
+    beer_price: 4.6
+    beer_coming_soon: true
+  - beer_image: /images/4b3a3931-a442-4d1c-b80f-b81332d1f40e.jpg
+    beer_name: Good Time Jack
+    beer_brewery: Moon Gazer
+    beer_abv: 5.5
+    beer_coming_soon: true
+    beer_price: 4.6
+  - beer_image: /images/cherry.jpeg
+    beer_name: Cherry & Chocolate Porter
+    beer_brewery: Wolf
+    beer_abv: 4.6
+    beer_coming_soon: true
+    beer_price: 4.6

@@ -92,13 +92,6 @@ beers:
     beer_abv: 4.1
     beer_price: 4.6
     beer_coming_soon: true
-  - beer_image: /images/umbel-ale.jpeg
-    beer_name: Umbel Ale
-    beer_brewery: Nethergate
-    beer_abv: 3.8
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/wyldesky-gold2025.jpg
     beer_name: Gold
     beer_brewery: Wylde Sky

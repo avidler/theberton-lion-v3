@@ -19,25 +19,11 @@ beers:
     beer_abv: 4.6
     beer_price: 4.6
     beer_coming_soon: true
-  - beer_image: /images/nightingale.jpg
-    beer_name: Nightingale
-    beer_brewery: Green Jack
-    beer_abv: 4
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/b9796365-d751-42f2-8105-9c096c452d14.jpg
     beer_name: Vanguard Pale Ale
     beer_brewery: Humpty Dumpty
     beer_abv: 4.7
     beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/black-treacle-porter.jpeg
-    beer_name: Black Treacle Porter
-    beer_brewery: Humpty Dumpty
-    beer_price: 4.6
-    beer_abv: 3.9
     beer_coming_soon: false
     beer_on_now: true
   - beer_image: /images/tindalls-mild.png
@@ -85,13 +71,15 @@ beers:
     beer_brewery: Bishop Nick
     beer_abv: 5.1
     beer_price: 4.6
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/pegasus.png
     beer_name: Pegasus
     beer_brewery: Milton
     beer_abv: 4.1
     beer_price: 4.6
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true
   - beer_image: /images/wyldesky-gold2025.jpg
     beer_name: Gold
     beer_brewery: Wylde Sky
@@ -110,13 +98,6 @@ beers:
     beer_abv: 4.5
     beer_price: 4.6
     beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/4b3a3931-a442-4d1c-b80f-b81332d1f40e.jpg
-    beer_name: Good Time Jack
-    beer_brewery: Moon Gazer
-    beer_abv: 5.5
-    beer_coming_soon: false
-    beer_price: 4.6
     beer_on_now: true
   - beer_image: /images/choc-and-cherry-porter.jpg
     beer_name: Cherry & Chocolate Porter

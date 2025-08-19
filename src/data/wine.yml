@@ -77,19 +77,18 @@ wine_categories:
             wine_size: 75cl Bottle
   - wine_category: White
     wine_category_list:
-      - wine_vineyard: Il Badalisc
+      - wine_vineyard: Il Caggio
         wine_name: Pinot Grigo
-        wine_location: Castel Boglione, Italy
-        wine_description: A fresh, dry white with wonderful stonefruit and citrus
-          aromas. Crisp and delicate with a balance of honey & citrus to finish.
+        wine_location: Veneto, Italy
+        wine_description: Still as popular as ever, this is a delicate off dry white
+          with hints of citrus on the palate and nose. Pairs perfect with dishes
+          with a bit of spice or delicious to enjoy on its own.
         wine_prices:
-          - wine_price: 4.35
-            wine_size: 125ml
-          - wine_price: 5.4
+          - wine_price: 6.3
             wine_size: 175ml
-          - wine_price: 6.9
+          - wine_price: 7.8
             wine_size: 250ml
-          - wine_price: 19
+          - wine_price: 22.5
             wine_size: 75cl bottle
       - wine_vineyard: Les Anges
         wine_name: Chenin Dry (VG)
@@ -104,53 +103,55 @@ wine_categories:
             wine_size: 250ml
           - wine_price: 20.5
             wine_size: 75cl bottle
-      - wine_vineyard: Honu
-        wine_name: Sauvignon Blanc
-        wine_location: Marlborough, New Zealand
-        wine_description: Fresh, crisp and zesty with aromas of citrus and passionfruit
-          combined with intense flavours of lime and gooseberry.
+      - wine_vineyard: "Anchorage Estate "
+        wine_name: Sauvignon Blanc Reserve
+        wine_location: New Zealand
+        wine_description: Trademark aromas of gooseberry on the nose with an incredibly
+          concentrated nose. Touches of tropical fruit on the palate with a long
+          sophisticated finish.
         wine_prices:
-          - wine_price: 4.55
-            wine_size: 125ml
-          - wine_price: 5.7
+          - wine_price: 8.4
             wine_size: 175ml
-          - wine_price: 7.6
+          - wine_price: 10.5
             wine_size: 250ml
-          - wine_price: 21
+          - wine_price: 29.95
             wine_size: 75cl bottle
-      - wine_vineyard: Chamin des Pins Marsanne
-        wine_name: Viognier
-        wine_location: Languedoc, France
-        wine_description: A combination of two grape varieties, this exciting blend
-          offers a background of haunting hedgerow blossom, with hints of
-          jasmine supported by refreshing flavours of apricot & peach.
+      - wine_vineyard: Cascine Radice
+        wine_name: Gavi
+        wine_location: Piemonte, Italy
+        wine_description: Delicate blossom and slight minerality on the nose. Green
+          apple, citrus and pear on the palate. Excellent freshness with a nice
+          balance of acidity. Try with fish.
         wine_prices:
-          - wine_price: 25
-            wine_size: 75cl bottle
-      - wine_vineyard: L'Ormarine
-        wine_name: Picpoul de Pinet
-        wine_location: Languedoc, France
-        wine_description: Yellow with bright highlights, generous notes of citrus. Well
-          balanced & lively on the palate with delicate lemony notes.
-        wine_prices:
-          - wine_price: 25
+          - wine_price: 35.95
             wine_size: 75cl bottle
   - wine_category: Sparkling
     wine_category_list:
-      - wine_vineyard: Robert & Reeves
-        wine_name: Prosecco
+      - wine_vineyard: Il Caggio
+        wine_name: Prosecco (VG)
         wine_location: Veneto, Italy
-        wine_description: Delicate lemon fruit notes with white stone fruit. Refreshing,
-          lively with fine bubbles.
+        wine_description: Pale in colour and with aromas of strawberry.  Incredibly refreshing.
         wine_prices:
-          - wine_price: 7.6
+          - wine_price: 8.5
             wine_size: 20cl bottle
-          - wine_price: 24
+          - wine_price: 24.95
             wine_size: 75cl bottle
-      - wine_vineyard: Moet & Chandon
-        wine_name: Imperial Brut
-        wine_description: Crisp and clean, this classic Champagne shows citrus aromas
-          and hints of biscuity flavours.
+      - wine_vineyard: Il Caggio
+        wine_name: Prosecco Rose (VG)
+        wine_description: "Pale in colour and with aromas of strawberry.  Incredibly
+          refreshing.  "
         wine_prices:
-          - wine_price: 62
+          - wine_size: 20cl Bottle
+            wine_price: 8.5
+          - wine_price: 25.5
             wine_size: 75cl bottle
+        wine_location: Veneto, Italy
+      - wine_vineyard: Simonsig Estate
+        wine_name: Cap Classique Brut (VG)
+        wine_location: Stellenbosch, South Africa
+        wine_description: "Made in the same method as Champagne and from the same
+          grapes. Dry, delicate and smooth multi award-winning fizz from this
+          prestigious estate. "
+        wine_prices:
+          - wine_size: 75cl Bottle
+            wine_price: 38.95

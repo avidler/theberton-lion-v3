@@ -6,30 +6,10 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/red-herring.png
-    beer_name: Red Herring
-    beer_brewery: Green Jack
-    beer_abv: 5
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/trawlerboys.png
     beer_name: Trawlerboys
     beer_brewery: Green Jack
     beer_abv: 4.6
-    beer_price: 4.6
-    beer_coming_soon: true
-  - beer_image: /images/b9796365-d751-42f2-8105-9c096c452d14.jpg
-    beer_name: Vanguard Pale Ale
-    beer_brewery: Humpty Dumpty
-    beer_abv: 4.7
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/tindalls-mild.png
-    beer_name: Mild
-    beer_brewery: Tindall Ales
-    beer_abv: 3.7
     beer_price: 4.6
     beer_coming_soon: false
     beer_on_now: true
@@ -37,26 +17,6 @@ beers:
     beer_name: Lumberjack
     beer_brewery: Brentwood
     beer_abv: 5.2
-    beer_price: 4.6
-    beer_coming_soon: true
-  - beer_image: /images/pegasus.png
-    beer_name: Pegasus
-    beer_brewery: Milton
-    beer_abv: 4.1
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/wyldesky-gold2025.jpg
-    beer_name: Gold
-    beer_brewery: Wylde Sky
-    beer_abv: 4
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
-  - beer_image: /images/47e1c50b-2acf-4f6f-b7dd-a0e6c73a486c.jpg
-    beer_name: Poets' Tipple
-    beer_brewery: Ashover
-    beer_abv: 4
     beer_price: 4.6
     beer_coming_soon: false
     beer_on_now: true
@@ -66,13 +26,6 @@ beers:
     beer_abv: 3.8
     beer_price: 4.6
     beer_coming_soon: true
-  - beer_image: /images/way-to-amberillo.jpeg
-    beer_name: Way To Amberillo
-    beer_brewery: Jackrabbit
-    beer_abv: 4.5
-    beer_price: 4.6
-    beer_coming_soon: false
-    beer_on_now: true
   - beer_image: /images/choc-and-cherry-porter.jpg
     beer_name: Cherry & Chocolate Porter
     beer_brewery: Wolf

@@ -2,20 +2,14 @@ craft_beer_title: Craft Beers & Lagers
 craft_beer_description: We stock the finest craft beers available locally,
   nationally and internationally.
 craft_beers:
-  - craft_beer_brewery: Lacons
-    craft_beer_name: American Brown Ale
-    craft_beer_brewery_location: Lowestoft, Suffolk
-    craft_beer_abv: 4
-    craft_beer_description: Brewers Choice. Limited edition
+  - craft_beer_brewery: Burnt Mill
+    craft_beer_name: Big Sur Moon Cocoa Porter
+    craft_beer_brewery_location: Ipswich, Suffolk
+    craft_beer_abv: 4.2
+    craft_beer_description: Smooth full bodied, roasted porter with bags of cocoa
+      flavour and a beautifully creamy head.
     craft_beer_half_price: 2.95
     craft_beer_pint_price: 5.9
-  - craft_beer_brewery: Green Jack
-    craft_beer_name: Lurcher Stout
-    craft_beer_brewery_location: Lowestoft, Suffolk
-    craft_beer_abv: 4.8
-    craft_beer_description: Smooth full bodied, roasted stout with a beautifully creamy head.
-    craft_beer_half_price: 2.75
-    craft_beer_pint_price: 5.5
   - craft_beer_brewery: Ampersand
     craft_beer_name: Feld
     craft_beer_brewery_location: Diss, Suffolk
@@ -28,14 +22,14 @@ craft_beers:
 
 
       GLUTEN FREE & VEGAN FRIENDLY.
-    craft_beer_half_price: 2.5
-    craft_beer_pint_price: 5
+    craft_beer_half_price: 2.75
+    craft_beer_pint_price: 5.5
   - craft_beer_name: Conwallis Eye PA
     craft_beer_brewery_location: Eye, Suffolk
     craft_beer_abv: 5.6
     craft_beer_description: Refreshing full bodied American style I.P.A
-    craft_beer_half_price: 2.95
-    craft_beer_pint_price: 5.9
+    craft_beer_half_price: 3
+    craft_beer_pint_price: 6
     craft_beer_brewery: Chevallier Brewing Company
   - craft_beer_brewery: Tindalls
     craft_beer_name: Galaxy Dream
@@ -44,33 +38,17 @@ craft_beers:
     craft_beer_abv: 4
     craft_beer_pint_price: 5.8
     craft_beer_half_price: 2.9
-  - craft_beer_brewery: Duration
-    craft_beer_name: Good Times
-    craft_beer_abv: 4.2
+  - craft_beer_brewery: Big Drop
+    craft_beer_name: Paradiso
+    craft_beer_abv: 0.5
+    craft_beer_half_price: 2.25
+    craft_beer_pint_price: 4.5
+    craft_beer_description: Alcohol free citra IPA.
+    craft_beer_brewery_location: Ipswich, Suffolk
+  - craft_beer_brewery: ""
+    craft_beer_name: Pilsner Urquell
+    craft_beer_description: The original Pilsner, still brewed in Pilsen.  Simply the best.
     craft_beer_half_price: 2.95
     craft_beer_pint_price: 5.9
-    craft_beer_description: |-
-      American light lager.
-
-      GLUTEN FREE
-    craft_beer_brewery_location: Kings Lynn, Norfolk
-  - craft_beer_brewery: Green Jack
-    craft_beer_name: Rising Sun
-    craft_beer_brewery_location: Lowestoft, Suffolk
-    craft_beer_abv: 4.8
-    craft_beer_description: Dry hopped premium lager. Clean and crisp with a fruity
-      yet spicy hop character and aroma.
-    craft_beer_half_price: 2.95
-    craft_beer_pint_price: 5.9
-  - craft_beer_brewery: Grain
-    craft_beer_name: Pilsner
-    craft_beer_description: >-
-      Czech style, pale Pilsener lager. Fermented low and slow at 12C then
-      lagered at zero to create a crisp, easy-drinking pilsner.
-
-
-      GLUTEN FREE & VEGAN
-    craft_beer_half_price: 2.9
-    craft_beer_pint_price: 5.8
     craft_beer_brewery_location: Harleston, Norfolk
-    craft_beer_abv: 4
+    craft_beer_abv: 4.4

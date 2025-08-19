@@ -51,34 +51,29 @@ wine_categories:
             wine_size: 75cl bottle
   - wine_category: Rosé
     wine_category_list:
-      - wine_vineyard: Robert & Reeves
-        wine_name: White Zinfandel
+      - wine_vineyard: Feather Falls
+        wine_name: White Zinfandel (10.5%)
         wine_location: California, USA
-        wine_description: Lively and refreshing flavours of ripe fruit combine with a
-          delicate sweetness and crisp audacity.
+        wine_description: Delightful pale pink wine with flavours of summer fruits  and
+          a concentrated sweetness on the finish.
         wine_prices:
-          - wine_price: 4.25
-            wine_size: 125ml
-          - wine_price: 5.3
-            wine_size: 175ml
-          - wine_price: 6.6
-            wine_size: 250ml
-          - wine_price: 18
-            wine_size: 75cl bottle
-      - wine_vineyard: Voluta Grande
-        wine_name: Pinot Grigio Rose
-        wine_location: Pavia, Italy
-        wine_description: "Delightfully pink. Highly refreshing, easy drinking rosé
-          style. Strong red berry aromas and subdued hints of ripe strawberries.
-          "
-        wine_prices:
-          - wine_price: 4.55
-            wine_size: 125ml
           - wine_price: 5.7
             wine_size: 175ml
-          - wine_price: 7.6
+          - wine_price: 7.25
             wine_size: 250ml
-          - wine_price: 21
+          - wine_price: 20.5
+            wine_size: 75cl bottle
+      - wine_vineyard: Il Caggio
+        wine_name: Pinot Grigio Blush (12%)
+        wine_location: Veneto, Italy
+        wine_description: Refreshingly light, with crisp flavours of ripe berry  fruits
+          and balanced acidity. More dry in style.
+        wine_prices:
+          - wine_price: 6.3
+            wine_size: 175ml
+          - wine_price: 7.8
+            wine_size: 250ml
+          - wine_price: 22.5
             wine_size: 75cl Bottle
   - wine_category: White
     wine_category_list:
@@ -96,19 +91,18 @@ wine_categories:
             wine_size: 250ml
           - wine_price: 19
             wine_size: 75cl bottle
-      - wine_vineyard: Robert & Reeves
-        wine_name: Chardonnay
-        wine_location: South Eastern Australia
-        wine_description: Generous and vibrant with ripe, tropical fruit flavours with a
-          burst of peach and melon on the palate.
+      - wine_vineyard: Les Anges
+        wine_name: Chenin Dry (VG)
+        wine_location: France
+        wine_description: A delightful dry and refreshing white made from the Chenin
+          grapes. From a producer in the Loire Valley where this grape really
+          thrives. Excellent with seafood dishes.
         wine_prices:
-          - wine_price: 4.25
-            wine_size: 125ml
-          - wine_price: 5.3
+          - wine_price: 5.8
             wine_size: 175ml
-          - wine_price: 6.6
+          - wine_price: 7.25
             wine_size: 250ml
-          - wine_price: 18
+          - wine_price: 20.5
             wine_size: 75cl bottle
       - wine_vineyard: Honu
         wine_name: Sauvignon Blanc

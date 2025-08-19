@@ -1,69 +1,54 @@
 wine_categories:
   - wine_category: Red
     wine_category_list:
-      - wine_vineyard: Peculiar Mr Pat
-        wine_name: Merlot
-        wine_location: Mildura, Australia
+      - wine_vineyard: Le Chevalier Georges,  France (VG)
+        wine_name: Merlot (VG)
+        wine_location: France
         wine_description: >
-          Bright, plush, deeply tasty, this is abundant in freshly picked red
-          fruit with a soft tannic
-
-          profile and a long, moreish finish.
+          Soft and smooth tannins and made in an easy to drink style with red
+          fruits on the nose. Pairs with most meats.
         wine_prices:
-          - wine_size: 125ml
-            wine_price: 4.25
           - wine_size: 175ml
-            wine_price: 5.3
+            wine_price: 6.1
           - wine_size: 250ml
-            wine_price: 6.6
+            wine_price: 7.6
           - wine_size: 75cl bottle
-            wine_price: 18
-      - wine_vineyard: Compass Point
-        wine_name: Shiraz
-        wine_location: South Eastern Australia
-        wine_description: Rich, ripe black fruit flavours of cherry and plum with hints
-          of vanilla and peppery spice.
+            wine_price: 21.95
+      - wine_vineyard: Lavoro
+        wine_name: Shiraz (VG)
+        wine_location: McLaren Vale, Australia
+        wine_description: Very typical pepper and spiciness on the nose with an
+          approachable slightly jammy palate. Quite full bodied but very
+          quaffable. Try with lamb dishes.
         wine_prices:
-          - wine_price: 4.35
-            wine_size: 125ml
-          - wine_price: 5.4
+          - wine_price: 6.7
             wine_size: 175ml
-          - wine_price: 6.9
+          - wine_price: 8.4
             wine_size: 250ml
-          - wine_price: 19
+          - wine_price: 23.95
             wine_size: 75cl bottle
-      - wine_vineyard: El Monstruo De Las Montanas
-        wine_name: Malbec
+      - wine_vineyard: Expresiones, Joffré
+        wine_name: Malbec (VG)
         wine_location: Mendoza, Argentina
-        wine_description: Big aromas offer an appealing, mixed spice, bramble fruit bomb
-          followed by dark, damson and savoury overtones on the taste with a
-          smooth and rounded finish.
+        wine_description: Bold dark fruit flavours are complemented by a touch of
+          bramble on this exquisite Malbec. THE wine to have with beef.
         wine_prices:
-          - wine_price: 4.55
-            wine_size: 125ml
-          - wine_price: 5.7
+          - wine_price: 7.8
             wine_size: 175ml
-          - wine_price: 7.6
+          - wine_price: 9.8
             wine_size: 250ml
-          - wine_price: 21
+          - wine_price: 27.95
             wine_size: 75cl bottle
-      - wine_vineyard: Vina Albina
-        wine_name: Rioja Crianza
-        wine_location: La Rioja, Spain
-        wine_description: A rich & complex red, which illustrates its time in oak
-          without losing the overarching tastes of dark summer berries. Its
-          lenghty finish displays a glimpse of warming liquorice fruit and fig.
+      - wine_vineyard: Bodegas Santalba
+        wine_name: Rioja Seleccion (VG)
+        wine_location: Rioja Alta, Spain
+        wine_description: A wonderful example of Rioja made from 100% Tempranillo
+          grapes. This has also had just 5 months aging in American oak barrels
+          to give it a little bit of extra complexity and the signature vanilla
+          / toasty aroma on the nose.
         wine_prices:
-          - wine_price: 26
+          - wine_price: 28.95
             wine_size: 75cl bottle
-      - wine_vineyard: Honu
-        wine_name: Pinot Noir
-        wine_location: Wairarapa, New Zealand
-        wine_description: Delightful strawberry and redcurrent aromas lead into
-          tantalising savoury flavours of roast game and raspberry.
-        wine_prices:
-          - wine_price: 23
-            wine_size: 75cl
   - wine_category: Rosé
     wine_category_list:
       - wine_vineyard: Robert & Reeves

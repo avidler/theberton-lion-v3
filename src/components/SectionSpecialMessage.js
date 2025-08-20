@@ -12,16 +12,7 @@ export default class SectionSpecialMessage extends React.Component {
             "Sunday 12.00pm - 6.00pm :: Food 12.00pm - 5.00pm"]
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
-            <div className="container" id="special_message">
-            <h2 className="page-title"></h2>
-         
-            <div id="special-picture">
-          
-          </div>
-    
- 
-  
-            </div>
+        
         </section>
     )
 }

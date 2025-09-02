@@ -6,30 +6,23 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/trawlerboys.png
-    beer_name: Trawlerboys
-    beer_brewery: Green Jack
-    beer_abv: 4.6
+  - beer_image: /images/black-anna.jpeg
+    beer_name: Black Anna
+    beer_brewery: Chalk Hill
+    beer_abv: 4
     beer_price: 4.6
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/brentwood-lumberjack.jpeg
-    beer_name: Lumberjack
-    beer_brewery: Brentwood
-    beer_abv: 5.2
+  - beer_image: /images/norfolk-gem.jpg
+    beer_name: Norfolk Gem
+    beer_brewery: Lacons
+    beer_abv: 3.6
     beer_price: 4.6
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/wild-eye-pa.jpeg
-    beer_name: Wild Eye PA
-    beer_brewery: Wild Craft
-    beer_abv: 3.8
+  - beer_image: /images/grain-on-the-hill-web-675x675.jpg
+    beer_name: Grain On The Hill
+    beer_brewery: Grain / Chalk Hill
+    beer_abv: 4.5
     beer_price: 4.6
     beer_coming_soon: true
-  - beer_image: /images/choc-and-cherry-porter.jpg
-    beer_name: Cherry & Chocolate Porter
-    beer_brewery: Wolf
-    beer_abv: 4.6
-    beer_coming_soon: false
-    beer_price: 4.6
-    beer_on_now: true

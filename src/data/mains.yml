@@ -1,21 +1,21 @@
 mains:
-  - main_course_name: Parmesan and Sage Pork Cutlets with Mustard Sauce
-    main_course_description: Served with seasonal vegetables and new potatoes (GF)
-    main_course_price: 16.95
-  - main_course_name: Chinese Velvet Cashew Chicken with Green Peppers
-    main_course_description: Stir fried and served with fine egg noodles
-    main_course_price: 16.95
-  - main_course_name: Baked Red Snapper with Zhoug
-    main_course_description: Served with coriander lime rice and asparagus spears. (GF)
+  - main_course_name: Pork, Pear & Sherry Casserole with Parmesan Dumplings
+    main_course_description: Served with seasonal vegetables
     main_course_price: 17.95
-  - main_course_name: Pumpkin Cannelloni with Cashew Cream
-    main_course_description: Served with garlic bread and side salad. (V)
+  - main_course_name: "Chef's Beef, Beer & Bacon Bolognaise "
+    main_course_description: Our house spaghetti bolognaise served with garlic bread
     main_course_price: 16.95
-  - main_course_name: Chef's Lamb Koftas with Herb Cous Cous Stuffed Roasted Peppers
-    main_course_description: Served with summer succotash and house made mint raita
-    main_course_price: 17.95
-  - main_course_name: Landlady's Baked Ratatouille with Vegan Feta
-    main_course_description: Served with garlic bread (GF, Vegan)
+  - main_course_name: Butcher's Pork & Leek Sausages with Mustard Mash
+    main_course_description: Served with onion gravy, braised red cabbage, roasted cabbage and kale (GF)
+    main_course_price: 16.95
+  - main_course_name: Nashville Fried Chickern with Cajun Seasoned Fries
+    main_course_description: Served with Honey Glazed Corn On The Cob.
+    main_course_price: 16.95
+  - main_course_name: Dill & Lemon Baked Salmon with Leeks
+    main_course_description: Served with dauphinoise potatoes and roasted carrots. (GF)
+    main_course_price: 16.95
+  - main_course_name: Sweet Potato & Chickpea Jambalaya with Corn Bread
+    main_course_description: (GF, Vegan)
     main_course_price: 15.95
   - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
     main_course_description: Served with Garden peas and house tartare sauce (GF)
@@ -23,10 +23,9 @@ mains:
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
-  - main_course_name: Gourmet Beef Burger
-    main_course_description: With streaky bacon, your choice of cheddar or blue
-      cheese, leaf and tomato.   Served with coleslaw, onion rings and hand cut
-      chips. (GF)
+  - main_course_name: Vegetable Patch Hot Pot
+    main_course_description: Root vegetables, lentils, cannellini beans, carrots,
+      mushrooms, celery, garlic and onions topped with sliced potato (GF, Vegan)
     main_course_price: 15.95
   - main_course_name: 10oz Ribeye Steak with Hand Cut Chips
     main_course_description: Served with beef tomato, field mushroom, onion rings
@@ -47,27 +46,26 @@ mains:
     main_course_wheat_free: false
   - main_course_name: House-made Pepperoni  Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese & sliced pepperoni
-    main_course_price: 12
+      mozzarella & cheddar cheese
+    main_course_price: 11
     main_course_wheat_free: false
     main_course_vegetarian: false
   - main_course_name: Vegetarian Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, red onion, sweetcorn and green peppers
-    main_course_price: 12
-  - main_course_name: House-made BBQ Chicken Pizza
-    main_course_description: Our own house-made base with rich house BBQ sauce,
-      mozzarella, cheddar cheese, BBQ chicken and green peppers
-    main_course_price: 12
+      mozzarella, cheddar cheese, red onion, sweetcorn, black olives and green
+      peppers
+    main_course_price: 12.5
+  - main_course_name: Chicken Supreme Pizza
+    main_course_description: Our own house-made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, chicken, green peppers, sweetcorn and mushroom
+    main_course_price: 13.5
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: House-made Quattro Formaggi Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella,  goats cheese, gorgonzola & parmesan cheese
+  - main_course_name: Garlic Bread Pizza
+    main_course_description: ""
     main_course_price: 11
     main_course_wheat_free: false
-  - main_course_name: House-made Meat Feast Pizza
+  - main_course_name: American Hot Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella & cheddar cheese, meatballs, peperoni, Cajun chicken and red
-      onion
+      mozzarella & cheddar cheese, pepperoni, black olives and jalapenos.
     main_course_price: 13.5

@@ -6,23 +6,24 @@ beers:
     beer_price: 4.1
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/umbel-ale.jpeg
-    beer_name: Umbel Ale
-    beer_brewery: Nethergate
-    beer_abv: 3.8
+  - beer_image: /images/simple-pleasures.png
+    beer_name: Simple Pleasures
+    beer_brewery: Nene Valley
+    beer_abv: 3.6
     beer_price: 4.6
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/stour-valley-gold.jpg
-    beer_name: Stour Valley Gold
-    beer_brewery: Nethergate
-    beer_abv: 4.2
+  - beer_image: /images/jerico-blonde.jpeg
+    beer_name: Jerico Blonde
+    beer_brewery: Settle
+    beer_abv: 3.6
     beer_price: 4.6
     beer_coming_soon: false
     beer_on_now: true
-  - beer_image: /images/chocolate-raisin-porter.jpg
-    beer_name: Chocolate Raisin Porter
-    beer_brewery: Nethergate
-    beer_abv: 4.2
+  - beer_image: /images/mauldons-logo.png
+    beer_name: Blackberry Porter
+    beer_brewery: Mauldons
+    beer_abv: 4.3
     beer_price: 4.6
-    beer_coming_soon: true
+    beer_coming_soon: false
+    beer_on_now: true

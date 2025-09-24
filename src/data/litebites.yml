@@ -1,20 +1,16 @@
 lite_bites:
-  - lite_bite_name: Citrus Cured Salmon
-    lite_bite_description: With parmesan toast
+  - lite_bite_name: Lamb Albondigas
+    lite_bite_description: With patatas fritas
+    lite_bite_price: 8.95
+  - lite_bite_name: Spanish Harm Croquettes
+    lite_bite_description: With chilli jam
     lite_bite_price: 7.95
-  - lite_bite_name: Halloumi Fries
-    lite_bite_description: With sweet chilli and tomato jam
+  - lite_bite_name: Smoked Mackerel Pate
+    lite_bite_description: With griddled toast (GF)
     lite_bite_price: 7.95
-  - lite_bite_name: Honey Garlic Chicken Bites
-    lite_bite_description: (GF)
+  - lite_bite_name: Tomato & Garlic Bruschetta
+    lite_bite_description: With salad garnish (GF, Vegan)
     lite_bite_price: 7.95
-  - lite_bite_name: Garlic Chilli King Prawns
-    lite_bite_description: (GF)
-    lite_bite_price: 7.95
-  - lite_bite_name: Goats Cheese Stuffed Bacon Wrapped Dates
-    lite_bite_description: With rosemary honey (GF)
-    lite_bite_price: 7.95
-  - lite_bite_name: Portobello Pizza
-    lite_bite_description: Portobello mushroom topped with marinara sauce, vegan
-      mozzarella and Italian herbs
+  - lite_bite_name: Fried Whitebait
+    lite_bite_description: With parsley & lemon mayonnaise (GF)
     lite_bite_price: 7.95

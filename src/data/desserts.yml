@@ -1,17 +1,17 @@
 desserts:
-  - dessert_name: Chef's Gooseberry Pie
-    dessert_description: Served with custard. (V)
-    dessert_price: 7.95
+  - dessert_name: Pistachio, Rose & White Chocolate Blondie
+    dessert_description: Served with vanilla ice cream (V)
+    dessert_price: 8.95
     dessert_vegetarian: true
     dessert_wheat_free: false
-  - dessert_name: Peach Melba Cake
-    dessert_description: With raspberry ripple ice cream (GF, Vegan)
+  - dessert_name: Damson & Hazelnut Crumble
+    dessert_description: Served with custard (GF, V)
     dessert_price: 7.95
     dessert_wheat_free: false
     dessert_vegetarian: true
-  - dessert_name: Chef's Mango Tiramisu
-    dessert_description: (V)
+  - dessert_name: Chef's Sticky Toffee Pudding
+    dessert_description: With custard (GF, V)
     dessert_price: 7.95
-  - dessert_name: Strawberry & Blueberry Eton Mess
+  - dessert_name: Cranberry & Clementine Muffin
     dessert_price: 7.95
-    dessert_description: With Red Velvet Crumb (GF, V)
+    dessert_description: With raspberry sorbet (Vegan)

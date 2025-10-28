@@ -13,7 +13,7 @@ export default class SectionLiveAleList extends React.Component {
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
             <div className="container" id="live_ale_list">
                 <h2 className="page-title">{`${section.title}`}</h2>
-                <iframe src="https://business.untappd.com/embeds/iframes/50115/175853" frameborder="0" height="2000" width="100%"></iframe>
+                <iframe src="https://business.untappd.com/embeds/iframes/50115/175853" frameborder="0" height="200" width="100%"></iframe>
                
             </div>
         </section>

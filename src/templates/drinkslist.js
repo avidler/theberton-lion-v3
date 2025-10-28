@@ -425,11 +425,11 @@ for (var i = 0; i < btns.length; i++) {
                 <div className="drink_header">
                 <span className="drink_header_title"></span>
                 <span className="drink_header_nav">
-                <nav id="menuNav" className="menuNav">
+               
                 <iframe src="https://business.untappd.com/embeds/iframes/50115/175853" frameborder="0" height="2000" width="100%"></iframe>
                
                    
-                </nav>
+              
                 </span>
                 </div>
                 

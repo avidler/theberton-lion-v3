@@ -423,24 +423,10 @@ for (var i = 0; i < btns.length; i++) {
             <Layout {...props}>
                  <div className="container">
                 <div className="drink_header">
-                <span className="drink_header_title"><h1>Drink</h1></span>
-                <span className="drink_header_nav">
-                <nav id="menuNav" className="menuNav">
-                <span className="glf-button" data-glf-cuid="50c453a2-d190-4cc1-83dd-d2daae9a31e2" data-glf-ruid="66c5d05f-76ff-468c-9142-d082e559d3b9"  > Real Ale Delivery</span>
-
-                    <button className="btn active" onClick={() => setDrinksChoice("ales")}>Live Real Ale List </button>
-                         <button className="btn" onClick={() => setDrinksChoice("craftbeer")}>Craft Beers</button>
-                         <button className="btn" onClick={() => setDrinksChoice("bottledbeer")}>Bottled Beers</button>
-                         <button className="btn" onClick={() => setDrinksChoice("lowalcbeer")}>Low Alcohol Beers</button>
-                         <button className="btn" onClick={() => setDrinksChoice("cider")}>Cider</button>
-                         <button className="btn" onClick={() => setDrinksChoice("wine")}>Wine</button>
-                         <button className="btn" onClick={() => setDrinksChoice("spirits")}>Spirits</button>
-                         <button className="btn" onClick={() => setDrinksChoice("softs")}>Soft Drinks</button>
-                    
-                </nav>
-                </span>
+                <iframe src="https://business.untappd.com/embeds/iframes/50115/175853" frameborder="0" height="2000" width="100%"></iframe>
+               
                 </div>
-                <div className="drink">{showMenu(drinksChoice)}</div>
+                
             </div>
            
             </Layout>

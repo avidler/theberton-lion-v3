@@ -5,11 +5,11 @@ mains:
   - main_course_name: "Chef's Beef, Beer & Bacon Bolognaise "
     main_course_description: Our house spaghetti bolognaise served with garlic bread
     main_course_price: 16.95
-  - main_course_name: Butcher's Pork & Leek Sausages with Mustard Mash
-    main_course_description: Served with onion gravy, braised red cabbage, roasted cabbage and kale (GF)
-    main_course_price: 16.95
   - main_course_name: Nashville Fried Chickern with Cajun Seasoned Fries
     main_course_description: Served with Honey Glazed Corn On The Cob.
+    main_course_price: 16.95
+  - main_course_name: Butcher's Pork & Leek Sausages with Mustard Mash
+    main_course_description: Served with onion gravy, braised red cabbage, roasted cabbage and kale (GF)
     main_course_price: 16.95
   - main_course_name: Dill & Lemon Baked Salmon with Leeks
     main_course_description: Served with dauphinoise potatoes and roasted carrots. (GF)
@@ -27,10 +27,6 @@ mains:
     main_course_description: Root vegetables, lentils, cannellini beans, carrots,
       mushrooms, celery, garlic and onions topped with sliced potato (GF, Vegan)
     main_course_price: 15.95
-  - main_course_name: 10oz Ribeye Steak with Hand Cut Chips
-    main_course_description: Served with beef tomato, field mushroom, onion rings
-      and your choice of blue cheese or peppercorn sauce. (GF)
-    main_course_price: 22.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a
       selection of our House Curries. Served with rice and our House Naan Bread.

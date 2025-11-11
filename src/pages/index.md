@@ -1,6 +1,9 @@
 ---
 title: Home
 sections:
+  - type: section_special_message
+    title: Christmas 2025
+    body: C﻿hristmas 2025
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion
@@ -34,9 +37,6 @@ sections:
         author: Call Us On 01728 830185
         image: /images/4-1600x725.jpg
         url: /
-  - type: section_special_message
-    title: Christmas 2025
-    body: C﻿hristmas 2025
   - type: section_live_ale_list
     title: Live Ale List
   - type: section_services

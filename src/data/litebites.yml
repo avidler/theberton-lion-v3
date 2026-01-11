@@ -1,4 +1,7 @@
 lite_bites:
+  - lite_bite_name: OUR REGULAR MENU IS REPLACED IN DECEMBER BY OUR FESTIVE MENU
+    lite_bite_description: Please see home page for details.  This menu will return in January.
+    lite_bite_price: 0
   - lite_bite_name: Lamb Albondigas
     lite_bite_description: With patatas fritas
     lite_bite_price: 8.95

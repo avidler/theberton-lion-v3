@@ -1,19 +1,9 @@
 lite_bites:
-  - lite_bite_name: OUR REGULAR MENU IS REPLACED IN DECEMBER BY OUR FESTIVE MENU
-    lite_bite_description: Please see home page for details.  This menu will return in January.
-    lite_bite_price: 0
-  - lite_bite_name: Lamb Albondigas
-    lite_bite_description: With patatas fritas
-    lite_bite_price: 8.95
-  - lite_bite_name: Spanish Ham Croquettes
-    lite_bite_description: With chilli jam
-    lite_bite_price: 7.95
-  - lite_bite_name: Smoked Mackerel Pate
-    lite_bite_description: With griddled toast (GF)
-    lite_bite_price: 7.95
-  - lite_bite_name: Tomato & Garlic Bruschetta
-    lite_bite_description: With salad garnish (GF, Vegan)
-    lite_bite_price: 7.95
-  - lite_bite_name: Fried Whitebait
-    lite_bite_description: With parsley & lemon mayonnaise (GF)
-    lite_bite_price: 7.95
+  - lite_bite_name: Hand Cut Chunky Chips
+    lite_bite_description: ""
+    lite_bite_price: 4
+  - lite_bite_name: House Garlic Bread
+    lite_bite_description: ""
+    lite_bite_price: 4
+  - lite_bite_name: House Onion Rings
+    lite_bite_price: 4

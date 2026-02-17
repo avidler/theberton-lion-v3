@@ -33,12 +33,12 @@ sections:
         author: Booking.com Award Winner 2026
         image: /images/lion-outside-night-time-with-lights.jpg
         url: /accommodation
-      - text: CAMRA Good Beer Guide 2018 - 2026
-        author: Check Our Live Lists
+      - text: Check Our Live Drinks Lists
+        author: CAMRA Good Beer Guide 2018 - 2026
         image: /images/lion-bar-2026.jpg
         url: /
-      - text: Take Something Home
-        author: Or Order Your Takeaway Online
+      - text: Order Your Takeaway Online
+        author: Take Something Home
         image: /images/bar-with-takeout-bottles.jpg
       - text: A Community Hub & Destination Pub
         author: Check Out Our Upcoming Events

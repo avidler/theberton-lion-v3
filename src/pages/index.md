@@ -31,11 +31,11 @@ sections:
         url: /food
       - text: Quality  -  Authenticity  -  Independence
         author: Book Accommodation Online
-        image: /images/3-1600x725.jpg
+        image: /images/lion-outside-night-time-with-lights.jpg
         url: /accommodation
       - text: Quality  -  Authenticity  -  Independence
         author: Call Us On 01728 830185
-        image: /images/4-1600x725.jpg
+        image: /images/lion-bar-2026.jpg
         url: /
   - type: section_live_ale_list
     title: Live Ale List

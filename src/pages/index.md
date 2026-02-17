@@ -21,8 +21,8 @@ sections:
   - type: section_quotes
     section_id: quote_section
     quote:
-      - text: Quality  -  Authenticity - Independence - Choice
-        author: The Theberton Lion Freehouse
+      - text: The Theberton Lion Freehouse
+        author: Quality  -  Authenticity - Independence - Choice
         image: /images/lion-outside-pic-summer.jpg
         url: /food
       - text: Enjoy Our Award Winning Menu

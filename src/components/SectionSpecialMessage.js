@@ -12,6 +12,8 @@ export default class SectionSpecialMessage extends React.Component {
             "Sunday 12.00pm - 6.00pm :: Food 12.00pm - 5.00pm"]
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
+        <img src="images/stgeorge.jpg" alt="St George's Day Pie Festival!" />
+       
         </section>
     )
 }

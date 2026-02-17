@@ -27,7 +27,7 @@ sections:
         url: /food
       - text: Quality  -  Authenticity  -  Independence
         author: Book a Table Online
-        image: /images/2-1600x725.jpg
+        image: /images/back-garden.jpg
         url: /food
       - text: Quality  -  Authenticity  -  Independence
         author: Book Accommodation Online
@@ -37,6 +37,9 @@ sections:
         author: Call Us On 01728 830185
         image: /images/lion-bar-2026.jpg
         url: /
+      - text: Quality  -  Authenticity  -  Independence
+        author: Check Our Live Beer & Cider List
+        image: /images/bar-with-takeout-bottles.jpg
   - type: section_live_ale_list
     title: Live Ale List
   - type: section_services

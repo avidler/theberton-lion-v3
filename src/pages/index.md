@@ -27,7 +27,7 @@ sections:
         url: /food
       - text: Enjoy Our Award Winning Menu
         author: Book a Table Online
-        image: /images/food-image.jpg
+        image: /images/food-bigger.jpg
         url: /food
       - text: Book Accommodation Online
         author: Booking.com Award Winner 2026

@@ -23,7 +23,7 @@ sections:
     quote:
       - text: Quality  -  Authenticity  -  Independence
         author: Order Takeaway & Delivery Online
-        image: /images/lion-outside-morris-dancers.jpg
+        image: /images/lion-outside-pic-summer.jpg
         url: /food
       - text: Quality  -  Authenticity  -  Independence
         author: Book a Table Online

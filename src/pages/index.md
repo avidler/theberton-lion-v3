@@ -24,7 +24,7 @@ sections:
       - text: The Theberton Lion Freehouse
         author: Quality  -  Authenticity - Independence - Choice
         image: /images/lion-outside-pic-summer.jpg
-        url: /food
+        url: /
       - text: Enjoy Our Award Winning Menu
         author: Book a Table Online
         image: /images/food-bigger.jpg
@@ -36,12 +36,14 @@ sections:
       - text: Check Our Live Drinks Lists
         author: CAMRA Good Beer Guide 2018 - 2026
         image: /images/lion-bar-2026.jpg
-        url: /
+        url: /drinks
       - text: Order Your Takeaway Online
         author: Take Something Home
         image: /images/bar-with-takeout-bottles.jpg
+        url: /drinks
       - text: A Community Hub & Destination Pub
         author: Check Out Our Upcoming Events
+        url: /drinks
         image: /images/events-all-together-slide.jpg
       - text: Outside Drinking & Dining
         image: /images/back-garden.jpg

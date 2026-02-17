@@ -21,25 +21,31 @@ sections:
   - type: section_quotes
     section_id: quote_section
     quote:
-      - text: Quality  -  Authenticity  -  Independence
-        author: Order Takeaway & Delivery Online
+      - text: Quality  -  Authenticity
+        author: Independence - Choice
         image: /images/lion-outside-pic-summer.jpg
         url: /food
-      - text: Quality  -  Authenticity  -  Independence
+      - text: Enjoy Our Award Winning Menu
         author: Book a Table Online
-        image: /images/back-garden.jpg
+        image: /images/food-image.jpg
         url: /food
-      - text: Quality  -  Authenticity  -  Independence
-        author: Book Accommodation Online
+      - text: Book Accommodation Online
+        author: Booking.com Award Winner 2026
         image: /images/lion-outside-night-time-with-lights.jpg
         url: /accommodation
-      - text: Quality  -  Authenticity  -  Independence
-        author: Call Us On 01728 830185
+      - text: CAMRA Good Beer Guide 2018 - 2026
+        author: Check Our Live Lists
         image: /images/lion-bar-2026.jpg
         url: /
-      - text: Quality  -  Authenticity  -  Independence
-        author: Check Our Live Beer & Cider List
+      - text: Take Something Home
+        author: Or Order Your Takeaway Online
         image: /images/bar-with-takeout-bottles.jpg
+      - text: A Community Hub & Destination Pub
+        author: Check Out Our Upcoming Events
+        image: /images/events-all-together-slide.jpg
+      - text: Outside Drinking & Dining
+        image: /images/back-garden.jpg
+        author: Enjoy A Pint In Our Beer Garden
   - type: section_live_ale_list
     title: Live Ale List
   - type: section_services

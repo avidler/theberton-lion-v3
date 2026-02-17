@@ -2,9 +2,6 @@ mains:
   - main_course_name: Pork, Pear & Sherry Casserole with Parmesan Dumplings
     main_course_description: Served with seasonal vegetables
     main_course_price: 17.95
-  - main_course_name: "Chef's Beef, Beer & Bacon Bolognaise "
-    main_course_description: Our house spaghetti bolognaise served with garlic bread
-    main_course_price: 16.95
   - main_course_name: Nashville Fried Chickern with Cajun Seasoned Fries
     main_course_description: Served with Honey Glazed Corn On The Cob.
     main_course_price: 16.95
@@ -14,9 +11,6 @@ mains:
   - main_course_name: Dill & Lemon Baked Salmon with Leeks
     main_course_description: Served with dauphinoise potatoes and roasted carrots. (GF)
     main_course_price: 16.95
-  - main_course_name: Sweet Potato & Chickpea Jambalaya with Corn Bread
-    main_course_description: (GF, Vegan)
-    main_course_price: 15.95
   - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
     main_course_description: Served with Garden peas and house tartare sauce (GF)
     main_course_price: 15.95

@@ -11,7 +11,7 @@ snack_list:
     snack_brand_name: Burts Crisps
     snack_brand_Variety:
       - snack_brand_variety_name: Salted
-        snack_brand_variety_price: 0.3
+        snack_brand_variety_price: 1.3
       - snack_brand_variety_name: Cheese & Onion
         snack_brand_variety_price: 1.3
       - snack_brand_variety_name: Salt & Vinegar

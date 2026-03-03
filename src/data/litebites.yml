@@ -1,4 +1,22 @@
 lite_bites:
+  - lite_bite_name: Chef's Bloody Mary Crumpet
+    lite_bite_description: House made crumpet with prawns, smoked salmon and Bloody Mary sauce.
+    lite_bite_price: 9.5
+  - lite_bite_name: Beef Empanadas
+    lite_bite_description: with a nacho cheese dip
+    lite_bite_price: 8.95
+  - lite_bite_name: Crispy Buffalo Fried Cauliflower
+    lite_bite_description: with ranch dip
+    lite_bite_price: 7.95
+  - lite_bite_name: Chicken Teriyaki Skewers
+    lite_bite_description: with salad garnish
+    lite_bite_price: 8.95
+  - lite_bite_name: Spanakopita Spring Rolls
+    lite_bite_description: with olive tapenade and tzatziki dip
+    lite_bite_price: 7.95
+  - lite_bite_name: Courgette & Sweetcorn Fritters
+    lite_bite_description: with herb sour cream
+    lite_bite_price: 7.95
   - lite_bite_name: Hand Cut Chunky Chips
     lite_bite_description: ""
     lite_bite_price: 4

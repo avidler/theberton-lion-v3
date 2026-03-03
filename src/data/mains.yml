@@ -1,26 +1,26 @@
 mains:
-  - main_course_name: Pork, Pear & Sherry Casserole with Parmesan Dumplings
-    main_course_description: Served with seasonal vegetables
-    main_course_price: 17.95
-  - main_course_name: Nashville Fried Chickern with Cajun Seasoned Fries
-    main_course_description: Served with Honey Glazed Corn On The Cob.
+  - main_course_name: Jamaican Jerk Chicken
+    main_course_description: With chargrilled long stem broccoli and Caribbean rice
     main_course_price: 16.95
-  - main_course_name: Butcher's Pork & Leek Sausages with Mustard Mash
-    main_course_description: Served with onion gravy, braised red cabbage, roasted cabbage and kale (GF)
+  - main_course_name: Fennel Roasted Pork Tenderloin with Sweet Onions
+    main_course_description: "Served with roasted new potatoes, carrots and kale "
     main_course_price: 16.95
-  - main_course_name: Dill & Lemon Baked Salmon with Leeks
-    main_course_description: Served with dauphinoise potatoes and roasted carrots. (GF)
+  - main_course_name: Broad Bean, Chive & Chorizo Carbonara
+    main_course_description: Served with house garlic bread
+    main_course_price: 16.95
+  - main_course_name: Chef's Toad In The Hole with Mustard Mash
+    main_course_description: Served with seasonal vegetables and gravy
+    main_course_price: 16.95
+  - main_course_name: House-made Gourmet Beef Burger
+    main_course_description: With bacon & blue cheese or cheddar, coleslaw, house
+      onion rings and garden peas
     main_course_price: 16.95
   - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
     main_course_description: Served with Garden peas and house tartare sauce (GF)
-    main_course_price: 15.95
+    main_course_price: 16.95
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
-  - main_course_name: Vegetable Patch Hot Pot
-    main_course_description: Root vegetables, lentils, cannellini beans, carrots,
-      mushrooms, celery, garlic and onions topped with sliced potato (GF, Vegan)
-    main_course_price: 15.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a
       selection of our House Curries. Served with rice and our House Naan Bread.
@@ -51,10 +51,6 @@ mains:
     main_course_price: 13.5
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: Garlic Bread Pizza
-    main_course_description: ""
-    main_course_price: 11
-    main_course_wheat_free: false
   - main_course_name: American Hot Pizza
     main_course_description: Our own house-made base with rich house tomato sauce,
       mozzarella & cheddar cheese, pepperoni, black olives and jalapenos.

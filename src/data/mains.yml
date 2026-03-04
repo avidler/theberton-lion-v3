@@ -1,25 +1,25 @@
 mains:
   - main_course_name: Jamaican Jerk Chicken
-    main_course_description: With chargrilled long stem broccoli and Caribbean rice
+    main_course_description: With chargrilled long stem broccoli and Caribbean rice (GF)
     main_course_price: 16.95
   - main_course_name: Fennel Roasted Pork Tenderloin with Sweet Onions
-    main_course_description: "Served with roasted new potatoes, carrots and kale "
+    main_course_description: Served with roasted new potatoes, carrots and kale (GF)
     main_course_price: 16.95
   - main_course_name: Broad Bean, Chive & Chorizo Carbonara
     main_course_description: Served with house garlic bread
     main_course_price: 16.95
   - main_course_name: Curry Roasted Halibut
-    main_course_description: With asparagus, sugar snap peas and rice
+    main_course_description: With asparagus, sugar snap peas and rice (GF)
     main_course_price: 17.95
   - main_course_name: Chef's Toad In The Hole with Mustard Mash
     main_course_description: Served with seasonal vegetables and gravy
     main_course_price: 16.95
   - main_course_name: Chef's Vegetable & Bean Chilli
-    main_course_description: Served with rice and garlic bread
+    main_course_description: Served with rice and garlic bread (GF, Vegan)
     main_course_price: 15.95
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: With bacon & blue cheese or cheddar, coleslaw, house
-      onion rings and garden peas
+      onion rings and hand cut chips (GF)
     main_course_price: 16.95
   - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
     main_course_description: Served with Garden peas and house tartare sauce (GF)
@@ -30,9 +30,9 @@ mains:
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a
       selection of our House Curries. Served with rice and our House Naan Bread.
-      Please call for this week's selection.  A limited number of other dishes
-      are available on Tuesday evenings.
-    main_course_price: 15.95
+      Please call for this week's selection.  Please note, our usual menu is NOT
+      available on Tuesdays.
+    main_course_price: 16.95
     main_course_wheat_free: true
   - main_course_name: STEAK SATURDAY - 1st Saturday of The Month
     main_course_description: Join us for one selected Saturday a month March -
@@ -57,7 +57,7 @@ mains:
     main_course_price: 13.5
     main_course_wheat_free: false
     main_course_vegetarian: false
-  - main_course_name: American Hot Pizza
+  - main_course_name: Margherita
     main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella & cheddar cheese, pepperoni, black olives and jalapenos.
-    main_course_price: 13.5
+      mozzarella & cheddar cheese
+    main_course_price: 11

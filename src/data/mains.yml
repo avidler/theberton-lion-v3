@@ -8,6 +8,9 @@ mains:
   - main_course_name: Broad Bean, Chive & Chorizo Carbonara
     main_course_description: Served with house garlic bread
     main_course_price: 16.95
+  - main_course_name: Curry Roasted Halibut
+    main_course_description: With asparagus, sugar snap peas and rice
+    main_course_price: 17.95
   - main_course_name: Chef's Toad In The Hole with Mustard Mash
     main_course_description: Served with seasonal vegetables and gravy
     main_course_price: 16.95
@@ -55,3 +58,6 @@ mains:
     main_course_description: Our own house-made base with rich house tomato sauce,
       mozzarella & cheddar cheese, pepperoni, black olives and jalapenos.
     main_course_price: 13.5
+  - main_course_name: Chef's Vegetable & Bean Chilli
+    main_course_description: Served with rice and garlic bread
+    main_course_price: 15.95

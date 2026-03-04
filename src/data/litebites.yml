@@ -6,16 +6,16 @@ lite_bites:
     lite_bite_description: with a nacho cheese dip
     lite_bite_price: 8.95
   - lite_bite_name: Crispy Buffalo Fried Cauliflower
-    lite_bite_description: with ranch dip
+    lite_bite_description: with ranch dip (GF, Vegan)
     lite_bite_price: 7.95
   - lite_bite_name: Chicken Teriyaki Skewers
-    lite_bite_description: with salad garnish
+    lite_bite_description: with salad garnish (GF)
     lite_bite_price: 8.95
   - lite_bite_name: Spanakopita Spring Rolls
-    lite_bite_description: with olive tapenade and tzatziki dip
+    lite_bite_description: with olive tapenade and tzatziki dip (V)
     lite_bite_price: 7.95
   - lite_bite_name: Courgette & Sweetcorn Fritters
-    lite_bite_description: with herb sour cream
+    lite_bite_description: with herb sour cream (GF, V)
     lite_bite_price: 7.95
   - lite_bite_name: Hand Cut Chunky Chips
     lite_bite_description: ""

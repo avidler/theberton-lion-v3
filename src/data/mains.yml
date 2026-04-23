@@ -1,30 +1,21 @@
 mains:
-  - main_course_name: Jamaican Jerk Chicken
-    main_course_description: With chargrilled long stem broccoli and Caribbean rice (GF)
-    main_course_price: 16.95
-  - main_course_name: Fennel Roasted Pork Tenderloin with Sweet Onions
-    main_course_description: Served with roasted new potatoes, carrots and kale (GF)
-    main_course_price: 16.95
-  - main_course_name: Broad Bean, Chive & Chorizo Carbonara
-    main_course_description: Served with house garlic bread
-    main_course_price: 16.95
-  - main_course_name: Curry Roasted Halibut
-    main_course_description: With asparagus, sugar snap peas and rice (GF)
+  - main_course_name: Steak & Ale Pie
+    main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
-  - main_course_name: Chef's Toad In The Hole with Mustard Mash
-    main_course_description: Served with seasonal vegetables and gravy
-    main_course_price: 16.95
-  - main_course_name: Chef's Vegetable & Bean Chilli
-    main_course_description: Served with rice and garlic bread (GF, Vegan)
-    main_course_price: 15.95
-  - main_course_name: House-made Gourmet Beef Burger
-    main_course_description: With bacon & blue cheese or cheddar, coleslaw, house
-      onion rings and hand cut chips (GF)
-    main_course_price: 16.95
-  - main_course_name: Beer Battered Cod Fillet & Hand Cut Chips
-    main_course_description: Served with Garden peas and house tartare sauce (GF)
-    main_course_price: 16.95
-  - main_course_name: The Lion's Legendary Steak & Ale Pie
+  - main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
+    main_course_name: Chicken, Mushroom and Bacon Pie
+    main_course_price: 17.95
+  - main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
+    main_course_name: Lamb & Mint Pie
+    main_course_price: 17.95
+  - main_course_name: Venison Pie
+    main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
+    main_course_price: 17.95
+  - main_course_name: Mediterranean Vegetable Pie
+    main_course_description: With either hand cut chips or mashed potatoes, seasonal
+      vegetables & marinara sauce
+    main_course_price: 17.95
+  - main_course_name: Ham, Leek and Potato Pie
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 17.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT

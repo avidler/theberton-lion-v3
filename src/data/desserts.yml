@@ -1,16 +1,10 @@
 desserts:
-  - dessert_name: Pistachio, Lemon and Raspberry Friands
-    dessert_description: With pouring cream (GF, V)
+  - dessert_name: Rhubarb Pie
+    dessert_description: With Custard
     dessert_price: 8.95
-    dessert_vegetarian: true
-    dessert_wheat_free: false
-  - dessert_name: Pineapple Upside Down Cake
-    dessert_description: Served with raspberry sorbet (Vegan)
+  - dessert_name: Apple Pie
+    dessert_description: With Custard
     dessert_price: 8.95
-    dessert_wheat_free: false
-    dessert_vegetarian: true
-  - dessert_name: Golden Syrup Steamed Pudding
-    dessert_description: With custard
-    dessert_price: 8.95
-  - dessert_name: Mango & Coconut Custard Tart (V)
+  - dessert_name: Key Lime Pie
+    dessert_description: With Whipped Cream
     dessert_price: 8.95

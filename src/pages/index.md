@@ -33,7 +33,7 @@ sections:
         author: Booking.com Award Winner 2026
         image: /images/lion-outside-night-time-with-lights.jpg
         url: /accommodation
-      - text: Check Our Live Drinks Lists
+      - text: CAMRA Cider Pub of The Year 2026 - Suffolk
         author: CAMRA Good Beer Guide 2018 - 2026
         image: /images/lion-bar-2026.jpg
         url: /drinks

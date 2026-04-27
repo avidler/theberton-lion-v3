@@ -7,12 +7,12 @@ sections:
   - type: section_welcome
     section_id: welcome_section
     title: Welcome to the Theberton Lion
-    content1: SUFFOLK CAMRA CIDER PUB OF THE YEAR 2026.  CAMRA RURAL PUB OF THE YEAR
-      2024 IPSWICH & EAST SUFFOLK.  Dating from the early 19th century, The
-      Theberton Lion is a Grade II listed, family owned and operated pub at the
-      centre of the tranquil Suffolk village of Theberton. With an emphasis on
-      local drinks and produce, The Theberton Lion operates on the four founding
-      principles of quality, independence, authenticity and choice.
+    content1: CAMRA CIDER PUB OF THE YEAR 2026 - SUFFOLK.  CAMRA RURAL PUB OF THE
+      YEAR 2024 - IPSWICH & EAST SUFFOLK. Dating from the early 19th century,
+      The Theberton Lion is a Grade II listed, family owned and operated pub at
+      the centre of the tranquil Suffolk village of Theberton. With an emphasis
+      on local drinks and produce, The Theberton Lion operates on the four
+      founding principles of quality, independence, authenticity and choice.
     content2: Offering a wide range of hand-picked beverages and real ales alongside
       traditional, freshly made meals, The Theberton Lion also boasts award
       winning visitor accommodation allowing it to serve locals and visitors to

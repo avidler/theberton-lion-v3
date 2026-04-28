@@ -1,10 +1,13 @@
 desserts:
-  - dessert_name: Rhubarb Pie
-    dessert_description: With Custard
+  - dessert_name: Pistachio, Lemon and Raspberry Friands
+    dessert_description: With pouring cream
     dessert_price: 8.95
-  - dessert_name: Apple Pie
-    dessert_description: With Custard
+  - dessert_name: Pineapple Upside Down Cake
+    dessert_description: With raspberry sorbet
     dessert_price: 8.95
-  - dessert_name: Key Lime Pie
-    dessert_description: With Whipped Cream
+  - dessert_name: Golden Syrup Steam Pudding
+    dessert_description: With custard
+    dessert_price: 8.95
+  - dessert_name: Mango and Coconut Custard Tart
+    dessert_description: ""
     dessert_price: 8.95

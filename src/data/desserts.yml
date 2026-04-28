@@ -9,5 +9,5 @@ desserts:
     dessert_description: With custard
     dessert_price: 8.95
   - dessert_name: Mango and Coconut Custard Tart
-    dessert_description: ""
+    dessert_description: With vanilla ice cream.
     dessert_price: 8.95

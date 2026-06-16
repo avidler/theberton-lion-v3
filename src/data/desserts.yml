@@ -1,13 +1,13 @@
 desserts:
-  - dessert_name: Pistachio, Lemon and Raspberry Friands
-    dessert_description: With pouring cream
+  - dessert_name: Gooseberry Fool
+    dessert_description: With shortbread crumb (V)
     dessert_price: 8.95
-  - dessert_name: Pineapple Upside Down Cake
-    dessert_description: With raspberry sorbet
+  - dessert_name: Key Lime Pie
+    dessert_description: With quenelle of cream (V)
     dessert_price: 8.95
-  - dessert_name: Golden Syrup Steam Pudding
-    dessert_description: With custard
+  - dessert_name: Chef's Chocolate Brownie
+    dessert_description: With orange sorbet (Vegan)
     dessert_price: 8.95
-  - dessert_name: Mango and Coconut Custard Tart
-    dessert_description: With vanilla ice cream.
+  - dessert_name: Cherry & Ricotta Cake
+    dessert_description: With rose water Chantilly cream (GF, V)
     dessert_price: 8.95

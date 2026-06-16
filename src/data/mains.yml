@@ -4,25 +4,25 @@ mains:
     main_course_price: 18.95
     main_course_wheat_free: false
   - main_course_description: with bacon, anchovies, cos lettuce, red onion, cherry
-      tomatoes, croutons & parmesan
+      tomatoes, croutons & parmesan (GF)
     main_course_name: Chicken Caesar Salad
     main_course_price: 16.95
-  - main_course_description: Served with stir fried mange tout and red pepper
+  - main_course_description: Served with stir fried mange tout and red pepper (GF)
     main_course_name: Pan Seared Lamb Steak with Rosemary Chips
     main_course_price: 18.95
   - main_course_name: Hawaiian Huli Huli Chicken
-    main_course_description: Served with coconut rice and grilled peach salad
+    main_course_description: Served with coconut rice and grilled peach salad (GF)
     main_course_price: 18.95
   - main_course_name: Chef's Spicy Bean Burger
     main_course_description: Served in a flatbread with chilli jam alongside
-      coleslaw, onion rings and chips
+      coleslaw, onion rings and chips (Vegan)
     main_course_price: 16.95
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: With bacon and blue cheese or cheddar, coleslaw, house
       onion rings and hand cut chips
     main_course_price: 17.95
   - main_course_name: Miso Salmon with Ginger Noodles
-    main_course_description: With stir fried vegetables
+    main_course_description: With stir fried vegetables (GF)
     main_course_price: 18.95
   - main_course_name: Pork Schnitzel with Garlic Linguine
     main_course_description: ""

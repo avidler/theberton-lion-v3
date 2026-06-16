@@ -1,38 +1,41 @@
 mains:
   - main_course_name: The Lion's Legendary Steak & Ale Pie
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
-    main_course_price: 17.95
-  - main_course_description: Served with roasted new potatoes, carrots and kale
-    main_course_name: Fennel Roasted Pork Tenderloin with Sweet Onions
+    main_course_price: 18.95
+    main_course_wheat_free: false
+  - main_course_description: with bacon, anchovies, cos lettuce, red onion, cherry
+      tomatoes, croutons & parmesan
+    main_course_name: Chicken Caesar Salad
     main_course_price: 16.95
-  - main_course_description: Served with seasonal vegetables and gravy.
-    main_course_name: Chef's Toad In The Hole with Mustard Mash
-    main_course_price: 16.95
-  - main_course_name: Jamaican Jerk Chicken
-    main_course_description: With chargrilled long stem broccoli and Caribbean rice
-    main_course_price: 16.95
-  - main_course_name: Broad Bean, Chive and Chorizo Carbonara
-    main_course_description: Served with house garlic bread.
+  - main_course_description: Served with stir fried mange tout and red pepper
+    main_course_name: Pan Seared Lamb Steak with Rosemary Chips
+    main_course_price: 18.95
+  - main_course_name: Hawaiian Huli Huli Chicken
+    main_course_description: Served with coconut rice and grilled peach salad
+    main_course_price: 18.95
+  - main_course_name: Chef's Spicy Bean Burger
+    main_course_description: Served in a flatbread with chilli jam alongside
+      coleslaw, onion rings and chips
     main_course_price: 16.95
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: With bacon and blue cheese or cheddar, coleslaw, house
       onion rings and hand cut chips
-    main_course_price: 16.95
-  - main_course_name: Curry Roasted Halibut
-    main_course_description: With asparagus, sugar snap peas and rice.
     main_course_price: 17.95
-  - main_course_name: Chef's Vegetable and Bean Chilli
-    main_course_description: Served with rice and house garlic bread
-    main_course_price: 15.95
-  - main_course_name: Beer Battered Cod Fillet and Chips
+  - main_course_name: Miso Salmon with Ginger Noodles
+    main_course_description: With stir fried vegetables
+    main_course_price: 18.95
+  - main_course_name: Pork Schnitzel with Garlic Linguine
+    main_course_description: ""
+    main_course_price: 17.95
+  - main_course_name: Beer Battered Haddock Fillet and Chips
     main_course_description: Served with house tartare sauce and garden peas.
-    main_course_price: 16.95
+    main_course_price: 17.95
   - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
     main_course_description: Join us on Tuesday evenings, March - November, for a
       selection of our House Curries. Served with rice and our House Naan Bread.
       Please call for this week's selection.  Please note, our usual menu is NOT
       available on Tuesdays.
-    main_course_price: 16.95
+    main_course_price: 17.95
     main_course_wheat_free: true
   - main_course_name: STEAK SATURDAY - 1st Saturday of The Month
     main_course_description: Join us for one selected Saturday a month March -

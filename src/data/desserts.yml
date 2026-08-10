@@ -1,10 +1,13 @@
 desserts:
-  - dessert_name: Rhubarb Pie
-    dessert_description: With Custard
-    dessert_price: 8.95
-  - dessert_name: Apple Pie
-    dessert_description: With Custard
+  - dessert_name: Gooseberry Fool
+    dessert_description: With shortbread crumb (V)
     dessert_price: 8.95
   - dessert_name: Key Lime Pie
-    dessert_description: With Whipped Cream
+    dessert_description: With quenelle of cream (V)
+    dessert_price: 8.95
+  - dessert_name: Chef's Chocolate Brownie
+    dessert_description: With orange sorbet (Vegan)
+    dessert_price: 8.95
+  - dessert_name: Cherry & Ricotta Cake
+    dessert_description: With rose water Chantilly cream (GF, V)
     dessert_price: 8.95

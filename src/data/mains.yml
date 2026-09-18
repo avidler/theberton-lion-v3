@@ -19,7 +19,7 @@ mains:
     main_course_price: 16.95
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: With bacon and blue cheese or cheddar, coleslaw, house
-      onion rings and hand cut chips
+      onion rings and hand cut chips (GF)
     main_course_price: 17.95
   - main_course_name: Miso Salmon with Ginger Noodles
     main_course_description: With stir fried vegetables (GF)
@@ -28,15 +28,8 @@ mains:
     main_course_description: ""
     main_course_price: 17.95
   - main_course_name: Beer Battered Haddock Fillet and Chips
-    main_course_description: Served with house tartare sauce and garden peas.
+    main_course_description: Served with house tartare sauce and garden peas. (GF)
     main_course_price: 17.95
-  - main_course_name: TUESDAY NIGHT IS CURRY NIGHT
-    main_course_description: Join us on Tuesday evenings, March - November, for a
-      selection of our House Curries. Served with rice and our House Naan Bread.
-      Please call for this week's selection.  Please note, our usual menu is NOT
-      available on Tuesdays.
-    main_course_price: 17.95
-    main_course_wheat_free: true
   - main_course_name: STEAK SATURDAY - 1st Saturday of The Month
     main_course_description: Join us for one selected Saturday a month March -
       November for our Steak Specials. Please call us for more details and

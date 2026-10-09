@@ -3,30 +3,29 @@ mains:
     main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
     main_course_price: 18.95
     main_course_wheat_free: false
-  - main_course_description: with bacon, anchovies, cos lettuce, red onion, cherry
-      tomatoes, croutons & parmesan (GF)
-    main_course_name: Chicken Caesar Salad
-    main_course_price: 16.95
-  - main_course_description: Served with stir fried mange tout and red pepper (GF)
-    main_course_name: Pan Seared Lamb Steak with Rosemary Chips
+  - main_course_description: with parmesan mashed potatoes & seasonal vegetables (GF)
+    main_course_name: Balsamic Honey Glazed Pork Medalions
+    main_course_price: 17.95
+  - main_course_description: Served with house garlic bread and Mediterranean salad
+    main_course_name: Chef's Beef Lasagne
+    main_course_price: 17.95
+  - main_course_name: Garlic and Parsley Chicken Breast with Hasselback Potatoes
+    main_course_description: Served with charred corn, tender stem broccoli and
+      roasted cherry tomatoes (GF)
+    main_course_price: 17.95
+  - main_course_name: Lamb Cutlets with Rosemary Gravy
+    main_course_description: Served with Champ Mashed Potato and seasonal vegetables (GF)
     main_course_price: 18.95
-  - main_course_name: Hawaiian Huli Huli Chicken
-    main_course_description: Served with coconut rice and grilled peach salad (GF)
-    main_course_price: 18.95
-  - main_course_name: Chef's Spicy Bean Burger
-    main_course_description: Served in a flatbread with chilli jam alongside
-      coleslaw, onion rings and chips (Vegan)
-    main_course_price: 16.95
   - main_course_name: House-made Gourmet Beef Burger
     main_course_description: With bacon and blue cheese or cheddar, coleslaw, house
       onion rings and hand cut chips (GF)
     main_course_price: 17.95
-  - main_course_name: Miso Salmon with Ginger Noodles
-    main_course_description: With stir fried vegetables (GF)
-    main_course_price: 18.95
-  - main_course_name: Pork Schnitzel with Garlic Linguine
-    main_course_description: ""
-    main_course_price: 17.95
+  - main_course_name: Chef's Curry of The Day with Basmati Rice & Poppadom
+    main_course_description: Ask for today's choices. (GF)
+    main_course_price: 16.95
+  - main_course_name: Chef's Gnocchi with Basil Pesto, Sundried Tomatoes and Vegan Feta
+    main_course_description: (Vegan)
+    main_course_price: 16.95
   - main_course_name: Beer Battered Haddock Fillet and Chips
     main_course_description: Served with house tartare sauce and garden peas. (GF)
     main_course_price: 17.95

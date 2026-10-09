@@ -1,13 +1,13 @@
 desserts:
-  - dessert_name: Gooseberry Fool
-    dessert_description: With shortbread crumb (V)
+  - dessert_name: Chef's Sticky Toffee Pudding
+    dessert_description: With toffee sauce an vanilla ice cream (V)
     dessert_price: 8.95
-  - dessert_name: Key Lime Pie
-    dessert_description: With quenelle of cream (V)
+  - dessert_name: Baked Pear and Cinnamon Crumble
+    dessert_description: With custard (V)
     dessert_price: 8.95
-  - dessert_name: Chef's Chocolate Brownie
-    dessert_description: With orange sorbet (Vegan)
+  - dessert_name: Chef's Meringue with Cream & Raspberry Coulis
+    dessert_description: (V)
     dessert_price: 8.95
-  - dessert_name: Cherry & Ricotta Cake
-    dessert_description: With rose water Chantilly cream (GF, V)
+  - dessert_name: White Chocolate & Pistachio Tart
+    dessert_description: (Vegan)
     dessert_price: 8.95

@@ -1,22 +1,20 @@
 lite_bites:
-  - lite_bite_name: Chef's Bloody Mary Crumpet
-    lite_bite_description: House made crumpet with prawns, smoked salmon and Bloody Mary sauce.
-    lite_bite_price: 9.5
-  - lite_bite_name: Parmesan & Bacon Arancini Bites
-    lite_bite_description: ""
+  - lite_bite_name: Crispy Salt and Pepper Calamari
+    lite_bite_description: With Curry Mayonnaise and Garnish (GF)
     lite_bite_price: 8.95
-  - lite_bite_name: Provencal Stuffed Peppers
-    lite_bite_description: With mozzarella, red onion, tomato (GF, V)
-    lite_bite_price: 7.95
-  - lite_bite_name: Landlady's Mediterranean Quiche
-    lite_bite_description: with salad garnish (V)
-    lite_bite_price: 8.95
-  - lite_bite_name: Sticky Honey Pork Bites
+  - lite_bite_name: Roasted Field Mushroom with Blue Cheese, Walnuts & Breadcrumbs
     lite_bite_description: (GF)
     lite_bite_price: 8.95
-  - lite_bite_name: Carrot & Parsnip Fries
-    lite_bite_description: with maple & thyme dip (GF, Vegan)
-    lite_bite_price: 7.95
+  - lite_bite_name: Chef's Beetroot Hummus
+    lite_bite_description: with toasted sourdough and salad garnish (V)
+    lite_bite_price: 8.95
+  - lite_bite_name: Chicken Satay Skewers
+    lite_bite_description: With satay sauce and Asian salad
+    lite_bite_price: 8.95
+  - lite_bite_name: Hot Honey Halloumi Bites
+    lite_bite_description: Coated in panko, with sesame seeds and parmesan. Served
+      with sweet chilli dip.
+    lite_bite_price: 8.95
   - lite_bite_name: Hand Cut Chunky Chips
     lite_bite_description: ""
     lite_bite_price: 4

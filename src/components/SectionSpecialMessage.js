@@ -13,7 +13,7 @@ export default class SectionSpecialMessage extends React.Component {
     return (
         <section id={_.get(this.props, 'section.section_id')} className={'wrapper alt ' + _.get(this.props, 'section.section_id')}>
        
-       
+       <img src="images/Ciderfest.jpg" alt="Cider and Sausage Festival!" />
         </section>
     )
 }

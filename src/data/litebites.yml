@@ -1,25 +1,14 @@
 lite_bites:
-  - lite_bite_name: Crispy Salt and Pepper Calamari
-    lite_bite_description: With Curry Mayonnaise and Garnish (GF)
-    lite_bite_price: 8.95
-  - lite_bite_name: Roasted Field Mushroom with Blue Cheese, Walnuts & Breadcrumbs
-    lite_bite_description: (GF)
-    lite_bite_price: 8.95
-  - lite_bite_name: Chef's Beetroot Hummus
-    lite_bite_description: with toasted sourdough and salad garnish (V)
-    lite_bite_price: 8.95
-  - lite_bite_name: Chicken Satay Skewers
-    lite_bite_description: With satay sauce and Asian salad
-    lite_bite_price: 8.95
-  - lite_bite_name: Hot Honey Halloumi Bites
-    lite_bite_description: Coated in panko, with sesame seeds and parmesan. Served
-      with sweet chilli dip.
-    lite_bite_price: 8.95
-  - lite_bite_name: Hand Cut Chunky Chips
-    lite_bite_description: ""
-    lite_bite_price: 4
-  - lite_bite_name: House Garlic Bread
-    lite_bite_description: ""
-    lite_bite_price: 4
-  - lite_bite_name: House Onion Rings
-    lite_bite_price: 4
+  - lite_bite_name: The Porter Onion Dog
+    lite_bite_description: Bratwurst sausage, sticky porter braised onions, cheddar
+      with English mustard in a bun. Excellent with a pint!
+    lite_bite_price: 7.5
+  - lite_bite_name: The Dirty Chilli Dog
+    lite_bite_description: Smoked pork frankfurter, chilli beans, melted cheese,
+      spiced gherkin, diced onion and spicy mayo. Messy in exactly the right
+      way!
+    lite_bite_price: 7.5
+  - lite_bite_name: The Full English Dog
+    lite_bite_description: Cumberland sausage, crispy streaky bacon and hash brown
+      crumble in a bun with brown sauce mayo.
+    lite_bite_price: 7.5

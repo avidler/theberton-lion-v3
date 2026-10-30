@@ -1,14 +1,16 @@
 lite_bites:
   - lite_bite_name: The Porter Onion Dog
     lite_bite_description: Bratwurst sausage, sticky porter braised onions, cheddar
-      with English mustard in a bun. Excellent with a pint!
+      with English mustard in a bun. Excellent with a pint! - Part of our 1st
+      SAMHAIN SAUSAGE & CIDER FESTIVAL
     lite_bite_price: 7.5
   - lite_bite_name: The Dirty Chilli Dog
     lite_bite_description: Smoked pork frankfurter, chilli beans, melted cheese,
       spiced gherkin, diced onion and spicy mayo. Messy in exactly the right
-      way!
+      way! - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
     lite_bite_price: 7.5
   - lite_bite_name: The Full English Dog
     lite_bite_description: Cumberland sausage, crispy streaky bacon and hash brown
-      crumble in a bun with brown sauce mayo.
+      crumble in a bun with brown sauce mayo. - Part of our 1st SAMHAIN SAUSAGE
+      & CIDER FESTIVAL
     lite_bite_price: 7.5

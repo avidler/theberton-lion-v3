@@ -1,58 +1,21 @@
 mains:
-  - main_course_name: The Lion's Legendary Steak & Ale Pie
-    main_course_description: With either hand cut chips or mashed potatoes, seasonal vegetables & gravy
-    main_course_price: 18.95
-    main_course_wheat_free: false
-  - main_course_description: with parmesan mashed potatoes & seasonal vegetables (GF)
-    main_course_name: Balsamic Honey Glazed Pork Medalions
-    main_course_price: 17.95
-  - main_course_description: Served with house garlic bread and Mediterranean salad
-    main_course_name: Chef's Beef Lasagne
-    main_course_price: 17.95
-  - main_course_name: Garlic and Parsley Chicken Breast with Hasselback Potatoes
-    main_course_description: Served with charred corn, tender stem broccoli and
-      roasted cherry tomatoes (GF)
-    main_course_price: 17.95
-  - main_course_name: Lamb Cutlets with Rosemary Gravy
-    main_course_description: Served with Champ Mashed Potato and seasonal vegetables (GF)
-    main_course_price: 18.95
-  - main_course_name: House-made Gourmet Beef Burger
-    main_course_description: With bacon and blue cheese or cheddar, coleslaw, house
-      onion rings and hand cut chips (GF)
-    main_course_price: 17.95
-  - main_course_name: Chef's Curry of The Day with Basmati Rice & Poppadom
-    main_course_description: Ask for today's choices. (GF)
-    main_course_price: 16.95
-  - main_course_name: Chef's Gnocchi with Basil Pesto, Sundried Tomatoes and Vegan Feta
-    main_course_description: (Vegan)
-    main_course_price: 16.95
-  - main_course_name: Beer Battered Haddock Fillet and Chips
-    main_course_description: Served with house tartare sauce and garden peas. (GF)
-    main_course_price: 17.95
-  - main_course_name: STEAK SATURDAY - 1st Saturday of The Month
-    main_course_description: Join us for one selected Saturday a month March -
-      November for our Steak Specials. Please call us for more details and
-      dates.
-    main_course_price: 23.95
-    main_course_wheat_free: false
-  - main_course_name: House-made Pepperoni  Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella & cheddar cheese
-    main_course_price: 11
-    main_course_wheat_free: false
-    main_course_vegetarian: false
-  - main_course_name: Vegetarian Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, red onion, sweetcorn, black olives and green
-      peppers
-    main_course_price: 12.5
-  - main_course_name: Chicken Supreme Pizza
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella, cheddar cheese, chicken, green peppers, sweetcorn and mushroom
-    main_course_price: 13.5
-    main_course_wheat_free: false
-    main_course_vegetarian: false
-  - main_course_name: Margherita
-    main_course_description: Our own house-made base with rich house tomato sauce,
-      mozzarella & cheddar cheese
-    main_course_price: 11
+  - main_course_name: Beef & Horseradish Sausages
+    main_course_description: With mustard mash, gravy and onion rings. Served with
+      roasted carrots and parsnips, braised red cabbage and buttered kale. (GF)
+      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
+    main_course_price: 15.95
+  - main_course_description: With root vegetable mash, gravy and onion rings. Served
+      with roasted carrots and parsnips, braised red cabbage and buttered kale.
+      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
+    main_course_price: 15.95
+    main_course_name: Venison Sausage
+  - main_course_description: With apple mash, gravy and onion rings. Served with
+      roasted carrots and parsnips, braised red cabbage and buttered kale. (GF)
+      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
+    main_course_price: 15.95
+    main_course_name: Cumberland Sausages
+  - main_course_description: With parsley mash, gravy and onion rings. Served with
+      roasted carrots and parsnips, braised red cabbage and buttered kale. (GF)
+      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
+    main_course_price: 15.95
+    main_course_name: Vegetarian Sausages

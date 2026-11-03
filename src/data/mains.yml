@@ -32,3 +32,19 @@ mains:
   - main_course_name: Chef's Gnocchi with Basil Pesto, Sundried Tomatoes & Vegan Feta
     main_course_price: 16.95
     main_course_description: (Vegan)
+  - main_course_name: Margherita Pizza
+    main_course_description: Our house made base with rich house tomato sauce,
+      mozzarella and cheddar cheese
+    main_course_price: 11
+  - main_course_description: Our house made base with rich house tomato sauce,
+      mozzarella, cheddar cheese & a generous topping of sliced pepperoni
+    main_course_name: Pepperoni Pizza
+    main_course_price: 13
+  - main_course_name: Chicken Supreme Pizza
+    main_course_description: Our house made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, chicken, green pepper, sweetcorn and mushrooms
+    main_course_price: 13.5
+  - main_course_name: Vegetarian Pizza
+    main_course_description: Our house made base with rich house tomato sauce,
+      mozzarella, cheddar cheese, red onion, sweetcorn & green pepper. (V)
+    main_course_price: 12.5

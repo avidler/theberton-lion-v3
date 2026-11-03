@@ -1,21 +1,34 @@
 mains:
-  - main_course_name: Beef & Horseradish Sausages
-    main_course_description: With mustard mash, gravy and onion rings. Served with
-      roasted carrots and parsnips, braised red cabbage and buttered kale. (GF)
-      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL.
-    main_course_price: 15.95
-  - main_course_description: With root vegetable mash, gravy and onion rings. Served
-      with roasted carrots and parsnips, braised red cabbage and buttered kale.
-      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
-    main_course_price: 15.95
-    main_course_name: Venison Sausage
-  - main_course_description: With apple mash, gravy and onion rings. Served with
-      roasted carrots and parsnips, braised red cabbage and buttered kale. (GF)
-      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
-    main_course_price: 15.95
-    main_course_name: Cumberland Sausages
-  - main_course_description: With parsley mash, gravy and onion rings. Served with
-      roasted carrots and parsnips, braised red cabbage and buttered kale. (GF)
-      - Part of our 1st SAMHAIN SAUSAGE & CIDER FESTIVAL
-    main_course_price: 15.95
-    main_course_name: Vegetarian Sausages
+  - main_course_name: Balsamic Honey Glazed Pork Medallions
+    main_course_description: With parmesan mashed potatoes & seasonal vegetables (GF)
+    main_course_price: 17.95
+  - main_course_description: Served with house garlic bread and Mediterranean salad
+    main_course_price: 17.95
+    main_course_name: Chef's Beef Lasagne
+  - main_course_description: Served with charred corn, tender stem broccoli &
+      roasted cherry tomatoes (GF)
+    main_course_price: 17.95
+    main_course_name: Garlic & Parsley Chicken Breast with Hasselback Potatoes
+  - main_course_description: With champ mashed potatoes and seasonal vegetables (GF)
+    main_course_price: 18.95
+    main_course_name: Lamb Cutlets with Rosemary Gravy
+  - main_course_name: Lemon Sea Bass with Garlic Roasted Fennel
+    main_course_description: Served with sauteed new potatoes and green beans (GF)
+    main_course_price: 18.95
+  - main_course_name: The Lion's Legendary Steak & Ale Pie
+    main_course_description: With either hand cut chunky chips or mashed potatoes,
+      seasonal vegetables and gravy
+    main_course_price: 18.95
+  - main_course_name: Chef's Curry of The Day with Basmati Rice & Poppadom
+    main_course_description: Ask for today's choice.
+    main_course_price: 16.95
+  - main_course_name: House-made Gourmet Beef Burger
+    main_course_description: With bacon & either blue cheese or cheddar, coleslaw,
+      onion rings and hand cut chunky chips
+    main_course_price: 17.95
+  - main_course_name: Beer Battered Cod Fillet & Chips
+    main_course_description: Served with house tartare sauce and garden peas
+    main_course_price: 17.95
+  - main_course_name: Chef's Gnocchi with Basil Pesto, Sundried Tomatoes & Vegan Feta
+    main_course_price: 16.95
+    main_course_description: (Vegan)

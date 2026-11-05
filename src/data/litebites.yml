@@ -11,3 +11,6 @@ lite_bites:
   - lite_bite_name: Hot Honey Halloumi Bites
     lite_bite_description: Coated in panko, with sesame seeds & sweet chilli dip
     lite_bite_price: 8.95
+  - lite_bite_name: Chicken Satay Skewers with Satay Sauce
+    lite_bite_description: Served with Asian salad
+    lite_bite_price: 8.95
